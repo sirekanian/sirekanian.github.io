@@ -2,7 +2,7 @@
 
 set -e
 
-wget -qO- "https://raw.githubusercontent.com/sirekanian/bribetakers/master/bribetakers.json" \
+wget -qO- "https://raw.githubusercontent.com/sirekanian/list-of-war-enablers/master/list-of-war-enablers.json" \
   > warmongr/data.json
 
 echo "{\"date\":\"$(date -I)\"}" \
