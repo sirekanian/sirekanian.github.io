@@ -2,11 +2,18 @@
 
 set -e
 
-wget -qO- "https://raw.githubusercontent.com/sirekanian/list-of-war-enablers/master/list-of-war-enablers.json" \
-  >warmongr/list-of-war-enablers.json
+if [ $# -ne 0 ]; then
+  wget -qO- "https://raw.githubusercontent.com/sirekanian/list-of-war-enablers/master/list-of-war-enablers.json" \
+    >warmongr/list-of-war-enablers.json
+  wget -qO- "https://raw.githubusercontent.com/sirekanian/list-of-war-enablers/master/input/data.txt" \
+    >warmongr/list-of-war-enablers.txt
+fi
 
-wget -qO- "https://raw.githubusercontent.com/sirekanian/list-of-war-enablers/master/input/data.txt" \
-  >warmongr/list-of-war-enablers.txt
+sh -c 'cd warmongr && ./update.py'
+sh -c 'cd warmongr && ./verify.py'
+sh -c 'cd warmongr && ./index.py'
 
-echo "{\"date\":\"$(date -I)\"}" \
-  >warmongr/meta.json
+if [ $# -ne 0 ]; then
+  echo "{\"date\":\"$(date -I)\"}" \
+    >warmongr/meta.json
+fi

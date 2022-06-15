@@ -1,246 +1,162 @@
 [
   {
     "id": 1,
-    "name": "Election fraud organizers"
+    "name": "Judges, prosecutors, state investigators",
+    "count": 797
   },
   {
     "id": 2,
-    "name": "Heads of the Central Election Commission and local election commissions"
+    "name": "Vice-Governors",
+    "count": 651
   },
   {
     "id": 3,
-    "name": "Members of Parliament and Senate"
+    "name": "Executive branch and presidential administration employees",
+    "count": 475
   },
   {
     "id": 4,
-    "name": "State Duma"
+    "name": "Presidential proxies in elections",
+    "count": 468
   },
   {
     "id": 5,
-    "name": "Key ‘siloviki’ (security forces) figure"
+    "name": "State Duma",
+    "count": 451
   },
   {
     "id": 6,
-    "name": "National Guard of Russia"
+    "name": "Individuals involved in corruption",
+    "count": 412
   },
   {
     "id": 7,
-    "name": "Organizers of political repressions"
+    "name": "ACF investigations subjects",
+    "count": 412
   },
   {
     "id": 8,
-    "name": "Judges, prosecutors, state investigators, etc"
+    "name": "Federal media",
+    "count": 347
   },
   {
     "id": 9,
-    "name": "Key Local Government Officials"
+    "name": "Federal and regional party leaders",
+    "count": 312
   },
   {
     "id": 10,
-    "name": "Vice-Governors"
+    "name": "Educators",
+    "count": 304
   },
   {
     "id": 11,
-    "name": "Prosecutor’s Office"
+    "name": "Regional investigations subjects",
+    "count": 272
   },
   {
     "id": 12,
-    "name": "Propagandists"
+    "name": "Regional press",
+    "count": 245
   },
   {
     "id": 13,
-    "name": "Regional press"
+    "name": "Federation Council",
+    "count": 170
   },
   {
     "id": 14,
-    "name": "Warmongers"
+    "name": "Artists",
+    "count": 159
   },
   {
     "id": 15,
-    "name": "Educators"
+    "name": "Chief editors and management of regional TV channels",
+    "count": 147
   },
   {
     "id": 16,
-    "name": "Senior Federal Officials"
+    "name": "Celebrities, influencers and bloggers",
+    "count": 147
   },
   {
     "id": 17,
-    "name": "Executive branch and presidential administration employees"
+    "name": "Prosecutor’s Office",
+    "count": 108
   },
   {
     "id": 18,
-    "name": "Putin’s Public Supporters"
+    "name": "Ministry of Defense military staff",
+    "count": 101
   },
   {
     "id": 19,
-    "name": "Presidential proxies in elections"
+    "name": "Heads of the Central Election Commission and local election commissions",
+    "count": 100
   },
   {
     "id": 20,
-    "name": "Federation Council"
+    "name": "Investigative Committee of Russia",
+    "count": 97
   },
   {
     "id": 21,
-    "name": "Speakers of the regional legislative assemblies"
+    "name": "Governors",
+    "count": 91
   },
   {
     "id": 22,
-    "name": "Federal media employees"
+    "name": "National Guard of Russia",
+    "count": 90
   },
   {
     "id": 23,
-    "name": "Individuals involved in corruption"
+    "name": "Speakers of the regional legislative assemblies",
+    "count": 85
   },
   {
     "id": 24,
-    "name": "ACF investigations subjects"
+    "name": "Ministry of Internal Affairs",
+    "count": 85
   },
   {
     "id": 25,
-    "name": "Chief editors and management of regional TV channels"
+    "name": "Federal Security Services",
+    "count": 79
   },
   {
     "id": 26,
-    "name": "Federal media"
+    "name": "Heads of public funds",
+    "count": 32
   },
   {
     "id": 27,
-    "name": "War Arrangers"
+    "name": "Ideologists of war",
+    "count": 31
   },
   {
     "id": 28,
-    "name": "Ministry of Defense military staff"
+    "name": "Security council members",
+    "count": 30
   },
   {
     "id": 29,
-    "name": "Region Heads"
+    "name": "Scholars",
+    "count": 22
   },
   {
     "id": 30,
-    "name": "Governors"
+    "name": "Athletes",
+    "count": 21
   },
   {
     "id": 31,
-    "name": "“United Russia” party Functionaries"
+    "name": "Central Bank employees, board members",
+    "count": 19
   },
   {
     "id": 32,
-    "name": "Federal and regional party leaders"
-  },
-  {
-    "id": 33,
-    "name": "Artists"
-  },
-  {
-    "id": 34,
-    "name": "Athletes"
-  },
-  {
-    "id": 35,
-    "name": "Ideologists of war"
-  },
-  {
-    "id": 36,
-    "name": "Top Management of State Owned Companies"
-  },
-  {
-    "id": 37,
-    "name": "Regional investigations subjects"
-  },
-  {
-    "id": 38,
-    "name": "Ministry of Internal Affairs"
-  },
-  {
-    "id": 39,
-    "name": "Scholars"
-  },
-  {
-    "id": 40,
-    "name": "State Bankers"
-  },
-  {
-    "id": 41,
-    "name": "Heads of public funds"
-  },
-  {
-    "id": 42,
-    "name": "Sellout opinion leaders"
-  },
-  {
-    "id": 43,
-    "name": "Celebrities, influencers and bloggers"
-  },
-  {
-    "id": 44,
-    "name": "Federal Security Services"
-  },
-  {
-    "id": 45,
-    "name": "Central Bank employees, board members"
-  },
-  {
-    "id": 46,
-    "name": "Investigative Committee of Russia"
-  },
-  {
-    "id": 47,
-    "name": "United Russia” party Functionaries"
-  },
-  {
-    "id": 48,
-    "name": "Security council members"
-  },
-  {
-    "id": 49,
-    "name": "Public supporters of Putin"
-  },
-  {
-    "id": 50,
-    "name": "United Russia party Functionaries"
-  },
-  {
-    "id": 51,
-    "name": "Presidential proxies in elections."
-  },
-  {
-    "id": 52,
-    "name": "Sellout celebrities"
-  },
-  {
-    "id": 53,
-    "name": "Influencers and bloggers"
-  },
-  {
-    "id": 54,
-    "name": "\"Senior Federal Officials"
-  },
-  {
-    "id": 55,
-    "name": "Executive branch and presidential administration employees\""
-  },
-  {
-    "id": 56,
-    "name": "\"“United Russia” party Functionaries"
-  },
-  {
-    "id": 57,
-    "name": "Federal and regional party leaders\""
-  },
-  {
-    "id": 58,
-    "name": "\"Putin’s Public Supporters"
-  },
-  {
-    "id": 59,
-    "name": "Presidential proxies in elections\""
-  },
-  {
-    "id": 60,
-    "name": "\"Propagandists"
-  },
-  {
-    "id": 61,
-    "name": "Federal media employees\""
+    "name": "Public supporters of Putin",
+    "count": 6
   }
 ]
