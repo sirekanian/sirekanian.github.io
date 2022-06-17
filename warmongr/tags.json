@@ -2,161 +2,193 @@
   {
     "id": 1,
     "name": "Judges, prosecutors, state investigators",
+    "ruName": "Судьи, прокуроры, следователи",
     "count": 797
   },
   {
     "id": 2,
     "name": "Vice-Governors",
+    "ruName": "Вице-губернаторы",
     "count": 651
   },
   {
     "id": 3,
     "name": "Executive branch and presidential administration employees",
+    "ruName": "Сотрудники органов исполнительной власти и администрации президента",
     "count": 475
   },
   {
     "id": 4,
     "name": "Presidential proxies in elections",
+    "ruName": "Доверенные лица президента на выборах",
     "count": 468
   },
   {
     "id": 5,
     "name": "State Duma",
-    "count": 451
+    "ruName": "Государственная Дума",
+    "count": 449
   },
   {
     "id": 6,
-    "name": "Individuals involved in corruption",
-    "count": 412
+    "name": "ACF investigations subjects",
+    "ruName": "Герои расследований ФБК",
+    "count": 427
   },
   {
     "id": 7,
-    "name": "ACF investigations subjects",
-    "count": 412
+    "name": "Managers and their deputies, board members and boards of directors",
+    "ruName": "Руководители и их замы, члены правлений и советов директоров",
+    "count": 410
   },
   {
     "id": 8,
     "name": "Federal media",
-    "count": 347
+    "ruName": "Сотрудники федеральных медиа",
+    "count": 354
   },
   {
     "id": 9,
-    "name": "Federal and regional party leaders",
-    "count": 312
+    "name": "Educators",
+    "ruName": "Деятели образования",
+    "count": 313
   },
   {
     "id": 10,
-    "name": "Educators",
-    "count": 304
+    "name": "Federal and regional party leaders",
+    "ruName": "Руководители правящей партии в центре и регионах",
+    "count": 312
   },
   {
     "id": 11,
     "name": "Regional investigations subjects",
+    "ruName": "Герои региональных расследований",
     "count": 272
   },
   {
     "id": 12,
     "name": "Regional press",
+    "ruName": "Региональная пресса",
     "count": 245
   },
   {
     "id": 13,
     "name": "Federation Council",
+    "ruName": "Совет Федерации",
     "count": 170
   },
   {
     "id": 14,
     "name": "Artists",
+    "ruName": "Деятели культуры",
     "count": 159
   },
   {
     "id": 15,
     "name": "Chief editors and management of regional TV channels",
+    "ruName": "Главные редакторы и руководство региональных телеканалов",
     "count": 147
   },
   {
     "id": 16,
     "name": "Celebrities, influencers and bloggers",
-    "count": 147
+    "ruName": "Звезды и блогеры",
+    "count": 145
   },
   {
     "id": 17,
     "name": "Prosecutor’s Office",
+    "ruName": "Прокуратура",
     "count": 108
   },
   {
     "id": 18,
     "name": "Ministry of Defense military staff",
+    "ruName": "Военные из Министерства обороны",
     "count": 101
   },
   {
     "id": 19,
     "name": "Heads of the Central Election Commission and local election commissions",
+    "ruName": "Руководители ЦИК и местных избиркомов",
     "count": 100
   },
   {
     "id": 20,
     "name": "Investigative Committee of Russia",
+    "ruName": "Следственный комитет",
     "count": 97
   },
   {
     "id": 21,
-    "name": "Governors",
-    "count": 91
+    "name": "National Guard of Russia",
+    "ruName": "Росгвардия",
+    "count": 90
   },
   {
     "id": 22,
-    "name": "National Guard of Russia",
-    "count": 90
+    "name": "Governors",
+    "ruName": "Губернаторы",
+    "count": 89
   },
   {
     "id": 23,
     "name": "Speakers of the regional legislative assemblies",
+    "ruName": "Спикеры региональных Заксобраний",
     "count": 85
   },
   {
     "id": 24,
     "name": "Ministry of Internal Affairs",
+    "ruName": "МВД",
     "count": 85
   },
   {
     "id": 25,
     "name": "Federal Security Services",
+    "ruName": "ФСБ",
     "count": 79
   },
   {
     "id": 26,
     "name": "Heads of public funds",
+    "ruName": "Члены правления и руководители государственных фондов",
     "count": 32
   },
   {
     "id": 27,
     "name": "Ideologists of war",
+    "ruName": "Идеологи войны",
     "count": 31
   },
   {
     "id": 28,
     "name": "Security council members",
+    "ruName": "Члены Совета Безопасности",
     "count": 30
   },
   {
     "id": 29,
     "name": "Scholars",
-    "count": 22
+    "ruName": "Ученые",
+    "count": 23
   },
   {
     "id": 30,
     "name": "Athletes",
+    "ruName": "Спортсмены",
     "count": 21
   },
   {
     "id": 31,
     "name": "Central Bank employees, board members",
+    "ruName": "Сотрудники Центрального банка РФ",
     "count": 19
   },
   {
     "id": 32,
     "name": "Public supporters of Putin",
-    "count": 6
+    "ruName": "Публичные сторонники Путина",
+    "count": 16
   }
 ]

@@ -235,7 +235,7 @@
     "1": "Abramovich Roman Arkadyevich",
     "2": "24.10.1966",
     "3": "male",
-    "4": "Roman Abramovich is a Russian oligarch who has long and close ties to Vladimir Putin. He has had privileged access to the president, and has maintained very good relations with him. This connection with the Russian leader helped him to maintain his considerable wealth. He is a major shareholder of the steel group Evraz, which is one of Russia’s largest taxpayers. He has therefore been benefitting from Russian decision-makers responsible for the annexation of Crimea or the destabilisation of Ukraine. He is also one of the leading Russian businesspersons involved in economic sectors providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.",
+    "4": "Roman Abramovich is a Russian oligarch who has long and close ties to Vladimir Putin. He has had privileged access to the president, and has maintained very good relations with him. This connection with the Russian leader helped him maintain his considerable wealth. He is a major shareholder of the steel group Evraz, which is one of Russia’s largest taxpayers. He has therefore been benefitting from Russian decision-makers responsible for the annexation of Crimea and the destabilisation of Ukraine. He is also one of the leading Russian businesspersons involved in economic sectors providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
@@ -3055,6 +3055,17 @@
     ]
   },
   {
+    "0": "Астахов Павел Алексеевич",
+    "1": "Astakhov Pavel Alekseevich",
+    "2": "08.09.1966",
+    "3": "male",
+    "4": "Russian statesman, lawyer, TV presenter, writer. Publicly supported Russia's aggression against Ukraine, actively disseminated information justifying waging a war of aggression",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Асфандиярова Амина Ибрагимовна",
     "1": "Asfandiyarova Amina Ibragimovna",
     "2": "27.07.1961",
@@ -4537,8 +4548,8 @@
     ]
   },
   {
-    "0": "Басюл Вячеслав",
-    "1": "Basyul Vyacheslav",
+    "0": "Басюл Вячеслав Иванович",
+    "1": "Basyul Vyacheslav Ivanovich",
     "2": "09.03.1994",
     "3": "male",
     "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
@@ -5413,6 +5424,17 @@
     "5": [
       "Warmongers",
       "Artists"
+    ]
+  },
+  {
+    "0": "Белюшина (Крайт) Елена Владимировна",
+    "1": "Belyushina (Krait) Elena Vladimirovna",
+    "2": "09.07.1986",
+    "3": "female",
+    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -7830,6 +7852,17 @@
     ]
   },
   {
+    "0": "Бублик Владимир Александрович",
+    "1": "Bublik Vladimir Alexandrovich",
+    "2": "01.02.1959",
+    "3": "male",
+    "4": "Rector of the Ural State Law University named after V. F. Yakovlev. Supported the war in Ukraine.",
+    "5": [
+      "Warmongers",
+      "Educators"
+    ]
+  },
+  {
     "0": "Бубнов Константин Владимирович",
     "1": "Bubnov Konstantin Vladimirovich",
     "2": "25.06.1967",
@@ -9346,6 +9379,17 @@
     "5": [
       "Sellout opinion leaders",
       "Celebrities, influencers and bloggers"
+    ]
+  },
+  {
+    "0": "Васильева Елена Александровна",
+    "1": "Vasilieva Elena Aleksandrovna",
+    "2": "17.08.1959",
+    "3": "female",
+    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -11448,6 +11492,17 @@
     ]
   },
   {
+    "0": "Галатинов Алексей",
+    "1": "Galatinov Alexey",
+    "2": "14.09.1980",
+    "3": "male",
+    "4": "Propagandist, news anchor on TV Center channel",
+    "5": [
+      "Propagandists",
+      "Federal media"
+    ]
+  },
+  {
     "0": "Галиакберова Альфинур Азатовна",
     "1": "Galyakberova Alfinur Azatovna",
     "2": "18.04.1965",
@@ -12991,11 +13046,33 @@
     ]
   },
   {
+    "0": "Голубев Александр",
+    "1": "Golubev Alexander",
+    "2": "09.02.1978",
+    "3": "male",
+    "4": "Propagandist, news anchor on TV Center channel",
+    "5": [
+      "Propagandists",
+      "Federal media"
+    ]
+  },
+  {
     "0": "Голубев Валерий Александрович",
     "1": "Golubev Valery Alexandrovich",
     "2": "14.06.1952",
     "3": "male",
     "4": "Deputy Chairman of the Gazprom Management Committee (from November 2006 to February 2019). At the beginning of his career, he served in the Leningrad KGB. And then in the secretariat of the mayor's office in St. Petersburg. Knew Putin from his service in the KGB.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
+    "0": "Голубев Валерий Александрович",
+    "1": "Golubev Valery Alexandrovich",
+    "2": "14.06.1952",
+    "3": "male",
+    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
@@ -14043,16 +14120,6 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
-    ]
-  },
-  {
-    "0": "Гребцов Павел Владимирович",
-    "1": "Grebtsov Pavel Vladimirovich",
-    "2": "09.09.1976",
-    "3": "male",
-    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nMember of PJSC ROSSETI's collegial executive body",
-    "5": [
-      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -17460,6 +17527,17 @@
     ]
   },
   {
+    "0": "Дюков Александр Валерьевич",
+    "1": "Dyukov Alexander Valerievich",
+    "2": "13.12.1967",
+    "3": "male",
+    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Дюмин Алексей Геннадьевич",
     "1": "Dyumin Alexei Gennadyevich",
     "2": "28.08.1972",
@@ -18302,6 +18380,17 @@
     ]
   },
   {
+    "0": "Ентальцева Марина Валентиновна",
+    "1": "Entaltseva Marina Valentinovna",
+    "2": "10.01.1961",
+    "3": "female",
+    "4": "The partner of Alexei Miller. Beneficiary of corruption schemes of PJSC Gazprom and its subsidiaries.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "епископ Петергофский Силуан (Никитин Сергей Сергеевич)",
     "1": "Bishop Siluan of Peterhof (Sergey Nikitin)",
     "2": "17.06.1986",
@@ -19119,7 +19208,7 @@
   },
   {
     "0": "Жребец Тереза Евгеньевна",
-    "1": "Stallion Tereza Evgenievna",
+    "1": "Zhrebets Tereza Evgenievna",
     "2": "",
     "3": "female",
     "4": "Judge of the Presnensky District Court of Moscow. Illegally refused to disclose information about the income of the heads of corporations",
@@ -20002,16 +20091,6 @@
     ]
   },
   {
-    "0": "Зарагацкий Александр Аркадьевич",
-    "1": "Zaragatsky Alexander Arkadievich",
-    "2": "08.08.1976",
-    "3": "male",
-    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nMember of PJSC ROSSETI's collegial executive body",
-    "5": [
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
     "0": "ЗАРАФУТДИНОВ РУСТАМ РИШАТОВИЧ",
     "1": "ZARAFUTDINOV Rustam Rishatovich",
     "2": "-",
@@ -20096,6 +20175,17 @@
     "5": [
       "Key ‘siloviki’ (security forces) figure",
       "Prosecutor’s Office"
+    ]
+  },
+  {
+    "0": "Заславский Григорий Анатольевич",
+    "1": "Zaslavsky Grigory Anatolievich",
+    "2": "10.08.1967",
+    "3": "male",
+    "4": "Rector of the Russian Institute of Theater Arts. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
+    "5": [
+      "Warmongers",
+      "Educators"
     ]
   },
   {
@@ -20662,6 +20752,17 @@
     "5": [
       "Warmongers",
       "Artists"
+    ]
+  },
+  {
+    "0": "Зияд Манасир",
+    "1": "Ziyad Manasir",
+    "2": "12.12.1965",
+    "3": "male",
+    "4": "Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -21621,7 +21722,7 @@
     "1": "Ivanov Sergey Sergeevich",
     "2": "23.10.1980",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\n\n\"Performs the functions of the sole executive body of PJSC ALROSA.\nMember of the collegial executive body of PJSC ALROSA.\nMember of the Supervisory Board of PJSC ALROSA\"",
+    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\n\nPerforms the functions of the sole executive body of PJSC ALROSA.\nMember of the collegial executive body of PJSC ALROSA.\nMember of the Supervisory Board of PJSC ALROSA\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -22452,12 +22553,14 @@
     "1": "Isaev Andrey Konstantinovich",
     "2": "01.10.1964",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nSigned the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
     "5": [
       "Members of Parliament and Senate",
       "State Duma",
       "United Russia party Functionaries",
-      "Federal and regional party leaders"
+      "Federal and regional party leaders",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -23737,6 +23840,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Капинус Оксана Сергеевна",
+    "1": "Kapinus Oksana Sergeevna",
+    "2": "06.09.1978",
+    "3": "female",
+    "4": "Rector of the University of the Prosecutor's Office of the Russian Federation. Published the Appeal of the Rectorate of the University of the Prosecutor's Office of the Russian Federation to the students, in which she supported Russia's aggression against Ukraine",
+    "5": [
+      "Warmongers",
+      "Educators"
     ]
   },
   {
@@ -25193,6 +25307,17 @@
     ]
   },
   {
+    "0": "Кирилл Имашев",
+    "1": "Kirill Imashev",
+    "2": "19.09.1998",
+    "3": "male",
+    "4": "Propagandist. War correspondent in Donbass for the propaganda media outlet readovka.news and the Telegram channel Readovka (t.me/readovkanews)",
+    "5": [
+      "Propagandists",
+      "Federal media"
+    ]
+  },
+  {
     "0": "Кириллов Дмитрий Михайлович",
     "1": "Kirillov Dmitry Mikhailovich",
     "2": "17.10.1977",
@@ -25962,6 +26087,17 @@
     ]
   },
   {
+    "0": "Князев Евгений Владимирович",
+    "1": "Knyazev Evgeny Vladimirovich",
+    "2": "09.08.1955",
+    "3": "male",
+    "4": "Rector of the Boris Shchukin Theatre Institute. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
+    "5": [
+      "Warmongers",
+      "Educators"
+    ]
+  },
+  {
     "0": "КНЯЗЕВ ЕВГЕНИЙ ВЯЧЕСЛАВОВИЧ",
     "1": "KNYAZEV EVGENIY VYACHESLAVOVYCH",
     "2": "-",
@@ -26210,6 +26346,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Ковальчук Михаил Валентинович",
+    "1": "Kovalchuk Mikhail Valentinovich",
+    "2": "21.09.1946",
+    "3": "male",
+    "4": "Russian scientist, president of the Kurchatov Institute. Supported the war in Ukraine, spreads fakes justifying its continuation.",
+    "5": [
+      "Warmongers",
+      "Scholars"
     ]
   },
   {
@@ -28219,7 +28366,7 @@
   {
     "0": "Коротков Александр Михайлович",
     "1": "Korotkov Alexander Mikhailovich",
-    "2": "–",
+    "2": "27.08.1971",
     "3": "male",
     "4": "Rector of Volgograd State Social and Pedagogical University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
@@ -28605,6 +28752,17 @@
     "4": "Director, \"STATE TELEVISION AND RADIO BROADCASTING COMPANY \"KAMCHATKA\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Chief editors and management of regional TV channels"
+    ]
+  },
+  {
+    "0": "Костылев Алексей Леонидович",
+    "1": "Kostylev Alexey Leonidovich",
+    "2": "27.04.1985",
+    "3": "male",
+    "4": "Propagandist. Editor-in-Chief of the propaganda media outlet readovka.news and the telegram channel Readovka (t.me/readovkanews)",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -29190,14 +29348,13 @@
     ]
   },
   {
-    "0": "Крайт Елена",
-    "1": "Kreit Elena",
-    "2": "09.07.1986",
-    "3": "female",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
+    "0": "Краинский Даниил Владимирович",
+    "1": "Krainsky Daniil Vladimirovich",
+    "2": "31.07.1979",
+    "3": "male",
+    "4": "Elected as a member of the Management Board of PJSC Rosseti on April 11, 2022. Elected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
     "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -29657,6 +29814,17 @@
     ]
   },
   {
+    "0": "Кришталь Давид Михайлович",
+    "1": "Krishtal David Mikhailovich",
+    "2": "15.03.1959",
+    "3": "male",
+    "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Крок Кирилл Игоревич",
     "1": "Krok Kirill Igorevich",
     "2": "15.11.1967",
@@ -29734,6 +29902,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Круглов Андрей Вячеславович",
+    "1": "Kruglov Andrey Vyacheslavovich",
+    "2": "24.01.1969",
+    "3": "male",
+    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -30220,6 +30399,17 @@
     ]
   },
   {
+    "0": "Кузнецов Александр Владимирович",
+    "1": "Kuznetsov Alexander Vladimirovich",
+    "2": "07.12.1987",
+    "3": "male",
+    "4": "Husband of Kuznetsova (Entaltseva) Svetlana Yurievna. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Кузнецов Александр Юрьевич",
     "1": "Kuznetsov Alexander Yurievich",
     "2": "-",
@@ -30471,6 +30661,17 @@
     ]
   },
   {
+    "0": "Кузнецова Светлана Юрьевна",
+    "1": "Kuznetsova Svetlana Yurievna",
+    "2": "24.01.1988",
+    "3": "female",
+    "4": "Daughter of Entaltseva Svetlana Yurievna. Beneficiary of corruption schemes of PJSC Gazprom and its subsidiaries.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Кузнецова Татьяна Александровна",
     "1": "Kuznetsova Tatyana Aleksandrovna",
     "2": "06.11.1984",
@@ -30622,6 +30823,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Кузьмина Нина Николаевна",
+    "1": "Kuzmina Nina Nikolaevna",
+    "2": "28.05.1962",
+    "3": "female",
+    "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -32939,16 +33151,6 @@
     ]
   },
   {
-    "0": "Ливинский Павел Анатольевич",
-    "1": "Livinsky Pavel Anatolievich",
-    "2": "18.02.1980",
-    "3": "male",
-    "4": "Member of the Board of Directors of PJSC RusHydro",
-    "5": [
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
     "0": "Лидин Валерий Кузьмич",
     "1": "Lidin Valery Kuzmich",
     "2": "29.05.1955",
@@ -34028,6 +34230,17 @@
     ]
   },
   {
+    "0": "Лукьянов Александр Геннадьевич",
+    "1": "Lukyanov Alexander Gennadievich",
+    "2": "07.11.1975",
+    "3": "male",
+    "4": "Special correspondent for Russia-24. Covers Russian aggression against Ukraine on TV and on his own YouTube channel",
+    "5": [
+      "Propagandists",
+      "Federal media"
+    ]
+  },
+  {
     "0": "Лукьянов Александр Николаевич",
     "1": "Lukyanov Alexander Nikolaevich",
     "2": "16.03.1961",
@@ -34872,6 +35085,17 @@
     ]
   },
   {
+    "0": "Макаров Евгений Иванович",
+    "1": "Makarov Evgeny Ivanovich",
+    "2": "20.12.1955",
+    "3": "male",
+    "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Макаров Иван Иванович",
     "1": "Makarov Ivan Ivanovich",
     "2": "03.07.1976",
@@ -35225,6 +35449,17 @@
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
+    ]
+  },
+  {
+    "0": "Малышев Владимир Сергеевич",
+    "1": "Malyshev Vladimir Sergeevich",
+    "2": "11.11.1949",
+    "3": "male",
+    "4": "Rector of the All-Russian State Institute of Cinematography. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
+    "5": [
+      "Warmongers",
+      "Educators"
     ]
   },
   {
@@ -35977,17 +36212,6 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
-    ]
-  },
-  {
-    "0": "Маршалл Александр Витальевич",
-    "1": "Marshall Alexander Vitalyevich",
-    "2": "07.06.1957",
-    "3": "male",
-    "4": "Singer. Participated in a concert in support of the war against Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -37325,7 +37549,7 @@
     "1": "Miller Alexey Borisovich",
     "2": "31.01.1962",
     "3": "male",
-    "4": "Chairman of the Management Board of PJSC Gazprom. Money laundering in favor of Putin.\n\nChairman of the Board of Directors of PJSC Gazprom; Person acting as the sole executive body of PJSC Gazprom",
+    "4": "Chairman of the Management Board of PJSC Gazprom. Money laundering in favor of Putin.\n\nChairman of the Board of Directors of PJSC Gazprom; Person acting as the sole executive body of PJSC Gazprom\n\nInvolved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects",
@@ -37538,6 +37762,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Миньков Александр Витальевич",
+    "1": "Minkov Alexander Vitalievich",
+    "2": "07.06.1957",
+    "3": "male",
+    "4": "Singer. Participated in a concert in support of the war against Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -40284,6 +40519,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Некрасов Сергей Геннадьевич",
+    "1": "Nekrasov Sergey Gennadievich",
+    "2": "13.10.1964",
+    "3": "male",
+    "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -43121,7 +43367,7 @@
     "1": "Panina Alexandra Gennadievna",
     "2": "1977",
     "3": "male",
-    "4": "Member of the collegial executive body of PJSC INTER RAO",
+    "4": "Member of the collegial executive body of PJSC INTER RAO\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -43341,6 +43587,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Парнак Артем Александрович",
+    "1": "Parnak Artem Alexandrovich",
+    "2": "13.09.1978",
+    "3": "male",
+    "4": "Propagandist, news anchor on TV Center channel",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -45661,8 +45918,18 @@
     ]
   },
   {
+    "0": "Полинов Алексей Александрович",
+    "1": "Polinov Alexey Alexandrovich",
+    "2": "09.08.1978",
+    "3": "male",
+    "4": "Elected as a member of the Management Board of PJSC Rosseti on April 11, 2022. Elected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Полковников Алексей Михайлович",
-    "1": "Colonels Alexei Mikhailovich",
+    "1": "Polkovnikov Alexey Mikhailovich",
     "2": "24.02.1976",
     "3": "Male",
     "4": "Deputy Head of the Federal Agency for the Commonwealth of Independent States, Compatriots living abroad, and on international humanitarian cooperation of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
@@ -47714,9 +47981,11 @@
     "1": "Putin Mikhail Evgenyevich",
     "2": "07.02.1967",
     "3": "male",
-    "4": "Member of PJSC Gazprom's collegial executive body",
+    "4": "Member of PJSC Gazprom's collegial executive body\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -49178,16 +49447,6 @@
     ]
   },
   {
-    "0": "Романовская Лариса Анатольевна",
-    "1": "Romanovskaya Larisa Anatolievna",
-    "2": "04.04.1972",
-    "3": "female",
-    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nMember of PJSC ROSSETI's collegial executive body",
-    "5": [
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
     "0": "РОМАНЧЕНКО АНДРЕЙ ЮРЬЕВИЧ",
     "1": "ROMANCHENKO ANDREY YURIEVICH",
     "2": "-",
@@ -49309,7 +49568,7 @@
     "1": "Rotenberg Arkady Romanovich",
     "2": "15.12.1951",
     "3": "male",
-    "4": "Chairman of the Board of the Russian Ice Hockey Federation. Longtime friend of Putin. Receives state contracts without competition. Responsible for building the bridge that connects Crimea with Russia.",
+    "4": "Chairman of the Board of the Russian Ice Hockey Federation. Longtime friend of Putin. Receives state contracts without competition. Responsible for building the bridge that connects Crimea with Russia.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
@@ -49364,7 +49623,7 @@
     "1": "Roshchenko Nikolay Pavlovich",
     "2": "15.05.1981",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)",
+    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -49929,6 +50188,17 @@
     "5": [
       "War Arrangers",
       "Ministry of Defense military staff"
+    ]
+  },
+  {
+    "0": "Рыжинский Александр Сергеевич",
+    "1": "Ryzhinsky Alexander Sergeevich",
+    "2": "08.01.1981",
+    "3": "male",
+    "4": "Rector of the Gnessin Russian Academy of Music. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
+    "5": [
+      "Warmongers",
+      "Educators"
     ]
   },
   {
@@ -51229,6 +51499,17 @@
     ]
   },
   {
+    "0": "Сапрыкина (Анциферова) Юлия Николаевна",
+    "1": "Saprykina (Antsiferova) Yulia Nikolaevna",
+    "2": "1982",
+    "3": "female",
+    "4": "Propagandist, news anchor on the TV Center channel. Host news programs under the maiden name Antsiferova",
+    "5": [
+      "Propagandists",
+      "Federal media"
+    ]
+  },
+  {
     "0": "Сапунов Алексей Валерьевич",
     "1": "Sapunov Alexey Valeryevich",
     "2": "",
@@ -51874,6 +52155,17 @@
     ]
   },
   {
+    "0": "Селезнев Кирилл Геннадьевич",
+    "1": "Seleznev Kirill Gennadievich",
+    "2": "23.04.1974",
+    "3": "male",
+    "4": "Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Селиверстов Виктор Валентинович",
     "1": "Seliverstov Viktor Valentinovich",
     "2": "2.08.1954",
@@ -52401,6 +52693,17 @@
   },
   {
     "0": "Середа Михаил Леонидович",
+    "1": "Sereda Mihail Leonidovich",
+    "2": "09.05.1970",
+    "3": "male",
+    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
+    "0": "Середа Михаил Леонидович",
     "1": "Sereda Mikhail Leonidovich",
     "2": "09.05.1970",
     "3": "male",
@@ -52756,6 +53059,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Силин Яков Петрович",
+    "1": "Silin Yakov Petrovich",
+    "2": "17.05.1961",
+    "3": "male",
+    "4": "Rector of the Ural State Economic University. Publicly supported Russia's aggression against Ukraine.",
+    "5": [
+      "Warmongers",
+      "Educators"
     ]
   },
   {
@@ -54354,6 +54668,17 @@
     "4": "Former mayor of Khabarovsk. Privatized a lot of city property and registered it to his relatives. His family owns several houses in the USA. One of the leaders of the United Russia party",
     "5": [
       "Regional investigations subjects"
+    ]
+  },
+  {
+    "0": "Соколов Александр Сергеевич",
+    "1": "Sokolov Alexander Sergeevich",
+    "2": "08.08.1949",
+    "3": "male",
+    "4": "Rector of the Moscow State Conservatory P. I. Tchaikovsky. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
+    "5": [
+      "Warmongers",
+      "Educators"
     ]
   },
   {
@@ -57767,7 +58092,7 @@
     "1": "Timchenko Gennadiy Nikolayevich",
     "2": "09.11.1952",
     "3": "male",
-    "4": "One of Putin's most famous \"friends.\" When Putin became president, four of our country's five major oil companies sold their oil abroad not directly, but through the Swiss intermediary Gunvor.",
+    "4": "One of Putin's most famous \"friends.\" When Putin became president, four of our country's five major oil companies sold their oil abroad not directly, but through the Swiss intermediary Gunvor controlled by Timchenko.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
@@ -58586,6 +58911,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Трегуб Сергей Вадимович",
+    "1": "Tregub Sergey Vadimovich",
+    "2": "20.01.1959",
+    "3": "male",
+    "4": "Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -59695,7 +60031,7 @@
     "1": "Usmanov Alisher Burkhanovich",
     "2": "09.09.1953",
     "3": "male",
-    "4": "He participated in Medvedev's corrupt scheme with property donations to his \"charitable\" foundations, which allowed him to quickly and conveniently register real estate without revealing the real owner.",
+    "4": "Participated in Dmitry Medvedev's corrupt scheme with property donations to his \"charitable\" foundations, which allowed him to quickly and conveniently register real estate without revealing the real owner.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
@@ -60531,6 +60867,17 @@
     ]
   },
   {
+    "0": "Федотов Александр Анатольевич",
+    "1": "Fedotov Alexander Anatolievich",
+    "2": "01.07.1971",
+    "3": "male",
+    "4": "Signed the letter from employees of Oryol State University in support of the war in Ukraine",
+    "5": [
+      "Warmongers",
+      "Educators"
+    ]
+  },
+  {
     "0": "Федотов Андрей Евгеньевич",
     "1": "Fedotov Andrey Evgenievich",
     "2": "16.02.1974",
@@ -60637,6 +60984,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Федюшкина Ирина Викторовна",
+    "1": "Fedyushkina Irina Viktorovna",
+    "2": "",
+    "3": "male",
+    "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -63213,6 +63571,17 @@
     ]
   },
   {
+    "0": "Чадаев Алексей Викторович",
+    "1": "Chadaev Alexey Viktorovich",
+    "2": "30.09.1978",
+    "3": "male",
+    "4": "Russian journalist and public figure, editor of the Telegram channel https://t.me/chadayevru \nSupports the war as a propagandist, raises funds to purchase equipment for the separatist armed forces.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Чадаева Марта Яковлевна",
     "1": "Chadaeva Martha Yakovlevna",
     "2": "10.10.1935",
@@ -65010,7 +65379,7 @@
     "1": "Shamalov Yury Nikolaevich",
     "2": "10.06.1970",
     "3": "male",
-    "4": "President of Gazfond and member of the Board of Directors of Gazprombank. Shamalov is therefore involved in work as a director or equivalent of entities (Gazfond and Gazprombank) in a sector (finance) of strategic significance to the Russian Government.",
+    "4": "President of Gazfond and member of the Board of Directors of Gazprombank. Shamalov is therefore involved as a director or equivalent in the work of entities (Gazfond and Gazprombank) in the financial sector - a sector of strategic significance to the Russian Government.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
@@ -65729,7 +66098,7 @@
     "1": "Shelomov Mikhail Lvovich",
     "2": "07.01.1968",
     "3": "male",
-    "4": "V.V. Putin's cousin. In 2002, at the personal request of Sechin, then head of Putin's deputy administration, Shelomov was hired by the state shipping company Sovcomflot. Acceptance owns the company. \"Acceptance\" owns 8.4 percent of Bank Rossiya, owned by Putin's friends Kovalchuk, Shamalov and Timchenko, and 12.47 percent of Russia's largest insurance company, SOGAZ.",
+    "4": "Cousin of Vladimir Putin. In 2002, at the personal request of Igor Sechin, the then head of Putin's deputy administration, Shelomov was hired by the state shipping company Sovcomflot owned by Acceptance. Acceptance also owns 8.4 percent of Bank Rossiya,which belongs to Putin's friends Kovalchuk, Shamalov and Timchenko, and 12.47 percent of Russia's largest insurance company, Sogaz.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
@@ -65821,6 +66190,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Шершуков Александр Владимирович",
+    "1": "Shershukov Alexander Vladimirovich",
+    "2": "06.03.1969",
+    "3": "male",
+    "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -66367,10 +66747,12 @@
     "1": "Shmakov Mikhail Viktorovich",
     "2": "12.08.1949",
     "3": "Male",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nSigned the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
+      "Presidential proxies in elections",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -67933,6 +68315,39 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Юсуфов Виталий Игоревич",
+    "1": "Yusufov Vitaly Igorevich",
+    "2": "01.02.1980",
+    "3": "male",
+    "4": "Corrupt ties with Dmitry Medvedev (Deputy Chairman of the Russian Security Council and former President of Russia)",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
+    "0": "Юсуфов Игорь Ханукович",
+    "1": "Yusufov Igor Khanukovich",
+    "2": "12.06.1956",
+    "3": "male",
+    "4": "Corrupt ties with Dmitry Medvedev (Deputy Chairman of the Russian Security Council and former President of Russia)",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
+    "0": "Юсуфов Максим Игоревич",
+    "1": "Yusufov Maxim Igorevich",
+    "2": "10.06.1994",
+    "3": "male",
+    "4": "Corrupt ties with Dmitry Medvedev (Deputy Chairman of the Russian Security Council and former President of Russia)",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
