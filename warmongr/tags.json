@@ -1,194 +1,130 @@
 [
   {
     "id": 1,
-    "name": "Judges, prosecutors, state investigators",
-    "ruName": "Судьи, прокуроры, следователи",
+    "name": "Organizers of political repressions",
+    "shortName": "Organizers of Repressions",
+    "ruName": "Организаторы политических репрессий",
+    "ruShortName": "Организаторы репрессий",
     "count": 797
   },
   {
     "id": 2,
-    "name": "Vice-Governors",
-    "ruName": "Вице-губернаторы",
-    "count": 651
+    "name": "Key Local Government Officials",
+    "shortName": "Local Officials",
+    "ruName": "Ключевые региональные чиновники",
+    "ruShortName": "Региональные чиновники",
+    "count": 739
   },
   {
     "id": 3,
-    "name": "Executive branch and presidential administration employees",
-    "ruName": "Сотрудники органов исполнительной власти и администрации президента",
-    "count": 475
+    "name": "Propagandists",
+    "shortName": "Propagandists",
+    "ruName": "Пропагандисты",
+    "ruShortName": "Пропагандисты",
+    "count": 739
   },
   {
     "id": 4,
-    "name": "Presidential proxies in elections",
-    "ruName": "Доверенные лица президента на выборах",
-    "count": 468
+    "name": "Individuals involved in corruption",
+    "shortName": "Corrupt Officials",
+    "ruName": "Коррупционеры",
+    "ruShortName": "Коррупционеры",
+    "count": 697
   },
   {
     "id": 5,
-    "name": "State Duma",
-    "ruName": "Государственная Дума",
-    "count": 449
+    "name": "Members of Parliament and Senate",
+    "shortName": "Parliament and Senate",
+    "ruName": "Депутаты и сенаторы",
+    "ruShortName": "Депутаты и сенаторы",
+    "count": 619
   },
   {
     "id": 6,
-    "name": "ACF investigations subjects",
-    "ruName": "Герои расследований ФБК",
-    "count": 427
+    "name": "Warmongers",
+    "shortName": "Warmongers",
+    "ruName": "Разжигатели войны",
+    "ruShortName": "Разжигатели войны",
+    "count": 544
   },
   {
     "id": 7,
-    "name": "Managers and their deputies, board members and boards of directors",
-    "ruName": "Руководители и их замы, члены правлений и советов директоров",
-    "count": 410
+    "name": "Senior Federal Officials",
+    "shortName": "Federal Officials",
+    "ruName": "Высшие федеральные чиновники",
+    "ruShortName": "Федеральные чиновники",
+    "count": 475
   },
   {
     "id": 8,
-    "name": "Federal media",
-    "ruName": "Сотрудники федеральных медиа",
-    "count": 354
+    "name": "Putin’s Public Supporters",
+    "shortName": "Putin’s Supporters",
+    "ruName": "Публичные сторонники Путина",
+    "ruShortName": "Сторонники Путина",
+    "count": 468
   },
   {
     "id": 9,
-    "name": "Educators",
-    "ruName": "Деятели образования",
-    "count": 313
+    "name": "Key ‘siloviki’ (security forces) figure",
+    "shortName": "Siloviki",
+    "ruName": "Ключевые силовики",
+    "ruShortName": "Cиловики",
+    "count": 459
   },
   {
     "id": 10,
-    "name": "Federal and regional party leaders",
-    "ruName": "Руководители правящей партии в центре и регионах",
-    "count": 312
+    "name": "Top Management of State Owned Companies",
+    "shortName": "Top Managers",
+    "ruName": "Руководители госкомпаний",
+    "ruShortName": "Руководители госкомпаний",
+    "count": 410
   },
   {
     "id": 11,
-    "name": "Regional investigations subjects",
-    "ruName": "Герои региональных расследований",
-    "count": 272
+    "name": "‘United Russia’ party Functionaries",
+    "shortName": "United Russia",
+    "ruName": "Функционеры «Единой России»",
+    "ruShortName": "Единая Россия",
+    "count": 312
   },
   {
     "id": 12,
-    "name": "Regional press",
-    "ruName": "Региональная пресса",
-    "count": 245
+    "name": "Sellout opinion leaders",
+    "shortName": "Influencers",
+    "ruName": "Продажные лидеры общественного мнения",
+    "ruShortName": "Инфлюенсеры",
+    "count": 161
   },
   {
     "id": 13,
-    "name": "Federation Council",
-    "ruName": "Совет Федерации",
-    "count": 170
+    "name": "War Arrangers",
+    "shortName": "War Arrangers",
+    "ruName": "Организаторы войны",
+    "ruShortName": "Организаторы войны",
+    "count": 131
   },
   {
     "id": 14,
-    "name": "Artists",
-    "ruName": "Деятели культуры",
-    "count": 159
-  },
-  {
-    "id": 15,
-    "name": "Chief editors and management of regional TV channels",
-    "ruName": "Главные редакторы и руководство региональных телеканалов",
-    "count": 147
-  },
-  {
-    "id": 16,
-    "name": "Celebrities, influencers and bloggers",
-    "ruName": "Звезды и блогеры",
-    "count": 145
-  },
-  {
-    "id": 17,
-    "name": "Prosecutor’s Office",
-    "ruName": "Прокуратура",
-    "count": 108
-  },
-  {
-    "id": 18,
-    "name": "Ministry of Defense military staff",
-    "ruName": "Военные из Министерства обороны",
-    "count": 101
-  },
-  {
-    "id": 19,
-    "name": "Heads of the Central Election Commission and local election commissions",
-    "ruName": "Руководители ЦИК и местных избиркомов",
+    "name": "Election fraud organizers",
+    "shortName": "Election Fraud",
+    "ruName": "Организаторы фальсификаций на выборах",
+    "ruShortName": "Фальсификаторы выборов",
     "count": 100
   },
   {
-    "id": 20,
-    "name": "Investigative Committee of Russia",
-    "ruName": "Следственный комитет",
-    "count": 97
-  },
-  {
-    "id": 21,
-    "name": "National Guard of Russia",
-    "ruName": "Росгвардия",
-    "count": 90
-  },
-  {
-    "id": 22,
-    "name": "Governors",
-    "ruName": "Губернаторы",
+    "id": 15,
+    "name": "Region Heads",
+    "shortName": "Region Heads",
+    "ruName": "Главы регионов",
+    "ruShortName": "Главы регионов",
     "count": 89
   },
   {
-    "id": 23,
-    "name": "Speakers of the regional legislative assemblies",
-    "ruName": "Спикеры региональных Заксобраний",
-    "count": 85
-  },
-  {
-    "id": 24,
-    "name": "Ministry of Internal Affairs",
-    "ruName": "МВД",
-    "count": 85
-  },
-  {
-    "id": 25,
-    "name": "Federal Security Services",
-    "ruName": "ФСБ",
-    "count": 79
-  },
-  {
-    "id": 26,
-    "name": "Heads of public funds",
-    "ruName": "Члены правления и руководители государственных фондов",
-    "count": 32
-  },
-  {
-    "id": 27,
-    "name": "Ideologists of war",
-    "ruName": "Идеологи войны",
-    "count": 31
-  },
-  {
-    "id": 28,
-    "name": "Security council members",
-    "ruName": "Члены Совета Безопасности",
-    "count": 30
-  },
-  {
-    "id": 29,
-    "name": "Scholars",
-    "ruName": "Ученые",
-    "count": 23
-  },
-  {
-    "id": 30,
-    "name": "Athletes",
-    "ruName": "Спортсмены",
-    "count": 21
-  },
-  {
-    "id": 31,
-    "name": "Central Bank employees, board members",
-    "ruName": "Сотрудники Центрального банка РФ",
-    "count": 19
-  },
-  {
-    "id": 32,
-    "name": "Public supporters of Putin",
-    "ruName": "Публичные сторонники Путина",
-    "count": 16
+    "id": 16,
+    "name": "State Bankers",
+    "shortName": "Bankers",
+    "ruName": "Государственные банкиры",
+    "ruShortName": "Банкиры",
+    "count": 51
   }
 ]
