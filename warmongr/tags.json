@@ -5,22 +5,22 @@
     "shortName": "Organizers of Repressions",
     "ruName": "Организаторы политических репрессий",
     "ruShortName": "Организаторы репрессий",
-    "count": 797
+    "count": 850
   },
   {
     "id": 2,
-    "name": "Key Local Government Officials",
-    "shortName": "Local Officials",
-    "ruName": "Ключевые региональные чиновники",
-    "ruShortName": "Региональные чиновники",
-    "count": 739
-  },
-  {
-    "id": 3,
     "name": "Propagandists",
     "shortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
+    "count": 747
+  },
+  {
+    "id": 3,
+    "name": "Key Local Government Officials",
+    "shortName": "Local Officials",
+    "ruName": "Ключевые региональные чиновники",
+    "ruShortName": "Региональные чиновники",
     "count": 739
   },
   {
@@ -29,7 +29,7 @@
     "shortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 697
+    "count": 721
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "shortName": "Warmongers",
     "ruName": "Разжигатели войны",
     "ruShortName": "Разжигатели войны",
-    "count": 544
+    "count": 555
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "shortName": "Top Managers",
     "ruName": "Руководители госкомпаний",
     "ruShortName": "Руководители госкомпаний",
-    "count": 410
+    "count": 431
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "shortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 161
+    "count": 183
   },
   {
     "id": 13,

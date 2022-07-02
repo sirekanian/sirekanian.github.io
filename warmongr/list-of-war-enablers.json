@@ -877,17 +877,6 @@
     ]
   },
   {
-    "0": "Акилова Алина",
-    "1": "Akilova Alina",
-    "2": "10.11.1994",
-    "3": "female",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
-    ]
-  },
-  {
     "0": "Акимов Александр Константинович",
     "1": "Akimov Alexander Konstantinovich",
     "2": "10.11.1954",
@@ -903,7 +892,7 @@
     "1": "Akimov Andrey Igorevich",
     "2": "22.09.1953",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Gazprom\nMember of the Board of Directors of JSC ROSNEFTEGAZ",
+    "4": "Member of the Board of Directors of PJSC Gazprom\nMember of the Board of Directors of JSC ROSNEFTEGAZ\n\nDeputy Chairman of the Board of Directors of JSC Gazprombank\nChairman of the Management Board, JSC Gazprombank",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -1228,6 +1217,17 @@
     ]
   },
   {
+    "0": "Александров Глеб Юрьевич",
+    "1": "Aleksandrov Gleb Yurievich",
+    "2": "15.11.1974",
+    "3": "male",
+    "4": "Pseudonym Raevsky Dmitry\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine",
+    "5": [
+      "Sellout opinion leaders",
+      "Celebrities, influencers and bloggers"
+    ]
+  },
+  {
     "0": "Александров Михаил Владимирович",
     "1": "Aleksandrov Mikhail Vladimirovich",
     "2": "27.02.1960",
@@ -1376,6 +1376,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Алексеенко Алексей Александрович",
+    "1": "Alekseenko Alexey Alexandrovich",
+    "2": "",
+    "3": "male",
+    "4": "Deputy director of the LLC \"Vas Experts\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -1783,12 +1794,14 @@
   },
   {
     "0": "Алёшин Борис Сергеевич",
-    "1": "Aleshin Boris Sergeevich",
+    "1": "Alyoshin Boris Sergeevich",
     "2": "03.03.1955",
     "3": "male",
-    "4": "Chairman of the Board of Directors of JSC RUSNANO",
+    "4": "Chairman of the Board of Directors of JSC RUSNANO\n\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -2116,6 +2129,17 @@
     ]
   },
   {
+    "0": "Анженко Александр Васильевич",
+    "1": "Anzhenko Alexander Vasilievich",
+    "2": "14.10.1966",
+    "3": "male",
+    "4": "Head of the LLC \"TechArgos\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Аниканова Ирина Владимировна",
     "1": "Anikanova Irina Vladimirovna",
     "2": "",
@@ -2168,6 +2192,17 @@
     "5": [
       "Warmongers",
       "Ideologists of war"
+    ]
+  },
+  {
+    "0": "Анисимов Антон",
+    "1": "Anisimov Anton",
+    "2": "10.02.1988",
+    "3": "male",
+    "4": "Russian sports journalist. Publicly expresses support for the aggressive war against Ukraine and the actions of the Russian authorities.",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -3088,6 +3123,17 @@
     ]
   },
   {
+    "0": "Аузан Александр Александрович",
+    "1": "Auzan Alexander Alexandrovich",
+    "2": "11.07.1954",
+    "3": "male",
+    "4": "Senior Independent director of PJSC Rostelecom. This Internet provider provided communication services on the territory of Ukraine during the Russian occupation through a subsidiary, Miranda-Media, using stolen equipment from Ukrainian providers. Facilitated the installation of TSPU (DPI) on their networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Аутио Ирина Ильинична",
     "1": "Autio Irina Ilyinichna",
     "2": "15.04.1967",
@@ -3389,6 +3435,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Ашманов Игорь Станиславович",
+    "1": "Ashmanov Igor Stanislavovich",
+    "2": "09.01.1962",
+    "3": "male",
+    "4": "Russian IT entrepreneur, member of the board of the Regional Public Center for Internet Technologies, expert of the commission on legal issues of the Russian Association of Electronic Communications. Member of the Human Rights Council under the President of the Russian Federation. Supporter of state censorship on the Russian Internet and network isolation.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -5298,6 +5355,16 @@
     ]
   },
   {
+    "0": "Белоус Алексей Петрович",
+    "1": "Belous Alexey Petrovich",
+    "2": "22.05.1905",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Белоус Николай Максимович",
     "1": "Belous Nikolay Maksimovich",
     "2": "15.05.1952",
@@ -6734,6 +6801,17 @@
     ]
   },
   {
+    "0": "Бокерия Лео Антонович",
+    "1": "Bokeria Leo Antonovich",
+    "2": "22.12.1939",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Бокерия Леонид Антонович",
     "1": "Bokeria Leonid Antonovich",
     "2": "22.12.1939",
@@ -7042,6 +7120,16 @@
     ]
   },
   {
+    "0": "Борисенко Елена Адольфовна",
+    "1": "Borisenko Elena Adolfovna",
+    "2": "21.04.1978",
+    "3": "female",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Борискин Сергей Евгеньевич",
     "1": "Boriskin Sergei Evgenevich",
     "2": "",
@@ -7076,6 +7164,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Борисов Антон Максимович",
+    "1": "Borisov Anton Maksimovich",
+    "2": "03.04.1982",
+    "3": "male",
+    "4": "Propagandist. TV presenter of news on Russia-24 TV channel",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -7484,10 +7583,12 @@
     "1": "Bocharov Vyacheslav Alekseevich",
     "2": "17.10.1955",
     "3": "Male",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nFirst Deputy Secretary of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
+      "Presidential proxies in elections",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -7607,21 +7708,23 @@
     "1": "BOYARSKIY (BOYARSKY), Sergey (Sergei) Mikhailovich (Mikhaylovich)",
     "2": "24.01.1980",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the General Council and Secretary of the St. Petersburg Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
       "Members of Parliament and Senate",
-      "State Duma"
+      "State Duma",
+      "“United Russia” party Functionaries",
+      "Federal and regional party leaders"
     ]
   },
   {
     "0": "Боярский Сергей Михайлович",
-    "1": "Boyarsky Sergei Mikhailovich",
+    "1": "BOYARSKIY (BOYARSKY), Sergey (Sergei) Mikhailovich (Mikhaylovich)",
     "2": "24.01.1980",
     "3": "male",
-    "4": "Member of the General Council and Secretary of the St. Petersburg Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). Chief Deputy Chairman of the State Duma Committee on Information Policy, Information Technology and Communications",
     "5": [
-      "“United Russia” party Functionaries",
-      "Federal and regional party leaders"
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -8620,6 +8723,17 @@
     ]
   },
   {
+    "0": "Быков Вячеслав Аркадьевич",
+    "1": "Bykov Vyacheslav Arkadievich",
+    "2": "24.07.1960",
+    "3": "male",
+    "4": "Soviet and Russian hockey player, coach. After the start of the war in Ukraine, he supported the actions of the Russian authorities.",
+    "5": [
+      "Warmongers",
+      "Athletes"
+    ]
+  },
+  {
     "0": "Быков Д. В.",
     "1": "Bykov D. В.",
     "2": "",
@@ -9339,12 +9453,11 @@
   },
   {
     "0": "Васильев Кирилл Юрьевич",
-    "1": "Vasilyev Kirill Yuryevich",
+    "1": "Vasiliev Kirill Yurievich",
     "2": "22.02.1973",
     "3": "male",
-    "4": "Head of the FSB Institute of Criminalistics.",
+    "4": "Director of the FSB Criminalistics Institute. Chemical engineer, specialist in the identification of metabolites of substances in biomedical samples using mass chromatography and mass spectrometric detection (chemical weapons are identified this way). Participates in research for the Signal Scientific Center, where Novichok is being secretly developed. Participated in organizing the attempted murder of Alexei Navalny with the use of chemical weapons and covering up the traces of the crime.",
     "5": [
-      "Individuals involved in corruption",
       "ACF investigations subjects"
     ]
   },
@@ -9386,10 +9499,11 @@
     "1": "Vasilieva Elena Aleksandrovna",
     "2": "17.08.1959",
     "3": "female",
-    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.\n\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       "Individuals involved in corruption",
-      "ACF investigations subjects"
+      "ACF investigations subjects",
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -9660,10 +9774,12 @@
     "1": "Velikanova Irina Yakovlevna",
     "2": "22.03.1964",
     "3": "Female",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
+      "Presidential proxies in elections",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -9897,12 +10013,16 @@
     "1": "Viner-Usmanova Irina Alexandrovna",
     "2": "30.07.1948",
     "3": "female",
-    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nSoviet and Russian rhythmic gymnastics coach, teacher. She is a key supporter of Putin in the sports field. Actively supports the current political regime, using sports for propaganda purposes.\n\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "“United Russia” party Functionaries",
       "Federal and regional party leaders",
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
+      "Presidential proxies in elections",
+      "Warmongers",
+      "Athletes",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -9968,6 +10088,16 @@
     "4": "The head of the city of Zaozersk (Murmansk Oblast), caught drunk driving, puts pressure on ordinary deputies of the city",
     "5": [
       "Regional investigations subjects"
+    ]
+  },
+  {
+    "0": "Винокуров Владимир Николаевич",
+    "1": "Vinokurov Vladimir Nikolaevich",
+    "2": "08.03.1959",
+    "3": "male",
+    "4": "First Vice President and Member of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -10335,6 +10465,17 @@
     ]
   },
   {
+    "0": "Волков Эдуард Владимирович",
+    "1": "Volkov Eduard Vladimirovich",
+    "2": "19.01.1982",
+    "3": "male",
+    "4": "Head of JSC \"SEVTELECOM\". This Internet provider provided communication services on the territory of Ukraine during the Russian occupation",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Волкова Виолетта Владимировна",
     "1": "Volkova Violetta Vladimirovna",
     "2": "16.01.1973",
@@ -10594,6 +10735,17 @@
     ]
   },
   {
+    "0": "Воробьев Андрей Александрович",
+    "1": "Vorobyov Andrey Alexandrovich",
+    "2": "17.11.1977",
+    "3": "male",
+    "4": "Director of the ANO \"Coordination Center of the National Internet Domain\" (Coordination Center for the .ru domain). Participated in the formation of a national system for routing Internet traffic in Russia within the framework of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Воробьев Андрей Викторович",
     "1": "Vorobyov Andrey Viktorovich",
     "2": "24.07.1985",
@@ -10823,6 +10975,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Воронцов Александр Васильевич",
+    "1": "Vorontsov Alexander Vasilievich",
+    "2": "01.07.1965",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -11218,7 +11381,7 @@
     "1": "Gavrilenko Anatoly Anatolievich",
     "2": "07.09.1972",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC INTER RAO",
+    "4": "Member of the Board of Directors of PJSC INTER RAO\n\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -11333,6 +11496,16 @@
     "5": [
       "Members of Parliament and Senate",
       "State Duma"
+    ]
+  },
+  {
+    "0": "Газарян Юрий Гарунович",
+    "1": "Gazaryan Yuri Garunovich",
+    "2": "23.07.1974",
+    "3": "male",
+    "4": "Member of the Board of Directors of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -11503,6 +11676,17 @@
     ]
   },
   {
+    "0": "Галейная Олеся Петровна",
+    "1": "Galeynaya Olesya Petrovna",
+    "2": "18.05.1980",
+    "3": "female",
+    "4": "Head of the Investigation Department of the Omsk Line Internal Affairs Department for Transport. Was present in the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk on the day of Navalny's hospitalization, and participated in the confiscation of his personal belongings. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Галиакберова Альфинур Азатовна",
     "1": "Galyakberova Alfinur Azatovna",
     "2": "18.04.1965",
@@ -11648,12 +11832,14 @@
   },
   {
     "0": "Галушка Александр Сергеевич",
-    "1": "Galushka Alexander Sergeyevich",
-    "2": "",
-    "3": "female",
-    "4": "Member of the Supervisory Board of JSC Russian Agricultural Bank",
+    "1": "Galushka Alexander Sergeevich",
+    "2": "01.12.1975",
+    "3": "male",
+    "4": "Member of the Supervisory Board of JSC Russian Agricultural Bank\n\nDeputy Secretary of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -11874,6 +12060,17 @@
     ]
   },
   {
+    "0": "Гармаш Сергей Леонидович",
+    "1": "Garmash Sergey Leonidovich",
+    "2": "01.09.1958",
+    "3": "male",
+    "4": "Actor, director, screenwriter, producer. Took an active part in the activities of the Russian occupation administration in the city of Kherson, supported the actions of the Russian authorities to occupy the territory of Ukraine.",
+    "5": [
+      "Warmongers",
+      "Artists"
+    ]
+  },
+  {
     "0": "Гарнец Валерий Николаевич",
     "1": "Garnets Valerii Nikolaevich",
     "2": "20.08.1964",
@@ -11903,17 +12100,6 @@
     "5": [
       "Members of Parliament and Senate",
       "State Duma"
-    ]
-  },
-  {
-    "0": "Гасанханов Гусейнхан Саттар оглы",
-    "1": "Hasankhanov Huseynkhan Sattar oglu",
-    "2": "05.07.1994",
-    "3": "male",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -12012,6 +12198,17 @@
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects"
+    ]
+  },
+  {
+    "0": "Гачко Дмитрий Валерьянович",
+    "1": "Gachko Dmitry Valeryanovich",
+    "2": "16.08.1976",
+    "3": "male",
+    "4": "Head of the LLC \"Vas Experts\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -12178,6 +12375,17 @@
     "5": [
       "Members of Parliament and Senate",
       "Federation Council"
+    ]
+  },
+  {
+    "0": "Геркус Илья Леонидович",
+    "1": "Gerkus Ilya Leonidovich",
+    "2": "30.07.1972",
+    "3": "male",
+    "4": "Russian entrepreneur and sports manager.\nActively supported the war against Ukraine.",
+    "5": [
+      "Warmongers",
+      "Athletes"
     ]
   },
   {
@@ -12818,7 +13026,7 @@
   {
     "0": "Гозиас (Кроткова) Александра",
     "1": "Gozias (Krotkova) Alexandra",
-    "2": "01.06.1990",
+    "2": "02.06.1990",
     "3": "female",
     "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
@@ -12835,6 +13043,17 @@
     "5": [
       "Key ‘siloviki’ (security forces) figure",
       "Federal Security Services"
+    ]
+  },
+  {
+    "0": "Голиков Антон Вячеславович",
+    "1": "Golikov Anton Vyacheslavovich",
+    "2": "",
+    "3": "male",
+    "4": "Head of the LLC \"K-TELECOM\" (Win Mobile). This Internet provider provided communication services on the territory of Ukraine during the Russian occupation",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -13597,10 +13816,12 @@
     "1": "Gorelkin Anton Vadimovich",
     "2": "22.01.1982",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). Deputy Chairman of the State Duma Committee on Information Policy, Information Technology and Communications",
     "5": [
       "Members of Parliament and Senate",
-      "State Duma"
+      "State Duma",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -13663,12 +13884,14 @@
     "1": "Goreslavsky Alexey Sergeyevich",
     "2": "13.07.1977",
     "3": "male",
-    "4": "Russian journalist and media manager. Helped destroy independent media in Russia when he was appointed the new editor-in-chief of the previously popular independent Lenta.ru in 2014 .\nRussian propagandist: journalist and media manager; works at the state-owned Institute for the Development of Internet that focuses on creating propoganda for the youth of Russia",
+    "4": "Russian journalist and media manager. Helped destroy independent media in Russia when he was appointed the new editor-in-chief of the previously popular independent Lenta.ru in 2014 .\nRussian propagandist: journalist and media manager; works at the state-owned Institute for the Development of Internet that focuses on creating propoganda for the youth of Russia\n\nHead of the Internet Development Institute. Responsible for organizing censorship in the Russian segment of the Internet",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects",
       "Propagandists",
-      "Federal media employees"
+      "Federal media employees",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -14178,6 +14401,17 @@
     ]
   },
   {
+    "0": "Гриб Владислав Валерьевич",
+    "1": "Mushroom Vladislav Valerievich",
+    "2": "16.05.1972",
+    "3": "male",
+    "4": "Deputy Secretary of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Грибанов Борис Иванович",
     "1": "Gribanov Boris Ivanovich",
     "2": "03.08.1957",
@@ -14384,6 +14618,17 @@
     "5": [
       "Key ‘siloviki’ (security forces) figure",
       "National Guard of Russia"
+    ]
+  },
+  {
+    "0": "Гришаев Роман Игоревич",
+    "1": "Grishaev Roman Igorevich",
+    "2": "02.06.1988",
+    "3": "male",
+    "4": "Head of the Line Police Department at the Omsk Airport of the Omsk Line Department of the Ministry of Internal Affairs of Russia for Transport. Was present in the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk on the day of Navalny's hospitalization, trying to illegally seize his belongings. He participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -14980,10 +15225,12 @@
     "1": "Gurtskaya Diana Gudaevna",
     "2": "02.07.1978",
     "3": "Female",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
+      "Presidential proxies in elections",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -15309,6 +15556,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Давыдов Денис Николаевич",
+    "1": "Davydov Denis Nikolaevich",
+    "2": "25.01.1983",
+    "3": "male",
+    "4": "Founder of the Safe Internet League. Responsible for organizing censorship in the Russian segment of the Internet",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -15845,6 +16103,17 @@
     ]
   },
   {
+    "0": "Демидов Олег Михайлович",
+    "1": "Demidov Oleg Mikhailovich",
+    "2": "25.12.1966",
+    "3": "male",
+    "4": "Participated in organizing the attempted murder of Alexei Navalny with the use of chemical weapons and covering up the traces of the crime.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Демидова Екатерина Владимировна",
     "1": "Demidova Ekaterina Vladimirovna",
     "2": "11.12.1960",
@@ -16291,6 +16560,17 @@
     ]
   },
   {
+    "0": "Дзюба Галина Юрьевна",
+    "1": "Dziuba Galina Yurievna",
+    "2": "21.06.1965",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Дзюбан Иван Леонидович",
     "1": "Dziuban Ivan Leonidovich",
     "2": "13.12.1988",
@@ -16443,6 +16723,16 @@
     ]
   },
   {
+    "0": "Дмитриев Владимир Александрович",
+    "1": "Dmitriev Vladimir Alexandrovich",
+    "2": "25.08.1953",
+    "3": "male",
+    "4": "Member of the Board of Directors of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Дмитриев Илья Владимирович",
     "1": "Dmitriev Ilya Vladimirovich",
     "2": "23.05.1974",
@@ -16458,7 +16748,7 @@
     "1": "Dmitriev Kirill Alexandrovich",
     "2": "12.04.1975",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Transneft\nMember of the Board of Directors of PJSC ROSSETI \nMember of the Supervisory Board of PJSC ALROSA\nGeneral Director and member of the Board of Directors of JSC \"Management Company of the Russian Direct Investment Fund\" (\"RDIF\")\nMember of the Board of Directors of OJSC Rostelecom",
+    "4": "Member of the Board of Directors of PJSC Transneft\nMember of the Board of Directors of PJSC ROSSETI \nMember of the Supervisory Board of PJSC ALROSA\nGeneral Director and member of the Board of Directors of JSC Management Company of the Russian Direct Investment Fund (\"RDIF\")\nMember of the Board of Directors of OJSC Rostelecom\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -16844,6 +17134,17 @@
     ]
   },
   {
+    "0": "Доронин Николай Александрович",
+    "1": "Doronin Nikolai Alexandrovich",
+    "2": "05.11.1978",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Доронкин Алексей Сергеевич",
     "1": "Doronkin Alexey Sergeevich",
     "2": "27.06.1978",
@@ -16940,6 +17241,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Древаль Максим Алексеевич",
+    "1": "Dreval Maxim Alekseevich",
+    "2": "06.07.1991",
+    "3": "male",
+    "4": "General Director of the Russian Society \"Znaniye\" [Knowledge], a state-supported propaganda organization.",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -17636,6 +17948,17 @@
     ]
   },
   {
+    "0": "Евдокимов Михаил Валерьевич",
+    "1": "Evdokimov Mikhail Valerievich",
+    "2": "",
+    "3": "male",
+    "4": "Head of the FSB Counter-Terrorism Directorate in Omsk. Handed over Navalny's clothes to Konstantin Kudryavtsev. Participated in the poisoning of Alexei Navalny and covering up traces of the crime. On August 21, he was in the office of the head doctor of the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk during the special operation to deny Nanalny's transportation.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Евдокимова Ольга Васильевна",
     "1": "Evdokimova Olga Vasilievna",
     "2": "",
@@ -17818,6 +18141,17 @@
     "4": "Executive Director of Rostec State Corporation",
     "5": [
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Евтушенков Феликс Владимирович",
+    "1": "Evtushenkov Felix Vladimirovich",
+    "2": "14.11.1978",
+    "3": "male",
+    "4": "Chairman of the board of directors of PJSC \"MTS\" (Mobile TeleSystems) This provider facilitated the installation of TSPU (DPI) on its networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -18187,10 +18521,11 @@
     "1": "Eliseev Ilya Vladimirovich",
     "2": "19.12.1965",
     "3": "male",
-    "4": "He studied with Medvedev at the LSU Law School, they taught together and were even business partners. In the mid-2000s Ilya Eliseev's career took off and he became Deputy Chairman of the Management Committee of Gazprombank. As Deputy Chairman of Gazprom's Management Board, he provided loans worth a total of 31 billion rubles to the Medvedev Fund. He manages the Cyprus offshore Furcina Limited (where Medvedev's yacht Fotinia is registered). Medvedev owns Italian vineyards through this offshore company.",
+    "4": "Studied with Dmitry Medvedev at the LSU Law School, they taught together and were business partners. Became Deputy Chairman of the Management Committee of JSC Gazprombank in the eraly 2000s. As Deputy Chairman of Gazprom's Management Board, provided loans in the total amount of 31 billion rubles to Medvedev's \"charitable foundation\". Manages the Cyprus offshore company Furcina Limited, under which Medvedev's yacht Fotinia is registered. Medvedev also owns his Italian vineyards through this offshore company.\n\nMember of the Board of Directors of JSC Gazprombank\nDeputy Chairman of the Management Board, JSC Gazprombank",
     "5": [
       "Individuals involved in corruption",
-      "ACF investigations subjects"
+      "ACF investigations subjects",
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -18848,6 +19183,17 @@
     ]
   },
   {
+    "0": "Жало Алексей Петрович",
+    "1": "Zhalo Alexey Petrovich",
+    "2": "05.05.1957",
+    "3": "male",
+    "4": "Deputy head of the Service for Defense of Constitutional Order and Fight against Terrorism of the FSB, head of the Department for Defense of Constitutional Order (UZKS) of the FSB, which organized the attempted murder of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Жамансариев А. К.",
     "1": "Zhamansariyev A.K.",
     "2": "",
@@ -18900,6 +19246,17 @@
     "5": [
       "Propagandists",
       "Federal media employees"
+    ]
+  },
+  {
+    "0": "Жаров Александр Александрович",
+    "1": "Zharov Aleksandr Aleksandrovich",
+    "2": "11.08.1964",
+    "3": "male",
+    "4": "CEO of the Gazprom-Media. This media holding owns and manages several significant media assets of Russian propaganda: Russian and international TV channels, radio stations, publications, film companies, Internet resources and sales houses. The holding also owns the Russian video hosting Rutube, which should become a completely government-controlled replacement for YouTube after its blocking.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -20244,6 +20601,16 @@
     ]
   },
   {
+    "0": "Зауэрс Дмитрий Владимирович",
+    "1": "Zauers Dmitry Vladimirovich",
+    "2": "21.08.1979",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Захарихин Сергей Борисович",
     "1": "Zakharikhin Sergey Borisovich",
     "2": "13.05.1962",
@@ -20636,6 +21003,17 @@
     ]
   },
   {
+    "0": "Зима Иван Иванович",
+    "1": "Zima Ivan Ivanovich",
+    "2": "26.08.1971",
+    "3": "male",
+    "4": "Director of Miranda-Media. This Internet provider provided communication services on the territory of Ukraine during the Russian occupation",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Зимарин Кирилл Александрович",
     "1": "Zimarin Kirill Aleksandrovich",
     "2": "16.01.1971",
@@ -20903,6 +21281,17 @@
     ]
   },
   {
+    "0": "Золотухин Дмитрий Викторович",
+    "1": "Zolotukhin Dmitry Viktorovich",
+    "2": "07.08.1978",
+    "3": "male",
+    "4": "Head of the LLC \"CITADEL\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Золотухин Павел Валерьевич",
     "1": "Zolotukhin Pavel Valerievich",
     "2": "",
@@ -20911,6 +21300,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Зорин Владимир Юрьевич",
+    "1": "Zorin Vladimir Yurievich",
+    "2": "09.04.1948",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -21597,6 +21997,17 @@
     ]
   },
   {
+    "0": "Иванов Михаил Александрович",
+    "1": "Ivanov Mikhail Alexandrovich",
+    "2": "15.11.1971",
+    "3": "male",
+    "4": "Head of JSC \"DCOA\" (Data - processing and automation center). The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "ИВАНОВ МИХАИЛ ИГОРЕВИЧ",
     "1": "Ivanov Mikhail Igorevich",
     "2": "16.01.1981",
@@ -21676,13 +22087,15 @@
     "1": "IVANOV Sergey Borisovich",
     "2": "31.01.1953",
     "3": "male",
-    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nSpecial representative of the President of the Russian Federation on environmental protection, ecology and transport. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nChairman of the Board of Directors of OJSC Rostelecom, Member of the Rostec Supervisory Board",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nSpecial representative of the President of the Russian Federation on environmental protection, ecology and transport. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nChairman of the Board of Directors of OJSC Rostelecom, Member of the Rostec Supervisory Board\n\nChairman of the Board of Directors of PJSC Rostelecom. This Internet provider provided communication services on the territory of Ukraine during the Russian occupation through a subsidiary, Miranda-Media, using stolen equipment from Ukrainian providers. Facilitated the installation of TSPU (DPI) on their networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
     "5": [
       "War Arrangers",
       "Security council members",
       "Senior Federal Officials",
       "Executive branch and presidential administration employees",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -21722,7 +22135,7 @@
     "1": "Ivanov Sergey Sergeevich",
     "2": "23.10.1980",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\n\nPerforms the functions of the sole executive body of PJSC ALROSA.\nMember of the collegial executive body of PJSC ALROSA.\nMember of the Supervisory Board of PJSC ALROSA\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
+    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\n\nPerforms the functions of the sole executive body of PJSC ALROSA.\nMember of the collegial executive body of PJSC ALROSA.\nMember of the Supervisory Board of PJSC ALROSA\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine\n\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -21946,6 +22359,17 @@
     ]
   },
   {
+    "0": "Ивлев Андрей Анатольевич",
+    "1": "Ivlev Andrey Anatolievich",
+    "2": "",
+    "3": "male",
+    "4": "Propagandist. TV presenter of the program Vesti Dezhurnaya chast on Russia-1 TV channel",
+    "5": [
+      "Propagandists",
+      "Federal media"
+    ]
+  },
+  {
     "0": "Ивлев Леонид Григорьевич",
     "1": "Ivlev Leonid Grigorievich",
     "2": "1.05.1953",
@@ -22146,6 +22570,17 @@
     ]
   },
   {
+    "0": "Изотов Кирилл Николаевич",
+    "1": "Izotov Kirill Nikolaevich",
+    "2": "09.10.1971",
+    "3": "male",
+    "4": "Head of ANO \"Rosniiros\" (Russian Research Institute for the Development of Public Networks). Participated in the formation of a national system for routing Internet traffic in Russia within the framework of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Иканин Дмитрий Викторович",
     "1": "Ikanin Dmitry Viktorovich",
     "2": "",
@@ -22337,6 +22772,17 @@
     "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"KALININGRAD\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Chief editors and management of regional TV channels"
+    ]
+  },
+  {
+    "0": "Ильина Полина Вячеславовна",
+    "1": "Ilyina Polina Vyacheslavovna",
+    "2": "23.08.1987",
+    "3": "female",
+    "4": "Forensic expert who was present at the seizure of Navalny's clothes by the Omsk transport police. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -22727,6 +23173,17 @@
     ]
   },
   {
+    "0": "Исмаилов Рашид Рустамович",
+    "1": "Ismailov Rashid Rustamovich",
+    "2": "02.11.1965",
+    "3": "male",
+    "4": "Former director of the JSC \"DCOA\" (Data - processing and automation center). The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Истомин Дмитрий Иванович",
     "1": "Istomin Dmitry Ivanovich",
     "2": "",
@@ -22746,6 +23203,17 @@
     "5": [
       "Warmongers",
       "Artists"
+    ]
+  },
+  {
+    "0": "Ишмуратова Светлана Ирековна",
+    "1": "Ishmuratova Svetlana Irekovna",
+    "2": "20.04.1972",
+    "3": "female",
+    "4": "Russian biathlete. Deputy head of CSKA (Central Army Sports Club) for personnel work. Colonel of the Russian Armed Forces. One of the leaders of the Young Army Cadets National Movement (Yunarmiya), a Russian children's organization that supports the current political regime and the aggressive war against Ukraine.",
+    "5": [
+      "Warmongers",
+      "Athletes"
     ]
   },
   {
@@ -22838,6 +23306,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Кабаков Александр Владимирович",
+    "1": "Kabakov Alexander Vladimirovich",
+    "2": "08.04.1987",
+    "3": "male",
+    "4": "Co-founder of the NTechLab. The company develops algorithms for automatic recognition of faces, silhouettes, numbers and images and sells its developments to the Government of the Russian Federation. NTechLab technologies help law enforcement agencies identify and arrest civilians at peaceful protests, and then fabricate politically motivated cases against them.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -23380,6 +23859,17 @@
     ]
   },
   {
+    "0": "Калашников Василий Анатольевич",
+    "1": "Kalashnikov Vasily Anatolievich",
+    "2": "11.01.1975",
+    "3": "male",
+    "4": "Employee of the FSB Criminalistics Institute, expert in the field of gas chromatography / mass spectrometry (this method reveals metabolites of nerve agents in biological samples). Participated in the poisoning of Alexei Navalny and covering up traces of the crime. Went to Omsk with Konstantin Kudryavtsev to process Navalny's clothes.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Калашников Виктор Дмитриевич",
     "1": "Kalashnikov Viktor Dmitrievich",
     "2": "26.05.1963",
@@ -23524,6 +24014,17 @@
     "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"IVTELERADIO\"STATE TELEVISION AND RADIO BROADCASTING COMPANY \"IVTELERADIO\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Chief editors and management of regional TV channels"
+    ]
+  },
+  {
+    "0": "Калиниченко Анатолий Александрович",
+    "1": "Kalinichenko Anatoly Alexandrovich",
+    "2": "31.05.1973",
+    "3": "male",
+    "4": "Deputy Chief Physician for Medical Aid of the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk. Talking to the press, he stated that poisoning was practically out of the question. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -23730,6 +24231,16 @@
     ]
   },
   {
+    "0": "Камышев Денис Валентинович",
+    "1": "Kamyshev Denis Valentinovich",
+    "2": "28.05.1905",
+    "3": "male",
+    "4": "First Vice President and Member of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Канаев Алексей Валерианович",
     "1": "Kanaev Alexey Valerianovich",
     "2": "30.09.1971",
@@ -23851,6 +24362,16 @@
     "5": [
       "Warmongers",
       "Educators"
+    ]
+  },
+  {
+    "0": "Каплунник Ирина Александровна",
+    "1": "Kaplunnik Irina Alexandrovna",
+    "2": "22.05.1905",
+    "3": "male",
+    "4": "First Vice President and Member of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -24301,17 +24822,6 @@
     ]
   },
   {
-    "0": "Карпов А. В.",
-    "1": "Karpov A.V.",
-    "2": "",
-    "3": "male",
-    "4": "Judge of the Kirovsky District Court of Tomsk. Refused to satisfy the complaint about declaring illegal the inaction of officials on the application for the poisoning of Alexei Navalny",
-    "5": [
-      "Organizers of political repressions",
-      "Judges, prosecutors, state investigators, etc"
-    ]
-  },
-  {
     "0": "Карпов Александр Владимирович",
     "1": "Karpov Alexander Vladimirovich",
     "2": "05.05.1966",
@@ -24320,6 +24830,16 @@
     "5": [
       "Key ‘siloviki’ (security forces) figure",
       "Federal Security Services"
+    ]
+  },
+  {
+    "0": "Карпов Алексей Владимирович",
+    "1": "Karpov Alexey Vladimirovich",
+    "2": "",
+    "3": "male",
+    "4": "Judge of the Kirovsky District Court of Tomsk. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons. Refused to consider complaints about the inaction of the Tomsk transport police and the refusal to initiate a criminal case.",
+    "5": [
+      "ACF investigations subjects"
     ]
   },
   {
@@ -25275,11 +25795,13 @@
     "1": "Kirienko Vladimir Sergeyevich",
     "2": "27.05.1983",
     "3": "male",
-    "4": "Son of Kirienko Sergey Vladilenovich who is the First Deputy Head of the Presidential Administration of the Russian Federation. He is CEO of VKontakte.\n\nFirst Vice President of OJSC Rostelecom",
+    "4": "Son of Kirienko Sergey Vladilenovich who is the First Deputy Head of the Presidential Administration of the Russian Federation. He is CEO of VKontakte.\n\nFirst Vice President of OJSC Rostelecom\n\nHead of the LLC VK (ultimate owner of VK Company Limited). The holding owns many Internet resources controlled by the Russian authorities (VK, Odnoklassniki, and Moi Mir social networks, Mail.ru Internet portal, search engine and e-mail service, ICQ and Tam Tam messengers), which should become a replacement for their foreign counterparts after the latter are blocked. In addition, social networks and services owned by the company have a dubious policy regarding user data, providing it to law enforcement agencies on demand.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -25315,6 +25837,17 @@
     "5": [
       "Propagandists",
       "Federal media"
+    ]
+  },
+  {
+    "0": "Кириллов Александр Андреевич",
+    "1": "Kirillov Alexander Andreevich",
+    "2": "25.01.1982",
+    "3": "male",
+    "4": "Head of the LLC \"MFI Soft\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -25809,6 +26342,17 @@
     ]
   },
   {
+    "0": "Клименко Герман Сергеевич",
+    "1": "Klimenko German Sergeevich",
+    "2": "07.12.1966",
+    "3": "male",
+    "4": "Notable figure in the Russian IT industry. Former adviser to the President of the Russian Federation on Internet development programs. Supporter of state censorship on the Russian Internet and isolation of the network. Active supporter of Vladimir Putin.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Клименко Елена Викторовна",
     "1": "Klimenko Elena Viktorovna",
     "2": "22.06.1981",
@@ -26080,19 +26624,10 @@
     "1": "Knyazev Evgeny Vladimirovich",
     "2": "09.08.1955",
     "3": "Male",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nRector of the Boris Shchukin Theatre Institute. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
-    ]
-  },
-  {
-    "0": "Князев Евгений Владимирович",
-    "1": "Knyazev Evgeny Vladimirovich",
-    "2": "09.08.1955",
-    "3": "male",
-    "4": "Rector of the Boris Shchukin Theatre Institute. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
-    "5": [
+      "Presidential proxies in elections",
       "Warmongers",
       "Educators"
     ]
@@ -26171,6 +26706,17 @@
     "4": "First Deputy General Director of PJSC Russian Railways (PAO RZhD)",
     "5": [
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Кобзий Владимир Викторович",
+    "1": "Kobziy Vladimir Viktorovich",
+    "2": "12.04.1980",
+    "3": "male",
+    "4": "Acting Head of Police Department №1 of the Directorate of the Ministry of Internal Affairs in the city of Omsk. Was present in the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk during the special operation to deny Navalny's transportation. Did not allow Yulia Navalnaya to talk to the German doctors and used force. Participated in covering up traces of the crime following the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -27320,6 +27866,16 @@
     ]
   },
   {
+    "0": "Команов Виктор Алексеевич",
+    "1": "Komanov Viktor Alekseevich",
+    "2": "05.08.1973",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Комаров Алексей Александрович",
     "1": "Komarov Alexey Alexandrovich",
     "2": "30.06.1979",
@@ -28450,6 +29006,17 @@
     ]
   },
   {
+    "0": "Корсик Константин Анатольевич",
+    "1": "Korsik Konstantin Anatolievich",
+    "2": "03.10.1964",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Корчевников Борис Вячеславович",
     "1": "Korchevnikov Boris Vyacheslavovich",
     "2": "20.07.1982",
@@ -28745,6 +29312,17 @@
     ]
   },
   {
+    "0": "Костомаров Роман Сергеевич",
+    "1": "Kostomarov Roman Sergeevich",
+    "2": "08.02.1977",
+    "3": "male",
+    "4": "Russian figure skater. He actively welcomed the beginning of the war with Ukraine, supported the actions of the Russian authorities.",
+    "5": [
+      "Warmongers",
+      "Athletes"
+    ]
+  },
+  {
     "0": "КОСТЫЛЕВ АЛЕКСЕЙ ВЛАДЕЛЕНОВИЧ",
     "1": "KOSTYLEV ALEXEY VLADELENOVICH",
     "2": "-",
@@ -28852,17 +29430,6 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
-    ]
-  },
-  {
-    "0": "Костюшкина Юлия",
-    "1": "Kostyushkina Julia",
-    "2": "22.05.1980",
-    "3": "female",
-    "4": "Athlete. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -29260,6 +29827,17 @@
     ]
   },
   {
+    "0": "Кравченко Наталья Васильевна",
+    "1": "Kravchenko Natalya Vasilievna",
+    "2": "1982",
+    "3": "female",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Кравченко Николай Васильевич",
     "1": "Kravchenko Nikolay Vasilievich",
     "2": "09.10.1952",
@@ -29626,6 +30204,17 @@
     ]
   },
   {
+    "0": "Кривенко Татьяна Олеговна",
+    "1": "Krivenko Tatyana Olegovna",
+    "2": "30.03.1964",
+    "3": "female",
+    "4": "Deputy Chairman of the Civic Chamber of Moscow - a collegiate public body that imitates public support for the actions of the Russian authorities in the capital of the Russian Federation.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Кривоногих Надежда Михайловна",
     "1": "Krivonogih Nadezhda Mikhailovna",
     "2": "10.07.1952",
@@ -29767,17 +30356,6 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
-    ]
-  },
-  {
-    "0": "Крикун Дмитрий",
-    "1": "Krikun Dmitry",
-    "2": "14.09.1994",
-    "3": "male",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -30313,11 +30891,11 @@
     ]
   },
   {
-    "0": "Кудрявцева Мария",
-    "1": "Kudryavtseva Maria",
-    "2": "",
+    "0": "Кудрявцева Мария Владимировна",
+    "1": "Kudryavtseva Maria Vladimirovna",
+    "2": "18.12.1986",
     "3": "Female",
-    "4": "Propagandist. Presenter at the Russia 24 TV channel.",
+    "4": "Propagandist. Presenter on Russia-24 TV channel.",
     "5": [
       "Propagandists",
       "Federal media"
@@ -30934,6 +31512,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Куклев Михаил Юрьевич",
+    "1": "Kuklev Mikhail Yurievich",
+    "2": "24.01.1981",
+    "3": "male",
+    "4": "Employee of the FSB Criminalistics Institute. Scientist, expert in detecting traces of chemical weapons. Actively communicated with Stanislav Makshakov during the operation to poison Navalny.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -31693,6 +32282,17 @@
     ]
   },
   {
+    "0": "Кухаренко Артем Игоревич",
+    "1": "Kukharenko Artem Igorevich",
+    "2": "13.02.1990",
+    "3": "male",
+    "4": "Programmer, developer of the FindFace face recognition service algorithm, founder and former CEO of NTechLab. The company develops algorithms for automatic recognition of faces, silhouettes, numbers and images and sells its developments to the Government of the Russian Federation. NTechLab technologies help law enforcement agencies identify and arrest civilians at peaceful protests, and then fabricate politically motivated cases against them.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Куц Анатолий Владимирович",
     "1": "Kuts Anatoly Vladimirovich",
     "2": "12.09.1957",
@@ -32201,6 +32801,17 @@
     ]
   },
   {
+    "0": "Лапшина (Ласточкина) Алёна",
+    "1": "Lapshina (Lastochkina) Alyona",
+    "2": "23.01.1983",
+    "3": "female",
+    "4": "Propagandist. News anchor on Channel One Russia",
+    "5": [
+      "Propagandists",
+      "Federal media"
+    ]
+  },
+  {
     "0": "Ларин Александр Михайлович",
     "1": "Larin Alexander Mikhailovich",
     "2": "18.05.1975",
@@ -32649,6 +33260,17 @@
     ]
   },
   {
+    "0": "Левин Леонид Леонидович",
+    "1": "Levin Leonid Leonidovich",
+    "2": "02.09.1974",
+    "3": "male",
+    "4": "Deputy Chief of Staff of the Government of the Russian Federation, ex-Deputy of the State Duma, Former chairman of the State Duma Committee on Information Policy, Information Technologies and Communications. One of the authors of the amendments that allow recognition of individuals as a \"foreign agents\". Supporter of state censorship on the Russian Internet and network isolation.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Левин Сергей Львович",
     "1": "Levin Sergey Lvovich",
     "2": "06.08.1965",
@@ -33064,6 +33686,17 @@
     ]
   },
   {
+    "0": "Лесовский Ярослав Алексеевич",
+    "1": "Lesovsky Yaroslav Alekseevich",
+    "2": "09.09.1968",
+    "3": "male",
+    "4": "Deputy Minister of Regional Policy and Mass Communications of the Omsk Oblast - Head of the Department of Information and Legal Support, Personnel Policy and Public Service. Participated in covering up traces of the crime following the poisoning of Alexei Navalny with the use of chemical weapons. as present in the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk during the special operation to deny Navalny's transportation and talked with the hospital management while wearing a medical gown and pretending to be a doctor.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Лесун Анатолий Фёдорович",
     "1": "Lesun Anatoly Fedorovich",
     "2": "27.02.1959",
@@ -33159,6 +33792,17 @@
     "5": [
       "Key Local Government Officials",
       "Speakers of the regional legislative assemblies"
+    ]
+  },
+  {
+    "0": "Лизунов Алексей Михайлович",
+    "1": "Lizunov Alexei Mikhailovich",
+    "2": "25.01.1975",
+    "3": "male",
+    "4": "Head of the LLC \"Signatech\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -35207,6 +35851,17 @@
     ]
   },
   {
+    "0": "Максимов Андрей Николаевич",
+    "1": "Maksimov Andrey Nikolaevich",
+    "2": "05.09.1977",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Максимов Виталий Эдуардович",
     "1": "Maksimov Vitaly Eduardovich",
     "2": "01.09.1979",
@@ -35453,17 +36108,6 @@
   },
   {
     "0": "Малышев Владимир Сергеевич",
-    "1": "Malyshev Vladimir Sergeevich",
-    "2": "11.11.1949",
-    "3": "male",
-    "4": "Rector of the All-Russian State Institute of Cinematography. Signed the Appeal of the Association of Educational Institutions of Art and Culture in support of the war in Ukraine",
-    "5": [
-      "Warmongers",
-      "Educators"
-    ]
-  },
-  {
-    "0": "Малышев Владимир Сергеевич",
     "1": "Malyshev Vladimir Sergeyevich (Malyshev Vladimir Sergeevich)",
     "2": "11.11.1949",
     "3": "male",
@@ -35576,14 +36220,13 @@
     ]
   },
   {
-    "0": "Малютина Илона Константиновна",
-    "1": "Malyutina Ilona Konstantinovna",
-    "2": "",
+    "0": "Малютина Илона Констатиновна",
+    "1": "Malyutina Ilona Konstatinovna",
+    "2": "08.03.1969",
     "3": "female",
-    "4": "Prosecutor of the Office of the General Prosecutor's Office of Russia. Involved in the case against Ukrainian activist Oleksandr Kolchenko. Involved in sabotaging the investigation into the poisoning of Alexei Navalny",
+    "4": "Senior Prosecutor of the Administration Department of the Prosecutor General's Office of the Russian Federation. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons. Participated in the meeting of the Lefortovsky District Court of Moscow, which refused to satisfy the complaint about the inaction of the FSB Office of Criminal Investigations.",
     "5": [
-      "Organizers of political repressions",
-      "Judges, prosecutors, state investigators, etc"
+      "ACF investigations subjects"
     ]
   },
   {
@@ -36334,6 +36977,16 @@
     ]
   },
   {
+    "0": "Матвеев Алексей Анатольевич",
+    "1": "Matveev Alexey Anatolievich",
+    "2": "21.12.1963",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Матвеев Георгий Николаевич",
     "1": "Matveev Georgy Nikolaevich",
     "2": "",
@@ -36359,10 +37012,12 @@
     "1": "Matveychev Oleg Anatolievich",
     "2": "1.02.1970",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). Deputy Chairman of the State Duma Committee on Information Policy, Information Technology and Communications",
     "5": [
       "Members of Parliament and Senate",
-      "State Duma"
+      "State Duma",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -36589,6 +37244,17 @@
     "5": [
       "Key Local Government Officials",
       "Speakers of the regional legislative assemblies"
+    ]
+  },
+  {
+    "0": "Машбаш Исхак Шумафович",
+    "1": "Mashbash Iskhak Shumafovich",
+    "2": "28.05.1930",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -37480,10 +38146,12 @@
     "1": "Mizulina Ekaterina Mikhailovna",
     "2": "22.04.1984",
     "3": "female",
-    "4": "Daughter of Elena Mizulina. Head of the Safe Internet League and concurrently a member of the Russian Public Chamber.",
+    "4": "Daughter of Elena Mizulina. Head of the Safe Internet League and concurrently a member of the Russian Public Chamber.\n\nHead of the Safe Internet League and concurrently a member of the Russian Public Chamber. Responsible for organizing censorship in the Russian segment of the Internet. Actively supports Russian military aggression against Ukraine",
     "5": [
       "Individuals involved in corruption",
-      "ACF investigations subjects"
+      "ACF investigations subjects",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -37491,14 +38159,16 @@
     "1": "Mizulina Elena Borisovna",
     "2": "09.12.1954",
     "3": "female",
-    "4": "Member of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.\n\nMember of the Federation Council of the Federal Assembly of the Russian Federation.\n\nRussian propagandist: Russian Federation Council member; author of the Russian Internet Regulations that are being used to censor independent media and prevent the population from learning the real information about the war in Ukraine",
+    "4": "Member of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.\n\nMember of the Federation Council of the Federal Assembly of the Russian Federation.\n\nRussian propagandist: Russian Federation Council member; author of the Russian Internet Regulations that are being used to censor independent media and prevent the population from learning the real information about the war in Ukraine\n\nOne of the authors of the law on black lists. Responsible for organizing censorship in the Russian segment of the Internet",
     "5": [
       "Members of Parliament and Senate",
       "Federation Council",
       "Individuals involved in corruption",
       "ACF investigations subjects",
       "Propagandists",
-      "Federal media employees"
+      "Federal media employees",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -37549,11 +38219,13 @@
     "1": "Miller Alexey Borisovich",
     "2": "31.01.1962",
     "3": "male",
-    "4": "Chairman of the Management Board of PJSC Gazprom. Money laundering in favor of Putin.\n\nChairman of the Board of Directors of PJSC Gazprom; Person acting as the sole executive body of PJSC Gazprom\n\nInvolved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Chairman of the Management Board of PJSC Gazprom. Money laundering in favor of Putin.\n\nChairman of the Board of Directors of PJSC Gazprom; Person acting as the sole executive body of PJSC Gazprom\n\nChairman of the Board of Directors of Bank JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.\n\nChairman of the Board of Directors of Gazprom-Media. This media holding owns and manages several significant media assets of Russian propaganda: Russian and international TV channels, radio stations, publications, film companies, Internet resources and sales houses. The holding also owns the Russian video hosting Rutube, which should become a completely government-controlled replacement for YouTube after blocking.",
     "5": [
       "Individuals involved in corruption",
       "ACF investigations subjects",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -37895,6 +38567,17 @@
     "5": [
       "Propagandists",
       "Federal media"
+    ]
+  },
+  {
+    "0": "Мирошников Борис Николаевич",
+    "1": "Miroshnikov Boris Nikolaevich",
+    "2": "12.10.1950",
+    "3": "male",
+    "4": "Vice President of the LLC \"CITADEL\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -38375,8 +39058,10 @@
     "1": "Mikheeva Lidia Yurievna",
     "2": "17.05.1971",
     "3": "Female",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Secretary of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin",
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
     ]
@@ -38900,6 +39585,17 @@
     ]
   },
   {
+    "0": "Морозов Евгений Николаевич",
+    "1": "Morozov Evgeny Nikolaevich",
+    "2": "30.06.1981",
+    "3": "male",
+    "4": "Head of JSC \"CVKS \"MSK-IX\" (Interaction Center for Computer Networks MSK-IX). Participated in the formation of a national system for routing Internet traffic in Russia within the framework of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Морозов Игорь Николаевич",
     "1": "Morozov Igor Nikolaevich",
     "2": "10.12.1956",
@@ -39318,6 +40014,16 @@
     ]
   },
   {
+    "0": "Муранов Александр Юрьевич",
+    "1": "Muranov Alexander Yurievich",
+    "2": "14.07.1958",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Муратов Рустам Хамитович",
     "1": "Muratov Rustam Khamitovich",
     "2": "12.03.1980",
@@ -39365,12 +40071,13 @@
     "0": "Мурашко Михаил Альбертович",
     "1": "Murashko Mikhail Albertovich",
     "2": "09.01.1967",
-    "3": "Male",
-    "4": "Minister of Health of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Supervisory Board of Rostec State Corporation.",
+    "3": "male",
+    "4": "Minister of Health of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Supervisory Board of Rostec State Corporation.\n\nParticipated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -39767,6 +40474,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Нагорный Дмитрий Геннадьевич",
+    "1": "Nagorny Dmitry Gennadievich",
+    "2": "19.03.1972",
+    "3": "male",
+    "4": "Head of the KTK TELECOM LLC (Volna Mobile). This Internet provider provided communication services on the territory of Ukraine during the Russian occupation",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -40361,6 +41079,17 @@
     ]
   },
   {
+    "0": "Невзоров Виктор Викторович",
+    "1": "Nevzorov Viktor Viktorovich",
+    "2": "17.07.1975",
+    "3": "male",
+    "4": "Head of the LLC \"Special Technologies\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Невоструев Владимир Петрович",
     "1": "Nevostruev Vladimir Petrovich",
     "2": "04.11.1959",
@@ -40515,19 +41244,10 @@
     "1": "Nekrasov Sergey Gennadievich",
     "2": "13.10.1964",
     "3": "Male",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nSigned the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
-    ]
-  },
-  {
-    "0": "Некрасов Сергей Геннадьевич",
-    "1": "Nekrasov Sergey Gennadievich",
-    "2": "13.10.1964",
-    "3": "male",
-    "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine",
-    "5": [
+      "Presidential proxies in elections",
       "Sellout opinion leaders",
       "Public supporters of Putin"
     ]
@@ -40602,10 +41322,12 @@
     "1": "Nemkin Anton Igorevich",
     "2": "22.08.1983",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). Memder of the State Duma Committee on Information Policy, Information Technology and Communications",
     "5": [
       "Members of Parliament and Senate",
-      "State Duma"
+      "State Duma",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -40716,6 +41438,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Нестеренко Руслан Васильевич",
+    "1": "Nesterenko Ruslan Vasilievich",
+    "2": "01.10.1977",
+    "3": "male",
+    "4": "Acting Director of the FSUE \"GRFC\" (General Radio Frequency Center). GRFC is subordinated to Roskomnadzor. Engaged in the technical implementation of blockings in the Russian segment of the Internet",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -40860,6 +41593,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Нигородова Елена Владимировна",
+    "1": "Nigorodova Elena Vladimirovna",
+    "2": "14.05.1980",
+    "3": "female",
+    "4": "Deputy Head of the Investigation Department of the Omsk Line Internal Affairs Department for Transport, Lieutenant Colonel of Justice. Was present in the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk on the day of Navalny's hospitalization, tried to illegally confiscate his personal belongings, put pressure on Yulia Navalnaya and Alexei's associates. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -41205,6 +41949,17 @@
     "5": [
       "Warmongers",
       "Artists"
+    ]
+  },
+  {
+    "0": "Николаев Вячеслав Константинович",
+    "1": "Nikolaev Vyacheslav Konstantinovich",
+    "2": "15.10.1970",
+    "3": "male",
+    "4": "President of PJSC \"MTS\" (Mobile TeleSystems). This provider facilitated the installation of TSPU (DPI) on its networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -41667,17 +42422,6 @@
     ]
   },
   {
-    "0": "Новоселов Максим",
-    "1": "Novoselov Maxim",
-    "2": "15.05.1973",
-    "3": "male",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
-    ]
-  },
-  {
     "0": "Новосельцев Геннадий Станиславович",
     "1": "Novoseltsev Gennady Stanislavovich",
     "2": "19.08.1974",
@@ -42102,6 +42846,17 @@
     ]
   },
   {
+    "0": "Овчинников Сергей Анатольевич",
+    "1": "Ovchinnikov Sergei Anatolievich",
+    "2": "05.05.1955",
+    "3": "male",
+    "4": "Head of the CJSC \"NT\" (Norsi-Trans). The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Овчинский Владимир Семёнович",
     "1": "Ovchinsky Vladimir Semyonovich",
     "2": "23.02.1955",
@@ -42212,6 +42967,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Озадовский Андрей Андреевич",
+    "1": "Ozadovsky Andrey Andreevich",
+    "2": "01.11.1966",
+    "3": "male",
+    "4": "Head of JSC \"Krymtelecom\". This Internet provider provided communication services on the territory of Ukraine during the Russian occupation",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -42779,6 +43545,17 @@
     ]
   },
   {
+    "0": "Осеевский Михаил Эдуардович",
+    "1": "Oseevsky Mikhail Eduardovich",
+    "2": "30.11.1960",
+    "3": "male",
+    "4": "President of PJSC Rostelecom. This Internet provider provided communication services on the territory of Ukraine during the Russian occupation through a subsidiary, Miranda-Media, using stolen equipment from Ukrainian providers. Facilitated the installation of TSPU (DPI) on their networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Осинников Андрей Владиславович",
     "1": "Osinnikov Andrei Vladislavovich",
     "2": "",
@@ -43304,17 +44081,6 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
-    ]
-  },
-  {
-    "0": "Палецких Карина",
-    "1": "Paletskikh Karina",
-    "2": "25.07.1985",
-    "3": "female",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -44989,11 +45755,13 @@
     "0": "Пиотровский Михаил Борисович",
     "1": "Piotrovsky Mikhail Borisovich",
     "2": "09.12.1944",
-    "3": "Male",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "3": "male",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nPublicly supported the aggressive war against Ukraine and the actions of Vladimir Putin's regime",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
+      "Presidential proxies in elections",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -45419,6 +46187,17 @@
     ]
   },
   {
+    "0": "Плющев Владимир Анатольевич",
+    "1": "Plyuschev Vladimir Anatolievich",
+    "2": "02.08.1955",
+    "3": "male",
+    "4": "Russian hockey coach. He supported the actions of the Russian authorities to recognize the independence of the Donetsk People's Republic and the Luhansk People's Republic, which was the first step in the war with Ukraine in 2022.",
+    "5": [
+      "Warmongers",
+      "Athletes"
+    ]
+  },
+  {
     "0": "Плющенко Евгений Викторович",
     "1": "Plushchenko Evgeny Viktorovich",
     "2": "03.11.1982",
@@ -45517,10 +46296,12 @@
     "1": "Pogosyan Mikhail Aslanovich",
     "2": "18.04.1956",
     "3": "male",
-    "4": "Rector of the Moscow Aviation Institute. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
+    "4": "Rector of the Moscow Aviation Institute. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.\n\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Warmongers",
-      "Educators"
+      "Educators",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -45532,6 +46313,17 @@
     "5": [
       "Sellout opinion leaders",
       "Celebrities, influencers and bloggers"
+    ]
+  },
+  {
+    "0": "Погудина Ирина Вадимовна",
+    "1": "Pogudina Irina Vadimovna",
+    "2": "23.12.1994",
+    "3": "female",
+    "4": "Investigator of the Investigation Department of the Omsk Linear Directorate of the Ministry of Internal Affairs of Russia for Transport. She was in Emergency Hospital No. 1 on the day of Navalny's hospitalization, confiscated his clothes, tried to illegally seize his other belongings. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -46389,6 +47181,17 @@
     ]
   },
   {
+    "0": "Помбухчан Хачатур Эдуардович",
+    "1": "Pombukhchan Khachatur Eduardovich",
+    "2": "16.03.1974",
+    "3": "male",
+    "4": "Head of PJSC MegaFon. This Internet provider facilitated the installation of TSPU (DPI) on its networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Помигалова Ольга Александровна",
     "1": "Pomigalova Olga Alexandrovna",
     "2": "28.11.1977",
@@ -46605,14 +47408,16 @@
     "1": "Popov Evgeny Georgievich",
     "2": "11.09.1978",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nInfluential Russian propagandist. Host of “60 Minutes” show on Rossiya-1 where he spread anti-Ukrainian propaganda and “Russian world” ideology, i.e., claiming that President Zelensky is about to start exterminating civilian populations. Since 2021 State Duma deputy.\n\nRussian propagandist: co-host of talk show 60 Minutes (with his wife Olga Skabeeva) on Russia 1 TV channel; deputy of the State Duma; deputy chairman of the Russian State Duma Committee on Information Policy, Information Technology and Communications; deputy co-chairman of the Interparliamentary Group of the Russian Federation",
+    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nInfluential Russian propagandist. Host of “60 Minutes” show on Rossiya-1 where he spread anti-Ukrainian propaganda and “Russian world” ideology, i.e., claiming that President Zelensky is about to start exterminating civilian populations. Since 2021 State Duma deputy.\n\nRussian propagandist: co-host of talk show 60 Minutes (with his wife Olga Skabeeva) on Russia 1 TV channel; deputy of the State Duma; deputy chairman of the Russian State Duma Committee on Information Policy, Information Technology and Communications; deputy co-chairman of the Interparliamentary Group of the Russian Federation\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). Deputy Chairman of the State Duma Committee on Information Policy, Information Technology and Communications",
     "5": [
       "Members of Parliament and Senate",
       "State Duma",
       "Individuals involved in corruption",
       "ACF investigations subjects",
       "Propagandists",
-      "Federal media employees"
+      "Federal media employees",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -46785,10 +47590,20 @@
     "1": "Popova Julia Mikhailovna",
     "2": "",
     "3": "female",
-    "4": "Employee of the West Siberian Investigative Department for Transport of the Investigative Committee (now — head of the Fourth Department of the Control and Investigation Department of the Eastern Interregional Investigation Department for Transport of the Investigative Committee), Major of Justice. Involved in the refusal to conduct an investigation into the attempted murder of Navalny.",
+    "4": "Employee of the West Siberian Investigative Department for Transport of the Investigative Committee (now — head of the Fourth Department of the Control and Investigation Department of the Eastern Interregional Investigation Department for Transport of the Investigative Committee), Major of Justice. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons. Involved in the refusal to conduct an investigation into the attempted murder of Navalny.",
     "5": [
-      "Organizers of political repressions",
-      "Judges, prosecutors, state investigators, etc"
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
+    "0": "Попович Алексей Валерьевич",
+    "1": "Popovich Alexey Valerievich",
+    "2": "02.09.1987",
+    "3": "male",
+    "4": "First Vice President and Member of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -46877,6 +47692,17 @@
     "5": [
       "“United Russia” party Functionaries",
       "Federal and regional party leaders"
+    ]
+  },
+  {
+    "0": "Пособин Олег",
+    "1": "Posobin Oleg",
+    "2": "03.01.1977",
+    "3": "male",
+    "4": "Propagandist. TV presenter of the program Vesti Dezhurnaya chast on Russia-1 TV channel",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -47122,10 +47948,12 @@
     "1": "Pochinok Natalya Borisovna",
     "2": "04.07.1976",
     "3": "Female",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Putin’s Public Supporters",
-      "Presidential proxies in elections"
+      "Presidential proxies in elections",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -48315,17 +49143,6 @@
     ]
   },
   {
-    "0": "Раевский Дмитрий",
-    "1": "Rayevsky Dmitriy",
-    "2": "15.11.1974",
-    "3": "male",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
-    ]
-  },
-  {
     "0": "Развожаев Михаил Владимирович",
     "1": "Razvozhayev Mikhail Vladimirovich",
     "2": "30.12.1980",
@@ -48880,6 +49697,17 @@
     ]
   },
   {
+    "0": "Ремчуков Константин Вадимович",
+    "1": "Remchukov Konstantin Vadimovich",
+    "2": "21.11.1954",
+    "3": "male",
+    "4": "Chairman of the Civic Chamber of Moscow - a collegiate public body that imitates public support for the actions of the Russian authorities in the capital of the Russian Federation.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Рень Виктор Алексеевич",
     "1": "Ren Viktor Alekseevich",
     "2": "18.05.1951",
@@ -49168,6 +49996,17 @@
     ]
   },
   {
+    "0": "Родионова Елена Геннадьевна",
+    "1": "Rodionova Elena Gennadievna",
+    "2": "29.08.1974",
+    "3": "female",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
     "0": "Родионова Ольга Николаевна",
     "1": "Rodionova Olga Nikolaevna",
     "2": "29.12.1971",
@@ -49222,6 +50061,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Рожкевич Александр Сергеевич",
+    "1": "Rozhkevich Alexander Sergeevich",
+    "2": "17.02.1985",
+    "3": "male",
+    "4": "Head of the LLC \"ADM systems\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -50030,6 +50880,16 @@
     ]
   },
   {
+    "0": "Русанов Игорь Валерьевич",
+    "1": "Rusanov Igor Valerievich",
+    "2": "23.05.1905",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Русанов Юрий Сергеевич",
     "1": "Rusanov Yury Sergeevich",
     "2": "04.01.1968",
@@ -50145,6 +51005,17 @@
     "5": [
       "Propagandists",
       "Regional press"
+    ]
+  },
+  {
+    "0": "Рыбальченко Сергей Игоревич",
+    "1": "Rybalchenko Sergey Igorevich",
+    "2": "14.12.1963",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -50310,6 +51181,16 @@
     "2": "",
     "3": "male",
     "4": "Senior Vice President for Organizational Development and HR Management of OJSC Rostelecom",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Рыскин Владимир Маркович",
+    "1": "Ryskin Vladimir Markovich",
+    "2": "13.09.1961",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -50560,6 +51441,17 @@
     ]
   },
   {
+    "0": "Сабаев Александр Владимирович",
+    "1": "Sabaev Alexander Vladimirovich",
+    "2": "12.09.1974",
+    "3": "male",
+    "4": "Chief toxicologist of the Omsk Oblast and the Siberian Federal District, Head of the Acute Poisoning Department of the City Clinical Emergency Hospital №1 (BSMP-1) in Omsk. Did not tell Alexei's associates the results of his tests after hospitalization, repeatedly stated that poisoning was absolutely out of the question, and put forward various versions of what happened to Alexei, from the consequences of diets to alcohol excesses, knowing that they were not true. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Сабанов Ф. Г.",
     "1": "Sabanov F. G.",
     "2": "",
@@ -50597,11 +51489,13 @@
     "1": "Sabitov Rifat Abdulvagapovich",
     "2": "30.04.1956",
     "3": "male",
-    "4": "Russian propagandist: deputy director general and director of regional programming at VGTRK; Chairman of the Commission of the Civic Chamber of Russia for the Development of Mass Media and Mass Communications\n\nDirector, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"SAMARA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Russian propagandist: deputy director general and director of regional programming of VGTRK; Chairman of the Commission of the Civic Chamber of Russia for the Development of Mass Media and Mass Communications\n\nDirector of the State Television and Radio Broadcasting Company \"Samara\". Involved in Russian propaganda of the war against Ukraine.\n\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Propagandists",
       "Federal media employees",
-      "Chief editors and management of regional TV channels"
+      "Chief editors and management of regional TV channels",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -51053,7 +51947,7 @@
     "1": "Sadigov Famil Kamil oglu",
     "2": "03.03.1962",
     "3": "male",
-    "4": "Member of PJSC Gazprom's collegial executive body",
+    "4": "Member of PJSC Gazprom's collegial executive body\n\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       "Top Management of State Owned Companies"
     ]
@@ -51199,6 +52093,17 @@
     "5": [
       "Members of Parliament and Senate",
       "Federation Council"
+    ]
+  },
+  {
+    "0": "Салтыкова Ирина Ивановна",
+    "1": "Saltykova Irina Ivanovna",
+    "2": "05.05.1966",
+    "3": "female",
+    "4": "Singer, actress. Actively supported the actions of the Russian authorities and the Russian occupation administration on the territory of Ukraine",
+    "5": [
+      "Warmongers",
+      "Artists"
     ]
   },
   {
@@ -52081,6 +52986,17 @@
     ]
   },
   {
+    "0": "Седов Алексей Семенович",
+    "1": "Sedov Alexey Semenovich",
+    "2": "26.08.1954",
+    "3": "male",
+    "4": "Head of the Service for Defense of Constitutional Order and Fight against Terrorism of the FSB, which organized the attempted murder of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Седов Юрий Михайлович",
     "1": "Sedov Yuri Mikhailovich",
     "2": "",
@@ -52693,23 +53609,14 @@
   },
   {
     "0": "Середа Михаил Леонидович",
-    "1": "Sereda Mihail Leonidovich",
-    "2": "09.05.1970",
-    "3": "male",
-    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
-    "5": [
-      "Individuals involved in corruption",
-      "ACF investigations subjects"
-    ]
-  },
-  {
-    "0": "Середа Михаил Леонидович",
     "1": "Sereda Mikhail Leonidovich",
     "2": "09.05.1970",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Gazprom",
+    "4": "Member of the Board of Directors of PJSC Gazprom\n\nDeputy Chairman of the Board of Directors of JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -52773,6 +53680,17 @@
     "4": "CEO, JSC \"OMSK MEDIA\", Channel 12 Omsk Regional Television. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Chief editors and management of regional TV channels"
+    ]
+  },
+  {
+    "0": "Серов Иван Иванович",
+    "1": "Serov Ivan Ivanovich",
+    "2": "",
+    "3": "male",
+    "4": "Owner of the LLC \"Special Technologies\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -53359,6 +54277,17 @@
     "5": [
       "Sellout opinion leaders",
       "Celebrities, influencers and bloggers"
+    ]
+  },
+  {
+    "0": "Синодов Юрий Сергеевич",
+    "1": "Sinodov Yuri Sergeevich",
+    "2": "30.12.1981",
+    "3": "male",
+    "4": "Russian Internet journalist, creator of the roem.ru website. Influential Russian Internet journalist in the field of IT, propagandist, actively supports Russian military aggression against Ukraine",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -54044,6 +54973,17 @@
     ]
   },
   {
+    "0": "Слесаренко Елена Владимировна",
+    "1": "Slesarenko Elena Vladimirovna",
+    "2": "28.02.1982",
+    "3": "female",
+    "4": "Russian high jumper. Chief of Staff of the General Headquarters of the Young Army Cadets National Movement (Yunarmiya), a Russian children's organization that supports the current political regime and the aggressive war against Ukraine.",
+    "5": [
+      "Warmongers",
+      "Athletes"
+    ]
+  },
+  {
     "0": "Слонова В. В.",
     "1": "Slonova V.V.",
     "2": "",
@@ -54407,12 +55347,11 @@
   {
     "0": "Смолкина Людмила Михайловна",
     "1": "Smolkina Ludmila Mikhailovna",
-    "2": "",
+    "2": "06.08.1961",
     "3": "female",
-    "4": "Judge of the Moscow City Court. Recognized as legitimate the refusal to satisfy the complaint of FBK lawyers about the inaction of the Investigative Committee on the application for the poisoning of Alexei Navalny. Involved in sabotaging the investigation into the poisoning of Alexei Navalny",
+    "4": "Judge of the Moscow City Court. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons. Upheld the decision of the Basmanny District Court, which dismissed the complaint about the inaction of the Investigative Committee.",
     "5": [
-      "Organizers of political repressions",
-      "Judges, prosecutors, state investigators, etc"
+      "ACF investigations subjects"
     ]
   },
   {
@@ -54499,6 +55438,16 @@
     "5": [
       "Key ‘siloviki’ (security forces) figure",
       "National Guard of Russia"
+    ]
+  },
+  {
+    "0": "Соболь Александр Иванович",
+    "1": "Sobol Alexander Ivanovich",
+    "2": "22.05.1905",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -54689,6 +55638,17 @@
     "4": "Son of the former mayor of Khabarosk Alexander Nikolaevich Sokolov. Made a business on the property privatized by his father, using his father's opportunities. His family owns real estate in the USA",
     "5": [
       "Regional investigations subjects"
+    ]
+  },
+  {
+    "0": "Соколов Алексей Валерьевич",
+    "1": "Sokolov Alexey Valerievich",
+    "2": "04.06.1905",
+    "3": "male",
+    "4": "Former Deputy Minister of Digital Development, Communications and Mass Media of the Russian Federation. Supporter of state censorship on the Russian Internet and network isolation. Author of many corruption-intensive legislative initiatives in the field of communications and the Internet. Associated with the FSB and Nikolai Patrushev",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -55802,6 +56762,16 @@
     ]
   },
   {
+    "0": "Степанов Александр Михайлович",
+    "1": "Stepanov Alexander Mikhailovich",
+    "2": "22.07.1970",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Степанов Анатолий Дмитриевич",
     "1": "Stepanov Anatoly Dmitrievich",
     "2": "11.03.1961",
@@ -55859,7 +56829,7 @@
   },
   {
     "0": "Степанова Вероника",
-    "1": "Stepanova Veronica",
+    "1": "Stepanova Veronika",
     "2": "14.08.1978",
     "3": "female",
     "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
@@ -56679,6 +57649,17 @@
     ]
   },
   {
+    "0": "Сухарев Валерий Николаевич",
+    "1": "Sukharev Valery Nikolaevich",
+    "2": "02.04.1956",
+    "3": "male",
+    "4": "Officer of the Service for Defense of Constitutional Order and Fight against Terrorism of the FSB. Repeatedly followed Navalny on trips around Russia in 2017. Took an active part in organizing the attempted murder of Alexei Navalny with the use of chemical weapons and covering up the traces of the crime.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Сухарев Иван Константинович",
     "1": "Sukharev Ivan Konstantinovich",
     "2": "10.06.1978",
@@ -57295,6 +58276,17 @@
     ]
   },
   {
+    "0": "Тарасов Дмитрий Алексеевич",
+    "1": "Tarasov Dmitry Alekseevich",
+    "2": "18.03.1987",
+    "3": "male",
+    "4": "Russian footballer. After the start of the war with Ukraine, he expressed support for the actions of Vladimir Putin.",
+    "5": [
+      "Warmongers",
+      "Athletes"
+    ]
+  },
+  {
     "0": "Тарасов Сергей Валентинович",
     "1": "Tarasov Sergey Valentinovich",
     "2": "21.12.1966",
@@ -57603,6 +58595,17 @@
     ]
   },
   {
+    "0": "Теленков Андрей Евгеньевич",
+    "1": "Telenkov Andrey Evgenievich",
+    "2": "09.11.1982",
+    "3": "male",
+    "4": "CEO of NTechLab. The company is developing algorithms for recognition of faces, silhouettes, numbers, images. And he sells his developments to the Government of the Russian Federation. NTechLab technologies help law enforcement agencies identify and arrest civilians at peaceful protests, and then fabricate political cases against them.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Теленчинов Роман Александрович",
     "1": "Telenchinov Roman Alexandrovich",
     "2": "07.04.1978",
@@ -57692,6 +58695,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Теплых Борис Анатольевич",
+    "1": "Teplykh Boris Anatolievich",
+    "2": "28.04.1971",
+    "3": "male",
+    "4": "Head of the Department of Anaesthesiology and Resuscitation №1 at the N.I. Pirogov National Medical Centre. On August 21 he participated in a consultation which resulted in the doctors deciding that Navalny could not be transported to Germany (this decision was later changed) and excluded poisoning from the list of possible diagnoses.Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
     ]
   },
   {
@@ -58382,6 +59396,17 @@
     ]
   },
   {
+    "0": "Ткачев Алексей Николаевич",
+    "1": "Tkachev Alexey Nikolaevich",
+    "2": "1.03.1957",
+    "3": "male",
+    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). Memder of the State Duma Committee on Information Policy, Information Technology and Communications",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Ткачев Андрей Юрьевич",
     "1": "Tkachev Andrey (Andrei) Yuryevich",
     "2": "30.12.1969",
@@ -58411,6 +59436,17 @@
     "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"STAVROPOLYE\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Chief editors and management of regional TV channels"
+    ]
+  },
+  {
+    "0": "Ткаченко Александр Евгеньевич",
+    "1": "Tkachenko Alexander Evgenievich",
+    "2": "01.03.1972",
+    "3": "male",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -58799,14 +59835,35 @@
     ]
   },
   {
-    "0": "Торвинен В. В.",
-    "1": "Torvinen V.V.",
-    "2": "",
+    "0": "Тополева-Солдунова Елена Андреевна",
+    "1": "Topoleva-Soldunova Elena Andreevna",
+    "2": "18.01.1959",
     "3": "female",
-    "4": "Head of the Department for Work with Citizens' Appeals of the Investigative Committee of the Russian Federation. Refused to satisfy the complaint about declaring the inaction of officials of the Investigative Committee of the Russian Federation on the application for the poisoning of Alexei Navalny illegal.",
+    "4": "Member of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
+    ]
+  },
+  {
+    "0": "Торбахов Александр Юрьевич",
+    "1": "Torbakhov Alexander Yurievich",
+    "2": "22.08.1971",
+    "3": "male",
+    "4": "Head of PJSC VimpelCom. This provider facilitated the installation of TSPU (DPI) on its networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
     "5": [
       "Organizers of political repressions",
-      "Judges, prosecutors, state investigators, etc"
+      "Internet censors"
+    ]
+  },
+  {
+    "0": "Торвинен Виктория Владимировна",
+    "1": "Torvinen Victoria Vladimirovna",
+    "2": "13.10.",
+    "3": "male",
+    "4": "Head of the Department for Work with Citizens' Appeals of the Investigative Committee of the Russian Federation. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons. Sent a request to the Basmanny District Court to refuse to satisfy the complaint about the inaction of the Investigative Committee.",
+    "5": [
+      "ACF investigations subjects"
     ]
   },
   {
@@ -59527,6 +60584,17 @@
     ]
   },
   {
+    "0": "Тухтаметова Наталья Анатольевна",
+    "1": "Tukhtametova Natalia Anatolievna",
+    "2": "23.02.1982",
+    "3": "female",
+    "4": "Investigator of the Omsk Linear Directorate of the Ministry of Internal Affairs of Russia for Transport, Captain of Justice. She knew that Navalny was poisoned with a poison that posed a threat not only to him, but also to those around him, but did not report this. Participated in hiding the traces of the crime after the poisoning of Alexei Navalny with the use of chemical weapons.",
+    "5": [
+      "Individuals involved in corruption",
+      "ACF investigations subjects"
+    ]
+  },
+  {
     "0": "Тушинов Виталий Валерьевич",
     "1": "Tushinov Vitaly Valerievich",
     "2": "17.10.1970",
@@ -59601,6 +60669,16 @@
     "5": [
       "Propagandists",
       "Federal media employees"
+    ]
+  },
+  {
+    "0": "Тюрин Вячеслав Александрович",
+    "1": "Tyurin Vyacheslav Alexandrovich",
+    "2": "04.01.1960",
+    "3": "male",
+    "4": "Member of the Board of Directors of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -60324,6 +61402,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Фадеев Валерий Александрович",
+    "1": "Fadeev Valery Alexandrovich",
+    "2": "10.10.1960",
+    "3": "male",
+    "4": "Russian propagandist. Imitates public support for the political regime of Vladimir Putin.",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -61445,6 +62534,17 @@
     ]
   },
   {
+    "0": "Фомин Михаил Михайлович",
+    "1": "Fomin Mikhail Mikhailovich",
+    "2": "22.03.1981",
+    "3": "male",
+    "4": "Head of the LLC \"Osnova Lab\". The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Фомин Юрий Владимирович",
     "1": "Fomin Yuri Vladimirovich",
     "2": "",
@@ -62311,6 +63411,27 @@
     ]
   },
   {
+    "0": "Хачатуров Вартан Микаэлович",
+    "1": "Khachaturov Vartan Mikaelovich",
+    "2": "04.06.1905",
+    "3": "male",
+    "4": "Head of JSC \"NPK \"Kryptonit\" (Research and production company \"Kryptonit\"). The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
+    "0": "Хачатуров Тигран Гарикович",
+    "1": "Khachaturov Tigran Garikovich",
+    "2": "07.02.1979",
+    "3": "male",
+    "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
+    "5": [
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
     "0": "Хащенко Антон Валерьевич",
     "1": "Khashchenko Anton Valerievich (Valeryevich)",
     "2": "7.05.1982",
@@ -62401,7 +63522,7 @@
     "1": "Khinshtein Alexander Evseevich",
     "2": "26.10.1974",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nRussian propagandist: journalist, politician; regular invited guest on Vladimir Solovyov's shows on Russia 1 and Vesti FM; member of the State Duma; deputy chairman of the State Duma Committee on Security and Corruption Control; Deputy Secretary of the General Council of United Russia \n\nMember of the Board of Directors of OJSC Russian Post",
+    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nRussian propagandist: journalist, politician; regular invited guest on Vladimir Solovyov's shows on Russia 1 and Vesti FM; member of the State Duma; deputy chairman of the State Duma Committee on Security and Corruption Control; Deputy Secretary of the General Council of United Russia \n\nMember of the Board of Directors of OJSC Russian Post\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). Chairman of the State Duma Committee on Information Policy, Information Technology and Communications",
     "5": [
       "Members of Parliament and Senate",
       "State Duma",
@@ -62409,7 +63530,9 @@
       "Federal and regional party leaders",
       "Propagandists",
       "Federal media employees",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -62728,6 +63851,17 @@
     "5": [
       "Members of Parliament and Senate",
       "State Duma"
+    ]
+  },
+  {
+    "0": "Хоркина Светлана Васильевна",
+    "1": "Khorkina Svetlana Vasilievna",
+    "2": "19.01.1979",
+    "3": "female",
+    "4": "Russian gymnast. One of the founders of the Young Army Cadets National Movement (Yunarmiya), a Russian children's organization that supports the current political regime and the aggressive war against Ukraine.",
+    "5": [
+      "Warmongers",
+      "Athletes"
     ]
   },
   {
@@ -63783,17 +64917,6 @@
     ]
   },
   {
-    "0": "Чекалин Артём",
-    "1": "Chekalin Artyom",
-    "2": "20.02.1991",
-    "3": "male",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
-    ]
-  },
-  {
     "0": "Чекин Евгений Алексеевич",
     "1": "Chekin Evgeny Alekseevich",
     "2": "24 .08.1973",
@@ -64027,6 +65150,17 @@
     ]
   },
   {
+    "0": "Черепенников Антон Андреевич",
+    "1": "Cherepennikov Anton Andreevich",
+    "2": "07.05.1983",
+    "3": "male",
+    "4": "Head of the ICS holding (Intelligent Computer Systems) (LLC \"IKS Holding\"). The company manufactures and (or) develops equipment for mass surveillance of Russian Internet users",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Черепнов Андрей Николаевич",
     "1": "Cherepnov Andrey Nikolaevich",
     "2": "04.01.1966",
@@ -64034,17 +65168,6 @@
     "4": "Member of the collegial executive body of PJSC ALROSA.",
     "5": [
       "Top Management of State Owned Companies"
-    ]
-  },
-  {
-    "0": "Черкасов Андрей",
-    "1": "Cherkasov Andrey",
-    "2": "06.02.1982",
-    "3": "male",
-    "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
     ]
   },
   {
@@ -65132,6 +66255,17 @@
     ]
   },
   {
+    "0": "Шадаев Максут Игоревич",
+    "1": "Shadayev Maksut Igorevich",
+    "2": "11.11.1979",
+    "3": "male",
+    "4": "Minister of Digital Development, Communications and Mass Media of the Russian Federation. Contributed to the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
+    ]
+  },
+  {
     "0": "Шадрин Михаил Георгиевич",
     "1": "Shadrin Mikhail Georgievich",
     "2": "02.01.1985",
@@ -65379,10 +66513,11 @@
     "1": "Shamalov Yury Nikolaevich",
     "2": "10.06.1970",
     "3": "male",
-    "4": "President of Gazfond and member of the Board of Directors of Gazprombank. Shamalov is therefore involved as a director or equivalent in the work of entities (Gazfond and Gazprombank) in the financial sector - a sector of strategic significance to the Russian Government.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "President of Gazfond and member of the Board of Directors of Gazprombank. Shamalov is therefore involved as a director or equivalent in the work of entities (Gazfond and JSC Gazprombank) in the financial sector - a sector of strategic significance to the Russian Government.\n\nDeputy Chairman of the Board of Directors of JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       "Individuals involved in corruption",
-      "ACF investigations subjects"
+      "ACF investigations subjects",
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -65583,12 +66718,14 @@
     "1": "Sharapova Arina Ayanovna",
     "2": "30.05.1961",
     "3": "female",
-    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nRussian propagandist: Host at Zvezda TV; Member of the Supreme Council of the United Russia party",
+    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nRussian propagandist: Host at Zvezda TV; Member of the Supreme Council of the United Russia party\n\nDeputy Chairman of the Civic Chamber of Moscow - a collegiate public body that imitates public support for the actions of the Russian authorities in the capital of the Russian Federation.",
     "5": [
       "“United Russia” party Functionaries",
       "Federal and regional party leaders",
       "Propagandists",
-      "Federal media employees"
+      "Federal media employees",
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -65600,6 +66737,17 @@
     "5": [
       "Propagandists",
       "Regional press"
+    ]
+  },
+  {
+    "0": "Шарафутдинов, Максим Расимович",
+    "1": "Sharafutdinov Maxim Rasimovich",
+    "2": "15.09.1980",
+    "3": "male",
+    "4": "Propagandist. News anchor on Channel One Russia",
+    "5": [
+      "Propagandists",
+      "Federal media"
     ]
   },
   {
@@ -65646,10 +66794,10 @@
   },
   {
     "0": "Шаройкина Елена Акинфовна",
-    "1": "Sharoykina (Sharoikina) Elena Akinfovna",
+    "1": "Sharoikina Elena Akinfovna",
     "2": "1979",
     "3": "female",
-    "4": "Russian propagandist: Director-General and Editor-in-Chief of Tsargrad TV Channelж Putin-appointed member of the Civic Chamber of the Russian Federation; member of the Public Control Development Council in the Committee on Public and Religious Organizations in the State Duma",
+    "4": "Russian propagandist: General Director and Editor-in-Chief of Tsargrad TV channel. Putin-appointed member of the Civic Chamber of the Russian Federation; member of the Public Control Development Council in the State Duma Committee on Public and Religious Organizations.",
     "5": [
       "Propagandists",
       "Federal media employees"
@@ -65873,6 +67021,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Швыдкой Михаил Ефимович",
+    "1": "Shvydkoi Mikhail Efimovich",
+    "2": "05.09.1948",
+    "3": "male",
+    "4": "Deputy Chairman of the Civic Chamber of Moscow - a collegiate public body that imitates public support for the actions of the Russian authorities in the capital of the Russian Federation.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -66414,6 +67573,17 @@
     ]
   },
   {
+    "0": "Широков Роман Николаевич",
+    "1": "Shirokov Roman Nikolaevich",
+    "2": "06.07.1981",
+    "3": "male",
+    "4": "Russian footballer. After the start of the war with Ukraine, he supported the actions of Vladimir Putin and the Russian army.",
+    "5": [
+      "Warmongers",
+      "Athletes"
+    ]
+  },
+  {
     "0": "Широков Тимофей Викторович",
     "1": "Shirokov Timofey Viktorovich",
     "2": "",
@@ -66629,6 +67799,17 @@
       "Individuals involved in corruption",
       "ACF investigations subjects",
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Школьник Александр Яковлевич",
+    "1": "Shkolnik Alexander Yakovlevich",
+    "2": "25.03.1964",
+    "3": "male",
+    "4": "Deputy Secretary of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "5": [
+      "Sellout opinion leaders",
+      "Public supporters of Putin"
     ]
   },
   {
@@ -67780,14 +68961,16 @@
     "1": "Shchegolev Igor Olegovich",
     "2": "10.11.1965",
     "3": "male",
-    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nPlenipotentiary of the President of the Russian Federation in the Central Federal District. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nRussian propagandist: Member of the Security Council of Russia; as the ex-Minister of Telecommunications he helped create a system that is now being used to censor and prohibit independent media",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nPlenipotentiary of the President of the Russian Federation in the Central Federal District. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nRussian propagandist: Member of the Security Council of Russia; as the ex-Minister of Telecommunications he helped create a system that is now being used to censor and prohibit independent media\n\nChairman of the Board of Trustees of the Safe Internet League. Responsible for organizing censorship in the Russian segment of the Internet",
     "5": [
       "War Arrangers",
       "Security council members",
       "Senior Federal Officials",
       "Executive branch and presidential administration employees",
       "Propagandists",
-      "Federal media employees"
+      "Federal media employees",
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -68403,6 +69586,17 @@
     "5": [
       "Members of Parliament and Senate",
       "State Duma"
+    ]
+  },
+  {
+    "0": "Ющенко Александр Андреевич",
+    "1": "Yushchenko Alexander Andreevich",
+    "2": "19.11.1969",
+    "3": "male",
+    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). Chief Deputy Chairman of the State Duma Committee on Information Policy, Information Technology and Communications",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -69046,6 +70240,17 @@
     "5": [
       "Members of Parliament and Senate",
       "State Duma"
+    ]
+  },
+  {
+    "0": "Яровая Ирина Анатольевна",
+    "1": "Yarovaya Irina Anatolyevna",
+    "2": "17.10.1966",
+    "3": "female",
+    "4": "Deputy of the State Duma of the Federal Assembly of the Russian Federation, Deputy Chairman of the State Duma of the Federal Assembly of the Russian Federation. Author of bills establishing responsibility for the rehabilitation/justification of Nazism and slander, author of a package of laws on Internet censorship dubbed \"Yarovaya package\", one of the authors of the law on foreign agents",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
