@@ -30,7 +30,7 @@ class TagSet:
 
 def main():
     tags1 = TagSet()
-    for group in json.load(open('list-of-war-enablers.txt'))['props']['pageProps']['villainsListEN']:
+    for group in json.load(open('list-of-war-enablers-en.txt'))['props']['pageProps']['villainsList']:
         if group['name'] in {'Full sanctions list', 'List updates'}:
             continue
         count = 0
