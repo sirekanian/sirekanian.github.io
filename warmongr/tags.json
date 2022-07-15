@@ -5,7 +5,7 @@
     "shortName": "Organizers of Repressions",
     "ruName": "Организаторы политических репрессий",
     "ruShortName": "Организаторы репрессий",
-    "count": 850
+    "count": 881
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "shortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 747
+    "count": 749
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "shortName": "Warmongers",
     "ruName": "Разжигатели войны",
     "ruShortName": "Разжигатели войны",
-    "count": 555
+    "count": 559
   },
   {
     "id": 7,
@@ -93,7 +93,7 @@
     "shortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 183
+    "count": 189
   },
   {
     "id": 13,
@@ -117,7 +117,7 @@
     "shortName": "Region Heads",
     "ruName": "Главы регионов",
     "ruShortName": "Главы регионов",
-    "count": 89
+    "count": 90
   },
   {
     "id": 16,
