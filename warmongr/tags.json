@@ -17,19 +17,19 @@
   },
   {
     "id": 3,
+    "name": "Individuals involved in corruption",
+    "shortName": "Corrupt Officials",
+    "ruName": "Коррупционеры",
+    "ruShortName": "Коррупционеры",
+    "count": 748
+  },
+  {
+    "id": 4,
     "name": "Key Local Government Officials",
     "shortName": "Local Officials",
     "ruName": "Ключевые региональные чиновники",
     "ruShortName": "Региональные чиновники",
     "count": 740
-  },
-  {
-    "id": 4,
-    "name": "Individuals involved in corruption",
-    "shortName": "Corrupt Officials",
-    "ruName": "Коррупционеры",
-    "ruShortName": "Коррупционеры",
-    "count": 723
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "shortName": "Warmongers",
     "ruName": "Разжигатели войны",
     "ruShortName": "Разжигатели войны",
-    "count": 560
+    "count": 561
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "shortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 475
+    "count": 482
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "shortName": "Top Managers",
     "ruName": "Руководители госкомпаний",
     "ruShortName": "Руководители госкомпаний",
-    "count": 431
+    "count": 434
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "shortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 229
+    "count": 232
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "shortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 187
+    "count": 188
   },
   {
     "id": 14,
