@@ -165,6 +165,17 @@
     ]
   },
   {
+    "0": "Абрамов Александр Григорьевич",
+    "1": "Abramov Alexander Grigorievich",
+    "2": "20.02.1959",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Абрамов Иван Николаевич",
     "1": "Abramov Ivan Nikolaevich",
     "2": "16.06.1978",
@@ -232,11 +243,13 @@
   },
   {
     "0": "Абрамович Роман Аркадьевич",
-    "1": "Abramovich Roman Arkadyevich",
+    "1": "Abramovich Roman Arkadievich",
     "2": "24.10.1966",
     "3": "male",
-    "4": "Roman Abramovich is a Russian oligarch who has long and close ties to Vladimir Putin. He has had privileged access to the president, and has maintained very good relations with him. This connection with the Russian leader helped him maintain his considerable wealth. He is a major shareholder of the steel group Evraz, which is one of Russia’s largest taxpayers. He has therefore been benefitting from Russian decision-makers responsible for the annexation of Crimea and the destabilisation of Ukraine. He is also one of the leading Russian businesspersons involved in economic sectors providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nRoman Abramovich is a Russian oligarch who has long and close ties to Vladimir Putin. He has had privileged access to the president, and has maintained very good relations with him. This connection with the Russian leader helped him maintain his considerable wealth. He is a major shareholder of the steel group Evraz, which is one of Russia’s largest taxpayers. He has therefore been benefitting from Russian decision-makers responsible for the annexation of Crimea and the destabilisation of Ukraine. He is also one of the leading Russian businesspersons involved in economic sectors providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -333,6 +346,17 @@
     ]
   },
   {
+    "0": "Авдеев Роман Иванович",
+    "1": "Avdeev Roman Ivanovich",
+    "2": "17.07.1967",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Авдеева Елена Осиповна",
     "1": "Avdeeva Elena Osipovna",
     "2": "19.07.1968",
@@ -374,6 +398,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Авен Пётр Олегович",
+    "1": "Aven Pyotr Olegovich",
+    "2": "16.03.1955",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -558,6 +593,17 @@
     "5": [
       "Members of Parliament and Senate",
       "State Duma"
+    ]
+  },
+  {
+    "0": "Агаларов Араз Искендер оглы",
+    "1": "Agalarov Araz Iskender",
+    "2": "08.11.1955",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -1131,6 +1177,17 @@
     ]
   },
   {
+    "0": "Алекперов Вагит Юсуфович",
+    "1": "Alekperov Vagit Yusufovich",
+    "2": "01.09.1950",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Алекперов Тарлан Кахриманович",
     "1": "Alekperov Tarlan Kakhrimanovich",
     "2": "",
@@ -1286,7 +1343,7 @@
   {
     "0": "Александровский Сергей Владимирович",
     "1": "Aleksandrovsky Sergey Vladimirovich",
-    "2": "",
+    "2": "09.09.1976",
     "3": "male",
     "4": "General Director of PJSC Aeroflot",
     "5": [
@@ -1433,17 +1490,6 @@
     "5": [
       "Sellout opinion leaders",
       "Celebrities, influencers and bloggers"
-    ]
-  },
-  {
-    "0": "Алешин Игорь Олегович",
-    "1": "Aleshin Igor Olegovich",
-    "2": "03.08.1962",
-    "3": "Male",
-    "4": "Head of the Federal Service for Regulation of the Alcohol Market of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
-    "5": [
-      "Senior Federal Officials",
-      "Executive branch and presidential administration employees"
     ]
   },
   {
@@ -1670,8 +1716,10 @@
     "1": "Altushkin Igor Alekseevich",
     "2": "10.09.1970",
     "3": "male",
-    "4": "Metallurgical magnate, one of the initiators of the construction of a church in place of a park in Yekaterinburg, which caused mass discontent, rallies and criminal cases",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nMetallurgical magnate, one of the initiators of the construction of a church in place of a park in Yekaterinburg, which caused mass discontent, rallies and criminal cases",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Regional investigations subjects"
     ]
   },
@@ -1826,6 +1874,17 @@
       "Top Management of State Owned Companies",
       "Sellout opinion leaders",
       "Public supporters of Putin"
+    ]
+  },
+  {
+    "0": "Алёшин Игорь Олегович",
+    "1": "Aleshin Igor Olegovich",
+    "2": "03.08.1962",
+    "3": "Male",
+    "4": "Head of the Federal Service for Regulation of the Alcohol Market of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "Senior Federal Officials",
+      "Executive branch and presidential administration employees"
     ]
   },
   {
@@ -2270,6 +2329,17 @@
     "5": [
       "Propagandists",
       "Federal media employees"
+    ]
+  },
+  {
+    "0": "Анисимов Василий Васильевич",
+    "1": "Anisimov Vasily Vasilievich",
+    "2": "19.09.1951",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -3481,6 +3551,17 @@
     "5": [
       "Propagandists",
       "Regional press"
+    ]
+  },
+  {
+    "0": "Ахмедов Фархад Теймур оглы",
+    "1": "Akhmedov Farhad Teymur",
+    "2": "15.09.1955",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -4896,10 +4977,12 @@
   {
     "0": "Батурина Елена Николаевна",
     "1": "Baturina Elena Nikolaevna",
-    "2": "08.05.1963",
+    "2": "08.03.1963",
     "3": "female",
-    "4": "Wife of former Mayor of Moscow Yuri Luzhkov. The richest woman in Russia.",
+    "4": "Russian oligarch. Amid the war, she remains involved in the system of Russian political corruption at the highest level, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital.\n\nWife of former Mayor of Moscow Yuri Luzhkov. The richest woman in Russia.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -6507,6 +6590,17 @@
     ]
   },
   {
+    "0": "Блох Андрей Сергеевич",
+    "1": "Blokh Andrey Sergeevich",
+    "2": "31.01.1964",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Блоцкий Владимир Николаевич",
     "1": "Blotsky, Vladimir Nikolaevich (Nikolayevich)",
     "2": "10.11.1977",
@@ -6713,6 +6807,17 @@
     "5": [
       "Propagandists",
       "Federal media"
+    ]
+  },
+  {
+    "0": "Богданов Владимир Леонидович",
+    "1": "Bogdanov Vladimir Leonidovich",
+    "2": "28.05.1951",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -7072,8 +7177,10 @@
     "1": "Bokarev Andrey Removich",
     "2": "23.10.1966",
     "3": "male",
-    "4": "Billionaire oligarch, co-owner and Chairman of the Board of Directors of JSC Transmashholding and JSC Kuzbassrazrezugol Management Company, member of the Board of Directors of JSC Ural Mining and Metallurgical Company and JSC Altai-Koks. Closely linked to Russian organized crime, including close connections with the leader of the Tambov organized crime synducate Gennadiy Petrov and the Izmailovo organized crime group that controlled the coal and aluminum enterprises. Was involved in and financially benefitted from corruption schemes and money laundering operations designed to provide corrupt sources of income to oligarchs, politicians and government officials and their families. Companies whose main shareholders are Iskander Makhmudov and Andrey Bokarev - Transmashholding, Metrowagonmash, Oktyabrsky Electric Railway Car Repair Plant, Roslokomotiv - received government contracts worth a total of 130.7 billion rubles from Russian Railways and the Moscow Metro awarded to them in violation of anti-corruption regulations.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nBillionaire oligarch, co-owner and Chairman of the Board of Directors of JSC Transmashholding and JSC Kuzbassrazrezugol Management Company, member of the Board of Directors of JSC Ural Mining and Metallurgical Company and JSC Altai-Koks. Closely linked to Russian organized crime, including close connections with the leader of the Tambov organized crime synducate Gennadiy Petrov and the Izmailovo organized crime group that controlled the coal and aluminum enterprises. Was involved in and financially benefitted from corruption schemes and money laundering operations designed to provide corrupt sources of income to oligarchs, politicians and government officials and their families. Companies whose main shareholders are Iskander Makhmudov and Andrey Bokarev - Transmashholding, Metrowagonmash, Oktyabrsky Electric Railway Car Repair Plant, Roslokomotiv - received government contracts worth a total of 130.7 billion rubles from Russian Railways and the Moscow Metro awarded to them in violation of anti-corruption regulations.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption Investigations subjects"
     ]
   },
@@ -8243,7 +8350,7 @@
     ]
   },
   {
-    "0": "Брычева Лариса Игоревна",
+    "0": "Брычёва Лариса Игоревна",
     "1": "Brycheva Larisa Igorevna",
     "2": "26.05.1957",
     "3": "female",
@@ -10080,6 +10187,17 @@
     ]
   },
   {
+    "0": "Вексельберг Виктор Феликсович",
+    "1": "Vekselberg Viktor Feliksovich",
+    "2": "14.04.1957",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Векшин Анатолий Андреевич",
     "1": "Vekshin Anatoly Andreevich",
     "2": "05.06.1983",
@@ -10988,6 +11106,17 @@
     "5": [
       "Individuals involved in corruption",
       "Investigations subjects"
+    ]
+  },
+  {
+    "0": "Волож Аркадий Юрьевич",
+    "1": "Volozh Arkady Yurievich",
+    "2": "11.02.1964",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -13466,18 +13595,9 @@
     "1": "Govorun Oleg Markovich",
     "2": "15.01.1969",
     "3": "male",
-    "4": "Former head of the Presidential Directorate for Social and Economic Cooperation with the CIS Member Countries, the Republic of Abkhazia, and the Republic of South Ossetia; general director of JSC Bank DOM.RF. DOM.RF is a financial agency in the housing sector, fully owned by the Federal Agency for State Property Management (Rosimushchestvo). Under Canada and US sanctions for his association with Putin. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns multiple luxury properties (some together with his wife Natalya Seraya) worth more than 2 billion rubles.",
+    "4": "Former head of the Presidential Directorate for Social and Economic Cooperation with the CIS Member Countries, the Republic of Abkhazia, and the Republic of South Ossetia; general director of JSC Bank DOM.RF. DOM.RF is a financial agency in the housing sector, fully owned by the Federal Agency for State Property Management (Rosimushchestvo). Under Canada and US sanctions for his association with Putin. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns multiple luxury properties (some together with his wife Natalya Seraya) worth more than 2 billion rubles.\n\nDeputy General Director of JSC Bank DOM.RF, General Director of the public company \"Foundation for the Protection of the Rights of Citizens - Participants in Shared Construction\".",
     "5": [
-      "Individuals involved in corruption Investigations subjects"
-    ]
-  },
-  {
-    "0": "Говорун Олег Маркович",
-    "1": "Govorun Oleg Markovich",
-    "2": "15.01.1969",
-    "3": "male",
-    "4": "Deputy General Director of JSC Bank DOM.RF, General Director of the public company \"Foundation for the Protection of the Rights of Citizens - Participants in Shared Construction\".",
-    "5": [
+      "Individuals involved in corruption Investigations subjects",
       "Top Management of State Owned Companies"
     ]
   },
@@ -13526,7 +13646,7 @@
   },
   {
     "0": "Гогин Дмитрий Юрьевич",
-    "1": "GOGIN Dmitry Yuryevich",
+    "1": "Gogin Dmitry Yurievich",
     "2": "23.08.1961",
     "3": "Male",
     "4": "Head of the Federal Agency for State Reserves of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
@@ -15927,6 +16047,17 @@
     ]
   },
   {
+    "0": "Гурьев Андрей Григорьевич",
+    "1": "Guryev Andrey Grigorievich",
+    "2": "24.03.1960",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Гурьев Руслан Игоревич",
     "1": "Gurev Ruslan Igorevich",
     "2": "28.08.1976",
@@ -16128,6 +16259,28 @@
       "Executive branch and presidential administration employees",
       "War Arrangers",
       "Security council members"
+    ]
+  },
+  {
+    "0": "Гуцериев Михаил Сафарбекович",
+    "1": "Gutseriev Mikhail Safarbekovich",
+    "2": "09.03.1958",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
+    "0": "Гуцериев Саид Михайлович",
+    "1": "Gutseriev Said Mikhailovich",
+    "2": "18.04.1988",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -17456,8 +17609,8 @@
   },
   {
     "0": "Дитрих Евгений Иванович",
-    "1": "Dmitriev Evgeny Ivanovich",
-    "2": "",
+    "1": "Dietrich Evgeny Ivanovich",
+    "2": "08.09.1973",
     "3": "male",
     "4": "Member of the Management Board of PJSC Aeroflot",
     "5": [
@@ -18948,8 +19101,10 @@
     "1": "Evtushenkov Vladimir Petrovich",
     "2": "25.09.1948",
     "3": "male",
-    "4": "A prominent Russian businessman and oligarch. EVTUSHENKOV is or has been involved in obtaining a benefit fromor supporting the Government of Russia by virtue of his ownership of OJSC JSFC Sistema, a conglomerate which has business interests in the Russian energy and information, communications and digital technologies sectors, which are sectors of strategic significance to the Government of Russia",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nEvtushenkov is or has been involved in obtaining a benefit fromor supporting the Government of Russia by virtue of his ownership of OJSC JSFC Sistema, a conglomerate which has business interests in the Russian energy and information, communications and digital technologies sectors, which are sectors of strategic significance to the Government of Russia",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -22074,17 +22229,6 @@
     ]
   },
   {
-    "0": "Зияд Манасир",
-    "1": "Ziyad Manasir",
-    "2": "12.12.1965",
-    "3": "male",
-    "4": "Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
-    "5": [
-      "Individuals involved in corruption",
-      "Investigations subjects"
-    ]
-  },
-  {
     "0": "Зиятдинов Фанил Газисович",
     "1": "Ziyatdinov Fanil Gazisovich",
     "2": "29.01.1959",
@@ -23631,6 +23775,17 @@
     "5": [
       "“United Russia” party Functionaries",
       "Federal and regional party leaders"
+    ]
+  },
+  {
+    "0": "Илиев Зарах Бинсионович",
+    "1": "Iliev Zarakh Binsionovich",
+    "2": "08.09.1966",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -25591,6 +25746,17 @@
     ]
   },
   {
+    "0": "Карапетян Самвел Саркисович",
+    "1": "Karapetyan Samvel Sarkisovich",
+    "2": "18.08.1965",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Карапетян Сергей Эдуардович",
     "1": "Karapetyan Sergey Eduardovich",
     "2": "21.07.1978",
@@ -26324,6 +26490,17 @@
     ]
   },
   {
+    "0": "Кациев Сергей Солтанович",
+    "1": "Katsiev Sergey Soltanovich",
+    "2": "01.01.1958",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Кацыв Петр Дмитриевич",
     "1": "Katsyv Pyotr Dmitrievich",
     "2": "",
@@ -26672,8 +26849,10 @@
     "1": "Kerimov Suleiman Abusaidovich",
     "2": "12.03.1966",
     "3": "male",
-    "4": "Member of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nMember of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Members of Parliament and Senate",
       "Federation Council"
     ]
@@ -27716,6 +27895,17 @@
     ]
   },
   {
+    "0": "Клячин Александр Ильич",
+    "1": "Klyachin Alexander Ilyich",
+    "2": "18.05.1967",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Кнабенгоф Илья Леонович",
     "1": "Knabengof Ilya Leonovich",
     "2": "02.08.1972",
@@ -28079,11 +28269,13 @@
   },
   {
     "0": "Ковальчук Юрий Валентинович",
-    "1": "Kovalchuk Yuri Valentinovich",
+    "1": "Kovalchuk Yury Valentinovich",
     "2": "25.07.1951",
     "3": "male",
-    "4": "Friend of Putin. The main shareholder and manager of the Rossiya Bank. Corruption. Money laundering in favor of Putin.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nFriend of Vladimir Putin. Main shareholder and manager of the Rossiya Bank. Engaged in corruption and money laundering in favor of Putin.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -28384,11 +28576,13 @@
   },
   {
     "0": "Козицын Андрей Анатольевич",
-    "1": "Kozitsyn Andrei Anatolevich",
+    "1": "Kozitsyn Andrey Anatolievich",
     "2": "09.06.1960",
     "3": "male",
-    "4": "Mining and metallurgical magnate, former member of the Legislative Assembly of the Sverdlovsk Oblast from the United Russia party. His companies illegally seized state land. The election campaign of the Governor of the Chelyabinsk Oblast Alexei Teksler was financed through his company.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nMining and metallurgical magnate, former member of the Legislative Assembly of the Sverdlovsk Oblast from the United Russia party. His companies illegally seized state land. The election campaign of the Governor of the Chelyabinsk Oblast Alexei Teksler was financed through his company.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Regional investigations subjects"
     ]
   },
@@ -29400,6 +29594,17 @@
     "5": [
       "Members of Parliament and Senate",
       "Federation Council"
+    ]
+  },
+  {
+    "0": "Кондрашев Пётр Иванович",
+    "1": "Kondrashev Pyotr Ivanovich",
+    "2": "16.07.1949",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -32282,6 +32487,17 @@
     "5": [
       "Propagandists",
       "Federal media"
+    ]
+  },
+  {
+    "0": "Кудряшкин Игорь Геннадьевич",
+    "1": "Kudryashkin Igor Gennadievich",
+    "2": "22.11.1961",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -35451,6 +35667,17 @@
     ]
   },
   {
+    "0": "Лисин Владимир Сергеевич",
+    "1": "Lisin Vladimir Sergeevich",
+    "2": "07.05.1956",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Лисицын Анатолий Иванович",
     "1": "Lisitsyn Anatoly Ivanovich",
     "2": "26.06.1947",
@@ -35509,8 +35736,10 @@
     "1": "Litvinenko Vladimir Stefanovich",
     "2": "14.08.1955",
     "3": "male",
-    "4": "Rector of St. Petersburg State Mining University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nRector of St. Petersburg State Mining University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Warmongers",
       "Educators",
       "Putin’s Public Supporters",
@@ -35921,6 +36150,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Ломакин Анатолий Геннадьевич",
+    "1": "Lomakin Anatoly Gennadievich",
+    "2": "30.06.1952",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -37284,6 +37524,17 @@
     ]
   },
   {
+    "0": "Макаров Игорь Викторович",
+    "1": "Makarov Igor Viktorovich",
+    "2": "15.04.1962",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Макаров Сергей Афанасьевич",
     "1": "Makarov Sergey Afanasyevich",
     "2": "19.09.1952",
@@ -37322,17 +37573,6 @@
     "2": "23.12.1981",
     "3": "Female",
     "4": "Russian actress. Supported Russia's aggression against Ukraine and the actions of the Russian authorities",
-    "5": [
-      "Sellout opinion leaders",
-      "Celebrities, influencers and bloggers"
-    ]
-  },
-  {
-    "0": "Макеева Анастасия Васильевна",
-    "1": "Makeeva Anastasia Vasilyevna",
-    "2": "23.12.1981",
-    "3": "female",
-    "4": "Actress. Participated in a concert in support of the war against Ukraine",
     "5": [
       "Sellout opinion leaders",
       "Celebrities, influencers and bloggers"
@@ -37907,6 +38147,17 @@
     ]
   },
   {
+    "0": "Мамут Александр Леонидович",
+    "1": "Mamut Alexander Leonidovich",
+    "2": "29.01.1960",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Мамута Михаил Валерьевич",
     "1": "Mamuta Mikhail Valerievich",
     "2": "29.09.1974",
@@ -37926,6 +38177,17 @@
     "5": [
       "Organizers of political repressions",
       "Judges, prosecutors, state investigators, etc"
+    ]
+  },
+  {
+    "0": "Манасир Зияд",
+    "1": "Manasir Ziyad",
+    "2": "12.12.1965",
+    "3": "male",
+    "4": "Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "5": [
+      "Individuals involved in corruption",
+      "Investigations subjects"
     ]
   },
   {
@@ -38785,8 +39047,10 @@
     "1": "Makhmudov Iskandar Kakhramonovich",
     "2": "05.12.1963",
     "3": "male",
-    "4": "Billionaire oligarch, founder and President of JSC Ural Mining and Metallurgical Company. Placed 19th in the 2021 Forbes ranking of the richest businessmen in Russia with a fortune of $ 9.7 billion. Closely linked to Russian organized crime, including close connections with the leader of the Tambov organized crime group Gennadiy Petrov and the Izmailovo organized crime group that controlled the coal and aluminum enterprises. Was involved in and financially benefitted from corruption schemes and money laundering operations designed to provide corrupt sources of income to oligarchs, politicians and government officials and their families. Companies whose main shareholders are Iskander Makhmudov and Andrey Bokarev - Transmashholding, Metrowagonmash, Oktyabrsky Electric Railway Car Repair Plant, Roslokomotiv - received government contracts wirth a total of 130.7 billion rubles from Russian Railways and the Moscow Metro awarded to them in violation of anti-corruption regulations.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nBillionaire oligarch, founder and President of JSC Ural Mining and Metallurgical Company. Placed 19th in the 2021 Forbes ranking of the richest businessmen in Russia with a fortune of $ 9.7 billion. Closely linked to Russian organized crime, including close connections with the leader of the Tambov organized crime group Gennadiy Petrov and the Izmailovo organized crime group that controlled the coal and aluminum enterprises. Was involved in and financially benefitted from corruption schemes and money laundering operations designed to provide corrupt sources of income to oligarchs, politicians and government officials and their families. Companies whose main shareholders are Iskander Makhmudov and Andrey Bokarev - Transmashholding, Metrowagonmash, Oktyabrsky Electric Railway Car Repair Plant, Roslokomotiv - received government contracts wirth a total of 130.7 billion rubles from Russian Railways and the Moscow Metro awarded to them in violation of anti-corruption regulations.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption Investigations subjects"
     ]
   },
@@ -40735,8 +40999,10 @@
     "1": "Mikhelson Leonid Viktorovich",
     "2": "11.08.1955",
     "3": "male",
-    "4": "Contributed money to the authorized capital of the Medvedev funds.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nContributed money to the authorized capital of Dmitry Medvedev's \"charitable foundations\".",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -41114,6 +41380,17 @@
     "4": "Member of the Board of Directors of JSC GLONASS",
     "5": [
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Мордашов Алексей Александрович",
+    "1": "Mordashov Alexey Alexandrovich",
+    "2": "26.09.1965",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -41605,8 +41882,10 @@
     "1": "Moshkovich Vadim Nikolaevich",
     "2": "06.04.1967",
     "3": "male",
-    "4": "One of the richest businessmen in Russia, former senator",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nOne of the richest businessmen in Russia, former senator",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Regional investigations subjects"
     ]
   },
@@ -43934,11 +44213,13 @@
   },
   {
     "0": "Нисанов Год Семёнович",
-    "1": "Nisanov God Semenovich",
+    "1": "Nisanov God Semyonovich",
     "2": "24.04.1972",
     "3": "male",
-    "4": "Russian billionaire property developer. Chairman of Kievskaya Square, the largest Russian commercial estate holding. Involved in political corruption at the highest level.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nBillionaire property developer. Chairman of Kievskaya Square, the largest Russian commercial estate holding. Involved in political corruption at the highest level.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -46633,7 +46914,7 @@
   },
   {
     "0": "ПЕРВЫХ ВАДИМ ВЛАДИМИРОВИЧ",
-    "1": "FIRST VADIM VLADIMIROVICH",
+    "1": "PERVYKH VADIM VLADIMIROVICH",
     "2": "-",
     "3": "Male",
     "4": "CEO AUTONOMOUS NON-PROFIT ORGANIZATION \"TV RADIO COMPANY\" KRYM\". Involved in Russian propaganda of the war against Ukraine.",
@@ -49257,8 +49538,10 @@
     "1": "Ponomarenko Alexander Anatolievich",
     "2": "27.10.1964",
     "3": "male",
-    "4": "He is a longtime partner of Putin's friends, the Rotenbergs: he deals in real estate with them and owns Sheremetyevo airport together with them. He made a fictitious deal to buy Putin's palace in order to hide the real owner.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nLongtime partner of Vladimir Putin's friends, the Rotenbergs: he deals in real estate and jointly owns Sheremetyevo airport with them. He made a fictitious deal to buy Putin's palace in order to hide the real owner.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -49698,6 +49981,17 @@
     "5": [
       "Individuals involved in corruption",
       "Investigations subjects"
+    ]
+  },
+  {
+    "0": "Потанин Владимир Олегович",
+    "1": "Potanin Vladimir Olegovich",
+    "2": "03.01.1961",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -50472,8 +50766,10 @@
     "1": "Prokhorov Mikhail Dmitrievich",
     "2": "03.05.1965",
     "3": "male",
-    "4": "Founder and former president of the private investment fund ONEXIM. Paid a bribe to Khloponin in the form of the sale of real estate in Italy. Khloponin supervises subsoil use, and Prokhorov's interests are connected with this very sphere.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nFounder and former president of the private investment fund ONEXIM. Paid a bribe to the then Deputy Prime Minister of Russia Alexander Khloponin in the form of the sale of real estate in Italy. Khloponin supervised subsoil use, and Prokhorov's business interests lie in this very sphere.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -50730,6 +51026,17 @@
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees"
+    ]
+  },
+  {
+    "0": "Пумпянский Дмитрий Александрович",
+    "1": "Pumpyansky Dmitry Alexandrovich",
+    "2": "22.03.1964",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -51498,6 +51805,17 @@
     ]
   },
   {
+    "0": "Рахимкулов Мегдет Нигматович",
+    "1": "Rakhimkulov Megdet Nigmatovich",
+    "2": "16.10.1945",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Рахимов Мухаммад Загитович",
     "1": "Rakhimov Muhammad Zagitovich",
     "2": "18.03.1956",
@@ -51547,6 +51865,17 @@
     "4": "Metallurgical magnate, financed the election campaign of the governor of the Chelyabinsk Oblast Alexei Teksler, former deputy of the Legislative Assembly of the Chelyabinsk Oblast from the United Russia party",
     "5": [
       "Regional investigations subjects"
+    ]
+  },
+  {
+    "0": "Рашников Виктор Филиппович",
+    "1": "Rashnikov Viktor Filippovich",
+    "2": "13.10.1948",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -51757,6 +52086,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Репик Алексей Евгеньевич",
+    "1": "Repik Alexey Evgenievich",
+    "2": "27.08.1979",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -52492,8 +52832,10 @@
     "1": "Rotenberg Arkady Romanovich",
     "2": "15.12.1951",
     "3": "male",
-    "4": "Chairman of the Board of the Russian Ice Hockey Federation. Longtime friend of Putin. Receives state contracts without competition. Responsible for building the bridge that connects Crimea with Russia.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nChairman of the Board of the Russian Ice Hockey Federation. Longtime friend of Putin. Receives state contracts without competition. Responsible for building the bridge that connects Crimea with Russia.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -53137,11 +53479,13 @@
   },
   {
     "0": "Рыболовлев Дмитрий Евгеньевич",
-    "1": "Rybolovlev Dmitrii Evgenevich",
+    "1": "Rybolovlev Dmitry Evgenievich",
     "2": "22.11.1966",
     "3": "male",
-    "4": "Former owner of Uralkali, which is located in the Perm Krai",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nFormer owner of PJSC Uralkali, which is based in the Perm Krai",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Regional investigations subjects"
     ]
   },
@@ -53639,6 +53983,17 @@
     "5": [
       "Propagandists",
       "Regional press"
+    ]
+  },
+  {
+    "0": "Саввиди Иван Игнатьевич",
+    "1": "Savvidi Ivan Ignatievich",
+    "2": "27.03.1959",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -55184,6 +55539,17 @@
     ]
   },
   {
+    "0": "Седых Анатолий Михайлович",
+    "1": "Sedykh Anatoly Mikhailovich",
+    "2": "28.11.1964",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "СЕЙИДОВ ЭМИЛЬ ГЮЛЬАГАЕВИЧ",
     "1": "SEIIDOV EMIL GYULAGAEVICH",
     "2": "-",
@@ -56212,8 +56578,8 @@
     ]
   },
   {
-    "0": "СИЛУАНОВ Антон Германович",
-    "1": "SILUANOV Anton Germanovich",
+    "0": "Силуанов Антон Германович",
+    "1": "Siluanov Anton Germanovich",
     "2": "12.04.1963",
     "3": "male",
     "4": "Minister of Finance of the Russian Federation.\n\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nMinister of Finance of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Supervisory Board of PJSC ALROSA, Member of the Supervisory Board of the Russian Technologies Company",
@@ -56298,8 +56664,10 @@
     "1": "Simanovsky Leonid Yakovlevich",
     "2": "19.07.1949",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nThe Russian billionaire, since 2003 a deputy of the State Duma from the United Russia party, Together with Leonid Mikhelson is a co-owner of the Novatek gas company. Contributed money to the authorized capital of Medvedev's funds.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nCo-owner of the Novatek gas company together with Leonid Mikhelson. Contributed money to the authorized capital of Dmitry Medvedev's \"charitable foundations\".",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Members of Parliament and Senate",
       "State Duma",
       "Individuals involved in corruption",
@@ -57001,8 +57369,10 @@
     "1": "Skorobogatko Alexander Ivanovich",
     "2": "25.09.1967",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC \"Sheremetyevo International Airport\".",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nMember of the Board of Directors of JSC \"Sheremetyevo International Airport\".",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Top Management of State Owned Companies"
     ]
   },
@@ -57022,8 +57392,10 @@
     "1": "Skoch Andrei Vladimirovich",
     "2": "30.01.1966",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Members of Parliament and Senate",
       "State Duma"
     ]
@@ -59523,9 +59895,11 @@
     "1": "Strukov Konstantin Ivanovich",
     "2": "10.09.1958",
     "3": "male",
-    "4": "Deputy Chairman of the Legislative Assembly of the Chelyabinsk Oblast, coal magnate, implemented anti-environmental projects",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nDeputy Chairman of the Legislative Assembly of the Chelyabinsk Oblast, coal magnate, implemented anti-environmental projects",
     "5": [
-      "Regional investigations subjects"
+      "Individuals involved in corruption",
+      "OligarchsRegional",
+      "Investigations subjects"
     ]
   },
   {
@@ -61485,11 +61859,13 @@
   },
   {
     "0": "Тимченко Геннадий Николаевич",
-    "1": "Timchenko Gennadiy Nikolayevich",
+    "1": "Timchenko Gennady Nikolaevich",
     "2": "09.11.1952",
     "3": "male",
-    "4": "One of Putin's most famous \"friends.\" When Putin became president, four of our country's five major oil companies sold their oil abroad not directly, but through the Swiss intermediary Gunvor controlled by Timchenko.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nOne of the most famous \"Putin's friends\". When Vladimir Putin became president, four of our country's five major oil companies sold their oil abroad not directly, but through the Swiss intermediary Gunvor controlled by Timchenko.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.\"",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -62650,8 +63026,10 @@
     "1": "Trotsenko Roman Viktorovich",
     "2": "12.09.1970",
     "3": "male",
-    "4": "Advisor to the president of the state company Rosneft. He helped Artem Chayka in the raider seizure of Verkhnelenskoe River Shipping Company.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nAdvisor to the president of the state company Rosneft. Assisted Artem Chayka in the illegal takeover of Verkhnelenskoe River Shipping Company.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -63576,8 +63954,10 @@
     "1": "Usmanov Alisher Burkhanovich",
     "2": "09.09.1953",
     "3": "male",
-    "4": "Participated in Dmitry Medvedev's corrupt scheme with property donations to his \"charitable\" foundations, which allowed him to quickly and conveniently register real estate without revealing the real owner.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nParticipated in Dmitry Medvedev's corrupt scheme with property donations to his \"charitable foundations\", which allowed him to quickly and conveniently register real estate without revealing the real owner.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -65232,6 +65612,17 @@
     ]
   },
   {
+    "0": "Фролов Александр Владимирович",
+    "1": "Frolov Alexander Vladimirovich",
+    "2": "17.05.1964",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Фролов Дмитрий Владимирович",
     "1": "Frolov Dmitry Vladimirovich",
     "2": "10.05.1979",
@@ -65777,6 +66168,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Харитонин Виктор Владимирович",
+    "1": "Kharitonin Viktor Vladimirovich",
+    "2": "20.11.1972",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -68837,6 +69239,17 @@
     ]
   },
   {
+    "0": "Чухлебов Эдуард Александрович",
+    "1": "Chukhlebov Eduard Alexandrovich",
+    "2": "04.10.1962",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Чухнова Евгения Леонидовна",
     "1": "Chukhnova Evgenia Leonidovna",
     "2": "23.09.1985",
@@ -69005,22 +69418,13 @@
     "1": "Shadaev Maksut Igorevich",
     "2": "11.11.1979",
     "3": "Male",
-    "4": "Minister of Digital Development, Communications and Mass Communications of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Management Board of PJSC Aeroflot",
+    "4": "Minister of Digital Development, Communications and Mass Communications of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMinister of Digital Development, Communications and Mass Media of the Russian Federation. Contributed to the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship\n\nMember of the Management Board of PJSC Aeroflot",
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees",
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
-    "0": "Шадаев Максут Игоревич",
-    "1": "Shadayev Maksut Igorevich",
-    "2": "11.11.1979",
-    "3": "male",
-    "4": "Minister of Digital Development, Communications and Mass Media of the Russian Federation. Contributed to the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
-    "5": [
       "Organizers of political repressions",
-      "Internet censors"
+      "Internet censors",
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -69089,6 +69493,17 @@
     ]
   },
   {
+    "0": "Шаймиев Айрат Минтимерович",
+    "1": "Shaimiev Airat Mintimerovich",
+    "2": "07.03.1962",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
+    ]
+  },
+  {
     "0": "Шаймиев Минтимер Шарипович",
     "1": "Shaymiev Mintimer Sharipovich",
     "2": "20.01.1937",
@@ -69103,11 +69518,13 @@
   },
   {
     "0": "Шаймиев Радик Минтимерович",
-    "1": "Shaymiev Radik Mintimerovich",
+    "1": "Shaimiev Radik Mintimerovich",
     "2": "14.11.1964",
     "3": "male",
-    "4": "M.S. Shaimiev's son",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nSon of Mintimer Sharipovich Shaimiev, former President of Tatarstan.",
     "5": [
+      "Individuals involved in corruption",
+      "Oligarchs",
       "Individuals involved in corruption",
       "Investigations subjects"
     ]
@@ -70054,6 +70471,17 @@
     "5": [
       "Key ‘siloviki’ (security forces) figure",
       "Ministry of Internal Affairs"
+    ]
+  },
+  {
+    "0": "Шелков Михаил Евгеньевич",
+    "1": "Shelkov Mikhail Evgenyevich",
+    "2": "30.05.1968",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {
@@ -71710,6 +72138,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Щербович Илья Викторович",
+    "1": "Shcherbovich Ilya Viktorovich",
+    "2": "23.12.1974",
+    "3": "male",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "5": [
+      "Individuals involved in corruption",
+      "Oligarchs"
     ]
   },
   {

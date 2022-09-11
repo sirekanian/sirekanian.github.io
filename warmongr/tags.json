@@ -9,19 +9,19 @@
   },
   {
     "id": 2,
+    "name": "Individuals involved in corruption",
+    "shortName": "Corrupt Officials",
+    "ruName": "Коррупционеры",
+    "ruShortName": "Коррупционеры",
+    "count": 792
+  },
+  {
+    "id": 3,
     "name": "Propagandists",
     "shortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
     "count": 755
-  },
-  {
-    "id": 3,
-    "name": "Individuals involved in corruption",
-    "shortName": "Corrupt Officials",
-    "ruName": "Коррупционеры",
-    "ruShortName": "Коррупционеры",
-    "count": 748
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "shortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 232
+    "count": 231
   },
   {
     "id": 13,
