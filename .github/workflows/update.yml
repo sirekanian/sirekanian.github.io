@@ -1,0 +1,16 @@
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - shell: bash
+        run: |
+          ./update.sh f
+          git config user.name sirekanian
+          git config user.email sirekanian@pm.me
+          git add warmongr/*.txt warmongr/*.json
+          git commit -m updated
+          git push
