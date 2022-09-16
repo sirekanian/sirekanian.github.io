@@ -16,5 +16,5 @@ jobs:
           git config user.name sirekanian
           git config user.email sirekanian@pm.me
           git add warmongr/*.txt warmongr/*.json
-          git commit -m updated
+          git commit -m updated || true
           git push
