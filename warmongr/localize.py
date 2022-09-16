@@ -23,11 +23,11 @@ tags = json.load(open('tags.json'))
 for tag in tags:
     tag['ruName'] = localization[tag['name']]
     if tag['name'] not in short_names or not short_names[tag['name']]:
-        print('WARN: Short name not found: ' + tag['name'])
-        short_names[tag['name']] = tag['name']
+        print('ERROR: Short name not found: ' + tag['name'])
+        exit(1)
     if tag['ruName'] not in short_names or not short_names[tag['ruName']]:
-        print('WARN: Short name not found: ' + tag['ruName'])
-        short_names[tag['ruName']] = tag['ruName']
+        print('ERROR: Short name not found: ' + tag['ruName'])
+        exit(1)
     tag['shortName'] = short_names[tag['name']]
     tag['ruShortName'] = short_names[tag['ruName']]
 json.dump(tags, open('tags.json', 'w'), ensure_ascii=False, indent=2)
