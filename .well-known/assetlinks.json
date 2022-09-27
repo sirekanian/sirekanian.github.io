@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sirekanian.warmongr",
+      "sha256_cert_fingerprints": [
+        "1C:CB:A0:A2:AE:0B:53:C1:09:1D:51:66:96:9A:7E:D2:7C:B4:DF:31:90:24:32:B2:1B:E7:D0:81:F0:7E:F6:D4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sirekanian.spacetime",
+      "sha256_cert_fingerprints": [
+        "1C:CB:A0:A2:AE:0B:53:C1:09:1D:51:66:96:9A:7E:D2:7C:B4:DF:31:90:24:32:B2:1B:E7:D0:81:F0:7E:F6:D4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sirekanian.bls",
+      "sha256_cert_fingerprints": [
+        "1C:CB:A0:A2:AE:0B:53:C1:09:1D:51:66:96:9A:7E:D2:7C:B4:DF:31:90:24:32:B2:1B:E7:D0:81:F0:7E:F6:D4"
+      ]
+    }
+  }
+]
