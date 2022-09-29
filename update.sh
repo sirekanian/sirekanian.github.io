@@ -15,8 +15,3 @@ sh -c 'cd warmongr && ./update.py'
 sh -c 'cd warmongr && ./localize.py'
 sh -c 'cd warmongr && ./verify.py'
 sh -c 'cd warmongr && ./index.py'
-
-if [ $# -ne 0 ]; then
-  echo "{\"date\":\"$(date -I)\"}" \
-    >warmongr/meta.json
-fi
