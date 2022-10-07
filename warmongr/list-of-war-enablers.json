@@ -2611,7 +2611,8 @@
     "3": "male",
     "4": "Attorney of Denis Sugrobov, lieutenant-general and former head of the Main Directorate for Economic Security and Anti-Corruption Activities of the Russian Interior Ministry, convicted and serving time for inciting FSS officers to take bribes and abuse of power. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Nominal owner of luxury real estate properties whose ultimate beneficiaries are Sugrobov's wife Maria Sherstneva and daughter Anastasia Sugrobova.",
     "5": [
-      "Individuals involved in corruption Investigations subjects"
+      "Individuals involved in corruption",
+      "Investigations subjects"
     ]
   },
   {
@@ -3377,7 +3378,8 @@
     "3": "male",
     "4": "Until 2016, Deputy Director of the Russian Federal Drug Control Service, Head of Operational Search Department; retired colonel general of the police. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Known for his connections to Russian organized crime groups. In 2016, an international search warrant was issued for him by the Central investigatory Court of Spain. He is wanted under Russian mafia criminal legal suit and accused of collaboration with the Tambov organized crime group, led by Russian criminal boss Gennadiy Petrov.",
     "5": [
-      "Individuals involved in corruption Investigations subjects"
+      "Individuals involved in corruption",
+      "Investigations subjects"
     ]
   },
   {
@@ -3540,7 +3542,8 @@
     "3": "male",
     "4": "Former FSB officer. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Former director of Sergey Tregub's Vladenie V, which is the registered owner and manager of multiple luxury real estate properties for the benefit of Alexey Miller, marina Yentaltseva and other Gazprom managers and their families. Director and owner of 80% in Recreational Systems (the other 20% is owned by Vadim Tregub) that owns Ydyp and Katun eco-hotels in the Altai Republic. Participated in corrupt schemes to plunder Yukos assets.",
     "5": [
-      "Individuals involved in corruption Investigations subjects"
+      "Individuals involved in corruption",
+      "Investigations subjects"
     ]
   },
   {
@@ -4206,7 +4209,8 @@
     "3": "male",
     "4": "Former fighter in Vympel, a special forces unit of the FSB. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in corrupt schemes to plunder Yukos assets. Owns 5% of the Sogaz Insurance Group (through AO Orbita Express).",
     "5": [
-      "Individuals involved in corruption Investigations subjects"
+      "Individuals involved in corruption",
+      "Investigations subjects"
     ]
   },
   {
@@ -4347,7 +4351,8 @@
     "3": "male",
     "4": "Businessman and politician, Deputy of the Legislative Assembly of the Irkutsk Oblast, founder of the Exportles group of companies Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Placed 44th in the Forbes magazine's 2019 ranking of the wealthiest Russian government officials.",
     "5": [
-      "Individuals involved in corruption Investigations subjects"
+      "Individuals involved in corruption",
+      "Investigations subjects"
     ]
   },
   {
@@ -5994,6 +5999,17 @@
     ]
   },
   {
+    "0": "Бендерский Эдуард Витальевич",
+    "1": "Bendersky Eduard Vitalievich",
+    "2": "25.06.1970",
+    "3": "male",
+    "4": "Russian entrepreneur operating in the private security business. Has strong contacts with the Federal Security Service and its special units. According to credible public investigations, he was involved in the creation of paramilitary groups (private military companies) and assassination attempts on public figures in the interests of the Russian authorities.",
+    "5": [
+      "Individuals involved in corruption",
+      "Investigations subjects"
+    ]
+  },
+  {
     "0": "Бенедиктов Владимир Валентинович",
     "1": "Benediktov Vladimir Valentinovich",
     "2": "11.05.1963",
@@ -6044,6 +6060,17 @@
     "2": "31.08.1974",
     "3": "male",
     "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 29th Combined Arms Army (Eastern Military District). Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers",
+      "Military staff and accomplices of Russian occupation"
+    ]
+  },
+  {
+    "0": "Бердников Роман Борисович",
+    "1": "Berdnikov Roman Borisovich",
+    "2": "31.08.1974",
+    "3": "male",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Western Military District since 03.10.2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
     "5": [
       "War Arrangers",
       "Military staff and accomplices of Russian occupation"
@@ -20946,7 +20973,7 @@
     "1": "Zhuravlev Alexander Alexandrovich",
     "2": "02.12.1965",
     "3": "male",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Western Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Western Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces. Released from the post of commander of the Western Military District of the Russian Armed Forces on 03.10.2022.",
     "5": [
       "War Arrangers",
       "Military staff and accomplices of Russian occupation"
@@ -24559,6 +24586,17 @@
     "5": [
       "Putin’s Public Supporters",
       "Presidential proxies in elections"
+    ]
+  },
+  {
+    "0": "Кабаков Александр Владимирович",
+    "1": "Kabakov Alexander Vladimirovich",
+    "2": "08.04.1987",
+    "3": "male",
+    "4": "Co-founder of NTechLab. The company develops algorithms for automatic recognition of faces, silhouettes, numbers and images and sells its developments to the Government of the Russian Federation. NTechLab technologies help law enforcement agencies identify and arrest civilians at peaceful protests, and then fabricate politically motivated cases against them.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -33793,6 +33831,17 @@
     ]
   },
   {
+    "0": "Куренков Александр Вячеславович",
+    "1": "Kurenkov Alexander Vyacheslavovich",
+    "2": "02.06.1972",
+    "3": "male",
+    "4": "Since 25.05.2022 - Minister for Civil Defense, Emergencies and Disaster Management. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "Senior Federal Officials",
+      "Executive branch and presidential administration employees"
+    ]
+  },
+  {
     "0": "Куренков Максим Александрович",
     "1": "Kurenkov Maksim Aleksandrovich",
     "2": "",
@@ -34032,6 +34081,17 @@
     "5": [
       "Key Local Government Officials",
       "Vice-Governors"
+    ]
+  },
+  {
+    "0": "Кухаренко Артём Игоревич",
+    "1": "Kukharenko Artyom Igorevich",
+    "2": "13.02.1990",
+    "3": "male",
+    "4": "Programmer, developer of the FindFace face recognition service algorithm, founder and former CEO of NTechLab. The company develops algorithms for automatic recognition of faces, silhouettes, numbers and images and sells its developments to the Government of the Russian Federation. NTechLab technologies help law enforcement agencies identify and arrest civilians at peaceful protests, and then fabricate politically motivated cases against them.",
+    "5": [
+      "Organizers of political repressions",
+      "Internet censors"
     ]
   },
   {
@@ -55675,6 +55735,17 @@
     ]
   },
   {
+    "0": "Седов Роман Алексеевич",
+    "1": "Sedov Roman Alekseevich",
+    "2": "22.06.1976",
+    "3": "male",
+    "4": "According to credible results of a public investigation, he is involved in the corruption schemes of his father Alexei Semenovich Sedov, who is the head of the Service for the Protection of the Constitutional System of the Federal Security Service of Russia.",
+    "5": [
+      "Individuals involved in corruption",
+      "Investigations subjects"
+    ]
+  },
+  {
     "0": "Седов Юрий Михайлович",
     "1": "Sedov Yuri Mikhailovich",
     "2": "",
@@ -69353,7 +69424,7 @@
     "1": "Chupriyan Alexander Petrovich",
     "2": "23.03.1958",
     "3": "Male",
-    "4": "Acting Minister of Civil Defense, Emergency Situations and the Elimination of the Consequences of Natural Disasters of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC GLONASS\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
+    "4": "Until 25.05.2022 - Acting Minister of Civil Defense, Emergency Situations and the Elimination of the Consequences of Natural Disasters of the Russian Federation. Managed a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC GLONASS\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
     "5": [
       "Senior Federal Officials",
       "Executive branch and presidential administration employees",
