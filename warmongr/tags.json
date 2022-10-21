@@ -5,7 +5,7 @@
     "shortName": "Organizers of Repressions",
     "ruName": "Организаторы политических репрессий",
     "ruShortName": "Организаторы репрессий",
-    "count": 913
+    "count": 914
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "shortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 805
+    "count": 884
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "shortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 756
+    "count": 757
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "shortName": "Parliament and Senate",
     "ruName": "Депутаты и сенаторы",
     "ruShortName": "Депутаты и сенаторы",
-    "count": 619
+    "count": 618
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "shortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 484
+    "count": 487
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "shortName": "Putin’s Supporters",
     "ruName": "Публичные сторонники Путина",
     "ruShortName": "Сторонники Путина",
-    "count": 467
+    "count": 468
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "shortName": "Top Managers",
     "ruName": "Руководители госкомпаний",
     "ruShortName": "Руководители госкомпаний",
-    "count": 433
+    "count": 434
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "shortName": "United Russia",
     "ruName": "Функционеры «Единой России»",
     "ruShortName": "Единая Россия",
-    "count": 312
+    "count": 313
   },
   {
     "id": 12,
@@ -109,7 +109,7 @@
     "shortName": "Election Fraud",
     "ruName": "Организаторы фальсификаций на выборах",
     "ruShortName": "Фальсификаторы выборов",
-    "count": 100
+    "count": 108
   },
   {
     "id": 15,

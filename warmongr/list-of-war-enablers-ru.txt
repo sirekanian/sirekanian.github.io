@@ -13,7 +13,7 @@
             {
               "name": "Военнослужащие и пособники российской оккупации",
               "number": 169,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_a2QxUdc.pdf"
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_AHKitzR.pdf"
             }
           ]
         },
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Герои расследований",
-              "number": 568,
-              "file": "https://acf.international/acf-media/Investigations_subjects_85ycBv9.pdf"
+              "number": 572,
+              "file": "https://acf.international/acf-media/Investigations_subjects_t8KzZDy.pdf"
             },
             {
               "name": "Герои региональных расследований",
@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Сотрудники органов исполнительной власти и администрации президента",
-              "number": 485,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_asy5yup.pdf"
+              "number": 487,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_f5zz1Zi.pdf"
             }
           ]
         },
@@ -82,8 +82,8 @@
           "lists": [
             {
               "name": "Государственная Дума",
-              "number": 448,
-              "file": "https://acf.international/acf-media/Members_of_Parliament_and_Senate_State_Duma_.pdf"
+              "number": 447,
+              "file": "https://acf.international/acf-media/State_Duma.pdf"
             },
             {
               "name": "Совет Федерации",
@@ -192,8 +192,8 @@
           "lists": [
             {
               "name": "Руководители ЦИК и местных избиркомов",
-              "number": 101,
-              "file": "https://acf.international/acf-media/Election_fraud_organizers_CK44JAe.pdf"
+              "number": 108,
+              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_commissions.pdf"
             }
           ]
         },
@@ -267,18 +267,18 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 6700,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_5zE6e5Y.pdf"
+              "number": 6697,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_XHpqUnK.pdf"
             },
             {
               "name": "Виновники войны, xlsx",
-              "number": 6700,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_xlsx_E6GZJHu.xlsx"
+              "number": 6697,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_xlsx_Tfa1oBP.xlsx"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 6700,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_ko7jg50.csv"
+              "number": 6697,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_nDdXs2H.csv"
             }
           ]
         },
@@ -344,6 +344,11 @@
               "name": "Изменения от 07.10.2022",
               "number": 9,
               "file": "https://acf.international/acf-media/Changes_from_07.10.2022.pdf"
+            },
+            {
+              "name": "Изменения от 21.10.2022",
+              "number": 15,
+              "file": "https://acf.international/acf-media/Changes_from_21.10.2022.pdf"
             }
           ]
         }

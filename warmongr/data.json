@@ -224,7 +224,7 @@
     "1": "Abramovich Roman Arkadievich",
     "2": "24.10.1966",
     "3": "male",
-    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nRoman Abramovich is a Russian oligarch who has long and close ties to Vladimir Putin. He has had privileged access to the president, and has maintained very good relations with him. This connection with the Russian leader helped him maintain his considerable wealth. He is a major shareholder of the steel group Evraz, which is one of Russia’s largest taxpayers. He has therefore been benefitting from Russian decision-makers responsible for the annexation of Crimea and the destabilisation of Ukraine. He is also one of the leading Russian businesspersons involved in economic sectors providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nRoman Abramovich is a Russian oligarch who has long and close ties to Vladimir Putin. He has had privileged access to the president, and has maintained very good relations with him. This connection with the Russian leader helped him maintain his considerable wealth. He is a major shareholder of the steel group Evraz, which is one of Russia’s largest taxpayers. He has therefore been benefitting from Russian decision-makers responsible for the annexation of Crimea and the destabilisation of Ukraine. He is also one of the leading Russian businesspersons involved in economic sectors providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2
     ]
@@ -857,7 +857,7 @@
     "1": "Akimov Andrey Igorevich",
     "2": "22.09.1953",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Gazprom\nMember of the Board of Directors of JSC ROSNEFTEGAZ\n\nDeputy Chairman of the Board of Directors of JSC Gazprombank\nChairman of the Management Board, JSC Gazprombank",
+    "4": "Member of the Board of Directors of PJSC Gazprom\nMember of the Board of Directors of JSC ROSNEFTEGAZ\nDeputy Chairman of the Board of Directors of JSC Gazprombank\nChairman of the Management Board, JSC Gazprombank",
     "5": [
       10
     ]
@@ -1651,7 +1651,7 @@
     "1": "Aldieva Bella Tamerlanovna",
     "2": "-",
     "3": "Female",
-    "4": "Acting Director, STATE AUTONOMOUS INSTITUTION OF THE REPUBLIC OF INGUSHETIA \"NATIONAL TV AND RADIO COMPANY \"INGUSHETIA\". Involved in Russian propaganda of the war against Ukraine.\n\nHead of department of state property management, NATIONAL TV AND RADIO COMPANY \"INGUSHETIA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Acting Director, STATE AUTONOMOUS INSTITUTION OF THE REPUBLIC OF INGUSHETIA \"NATIONAL TV AND RADIO COMPANY \"INGUSHETIA\". Involved in Russian propaganda of the war against Ukraine.\nHead of department of state property management, NATIONAL TV AND RADIO COMPANY \"INGUSHETIA\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       3
     ]
@@ -1733,7 +1733,9 @@
     "2": "07.06.1985",
     "3": "female",
     "4": "Partner of Eduard Khudainatov. Benefits from corruption schemes in the energy sector and ties to the government.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Амбаров Д. М.",
@@ -2050,7 +2052,7 @@
     "1": "Andronov Sergey Alexandrovich",
     "2": "20.12.1969",
     "3": "male",
-    "4": "Vice President of PJSC Transneft, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\n\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
+    "4": "Vice President of PJSC Transneft, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
     "5": [
       10
     ]
@@ -2824,19 +2826,10 @@
     "1": "Artyukhov Andrey Viktorovich",
     "2": "18.04.1958",
     "3": "male",
-    "4": "Secretary of the Tyumen Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Secretary of the Tyumen Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\n\nActing chairman of the Tyumen Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
+      4,
       11
-    ]
-  },
-  {
-    "0": "Артюхов Андрей Викторович",
-    "1": "Artyukhov Andrey Viktorovich",
-    "2": "18.04.1958",
-    "3": "male",
-    "4": "Acting chairman of the Tyumen Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
-    "5": [
-      4
     ]
   },
   {
@@ -2844,7 +2837,7 @@
     "1": "Artyukhov Dmitry Andreevich",
     "2": "17.02.1988",
     "3": "male",
-    "4": "Governor of Yamalo-Nenets Autonomous Okrug. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Governor of Yamalo-Nenets Autonomous Okrug. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       11,
       15
@@ -2855,7 +2848,7 @@
     "1": "Artyakov Vladimir Vladimirovich",
     "2": "30.07.1959",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC Concern VKO \"Almaz-Antey\"\n\nMember of the Board of Directors of JSC United Shipbuilding Corporation\n\nMember of the Board of Directors of JSC GLONASS\n\nFirst Deputy General Director of Rostec",
+    "4": "Member of the Board of Directors of JSC Concern VKO \"Almaz-Antey\"\nMember of the Board of Directors of JSC United Shipbuilding Corporation\nMember of the Board of Directors of JSC GLONASS\nFirst Deputy General Director of Rostec",
     "5": [
       10
     ]
@@ -2912,23 +2905,14 @@
     ]
   },
   {
-    "0": "Аршинова Алена Игоревна",
-    "1": "Arshinova Alena Igorevna",
-    "2": "03.03.1985",
-    "3": "female",
-    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
-    "5": [
-      11
-    ]
-  },
-  {
     "0": "Аршинова Алёна Игоревна",
     "1": "ARSHINOVA, Alena (Aljona) Igorevna",
     "2": "03.03.1985",
     "3": "female",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      5
+      5,
+      11
     ]
   },
   {
@@ -3892,7 +3876,9 @@
     "2": "09.08.1968",
     "3": "male",
     "4": "Prominent businessman; Among other companies, owns the Tuva Energy Industrial Corporation and the Bamtonnelstroy-Most Group of Companies, one of the largest construction companies in Russia specializing in transport infrastructure. Chairman of the Board of Directors of JSC Bamtonnelstroy-Most. Thus, Baisarov is engaged in gaining or supporting the Russian government by owning or controlling a company operating in sectors of strategic importance, namely the Russian construction and transport sectors. Close friend of the head of Chechnya Ramzan Kadyrov, considered by many to be \"Kadyrov's wallet.\" In 2019, he entered the list of the 200 richest businessmen in Russia according to the Forbes magazine with an estimated net worth of $500 million.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Байсултанов Одес Хасаевич",
@@ -4481,7 +4467,7 @@
     "1": "Bastrykin Alexander Ivanovich",
     "2": "27.08.1953",
     "3": "male",
-    "4": "Head of The Investigative Committee of Russia. Responsible for the Kremlin’s sustained campaign of persecution of civil society. Graduated from the Law Department of Leningrad State University in 1975 and was a university classmate of Vladimir Putin.\n\nHead of the federal state body responsible for the criminal prosecution of citizens of the Russian Federation who oppose the Russian invasion of Ukraine and the current political regime in the Russia.",
+    "4": "Head of The Investigative Committee of Russia. Responsible for the Kremlin’s sustained campaign of persecution of civil society. Graduated from the Law Department of Leningrad State University in 1975 and was a university classmate of Vladimir Putin.\n\nHead of The Investigative Committee of Russia.\n\nHead of the federal state body responsible for the criminal prosecution of citizens of the Russian Federation who oppose the Russian invasion of Ukraine and the current political regime in the Russia.",
     "5": [
       1,
       2,
@@ -5151,7 +5137,7 @@
     "1": "Belozerov Oleg Valentinovich",
     "2": "26.09.1969",
     "3": "male",
-    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nGeneral Director of Russian Railways PJSC (PAO RZhD)",
+    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nGeneral Director of Russian Railways PJSC (PAO RZhD)",
     "5": [
       10,
       11
@@ -5534,17 +5520,7 @@
     "1": "Berdnikov Roman Borisovich",
     "2": "31.08.1974",
     "3": "male",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 29th Combined Arms Army (Eastern Military District). Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
-    "5": [
-      13
-    ]
-  },
-  {
-    "0": "Бердников Роман Борисович",
-    "1": "Berdnikov Roman Borisovich",
-    "2": "31.08.1974",
-    "3": "male",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Western Military District since 03.10.2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 29th Combined Arms Army (Eastern Military District). Commander of the Western Military District since 03.10.2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
     "5": [
       13
     ]
@@ -5784,19 +5760,10 @@
     "1": "Bessarabov Daniil Vladimirovich",
     "2": "09.07.1976",
     "3": "male",
-    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
+      5,
       11
-    ]
-  },
-  {
-    "0": "Бессарабов Даниил Владимирович",
-    "1": "BESSARABOV, Daniil Vladimirovich",
-    "2": "09.07.1976",
-    "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
-    "5": [
-      5
     ]
   },
   {
@@ -6058,6 +6025,7 @@
     "3": "female",
     "4": "Chairman of the Election Commission of the Novosibirsk Oblast. Head of the state body responsible for supporting the existing political regime in Russia through electoral fraud.\n\nBeeing a member of the Electoral Commission of the Novosibirsk Oblast with a casting vote. In the interests of illegally retaining the power of the ruling regime of Vladimir Putin, she did not allow the opposition party to participate in the elections.",
     "5": [
+      2,
       14
     ]
   },
@@ -6337,7 +6305,7 @@
     "1": "Bogdanov Kirill Igorevich",
     "2": "",
     "3": "Male",
-    "4": "Deputy Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nDeputy Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nMember of the Management Board of PJSC Aeroflot\nMember of the Board of Directors of JSC GLONASS",
+    "4": "Deputy Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nDeputy Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\n\nMember of the Management Board of PJSC Aeroflot\nMember of the Board of Directors of JSC GLONASS",
     "5": [
       7,
       10
@@ -6751,7 +6719,9 @@
     "2": "",
     "3": "male",
     "4": "Former son-in-law of Nikolay Tokarev, a longstanding associate of Vladimir Putin and President of JSC Transneft (Transneft is a state enterprise that provides services for oil and oil products transportation within Russia and beyond). Through a network of offshore companies, was the beneficiary of several Transneft contractors with contracts worth billions of rubles and real estate companies controlling luxury properties in Russia, Latvia, and Croatia worth tens of millions of dollars. Participated in and received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians. SInce 2014, has Cypriot citizenship.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Болотов Дашидоржи Найманович",
@@ -6769,7 +6739,9 @@
     "2": "18.01.1975",
     "3": "female",
     "4": "Daughter of Nikolay Tokarev, a longstanding associate of Vladimir Putin and President of JSC Transneft (Transneft is a state enterprise that provides services for oil and oil products transportation within Russia and beyond). With her then-husband Andrey Bolotov, through a network of offshore companies, was the beneficiary of several Transneft contractors with contracts worth billions of rubles and real estate companies controlling luxury properties in Russia, Latvia, and Croatia worth tens of millions of dollars. Participated in and received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians. Since 2014, has Cypriot citizenship.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Болоховец Олег Валерьевич",
@@ -6907,7 +6879,9 @@
     "2": "",
     "3": "male",
     "4": "Film director, businessman, personal friend of Igor Lebedev (the son of the late leader of the Liberal Democratic Party of Russia (LDPR) Vladimir Zhirinovsky). Participated in fraudulent schemes designed to provide corrupt sources of income to Zhirinovsky and his family members.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Бордовский Геннадий Алексеевич",
@@ -7174,21 +7148,12 @@
   },
   {
     "0": "Бородай Александр Юрьевич",
-    "1": "Borodai Alexander (Aleksandr) Yurevich",
-    "2": "25.07.1972",
-    "3": "male",
-    "4": "Member of the State Duma of Russia who voted to recognise the Donetsk People’s Republic and the Luhansk People’s Republic as independent states. Former so-called \"Prime Minister of the Donetsk People’s Republic\", as such responsible for the separatist \"governmental\" activities of the so-called \"government of the Donetsk People’s Republic\", signatory of the Memorandum of Understanding on \"Novorossiya union\". Declared in Oct 2021 that separatist forces in Eastern Ukraine are \"Russian forces.\"",
-    "5": [
-      2
-    ]
-  },
-  {
-    "0": "Бородай Александр Юрьевич",
     "1": "BORODAI, Alexander (Aleksandr) Yurevich",
     "2": "25.07.1972",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the State Duma of Russia who voted to recognise the Donetsk People’s Republic and the Luhansk People’s Republic as independent states. Former so-called \"Prime Minister of the Donetsk People’s Republic\", as such responsible for the separatist \"governmental\" activities of the so-called \"government of the Donetsk People’s Republic\", signatory of the Memorandum of Understanding on \"Novorossiya union\". Declared in Oct 2021 that separatist forces in Eastern Ukraine are \"Russian forces.\"",
     "5": [
+      2,
       5
     ]
   },
@@ -7890,7 +7855,7 @@
     "1": "Bukayev Gennady Ivanovich",
     "2": "15.09.1947",
     "3": "male",
-    "4": "Former boss and close friend of Mikhail Vladimirovich Mishustin, who is Chairman of the Government of the Russian Federation. General director of Rosneftegaz.\nMember of the Board of Directors of JSC ROSNEFTEGAZ\nThe person exercises the powers of the sole executive body of JSC ROSNEFTEGAZ",
+    "4": "Former boss and close friend of Mikhail Vladimirovich Mishustin, who is Chairman of the Government of the Russian Federation. \n\nGeneral director of Rosneftegaz.\nMember of the Board of Directors of JSC ROSNEFTEGAZ\nThe person exercises the powers of the sole executive body of JSC ROSNEFTEGAZ",
     "5": [
       2,
       10
@@ -8184,7 +8149,9 @@
     "2": "",
     "3": "female",
     "4": "Prosecutor of the Appellate Division of the Criminal Court Department of the Moscow Prosecutor's Office. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia\tOrganizers of political repressions",
-    "5": []
+    "5": [
+      1
+    ]
   },
   {
     "0": "Бурмистрова Елена Викторовна",
@@ -8251,7 +8218,7 @@
     "1": "Busargin Roman Viktorovich",
     "2": "29.07.1981",
     "3": "male",
-    "4": "Vice Governor of Saratov Oblast - Chairman of the Government Saratov Oblast until May 2022. Acting Governor of the Saratov Region since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Vice Governor of Saratov Oblast - Chairman of the Government Saratov Oblast until May 2022. Acting Governor of the Saratov Region since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nActing Governor of the Saratov Region since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       4,
       15
@@ -8907,7 +8874,7 @@
     "1": "Warnig Matthias Artur",
     "2": "26.07.1955",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Transneft\n\nMember of the Board of Directors of PJSC Rosneft Oil Company\n\nA banker and former Stasi employee who had worked with Putin back in Germany and then moved to St. Petersburg to head Dresdner Bank. The managing director (CEO) of Nord Stream AG, the company responsible for the construction and operation of the Nord Stream undersea gas pipeline from Russia to Germany. Warnig paid for Lyudmila Putina's medical treatment abroad, took care of the costs of the Putin family vacations and their organization - hotels were booked in his name.\n\nMember of the Supervisory Board of PJSC VTB Bank",
+    "4": "Member of the Board of Directors of PJSC Transneft\nMember of the Board of Directors of PJSC Rosneft Oil Company\nMember of the Supervisory Board of PJSC VTB Bank\n\nA banker and former Stasi employee who had worked with Putin back in Germany and then moved to St. Petersburg to head Dresdner Bank. The managing director (CEO) of Nord Stream AG, the company responsible for the construction and operation of the Nord Stream undersea gas pipeline from Russia to Germany. Warnig paid for Lyudmila Putina's medical treatment abroad, took care of the costs of the Putin family vacations and their organization - hotels were booked in his name.",
     "5": [
       2,
       10
@@ -9104,7 +9071,9 @@
     "2": "05.12.1955",
     "3": "male",
     "4": "Businessman, co-owner of St. Petersburg Oil Terminal, one of the largest Russian terminals for the transshipment of oil products in the Baltic region. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Closely linked to Russian organized crime groups. Controls the Lichtenstein-registered firm Sotrama (renamed CINPIT), which is linked to the Tambov organized criminal syndicate. The firm was a link in a network of oil trading companies set up across Europe by Putin and his cronies to syphon money out of Russia and launder it by investing in European real estate.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Васильев Сергей Станиславович",
@@ -9437,6 +9406,16 @@
     "4": "Head of the Main Directorate of the Ministry of Interior of Russia for the Volgograd Oblast, a federal state body that carries out political persecution in the territory under its jurisdiction against citizens and organizations that oppose Russia's aggressive war against Ukraine and are in opposition to the current political regime in Russia.",
     "5": [
       9
+    ]
+  },
+  {
+    "0": "Венедиктов Алексей Алексеевич",
+    "1": "Venediktov Alexey Alekseevich",
+    "2": "18.12.1955",
+    "3": "male",
+    "4": "Head of the Public Headquarters for Election Observation in Moscow. Organizer of the falsification of the results of the remote electronic voting to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
+    "5": [
+      14
     ]
   },
   {
@@ -9889,7 +9868,7 @@
     "1": "Vlasova Tatyana Alekseevna",
     "2": "01.07.1959",
     "3": "female",
-    "4": "Prosecutor of the General Prosecutor's Office of the Russian Federation.\n\nIn court, she petitioned to recognize the legal exclusion of Alexei Navalny from the presidential elections on March 18, 2018\n\nRepresented the side of the state prosecution in the case of the liquidation of the \"Memorial International\"",
+    "4": "Prosecutor of the General Prosecutor's Office of the Russian Federation.\nIn court, she petitioned to recognize the legal exclusion of Alexei Navalny from the presidential elections on March 18, 2018\nRepresented the side of the state prosecution in the case of the liquidation of the \"Memorial International\"",
     "5": [
       1
     ]
@@ -10351,16 +10330,6 @@
     ]
   },
   {
-    "0": "Воробьев Андрей Юрьевич",
-    "1": "Vorobyov Andrey Yurievich",
-    "2": "14.04.1970",
-    "3": "male",
-    "4": "Member of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
-    "5": [
-      11
-    ]
-  },
-  {
     "0": "Воробьев Владимир Борисович",
     "1": "Vorobiev Vladimir Borisovich",
     "2": "",
@@ -10376,7 +10345,9 @@
     "2": "09.08.1976",
     "3": "male",
     "4": "Multimillionaire businessman. Member of one of the most influential political clans in Russia, whose influence is associated with the connections of the Vorobyov family with Defense Minister Sergei Shoigu. Son of Yuri Vorobyov, Deputy Chairman of the Federation Council of the Russian Federation, and brother of Andrei Vorobyov, Governor of the Moscow Region. Vorobyov's group of companies is one of the largest Russian fish processors and suppliers of fish products, and a major federal contractor. Vorobyov was involved in corruption schemes and dealings with senior government officials and Putin's closest associates and received financial benefits from the Russian government.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Воробьев Михаил Владимирович",
@@ -10423,9 +10394,10 @@
     "1": "Vorobyov Andrey Yurievich",
     "2": "14.04.1970",
     "3": "male",
-    "4": "Governor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Member of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\n\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.\n\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       2,
+      11,
       15
     ]
   },
@@ -10756,7 +10728,9 @@
     "2": "26.05.1962",
     "3": "male",
     "4": "Research officer of the Presidential Directorate for Personnel and State Awards of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Closely associated with Aslan Gagiev (aka Sergey Morozov), known as \"Bloody Jaco\" (the leader of a criminal gang resposible for at least 61 murders, including those of of bankers and their families), Viktor Zolotov (former security guard of Putin, now head of the National Guard of Russia) and \"Putin's masseur\" Konstantin Goloshchapov.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Вышинский Кирилл Валерьевич (Кирило Валерійович Вишинський)",
@@ -10885,7 +10859,7 @@
     "1": "Gabrelyanov Ashot Aramovich",
     "2": "04.04.1989",
     "3": "male",
-    "4": "Russian media manager, former Executive Director of News Media, and the CEO of LifeNews. Complicity in the aggressive propaganda of the Putin regime, as well as in deceiving the Russian citizens through the deliberate disinformation, distorting reality and instilling intolerance of democratic values and opponents of Putin in the society. Gabrelianov’s close cooperation with the Presidential Administration was confirmed in 2016 by the publication of his correspondence, revealed by hackers from the Anonymous International group. It followed that Izvestia and Life published articles on the instructions of Alexei Gromov, the Deputy Head of the Presidential Administration. Gromov edited them directly with Gabrelianov and collected compromising materials on the opposition leader and founder of the Anti-Corruption Foundation, Alexei Navalny. Ashot is currently based in the USA and poses as an entrepreneur. He should be deported.",
+    "4": "Russian media manager, former Executive Director of News Media, and the CEO of LifeNews. Complicity in the aggressive propaganda of the Putin regime, as well as in deceiving the Russian citizens through the deliberate disinformation, distorting reality and instilling intolerance of democratic values and opponents of Putin in the society. Gabrelianov’s close cooperation with the Presidential Administration was confirmed in 2016 by the publication of his correspondence, revealed by hackers from the Anonymous International group. It followed that Izvestia and Life published articles on the instructions of Alexei Gromov, the Deputy Head of the Presidential Administration. Gromov edited them directly with Gabrelianov and collected compromising materials on the opposition leader and founder of the Anti-Corruption Foundation, Alexei Navalny. Ashot is currently based in the USA and poses as an entrepreneur. He should be deported.\n\nRussian media manager, former Executive Director of News Media, and the CEO of LifeNews. Complicity in the aggressive propaganda of the Putin regime, as well as in deceiving the Russian citizens through the deliberate disinformation, distorting reality and instilling intolerance of democratic values and opponents of Putin in the society.",
     "5": [
       2,
       3
@@ -10936,7 +10910,7 @@
     "1": "Gavrilenko Anatoly Anatolievich",
     "2": "07.09.1972",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC INTER RAO\n\nMember of the Board of Directors of JSC Gazprombank",
+    "4": "Member of the Board of Directors of PJSC INTER RAO\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       10
     ]
@@ -11088,7 +11062,9 @@
     "2": "1963 ()",
     "3": "male",
     "4": "Head of the Civil Engineering Management Company (owned by the Government of Moscow). Was involved in and financially benefitted from corruption schemes (primarily in the construction business and government contracts awarded in violation of anti-corruption and public procurement regulations) designed to provide corrupt sources of income to politicians and government officials and their families. Associate of Marat Khusnullin, Deputy Prime Minister of Russia for Construction and Regional Development, and Pavel Fradkov, First Deputy Chief of Staff of the President of the Russian Federation.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Газимагомедов Ризван Казимович",
@@ -11840,7 +11816,7 @@
     "1": "Gerasimov Valery Vasilievich",
     "2": "08.09.1955",
     "3": "male",
-    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nHead of the General Staff of the Armed Forces of the Russian Federation -\nFirst Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nHead of the General Staff of the Armed Forces of the Russian Federation - First Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       7,
       13
@@ -11942,7 +11918,9 @@
     "2": "",
     "3": "female",
     "4": "Partner of Denis Pasler, the Governor of Orenburg Region. Financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns real estate in Bulgaria.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Гетта Антон Александрович",
@@ -12152,7 +12130,9 @@
     "2": "",
     "3": "female",
     "4": "Businesswoman; wife of State Duma deputy Vladislav Reznik. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Linked to the Tambov Organized Crime Group and its leader Gennadiy Petrov. Owns shares and interests in several Russian companies, as well as land and real estate in Russia, Spain, and the United States. Holds US citizenship.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Гиревой Илья Александрович",
@@ -12160,7 +12140,9 @@
     "2": "09.06.1987",
     "3": "male",
     "4": "Former FSB officer. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Director of AO Promenergo, under which luxury properties in the Leningrad Oblast are registered for the benefit of Mikhail Miller, Yury Gorokh, Pavel Nikolaev, Sergey Kupriyanov and other top Gazprom executives. Works for OOO Gross Group D, which manages all of Miller's properties",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Гищенко Павел Иванович",
@@ -12481,6 +12463,7 @@
     "3": "male",
     "4": "Former head of the Presidential Directorate for Social and Economic Cooperation with the CIS Member Countries, the Republic of Abkhazia, and the Republic of South Ossetia; general director of JSC Bank DOM.RF. DOM.RF is a financial agency in the housing sector, fully owned by the Federal Agency for State Property Management (Rosimushchestvo). Under Canada and US sanctions for his association with Putin. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns multiple luxury properties (some together with his wife Natalya Seraya) worth more than 2 billion rubles.\n\nDeputy General Director of JSC Bank DOM.RF, General Director of the public company \"Foundation for the Protection of the Rights of Citizens - Participants in Shared Construction\".",
     "5": [
+      2,
       10
     ]
   },
@@ -12609,7 +12592,7 @@
     "1": "Golikova Tatiana Alexeyevna",
     "2": "09.02.1966",
     "3": "female",
-    "4": "Deputy Prime Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Deputy Prime Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nDeputy Prime Minister of the Russian Federation.",
     "5": [
       2,
       7
@@ -12820,17 +12803,7 @@
     "1": "Golubev Valery Alexandrovich",
     "2": "14.06.1952",
     "3": "male",
-    "4": "Deputy Chairman of the Gazprom Management Committee (from November 2006 to February 2019). At the beginning of his career, he served in the Leningrad KGB. And then in the secretariat of the mayor's office in St. Petersburg. Knew Putin from his service in the KGB.",
-    "5": [
-      2
-    ]
-  },
-  {
-    "0": "Голубев Валерий Александрович",
-    "1": "Golubev Valery Alexandrovich",
-    "2": "14.06.1952",
-    "3": "male",
-    "4": "Involved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Deputy Chairman of the Gazprom Management Committee (from November 2006 to February 2019). At the beginning of his career, he served in the Leningrad KGB. And then in the secretariat of the mayor's office in St. Petersburg. Knew Putin from his service in the KGB.\nInvolved in corruption in PJSC Gazprom and subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2
     ]
@@ -13003,7 +12976,9 @@
     "2": "27.12.1965",
     "3": "male",
     "4": "Russian billionaire businessman, former CEO of a Gazprom subsidiary Gazprom Invest Yug. Was involved in and is a beneficiary of corruption schemes of PJSC Gazprom and its subsidiaries.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Гончаренко Иван Максимович",
@@ -13090,7 +13065,7 @@
     "1": "Gorbenko Alexander Nikolaevich",
     "2": "11.05.1962",
     "3": "male",
-    "4": "The deputy mayor of Moscow has worked for Sobyanin since his first days in office and is in charge of regional security and information policy. In order to hide his assets, he used the pseudonym Ivan Ivanovich Fedorov.",
+    "4": "The deputy mayor of Moscow has worked for Sobyanin since his first days in office and is in charge of regional security and information policy. In order to hide his assets, he used the pseudonym Ivan Ivanovich Fedorov.\n\nThe deputy mayor of Moscow has worked for Sobyanin since his first days in office and is in charge of regional security and information policy.",
     "5": [
       2,
       4
@@ -13384,7 +13359,7 @@
     "1": "Goreslavsky Alexey Sergeyevich",
     "2": "13.07.1977",
     "3": "male",
-    "4": "Russian journalist and media manager. Helped destroy independent media in Russia when he was appointed the new editor-in-chief of the previously popular independent Lenta.ru in 2014 .\nRussian propagandist: journalist and media manager; works at the state-owned Institute for the Development of Internet that focuses on creating propoganda for the youth of Russia\n\nHead of the Internet Development Institute. Responsible for organizing censorship in the Russian segment of the Internet",
+    "4": "Russian journalist and media manager. Helped destroy independent media in Russia when he was appointed the new editor-in-chief of the previously popular independent Lenta.ru in 2014 .\n\nRussian propagandist: journalist and media manager; works at the state-owned Institute for the Development of Internet that focuses on creating propoganda for the youth of Russia\n\nHead of the Internet Development Institute. Responsible for organizing censorship in the Russian segment of the Internet",
     "5": [
       1,
       2,
@@ -13548,7 +13523,9 @@
     "2": "",
     "3": "male",
     "4": "Deputy Head of Gazprom’s Management Committee. Participant and beneficiary of corruption schemes of PJSC Gazprom and its subsidiaries.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Горохов Александр Николаевич",
@@ -13585,7 +13562,7 @@
     "1": "Gorchakova Elena Viktorovna",
     "2": "12.11.1961",
     "3": "female",
-    "4": "Judge of the Supreme Court of the Russian Federation. As part of the panel of judges, she upheld the decision to exclude Sergei Boyko from the elections to the Legislative Assembly of the Novosibirsk Oblast\n\nAs part of the panel of judges, she upheld the decision to exclude Ivan Zhdanov from the election of deputies of the Moscow City Duma.\n\nAs part of the panel of judges, she recognized as legal the actions of Rosreestr in issuing extracts with false information, where the names of the children of the Prosecutor General Chaika were replaced with LSDU3 and YFYaU9",
+    "4": "Judge of the Supreme Court of the Russian Federation. As part of the panel of judges, she upheld the decision to exclude Sergei Boyko from the elections to the Legislative Assembly of the Novosibirsk Oblast\nAs part of the panel of judges, she upheld the decision to exclude Ivan Zhdanov from the election of deputies of the Moscow City Duma.\nAs part of the panel of judges, she recognized as legal the actions of Rosreestr in issuing extracts with false information, where the names of the children of the Prosecutor General Chaika were replaced with LSDU3 and YFYaU9",
     "5": [
       1
     ]
@@ -13606,7 +13583,9 @@
     "2": "13.03.1987",
     "3": "female",
     "4": "Wife of Boris Listov, Chairman of the Board of the Russian Agricultural Bank. Beneficiary of fraudulent schemes aimed at providing corrupt sources of income for Listov and his family.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Горяинова Наталья",
@@ -13825,7 +13804,9 @@
     "2": "18.10.1955",
     "3": "male",
     "4": "Retired army general, Chief Inspector of the Directorate of General Inspectors of the Russian Ministry of Defense, former director of the Military-Patriotic Park of Culture and Recreation of the Armed Forces of the Russian Federation. Involved in and financially benefitted from multiple corruption schemes, primarily in the construction business and government contracts, designed to provide corrupt sources of income to politicians and government officials.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Гребенёв В. М.",
@@ -13889,7 +13870,7 @@
   },
   {
     "0": "Грешневиков Анатолий Николаевич",
-    "1": "Sinneviks Anatoly Nikolaevich",
+    "1": "Greshnevikov Anatoly Nikolaevich",
     "2": "29.08.1956",
     "3": "male",
     "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
@@ -13963,7 +13944,9 @@
     "2": "14.07.1978",
     "3": "male",
     "4": "Deputy Prime Minister of the Russian Federation - Chief of Staff of the Government of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
-    "5": []
+    "5": [
+      7
+    ]
   },
   {
     "0": "Григоренко Сергей Степанович",
@@ -14132,14 +14115,16 @@
     "2": "02.07.1989",
     "3": "female",
     "4": "Former wife of Igor Lebedev (the son of the late leader of the Liberal Democratic Party of Russia (LDPR) Vladimir Zhirinovsky). Participant and beneficiary of fraudulent schemes designed to provide corrupt sources of income to Zhirinovsky and his family members. Together with her husband Igor Lebedev and his mother Galina Lebedeva, through a network of shell companies, owns 51 luxury properties in Russia, Spain, and Dubai worth over $142 million. Grishaeva and Lebedev enacted a fraudulent \"divorce\" scheme to circumvent the need for Lebedev, as a State Duma deluty, to declare his real estate.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Гришанин Максим Сергеевич",
     "1": "Grishanin Maxim Sergeyevich",
     "2": "15.03.1968",
     "3": "male",
-    "4": "Member of the collegial executive body (Management Board) of PJSC Transneft\n\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
+    "4": "Member of the collegial executive body (Management Board) of PJSC Transneft\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
     "5": [
       10
     ]
@@ -14189,7 +14174,7 @@
     "1": "Gromov Alexey Alekseevich",
     "2": "31.05.1960",
     "3": "Male",
-    "4": "First Deputy Head of the Administration of the President of the Russian Federation. Manages the Presidential Administration of the Russian Federation, which organizes and implements actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "First Deputy Head of the Administration of the President of the Russian Federation. Manages the Presidential Administration of the Russian Federation, which organizes and implements actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nFirst Deputy Head of the Administration of the President of the Russian Federation.",
     "5": [
       2,
       7
@@ -15291,7 +15276,7 @@
     "1": "Dvornikov Alexander Vladimirovich",
     "2": "22.08.1961",
     "3": "male",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the troops of the Southern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\n\nСommanded a Russian grouping of troops during the aggression against Ukraine.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the troops of the Southern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nСommanded a Russian grouping of troops during the aggression against Ukraine.",
     "5": [
       13
     ]
@@ -15484,7 +15469,7 @@
     "1": "Demeshin Dmitry Viktorovich",
     "2": "02.08.1976",
     "3": "male",
-    "4": "Deputy Prosecutor General of the Russian Federation. Deputy head of the federal state body that provides legal protection for the Russian political regime and refused to protect the rule of law in the context of the invasion of Russian troops in Ukraine.",
+    "4": "Deputy Prosecutor General of the Russian Federation. Deputy head of the federal state body that provides legal protection for the Russian political regime and refused to protect the rule of law in the context of the invasion of Russian troops in Ukraine.\n\nDeputy Prosecutor General of the Russian Federation. Deputy head of the federal state body that provides legal protection for the Russian political regime and refused to protect the rule of law in the context of the invasion of Russian troops in Ukraine.",
     "5": [
       2,
       9
@@ -16307,7 +16292,7 @@
     "1": "Dobrodeyev Oleg Borisovich",
     "2": "28.10.1959",
     "3": "male",
-    "4": "VGTGK is one of the main sources of Russian propaganda. As an influential media manager and Russian bureaucrat, Mr Dobrodeyev helped destroy independent media within Russia and promoted misinformation that led to the strengthening of Mr. Putin's regime, war in Georgia, illegal annexation of Crimea, occupation of Donbass, aggressive military operations in Syria, and the current massive escalation of war in Ukraine. Rossiya-24 channel under his control has been considered for the most effective means of the hybrid information war. Therefore, he is responsible for actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty, and independence of Ukraine, as well as stability and security in Ukraine.",
+    "4": "VGTGK is one of the main sources of Russian propaganda. As an influential media manager and Russian bureaucrat, Mr Dobrodeyev helped destroy independent media within Russia and promoted misinformation that led to the strengthening of Mr. Putin's regime, war in Georgia, illegal annexation of Crimea, occupation of Donbass, aggressive military operations in Syria, and the current massive escalation of war in Ukraine. Rossiya-24 channel under his control has been considered for the most effective means of the hybrid information war. Therefore, he is responsible for actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty, and independence of Ukraine, as well as stability and security in Ukraine.\n\nVGTGK is one of the main sources of Russian propaganda. As an influential media manager and Russian bureaucrat, Mr Dobrodeyev helped destroy independent media within Russia and promoted misinformation that led to the strengthening of Mr. Putin's regime, war in Georgia, illegal annexation of Crimea, occupation of Donbass, aggressive military operations in Syria, and the current massive escalation of war in Ukraine. Rossiya-24 channel is under his control.",
     "5": [
       2,
       3
@@ -16398,7 +16383,7 @@
     "1": "Doguzova Zarina Valeryevna",
     "2": "25.04.1985",
     "3": "female",
-    "4": "Head of the Federal Agency for Tourism of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine. Received an expensive preferential apartment in Moscow.\n\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
+    "4": "Head of the Federal Agency for Tourism of the Russian Federation. Received an expensive preferential apartment in Moscow.\n\nHead of the Federal Agency for Tourism of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine. Received an expensive preferential apartment in Moscow.\n\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
     "5": [
       2,
       7,
@@ -17849,7 +17834,7 @@
     "1": "Eliseev A. A.",
     "2": "",
     "3": "male",
-    "4": "Senior Investigator of the Investigation Department of the Department of Internal Affairs of the Investigation Department of the Investigative Committee of the Russian Federation for the Kaliningrad Oblast. Involved in the fabrication of the “FBK case”\n\nInvestigator of the Cheryomushkinsky Interdistrict Investigation Department of the Investigation Department for the South-West Administrative District of the Main Investigative Directorate of the Investigative Committee of the Russian Federation for Moscow. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia",
+    "4": "Senior Investigator of the Investigation Department of the Department of Internal Affairs of the Investigation Department of the Investigative Committee of the Russian Federation for the Kaliningrad Oblast. Involved in the fabrication of the “FBK case”\nInvestigator of the Cheryomushkinsky Interdistrict Investigation Department of the Investigation Department for the South-West Administrative District of the Main Investigative Directorate of the Investigative Committee of the Russian Federation for Moscow. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia",
     "5": [
       1
     ]
@@ -18274,6 +18259,16 @@
     "4": "Head of the branch of UII No. 15 of the UII UFSIN of Russia in Moscow. Supported the replacement of a suspended sentence with a real term for Alexei Navalny in the trumped-up \"Yves Rocher case\"",
     "5": [
       1
+    ]
+  },
+  {
+    "0": "Ермолов Юрий Алексеевич",
+    "1": "Yermolov Yury Alekseevich",
+    "2": "22.02.1960",
+    "3": "male",
+    "4": "Chairman of the Moscow City Electoral Commission. Adopted the Decision on remote electronic voting in the city of Moscow on September 19, 2021. Performer of falsification of voting results to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
+    "5": [
+      14
     ]
   },
   {
@@ -18805,7 +18800,8 @@
     "3": "Male",
     "4": "Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nCommands a Russian grouping of troops during the aggression against Ukraine.",
     "5": [
-      7
+      7,
+      13
     ]
   },
   {
@@ -19516,7 +19512,7 @@
     "1": "Zaitsev Yury Viktorovich",
     "2": "16.12.1970",
     "3": "male",
-    "4": "Chairman of the Government of the Republic of Kalmykia until May 2022. Acting Head of the Republic of Mari El since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Chairman of the Government of the Republic of Kalmykia until May 2022. Acting Head of the Republic of Mari El since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nHead of the Republic of Mari El since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       4,
       15
@@ -19558,7 +19554,9 @@
     "2": "02.12.1967",
     "3": "male",
     "4": "Brother in law of the Head of the Republic of Checnya Ramzan Kadyrov, husband of Ramzan Kadyrov's sister Zulay Kadyrova. First Deputy Chairman of the Chechen Parliament. Participant and beneficiary of fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians. With his wife Zulay Kadyrova, owns luxury real estate in Moscow.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Закриев Якуб (Ибрагим) Салманович",
@@ -19566,7 +19564,9 @@
     "2": "16.10.1990",
     "3": "male",
     "4": "Nephew of the Head of the Chechen Republic Ramzan Kadyrov, son of Ramzan Kadyrov's sister Zulay Kadyrova and First Deputy Chairman of the Chechen Parliament Salman Zakriyev; Deputy Prime Minister and Minister of Agriculture of the Chechen Republic, former Head of the Administration of the Head and Government of the Chechen Republic, before that - mayor of Grozny. Participant and beneficiary of fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians. Owns luxury real estate in Moscow.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Закриев Якуб Салманович",
@@ -19907,7 +19907,9 @@
     "2": "16.06.1994",
     "3": "male",
     "4": "Son of Alexey Zakharov, Deputy Prosecutor General of the Russian Federation; grandson of Sergey Shoigu, Minister of Defense. Participated in and received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians. Was linked to a criminal money laundering case in Australia in 2015, which involved Russian business owners who used local banks to launder millions of dollars in jade sales by a Russian company “Baikalkvartssamotsvety” (Baikal Quartz Gems) to China. Zakharov co-owned the company with one of the suspects.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Захаров Константин Юрьевич",
@@ -20357,7 +20359,7 @@
     "1": "Zinchenko Igor Nikolaevich",
     "2": "25.03.1971",
     "3": "male",
-    "4": "Judge of the Supreme Court of the Russian Federation.\n\nAs part of a panel of judges, he recognized as lawful the actions of Rosreestr in issuing extracts with false information, where the names of the children of the Prosecutor General Chaika were replaced with LSDU3 and YFYaU9\n\nAs part of the panel of judges, he upheld the decision to exclude Sergei Boyko from the elections to the Legislative Assembly of the Novosibirsk Region\n\nAs part of the panel of judges, he upheld the decision to exclude Ivan Zhdanov from the election of deputies of the Moscow City Duma",
+    "4": "Judge of the Supreme Court of the Russian Federation.\nAs part of a panel of judges, he recognized as lawful the actions of Rosreestr in issuing extracts with false information, where the names of the children of the Prosecutor General Chaika were replaced with LSDU3 and YFYaU9\nAs part of the panel of judges, he upheld the decision to exclude Sergei Boyko from the elections to the Legislative Assembly of the Novosibirsk Region\nAs part of the panel of judges, he upheld the decision to exclude Ivan Zhdanov from the election of deputies of the Moscow City Duma",
     "5": [
       1
     ]
@@ -20448,7 +20450,7 @@
     "1": "Zolotov Viktor Vasilievich",
     "2": "27.01.1954",
     "3": "male",
-    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nDirector of the Federal Service of the National Guard of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nDirector of the Federal Service of the National Guard of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nDirector of the Federal Service of the National Guard of the Russian Federation.",
     "5": [
       2,
       7,
@@ -20852,7 +20854,9 @@
     "2": "24.07.1979",
     "3": "male",
     "4": "Cousin of the Head of the Chechen Republic Ramzan Kadyrov. First Deputy Head of the Administration of the Head and Government of Chechnya. Participant and beneficiary of fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians. Owns luxury real estate in Moscow.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Ивакаев Олег Фёдорович",
@@ -20990,7 +20994,7 @@
     "1": "Ivanov Andrey Yurevich",
     "2": "23.11.1975",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\n\nMember of the Supervisory Board of JSC Russian Agricultural Bank",
+    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\nMember of the Supervisory Board of JSC Russian Agricultural Bank",
     "5": [
       10
     ]
@@ -21305,7 +21309,7 @@
     "1": "Ivanov Sergey Sergeevich",
     "2": "23.10.1980",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\n\nPerforms the functions of the sole executive body of PJSC ALROSA.\nMember of the collegial executive body of PJSC ALROSA.\nMember of the Supervisory Board of PJSC ALROSA\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine\n\nMember of the Board of Directors of JSC Gazprombank",
+    "4": "Member of the Board of Directors of JSC ROSNEFTEGAZ\nPerforms the functions of the sole executive body of PJSC ALROSA.\nMember of the collegial executive body of PJSC ALROSA.\nMember of the Supervisory Board of PJSC ALROSA\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       10
     ]
@@ -21457,7 +21461,9 @@
     "2": "",
     "3": "female",
     "4": "Wife of Boris Ivanyuzhenkov. Financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Ивашко Андрей Михайлович",
@@ -22521,7 +22527,7 @@
     "1": "Kadochnikov Pavel Anatolyevich",
     "2": "28.03.1978",
     "3": "Male",
-    "4": "Deputy Minister of Finance of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC ZARUBEZHNEFT\n\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
+    "4": "Deputy Minister of Finance of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC ZARUBEZHNEFT\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
     "5": [
       7,
       10
@@ -22564,7 +22570,9 @@
     "2": "07.09.1978",
     "3": "female",
     "4": "First wife of the Head of the Republic of Chechnya Ramzan Kadyrov. Benefitted from fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians and their families. Owns multiple luxure properties in Russia. Apparently has two sets of docuemnts in the names of Medni Kadyrova and Medni Musaeva; different properties owned by her are registered in both of those names.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Кадырова Вера Станиславовна",
@@ -22592,7 +22600,9 @@
     "2": "24.05.1971",
     "3": "female",
     "4": "Sister of the Head of the Chechen Republic Ramzan Kadyrov; Assistant to the Head of the Republic for Preschool Education. Participant and beneficiary of fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians. Together with her husband Ramzan Cherkhigov, owns luxury real estate in Moscow.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Кадырова Зулай Ахматовна",
@@ -22600,7 +22610,9 @@
     "2": "25.05.1972",
     "3": "female",
     "4": "Sister of the Head of the Republic of Chechnya Ramzan Kadyrov; Deputy Chief of Staff of the Head and Government of the Republic of Chechnya. Participant and beneficiary of fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians. Together with her husband Salman Zakriyev, owns luxury real estate in Moscow.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Кажуро-Снигирева Людмила",
@@ -23272,7 +23284,9 @@
     "2": "",
     "3": "female",
     "4": "Former mistress of Defense Minister Sergey Shoigu and mother of his son Danila Shebunov. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns luxury real estate properties worth over 1 billion rubles. Earned ~ 6.5 billion rubles from government contracts with the Ministry of Defense that were awarded to her companies in violation of anti-corruption regulations.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Камкин Евгений Геннадьевич",
@@ -23352,6 +23366,7 @@
     "4": "Propagandist. Kadyrov's publicist. Co-owner of Apostol, interim director of TNT channel.\n\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine\n\nRussian propagandist: deputy general director of Gasprom Media; acting director of TNT TV channel",
     "5": [
       2,
+      3,
       12
     ]
   },
@@ -24310,7 +24325,7 @@
     "1": "Kachkaev Pavel Rurikovich",
     "2": "04.10.1951",
     "3": "male",
-    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       5,
       11
@@ -24814,7 +24829,7 @@
     "1": "Kireev Sergey Georgievich",
     "2": "",
     "3": "male",
-    "4": "General Director and Chairman of the Management Board of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\" \n\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
+    "4": "General Director and Chairman of the Management Board of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\" \nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
     "5": [
       10
     ]
@@ -24957,7 +24972,7 @@
     "1": "Kirkorov Philip Bedrosovich",
     "2": "30.04.1967",
     "3": "Male",
-    "4": "Pop singer. \n\nActively supported Russian aggression against Ukraine\n\nIllegally occupied state-owned land",
+    "4": "Pop singer. Actively supported Russian aggression against Ukraine\n\nPop singer. Illegally occupied state-owned land",
     "5": [
       2,
       12
@@ -25068,7 +25083,7 @@
     "1": "Kiselev Dmitry Konstantinovich",
     "2": "26.04.1954",
     "3": "male",
-    "4": "Kremlin’s chief propagandist, \"Putin's mouthpiece.\" Personally responsible for the spread of misinformation and increase of the militaristic attitude toward Ukraine on a large scale. Called Ukraine a \"virtual country\" in 2014. After U.S. opposed the illegal annexation of Crimea, Mr. Kiselev said that Russia is \"capable of turning the USA into radioactive dust.\" Large illegal benefactor of the current Russian regime as Alexey Navalny's investigations have shown. Supporter of the illegal annexation of Crimea, occupation of Donbass, and the recent escalation of the war in Ukraine. Therefore, she supported actions and policies which undermine the territorial integrity, sovereignty, and independence of Ukraine.",
+    "4": "Kremlin’s chief propagandist, \"Putin's mouthpiece.\" Large illegal benefactor of the current Russian regime as Alexey Navalny's investigations have shown. Supporter of the illegal annexation of Crimea, occupation of Donbass, and the recent escalation of the war in Ukraine. Therefore, he supported actions and policies which undermine the territorial integrity, sovereignty, and independence of Ukraine.\n\nKremlin’s chief propagandist, \"Putin's mouthpiece.\" Personally responsible for the spread of misinformation and increase of the militaristic attitude toward Ukraine on a large scale. Called Ukraine a \"virtual country\" in 2014. After U.S. opposed the illegal annexation of Crimea, Mr. Kiselev said that Russia is \"capable of turning the USA into radioactive dust.\"",
     "5": [
       2,
       3
@@ -25866,7 +25881,7 @@
     "1": "Kovalchuk Boris Yurievich",
     "2": "01.12.1977",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\n\nMember of the Board of Directors of PJSC INTER RAO, Member of the collegial executive body of PJSC INTER RAO. Person acting as the sole executive body (President) of PJSC INTER RAO",
+    "4": "Member of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\nMember of the Board of Directors of PJSC INTER RAO, Member of the collegial executive body of PJSC INTER RAO. Person acting as the sole executive body (President) of PJSC INTER RAO",
     "5": [
       10
     ]
@@ -26148,7 +26163,9 @@
     "2": "10.06.1966",
     "3": "male",
     "4": "Entrepreneur, longtime advisor and trustee of Andrey Goncharenko, who is the former CEO of a Gazprom subsidiary Gazprom Invest Yug. Was involved in and is a beneficiary of corruption schemes of PJSC Gazprom and its subsidiaries.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Козивкин Владимир Владимирович",
@@ -26580,7 +26597,7 @@
     "1": "Kolokoltsev Vladimir Alexandrovich",
     "2": "11.05.1961",
     "3": "male",
-    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nMinister of Internal Affairs of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nMinister of Internal Affairs of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMinister of Internal Affairs of the Russian Federation.",
     "5": [
       2,
       7,
@@ -26662,7 +26679,7 @@
     "1": "Kolpakov Alexander Sergeevich",
     "2": "25.05.1967",
     "3": "Male",
-    "4": "Head of the Directorate of Affairs of the President of the Russian Federation Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nHead of the Directorate of Affairs of the President of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Head of the Directorate of Affairs of the President of the Russian Federation Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nHead of the Directorate of Affairs of the President of the Russian Federation.",
     "5": [
       2,
       7
@@ -26896,7 +26913,9 @@
     "2": "13.06.1991",
     "3": "female",
     "4": "Daughter of Igor Komarov, Presidential Envoy to the Volga Federal District and Member of the Russian Security Council. Owns multi-million dollar luxury properties in London. Received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Комарова Наталья Владимировна",
@@ -28149,7 +28168,7 @@
     "1": "Kostin Andrey Leonidovich",
     "2": "21.09.1956",
     "3": "male",
-    "4": "VTB president and chairman of the board since June 10, 2002. He spent 12 billion rubles on his mistress Asker-Zadeh.\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of OJSC Rostelecom\n\n\"1. President, Chairman of the Management Board of PJSC VTB Bank\n2. Member of the Management Board of PJSC VTB Bank\n3. Member of the Supervisory Board of PJSC VTB Bank\"",
+    "4": "VTB president and chairman of the board since June 10, 2002. He spent 12 billion rubles on his mistress Asker-Zadeh.\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of OJSC Rostelecom\nPresident, Chairman of the Management Board of PJSC VTB Bank\nMember of the Management Board of PJSC VTB Bank\nMember of the Supervisory Board of PJSC VTB Bank",
     "5": [
       2,
       10,
@@ -28254,6 +28273,16 @@
     "4": "Deputy Head of the Department of Information Technologies of the city of Moscow - the state body responsible for the creation and implementation of remote electronic voting technologies at Russian elections. These technologies are being used to rig elections and support the regime of Vladimir Putin.",
     "5": [
       1
+    ]
+  },
+  {
+    "0": "Костырко Артем Александрович",
+    "1": "Kostyrko Artem Alexandrovich",
+    "2": "30.10.1981",
+    "3": "male",
+    "4": "Deputy Head of the Department of Information Technologies of the City of Moscow, Head of the Department for the Improvement of Territorial Administration and the Development of Smart Projects. Led a group of e-voting developers, prevented an independent audit of the e-voting at the elections to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
+    "5": [
+      14
     ]
   },
   {
@@ -29286,7 +29315,9 @@
     "2": "",
     "3": "male",
     "4": "Russian businessman with close ties to the Head of the Chechen Republic Ramzan Kadyrov and his deputy Adam Delimkhanov. Сommercial attaché of Grenada in the Russian Federation. Participant and beneficiary of fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians, including Kadyrov and Delimkhanov. Known for serving as a front man in settling disputes with troubled companies and taking over their assets through chains of offchore companies. Nominal owner of multiple business ventures across Russia for the benefit of Kadyrov and Delimkhanov. In 2008, supervised construction of Kadyrov's personal residence in Tsentoroy, was in charge of cost estimates, planning and even matters of Kadyrov's personal security.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Кротова Анна Владимировна",
@@ -29334,7 +29365,9 @@
     "2": "",
     "3": "male",
     "4": "Former fighter of Vympel, a special forces unit of the FSB. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in corrupt schemes to plunder Yukos assets. Together with Sergey Tregub and Alexander Smirnov (through LLC VNPA-Nedvizhimost) owns the Voronezh office of Yukos, which they received from LLC Prana",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Круглов Андрей Вячеславович",
@@ -30597,18 +30630,9 @@
     "1": "Kumpilov Murat Karalbievich",
     "2": "27.02.1973",
     "3": "male",
-    "4": "Member of the Supreme Council and Secretary of the Adygea Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Member of the Supreme Council and Secretary of the Adygea Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\n\nHead of the Republic of Adygea. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      11
-    ]
-  },
-  {
-    "0": "Кумпилов Мурат Каральбиевич",
-    "1": "Kumpilov Murat Karalbiyevich",
-    "2": "27.02.1973",
-    "3": "male",
-    "4": "Head of the Republic of Adygea. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
-    "5": [
+      11,
       15
     ]
   },
@@ -30698,7 +30722,9 @@
     "2": "17.10.1974",
     "3": "male",
     "4": "Chief spokesperson of Gazprom. Participant and beneficiary of corruption schemes of PJSC Gazprom and its subsidiaries.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Купряжкин Александр Николаевич",
@@ -31167,7 +31193,9 @@
     "2": "28.04.1956",
     "3": "male",
     "4": "Former Vice President for Finance of JSC Transneft, a state-controlled pipeline transport company, the largest oil pipeline company in the world. Since 2015, has Cypriot citizenship. Together with wife Tatiana Kushnareva, owns a Cyprus-registered company KLPP Insurance and Reinsurance Company, which owns two German real estate development companies.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Кущьминов Ярослав Иванович",
@@ -31449,7 +31477,9 @@
     "2": "01.01.1979",
     "3": "male",
     "4": "Businessman; son of the founder and head of the Podolsk organized crime group Sergey Lalakin; linked to the Podolsk organized crime group; benefitted from money laundering operations conducted by the Russian mafia on the Mediterranean Coast and uncovered in 2020 by Spanish law enforcement in the course of Operation Testudo.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Лалакин Сергей Николаевич («Лучок»)",
@@ -31457,7 +31487,9 @@
     "2": "09.05.1956",
     "3": "male",
     "4": "Founder and head of the Podolsk organized crime group. Member of the Supervisory Board of the Union of Russian Paratroopers, Chairman of the Board of Trustees of the Heritage Foundation. Involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Ламейкин Дмитрий Викторович",
@@ -31514,7 +31546,7 @@
     "1": "Lapin Alexander Pavlovich",
     "2": "01.01.1964",
     "3": "male",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Central Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\n\nCommands the Russian grouping of troops Center (Tsentr) during the aggression against Ukraine.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Central Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nCommands the Russian grouping of troops Center (Tsentr) during the aggression against Ukraine.",
     "5": [
       13
     ]
@@ -31846,7 +31878,9 @@
     "2": "27.09.1972",
     "3": "male",
     "4": "Former Deputy of the State Duma. Son of the late leader of the Liberal Democratic Party of Russia (LDPR) Vladimir Zhirinovsky. In 2014, voted for the law on the annexation of Crimea. In 2021, changed his name to David Alexandrovich Garcia (presumably, to avoid sanctions). Participant and beneficiary of fraudulent schemes designed to provide corrupt sources of income to the late head of LDPR Vladimir Zhirinovsky and his family members. Together with the former wife Nadezhda Grishaeva and mother Galina Lebedeva, through a network of shell companies, owns 51 luxury properties in Russia, Spain, and Dubai worth over $142 million.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Лебедев Олег Александрович",
@@ -31924,7 +31958,9 @@
     "2": "22.04.1949",
     "3": "female",
     "4": "Wife of the late leader of the Liberal Democratic Party of Russia (LDPR) Vladimir Zhirinovsky. Participant and beneficiary of fraudulent schemes designed to provide corrupt sources of income to Zhirinovsky and his family members. Together with her son Igor Lebedev and his former wife Nadezhda Grishaeva, through a network of shell companies, owns 51 luxury properties in Russia, Spain, and Dubai worth over $142 million.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Лебедева Галина Валерьевна",
@@ -32065,7 +32101,9 @@
     "2": "07.06.1959",
     "3": "male",
     "4": "Brother of the Aide to the President of the Russian Federation and former minister of transport Igor Levitin. Participated in and received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Левитина Александра Леонидовна",
@@ -32073,7 +32111,9 @@
     "2": "26.05.1991",
     "3": "female",
     "4": "Daughter of Leonid Levitin, niece of the Aide to the President of the Russian Federation and former minister of transport Igor Levitin. Participated in and received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Левитина Неля Михайловна",
@@ -32081,7 +32121,9 @@
     "2": "17.05.1968",
     "3": "female",
     "4": "Wife of Leonid Levitin, sister-in-law of the Aide to the President of the Russian Federation and former minister of transport Igor Levitin. Participated in and received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Левицкая Александра Юрьевна",
@@ -32691,8 +32733,9 @@
     "1": "Listov Boris Pavlovich",
     "2": "11.03.1969",
     "3": "male",
-    "4": "Chairman of the Management Board and Member of the Supervisory Board of JSC Russian Agricultural Bank (RusAg), the fourth largest state-owned bank in Russia. Was appointed chairman due to his personal connections, including those with Putin and Patrushev. Despite issuing bad loans and showing losses almost every year, RusAg has been receiving huge capital injections and support from the Russian government; since 2010, it received more than 300 billion rubles in subsidies. RusAg fell under the US and EU sanctions in July 2022. Listov Participant and beneficiary of fraudulent schemes designed to provide corrupt sources of income for him and his family. Together with his wife Anastasia Gorshkova, Listov owns multiple multi-million luxury properties in Moscow and Monaco and potentially a yacht through an offshore registered in Malta; just one of their Monaco apartments and the yacht are worth 17 times more than Listov's annual salary.",
+    "4": "Chairman of the Management Board and Member of the Supervisory Board of JSC Russian Agricultural Bank (RusAg), the fourth largest state-owned bank in Russia.\n\nChairman of the Management Board and Member of the Supervisory Board of JSC Russian Agricultural Bank (RusAg), the fourth largest state-owned bank in Russia. Was appointed chairman due to his personal connections, including those with Putin and Patrushev. Despite issuing bad loans and showing losses almost every year, RusAg has been receiving huge capital injections and support from the Russian government; since 2010, it received more than 300 billion rubles in subsidies. RusAg fell under the US and EU sanctions in July 2022. Listov Participant and beneficiary of fraudulent schemes designed to provide corrupt sources of income for him and his family. Together with his wife Anastasia Gorshkova, Listov owns multiple multi-million luxury properties in Moscow and Monaco and potentially a yacht through an offshore registered in Malta; just one of their Monaco apartments and the yacht are worth 17 times more than Listov's annual salary.",
     "5": [
+      2,
       10
     ]
   },
@@ -32889,6 +32932,16 @@
     ]
   },
   {
+    "0": "Лобачёв Артем Олегович",
+    "1": "Lobachev Artem Olegovich",
+    "2": "",
+    "3": "male",
+    "4": "General Director of Yamal Aviation Transport Company JSC (Yamal Airlines). Yamal Airlines provides its civilian airplanes and crews for the transfer of military personnel for subsequent participation in the war against Ukraine. Thus, the airline assisted Russia's aggression against Ukraine.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Лобов Анатолий Павлович",
     "1": "Lobov Anatoly Pavlovich",
     "2": "27.03.1994",
@@ -33024,7 +33077,7 @@
     "1": "Lozanova Julia Mikhailovna (Vityazeva Yulia Mikhailovna)",
     "2": "25.06.1981",
     "3": "Female",
-    "4": "Russian propagandist: journalist at the RT TV channel\n\nCo-founder of the NewsFront company (MEDIAGROUP NEWSFRONT LLC), involved in conducting propaganda campaigns in support of the Russian authorities in Russia's aggression against Ukraine",
+    "4": "Russian propagandist: journalist at the RT TV channel\nCo-founder of the NewsFront company (MEDIAGROUP NEWSFRONT LLC), involved in conducting propaganda campaigns in support of the Russian authorities in Russia's aggression against Ukraine",
     "5": [
       3
     ]
@@ -33174,7 +33227,7 @@
     "1": "Lopatin Anton Igorevich",
     "2": "04.09.1974",
     "3": "male",
-    "4": "member of the Central Election Commission of the Russian Federation. Member of the collegiate state body responsible for supporting the existing political regime in Russia through electoral fraud.\n\n\"Member of the CEC of Russia. Falsification of elections. Corruption.\nWorked as Volodin's assistant in the State Duma, then as head of his secretariat. Secretly engaged in business interests Volodin in parallel with the civil service. In 2009, Volodin's 73-year-old mother, a schoolteacher from Saratov, became the owner of Invest Holding. And secretary Anton Lopatin soon became the director of this firm. Volodin's personal assets and real estate were recorded on this company.\"",
+    "4": "Member of the Central Election Commission of the Russian Federation. Member of the collegiate state body responsible for supporting the existing political regime in Russia through electoral fraud.\n\nMember of the CEC of Russia. Falsification of elections. Corruption.\nWorked as Volodin's assistant in the State Duma, then as head of his secretariat. Secretly engaged in business interests Volodin in parallel with the civil service. In 2009, Volodin's 73-year-old mother, a schoolteacher from Saratov, became the owner of Invest Holding. And secretary Anton Lopatin soon became the director of this firm. Volodin's personal assets and real estate were recorded on this company.",
     "5": [
       2,
       14
@@ -33763,23 +33816,14 @@
     ]
   },
   {
-    "0": "Львова-Белова Мария Александровна",
-    "1": "Lvova-Belova Maria Alexandrovna",
-    "2": "25.10.1984",
-    "3": "Female",
-    "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
-    "5": [
-      8
-    ]
-  },
-  {
     "0": "Львова-Белова Мария Алексеевна",
     "1": "Lvova-Belova Maria Alekseevna",
     "2": "25.10.1984",
     "3": "Female",
-    "4": "Presidential Presidential Rights of the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Presidential Presidential Rights of the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
-      7
+      7,
+      8
     ]
   },
   {
@@ -34628,7 +34672,7 @@
     "1": "Malkov Pavel Viktorovich",
     "2": "29.01.1980",
     "3": "Male",
-    "4": "Head of the Federal State Statistics Service of the Russian Federation until May 2022. Acting Governor of the Ryazan Region since May 2022. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Head of the Federal State Statistics Service of the Russian Federation until May 2022. Acting Governor of the Ryazan Region since May 2022. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nActing Governor of the Ryazan Region since May 2022. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       4,
       7,
@@ -35144,7 +35188,7 @@
     "1": "Markelov Vitaly Anatolievich",
     "2": "05.08.1963",
     "3": "male",
-    "4": "Member of PJSC Gazprom's Board of Directors, Member of PJSC Gazprom's collegial executive body\n\nMember of the Board of Directors of JSC United Shipbuilding Corporation",
+    "4": "Member of PJSC Gazprom's Board of Directors, Member of PJSC Gazprom's collegial executive body\nMember of the Board of Directors of JSC United Shipbuilding Corporation",
     "5": [
       10
     ]
@@ -35510,6 +35554,16 @@
     ]
   },
   {
+    "0": "Массух Илья Иссович",
+    "1": "Massukh Ilya Issovich",
+    "2": "16.02.1970",
+    "3": "male",
+    "4": "Chairman of the territorial election commission of remote electronic voting. Participated in the formation of the all-Russian system of remote electronic voting. Based on the results of the use of remote electronic voting in Moscow in 2021, Massukh stated that the results of remote electronic voting and the number of its participants show voters' confidence in the remote electronic voting system. Performer of falsification of voting results at the elections to the State Duma of the Russian Federation in the city of Moscow in 2021.As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
+    "5": [
+      14
+    ]
+  },
+  {
     "0": "Масько Александр Вадимович",
     "1": "Masko Alexander Vadimovich",
     "2": "25.08.1976",
@@ -35605,7 +35659,7 @@
     "1": "Matvienko Valentina Ivanovna",
     "2": "07.04.1949",
     "3": "female",
-    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nChairman of the Federation Council\n\nMember of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). Chairman of the Federation Council of the Federal Assembly of the Russian Federation. This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.\n\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). Chairman of the Federation Council of the Federal Assembly of the Russian Federation. This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.\n\nChairman of the Federation Council\n\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
       2,
       5,
@@ -36359,7 +36413,7 @@
     "1": "Mercury Ilias",
     "2": "14.04.1972",
     "3": "male",
-    "4": "Russian propagandist: Writer, blogger and radio host; invited expert at Vladimir Solovyov and Anna Shafran’s \"Full Contact\" show on Vesti FM radio station",
+    "4": "Russian propagandist: Writer, blogger and radio host; invited expert at Vladimir Solovyov and Anna Shafran’s \"Full Contact\" show on Vesti FM radio station\n\nRussian propagandist: Writer, blogger and radio host; invited expert at Vladimir Solovyov and Anna Shafran’s \"Full Contact\" show on Vesti FM radio station",
     "5": [
       3,
       12
@@ -36677,7 +36731,7 @@
     "1": "Mikulich Margarita Anatolevna",
     "2": "",
     "3": "Female",
-    "4": "Editor-in-Chief of the magazine \"Mestnoe samoupravlenie na Altae\" (owned by the Government of the Republic of Altai)\n\nEditor-in-Chief of the magazine \"Mestnoe samoupravlenie na Altae\" (owned by the Government of the Altai region)",
+    "4": "Editor-in-Chief of the magazine \"Mestnoe samoupravlenie na Altae\" (owned by the Government of the Republic of Altai)\nEditor-in-Chief of the magazine \"Mestnoe samoupravlenie na Altae\" (owned by the Government of the Altai region)",
     "5": [
       3
     ]
@@ -36687,7 +36741,7 @@
     "1": "Milashevsky Igor Anatolievich",
     "2": "",
     "3": "male",
-    "4": "General Director of JSC GLONASS\n\nMember of the Board of Directors of JSC GLONASS",
+    "4": "General Director of JSC GLONASS\nMember of the Board of Directors of JSC GLONASS",
     "5": [
       10
     ]
@@ -36707,7 +36761,7 @@
     "1": "Miller Alexey Borisovich",
     "2": "31.01.1962",
     "3": "male",
-    "4": "Chairman of the Management Board of PJSC Gazprom. Money laundering in favor of Putin.\n\nChairman of the Board of Directors of PJSC Gazprom; Person acting as the sole executive body of PJSC Gazprom\n\nChairman of the Board of Directors of Bank JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.\n\nChairman of the Board of Directors of Gazprom-Media. This media holding owns and manages several significant media assets of Russian propaganda: Russian and international TV channels, radio stations, publications, film companies, Internet resources and sales houses. The holding also owns the Russian video hosting Rutube, which should become a completely government-controlled replacement for YouTube after blocking.",
+    "4": "Chairman of the Management Board of PJSC Gazprom. Money laundering in favor of Putin.\nChairman of the Board of Directors of PJSC Gazprom; Person acting as the sole executive body of PJSC Gazprom\nChairman of the Board of Directors of Bank JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.\n\nChairman of the Board of Directors of Gazprom-Media. This media holding owns and manages several significant media assets of Russian propaganda: Russian and international TV channels, radio stations, publications, film companies, Internet resources and sales houses. The holding also owns the Russian video hosting Rutube, which should become a completely government-controlled replacement for YouTube after blocking.",
     "5": [
       1,
       2,
@@ -37677,7 +37731,7 @@
     "1": "Moiseev Alexey Vladimirovich",
     "2": "",
     "3": "Male",
-    "4": "Deputy Minister of Finance of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Supervisory Board of PJSC ALROSA\n\nMember of the Board of Directors of OJSC Russian Post\n\nMember of the Board of Directors of JSC DOM.RF",
+    "4": "Deputy Minister of Finance of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Supervisory Board of PJSC ALROSA\nMember of the Board of Directors of OJSC Russian Post\nMember of the Board of Directors of JSC DOM.RF",
     "5": [
       7,
       10
@@ -38132,7 +38186,9 @@
     "2": "30.05.1955",
     "3": "female",
     "4": "Lawyer, teacher and politician; former deputy of the State Duma; retired Major-General of the Interior Ministry; Russia's Ombudsman for Human Rights. Known for her pro-Kremlin, anti-Western stance. As a deputy, she backed the law banning foreign adoptions of Russian children and the so-called foreign agents law. After her appointment as an Ombudsman, she denied the existence of political prisoners in Russia. In 2019, she sent a request to Spanish Ombudsman Francisco Marugan to verify the observance of human rights and the grounds for the case against Oleg Kuznetsov and Alexander Greenberg, suspects in the money laundering case against the Solntsevskaya Organized Criminal Group in Spain.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Москвин Антон Витальевич",
@@ -38511,7 +38567,7 @@
     "1": "Murov Andrey Evgenyevich",
     "2": "26.03.1970",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\n\nChairman of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES), Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nMember of the Board of Directors of PJSC ROSSETI, Member of the collegial executive body of PJSC ROSSETI\n\nMember of the Board of Directors of PJSC INTER RAO",
+    "4": "Member of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\nChairman of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES), Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\nMember of the Board of Directors of PJSC ROSSETI, Member of the collegial executive body of PJSC ROSSETI\nMember of the Board of Directors of PJSC INTER RAO",
     "5": [
       10
     ]
@@ -41227,7 +41283,7 @@
     "1": "Okladnikova Irina Andreevna",
     "2": "",
     "3": "Female",
-    "4": "Deputy Minister of Finance of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC RUSNANO\n\nMember of the Board of Directors of PJSC Russian Railways (PAO RZhD)",
+    "4": "Deputy Minister of Finance of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC RUSNANO\nMember of the Board of Directors of PJSC Russian Railways (PAO RZhD)",
     "5": [
       7,
       10
@@ -41712,20 +41768,11 @@
     "1": "Oseevsky Mikhail Eduardovich",
     "2": "30.11.1960",
     "3": "male",
-    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nPresident of OJSC Rostelecom",
+    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nPresident of OJSC Rostelecom\n\nPresident of PJSC Rostelecom. This Internet provider provided communication services on the territory of Ukraine during the Russian occupation through a subsidiary, Miranda-Media, using stolen equipment from Ukrainian providers. Facilitated the installation of TSPU (DPI) on their networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
     "5": [
+      1,
       10,
       11
-    ]
-  },
-  {
-    "0": "Осеевский Михаил Эдуардович",
-    "1": "Oseevsky Mikhail Eduardovich",
-    "2": "30.11.1960",
-    "3": "male",
-    "4": "President of PJSC Rostelecom. This Internet provider provided communication services on the territory of Ukraine during the Russian occupation through a subsidiary, Miranda-Media, using stolen equipment from Ukrainian providers. Facilitated the installation of TSPU (DPI) on their networks and the implementation of the law on the Sovereign Runet, the purpose of which is to isolate the Russian segment of the Internet and simplify censorship",
-    "5": [
-      1
     ]
   },
   {
@@ -42036,7 +42083,7 @@
     "1": "Pavlov Alexey Yuryevich",
     "2": "",
     "3": "Male",
-    "4": "Deputy Head of the Federal Agency for State Property Management of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\n\nMember of the Board of Directors of JSC ZARUBEZHNEFT",
+    "4": "Deputy Head of the Federal Agency for State Property Management of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\nMember of the Board of Directors of JSC ZARUBEZHNEFT",
     "5": [
       7,
       10
@@ -42250,7 +42297,8 @@
     "4": "Chairman of the Central Election Commission of the Russian Federation. Responsible for obstructing the exercise of the electoral rights of citizens of the Russian Federation.\n\nChairman of the Central Election Commission of the Russian Federation. Head of the state body responsible for supporting the existing political regime in Russia through electoral fraud.\n\nHead of the Central Election Committee. Falsification of elections.",
     "5": [
       1,
-      2
+      2,
+      14
     ]
   },
   {
@@ -42288,7 +42336,7 @@
     "1": "Panina Alexandra Gennadievna",
     "2": "1977",
     "3": "male",
-    "4": "Member of the collegial executive body of PJSC INTER RAO\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
+    "4": "Member of the collegial executive body of PJSC INTER RAO\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
     "5": [
       10
     ]
@@ -42330,7 +42378,9 @@
     "3": "male",
     "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nWorked as Volodin's aide in Saratov, and in the early noughties in the State Duma.\n\nMember of the General Council of the United Russia party, Secretary of the Saratov Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      5
+      2,
+      5,
+      11
     ]
   },
   {
@@ -43066,7 +43116,7 @@
     "1": "Peskov Dmitry Nikolaevich",
     "2": "17.10.1967",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC RUSNANO\n\nMember of the Management Board of PJSC Aeroflot",
+    "4": "Member of the Board of Directors of JSC RUSNANO\nMember of the Management Board of PJSC Aeroflot",
     "5": [
       10
     ]
@@ -43228,7 +43278,9 @@
     "2": "05.07.1981",
     "3": "male",
     "4": "Businessman, son of the leader of the Tambov Organized Crime Group Gennadiy Petrov, son-in-law of the Member of the Federation Council of the Federal\nAssembly of the Russian Federation Aleksandr Bryksin. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Петров Вадим Евгеньевич",
@@ -43276,7 +43328,9 @@
     "2": "19.06.1947",
     "3": "male",
     "4": "Businessman, leader of the Tambov Organized Crime Group; personal friend of Vladimir Putin. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Cofounder (with Vladislav Reznik) of Rossiya Bank, also known as the \"bank of Putin's friends\". Used his connections within the Russian government to arrange for appointments of his proteges to law enforcement government agencies, including the appointment of Alexander Bastrykin as Chairman of the Investigative Committee. Petrov is an important link in the nexus of organized crime, intelligence services, and corrupt politicians and oligarchs.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Петров Дмитрий Павлович",
@@ -43507,16 +43561,6 @@
     "4": "Acting Deputy Governor of Bryansk Oblast . Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       4
-    ]
-  },
-  {
-    "0": "Петрунин Николай Юрьевич",
-    "1": "Petrunin Nikolay Yurievich",
-    "2": "27.02.1976",
-    "3": "male",
-    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
-    "5": [
-      5
     ]
   },
   {
@@ -44313,9 +44357,10 @@
     "1": "Povetkin Alexander Vladimirovich",
     "2": "02.09.1979",
     "3": "male",
-    "4": "Athlete. Expressed public support for the actions of the Russian army in Ukraine\n\nActively supports Vladimir Putin's policy, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\n\n\"Putin’s Public Supporters\nPresidential proxies in elections\"",
+    "4": "Athlete. Expressed public support for the actions of the Russian army in Ukraine\n\nActively supports Vladimir Putin's policy, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
       6,
+      8,
       12
     ]
   },
@@ -44425,7 +44470,7 @@
     "1": "Podguzov Nikolay Radievich",
     "2": "29.05.1974",
     "3": "male",
-    "4": "Chairman of the Board of the Eurasian Development Bank; until 2020 - General Director of Russian Post, the national postal operator of Russia; former Deputy Minister of Economic Development of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns luxury real estate worth ~1 billion rubles.",
+    "4": "Chairman of the Board of the Eurasian Development Bank; until 2020 - General Director of Russian Post, the national postal operator of Russia; former Deputy Minister of Economic Development of the Russian Federation.\n\nChairman of the Board of the Eurasian Development Bank; until 2020 - General Director of Russian Post, the national postal operator of Russia; former Deputy Minister of Economic Development of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns luxury real estate worth ~1 billion rubles.",
     "5": [
       2,
       10
@@ -44909,7 +44954,9 @@
     "2": "24.05.1971",
     "3": "female",
     "4": "Wife of Oleg Sviridenko, Deputy Minister of Justice of the Russian Federation. Participated in fraudulent divorce scheme designed to shield Sviridenko's real property holdings from being declared.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Полукарова Наталья Николаевна",
@@ -45693,7 +45740,7 @@
     "1": "Pospelov Vladimir Yakovlevich",
     "2": "21.07.1954",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC United Shipbuilding Corporation\n\nMember of the Board of JSC \"Shipbuilding and Shiprepair Technology Center\"",
+    "4": "Member of the Board of Directors of JSC United Shipbuilding Corporation\nMember of the Board of JSC \"Shipbuilding and Shiprepair Technology Center\"",
     "5": [
       10
     ]
@@ -46179,7 +46226,9 @@
     "2": "",
     "3": "male",
     "4": "Deputy Head of the Internal Policy Directorate of the Presidential Administration of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. On behalf of the presidential administration, coordinated with the then-deputy of the State Duma Leonid Levin political and technological support for the \"referendum\" in Crimea and the 2014 campaign in Ukraine as a whole. The support was provided by Levin's company \"Taynyi Sovetnik\" (Secret Advisor).",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Прокопчук Валерий Иосифович",
@@ -46538,7 +46587,7 @@
     "1": "Ptitsyn Mikhail Yurievich",
     "2": "",
     "3": "male",
-    "4": "Chairman of the Moscow City Court. Responsible for organizing the issuance of politically motivated court decisions in the Moscow City Court and district courts of the city of Moscow.\n\nChairman of the Moscow City Court. Organized an off-site court session to replace Alexei Navalny's probation with a real one",
+    "4": "Chairman of the Moscow City Court. Responsible for organizing the issuance of politically motivated court decisions in the Moscow City Court and district courts of the city of Moscow.\nChairman of the Moscow City Court. Organized an off-site court session to replace Alexei Navalny's probation with a real one",
     "5": [
       1
     ]
@@ -47263,6 +47312,16 @@
     ]
   },
   {
+    "0": "Рапопорт Борис Яковлевич",
+    "1": "Rapoport Boris Yakovlevich",
+    "2": "14.08.1967",
+    "3": "male",
+    "4": "Deputy Head of the Presidential Directorate for Supporting Activities of the State Council of the Russian Federation. In his position, Rapoport ensures the functioning of a state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      7
+    ]
+  },
+  {
     "0": "Рапота Григорий Алексеевич",
     "1": "Rapota Grigory Alekseevich",
     "2": "05.02.1944",
@@ -47428,17 +47487,7 @@
     "1": "Rashnikov Viktor Filippovich",
     "2": "13.10.1948",
     "3": "male",
-    "4": "Metallurgical magnate, financed the election campaign of the governor of the Chelyabinsk Oblast Alexei Teksler, former deputy of the Legislative Assembly of the Chelyabinsk Oblast from the United Russia party",
-    "5": [
-      2
-    ]
-  },
-  {
-    "0": "Рашников Виктор Филиппович",
-    "1": "Rashnikov Viktor Filippovich",
-    "2": "13.10.1948",
-    "3": "male",
-    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "4": "Metallurgical magnate, financed the election campaign of the governor of the Chelyabinsk Oblast Alexei Teksler, former deputy of the Legislative Assembly of the Chelyabinsk Oblast from the United Russia party\n\nRussian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
       2
     ]
@@ -47688,6 +47737,16 @@
     ]
   },
   {
+    "0": "Реут Дмитрий Алексеевич",
+    "1": "Reut Dmitry Alekseevich",
+    "2": "22.01.1979",
+    "3": "male",
+    "4": "Deputy Chairman of the Moscow City Electoral Commission. Adopted the Decision on remote electronic voting in the city of Moscow on September 19, 2021. Opposed the cancellation of the results of electronic voting, stating that all votes had been counted correctly. Performer of falsification of voting results at the elections to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
+    "5": [
+      14
+    ]
+  },
+  {
     "0": "Реутов Александр Викторович",
     "1": "Reutov Alexander Viktorovich",
     "2": "1956",
@@ -47784,7 +47843,7 @@
     "1": "Rogalyov Nikolay Dmitrievich",
     "2": "17.02.1962",
     "3": "male",
-    "4": "Rector of the National Research University Moscow Power Engineering Institute. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.\n\nMember of the Board of Directors of PJSC ROSSETI \n\nMember of the Board of Directors of PJSC RusHydro",
+    "4": "Rector of the National Research University Moscow Power Engineering Institute. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.\n\nMember of the Board of Directors of PJSC ROSSETI \nMember of the Board of Directors of PJSC RusHydro",
     "5": [
       6,
       10
@@ -48213,6 +48272,16 @@
     ]
   },
   {
+    "0": "Романовский Кирилл Васильевич",
+    "1": "Romanovsky Kirill Vasilievich",
+    "2": "",
+    "3": "male",
+    "4": "General Director of I Fly LLC. The I fly airline provides its civilian airplanes and crews for the transfer of military personnel for subsequent participation in the war against Ukraine. Thus, the airline assisted Russia's aggression against Ukraine.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Романченко Андрей Юрьевич",
     "1": "Romanchenko Andrey Yurievich",
     "2": "-",
@@ -48327,7 +48396,7 @@
     "1": "Rotenberg Arkady Romanovich",
     "2": "15.12.1951",
     "3": "male",
-    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nChairman of the Board of the Russian Ice Hockey Federation. Longtime friend of Putin. Receives state contracts without competition. Responsible for building the bridge that connects Crimea with Russia.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nChairman of the Board of the Russian Ice Hockey Federation. Longtime friend of Putin. Receives state contracts without competition. Responsible for building the bridge that connects Crimea with Russia.\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2
     ]
@@ -48377,7 +48446,7 @@
     "1": "Roshchenko Nikolay Pavlovich",
     "2": "15.05.1981",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
+    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\nElected as a member of the Board of Directors of PJSC FGC UES after the start of the war in Ukraine",
     "5": [
       10
     ]
@@ -48488,7 +48557,7 @@
     "1": "Rudenya Igor Mikhaylovich",
     "2": "15.02.1968",
     "3": "male",
-    "4": "Governor of Tver Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nmember of the Supreme Council and Secretary of the Tver Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Governor of Tver Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Supreme Council and Secretary of the Tver Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
       11,
       15
@@ -48569,7 +48638,7 @@
     "1": "Rudskoy Andrey Ivanovich",
     "2": "19.02.1957",
     "3": "male",
-    "4": "Rector of St. Petersburg State Polytechnical University Peter the Great. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
+    "4": "Rector of St. Petersburg State Polytechnical University Peter the Great. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.\n\nRector of St. Petersburg State Polytechnical University Peter the Great. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
       6
     ]
@@ -48650,7 +48719,9 @@
     "2": "29.04.1946",
     "3": "female",
     "4": "Mother-in-law of Sergey Chemezov, close friend of Vladimir Putin and CEO of Rostec, the leading Russian state-controlled defence and industrial manufacturing corporation. Owns multiple luxury properties in Russia and Spain, some through offshore companies together with her granddaughter Anastasia Ignatova, the stepdaughter of Sergey Chemezov. Rukavishnikova received financial benefit from Chemezov's involvement in corruption schemes designed to obtain illegal sources of income through association with corrupt politicians.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Рукша Вячеслав Владимирович",
@@ -49081,7 +49152,7 @@
     "1": "Ryumin Andrey Valeryevich",
     "2": "12.06.1980",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nMember of the Board of Directors of PJSC ROSSETI, Member of the collegial executive body of PJSC ROSSETI. Person acting as the sole executive body (President) of PJSC ROSSETI",
+    "4": "Member of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\nMember of the Board of Directors of PJSC ROSSETI, Member of the collegial executive body of PJSC ROSSETI. Person acting as the sole executive body (President) of PJSC ROSSETI",
     "5": [
       10
     ]
@@ -49387,10 +49458,11 @@
     "1": "Saveliev Vitaly Gennadievich",
     "2": "18.01.1954",
     "3": "Male",
-    "4": "Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nRussian Minister of Transport, former head of Aeroflot. Bought advertising from the Simonyan-Keosayan program.\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of PJSC Russian Railways (PAO RZhD)\n\nMember of the Management Board of PJSC Aeroflot",
+    "4": "Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nRussian Minister of Transport, former head of Aeroflot. Bought advertising from the Simonyan-Keosayan program.\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of PJSC Russian Railways (PAO RZhD)\nMember of the Management Board of PJSC Aeroflot",
     "5": [
       2,
       7,
+      10,
       11
     ]
   },
@@ -49680,7 +49752,9 @@
     "2": "08.02.1952",
     "3": "male",
     "4": "Businessman, finance executive. In the 1990s, assisted Putin and Sobchak with attracting foreign investment and facilitated the opening of a branch of Credit Lyonnais in St. Petersburg, which was then used to launder and syphon corrupt money to the West. Was involved in the Magnitsky affair. Was involved in and financially benefitted from tax fraud and money laundering schemes designed to provide corrupt sources of income to politicians and government officials.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Сагитов Ирек Хайривариевич",
@@ -49769,7 +49843,7 @@
     "1": "Sadigov Famil Kamil oglu",
     "2": "03.03.1962",
     "3": "male",
-    "4": "Member of PJSC Gazprom's collegial executive body\n\nMember of the Board of Directors of JSC Gazprombank",
+    "4": "Member of PJSC Gazprom's collegial executive body\nMember of the Board of Directors of JSC Gazprombank",
     "5": [
       10
     ]
@@ -50162,7 +50236,9 @@
     "2": "",
     "3": "male",
     "4": "Husband of Alexandra Yurieva, who is the daughter of Nikolay Yuriev, Head of the Military Counterintelligence Department of the Federal Security Service of the Russian Federation. Financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Саносян Андрей Григорьевич",
@@ -50640,7 +50716,7 @@
     "1": "Sviridenko Oleg Mikhailovich",
     "2": "29.07.1962",
     "3": "Male",
-    "4": "Deputy Minister of Justice of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nFrom 2014 to 2020 - Deputy Chairman of the Supreme Court of the Russian Federation. As a member of the Presidium of the Supreme Court of the Russian Federation, upheld the verdict against Oleg and Alexei Navalny in the Yves Rocher case, despite the ECtHR ruling that this verdict was unjust.\n\nCurrently serves as Deputy Minister of Justice of the Russian Federation; his responsibilities include, in particular, enforcement of the foreign agent law that requires anyone who receives \"support\" from outside of Russia or is under \"influence\" from outside of Russia to register and declare themselves as foreign agents. The law was specifically designed and is being used to constrain independent NGOs and suppress the opposition and free media. \n\nAs a public servant, Sviridenko must declare his income and real estate holdings. In order to avoid declaring a mansion on the French Riviera worth more than 700 thousand euro, and multiple luxury properties in Russia, he enacted a fraudulent \"divorce\" scheme so that all of the properties were registered in the name his \"former\" wife Natalya Poluychik.",
+    "4": "Deputy Minister of Justice of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nFrom 2014 to 2020 - Deputy Chairman of the Supreme Court of the Russian Federation. As a member of the Presidium of the Supreme Court of the Russian Federation, upheld the verdict against Oleg and Alexei Navalny in the Yves Rocher case, despite the ECtHR ruling that this verdict was unjust.\nCurrently serves as Deputy Minister of Justice of the Russian Federation; his responsibilities include, in particular, enforcement of the foreign agent law that requires anyone who receives \"support\" from outside of Russia or is under \"influence\" from outside of Russia to register and declare themselves as foreign agents. The law was specifically designed and is being used to constrain independent NGOs and suppress the opposition and free media. \n\nAs a public servant, Sviridenko must declare his income and real estate holdings. In order to avoid declaring a mansion on the French Riviera worth more than 700 thousand euro, and multiple luxury properties in Russia, he enacted a fraudulent \"divorce\" scheme so that all of the properties were registered in the name his \"former\" wife Natalya Poluychik.",
     "5": [
       1,
       2,
@@ -51155,7 +51231,9 @@
     "2": "",
     "3": "female",
     "4": "Wife of former top official in the Presidential administration Oleg Govorun. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns multiple luxury properties (some together with her husband Oleg Govorun) worth more than 2 billion rubles.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Серга Эльвира Николаевна",
@@ -51333,7 +51411,7 @@
     "1": "Serdyukov Anatoly Eduardovich",
     "2": "08.01.1962",
     "3": "male",
-    "4": "Businessman and politician; Industrial Director of Rostec State corporation; former Minister of Defense of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Linked to the Tambov Organized Crimial Group and its leader Gennadiy Petrov.",
+    "4": "Businessman and politician; Industrial Director of Rostec State corporation; former Minister of Defense of the Russian Federation.\n\nBusinessman and politician; Industrial Director of Rostec State corporation; former Minister of Defense of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Linked to the Tambov Organized Crimial Group and its leader Gennadiy Petrov.",
     "5": [
       2,
       10
@@ -51384,7 +51462,7 @@
     "1": "Sereda Mikhail Leonidovich",
     "2": "09.05.1970",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC Gazprom\n\nDeputy Chairman of the Board of Directors of JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Member of the Board of Directors of PJSC Gazprom\nDeputy Chairman of the Board of Directors of JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2,
       10
@@ -51526,7 +51604,7 @@
     "1": "Sechin Igor Ivanovich",
     "2": "07.09.1960",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC INTER RAO\n\nMember of the Board of Directors of PJSC Rosneft Oil Company, Member of the collegial executive body of PJSC Rosneft Oil Company. Person acting as the sole executive body (President) of PJSC Rosneft Oil Company\n\nMember of the Board of Directors of JSC ROSNEFTEGAZ\n\nHead of Rosneft.",
+    "4": "Member of the Board of Directors of PJSC INTER RAO\nMember of the Board of Directors of PJSC Rosneft Oil Company, Member of the collegial executive body of PJSC Rosneft Oil Company. Person acting as the sole executive body (President) of PJSC Rosneft Oil Company\nMember of the Board of Directors of JSC ROSNEFTEGAZ\n\nHead of Rosneft.",
     "5": [
       2,
       10
@@ -52206,7 +52284,7 @@
     "1": "Sitnikov Yury Vasilievich",
     "2": "",
     "3": "male",
-    "4": "Judge of the Supreme Court of Russia. \n\nUpheld the verdict against Ukrainian director Oleg Sentsov and Ukrainian activist Oleksandr Kolchenko\n\nAs part of the Appellate Board of the Supreme Court of the Russian Federation, he the exclusion of Alexei Navalny from the presidential elections of March 18, 2018 as legitimate.",
+    "4": "Judge of the Supreme Court of Russia. \nUpheld the verdict against Ukrainian director Oleg Sentsov and Ukrainian activist Oleksandr Kolchenko\nAs part of the Appellate Board of the Supreme Court of the Russian Federation, he the exclusion of Alexei Navalny from the presidential elections of March 18, 2018 as legitimate.",
     "5": [
       1
     ]
@@ -52319,7 +52397,7 @@
     "1": "Skvortsov Vyacheslav Mikhailovich",
     "2": "27.10.1958",
     "3": "male",
-    "4": "Chairman of the Board of Directors, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\n\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
+    "4": "Chairman of the Board of Directors, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
     "5": [
       10
     ]
@@ -52350,7 +52428,9 @@
     "2": "18.03.1980",
     "3": "male",
     "4": "Multi-millionaire businessman; chairman of the board of directors and, through a network of offshore companies, owner of St. Petersburg Oil Terminal. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Son of Dmitry Skigin who was linked to the Tambov organized crime group and owned St. Petersburg Oil Terminal with his partners Ilya Traber and Sergey Vasilyev.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Скиндерев Роман Владимирович",
@@ -52821,7 +52901,9 @@
     "2": "",
     "3": "male",
     "4": "Former fighter of Vympel, a special forces unit of the FSB. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Together with Sergey Tregub, controls real estate company Vladenie-V, which is the registered owner and manager of multiple luxury real estate properties for the benefit of Alexey Miller, Marina Yentaltseva, Putin's nephew Mikhail Shelomov and Deputy Head of Gazprom’s Management Committee Yury Gorokh. Participated in corrupt schemes to plunder Yukos assets.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Смирнов Алексей Борисович",
@@ -53088,7 +53170,7 @@
     "1": "Snikkars Pavel Nikolaevich",
     "2": "24.12.1978",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\n\nMember of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\n\nMember of the Board of Directors of PJSC ROSSETI",
+    "4": "Member of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\nMember of the Board of Directors of PJSC Federal Grid Company of the Unified Energy System (FGS UES)\nMember of the Board of Directors of PJSC ROSSETI",
     "5": [
       10
     ]
@@ -53169,11 +53251,12 @@
     "1": "Sobyanin Sergey Semenovich",
     "2": "21.06.1958",
     "3": "male",
-    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nMayor of Moscow, and the primary executor of Russian government policy in the capital, including vote rigging and facilitating criminal activity through corrupt municipal projects. Member of the Security Council which approved the full-scale invasion of Ukraine.\n\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\n\nMayor of Moscow, and the primary executor of Russian government policy in the capital, including vote rigging and facilitating criminal activity through corrupt municipal projects. Member of the Security Council which approved the full-scale invasion of Ukraine.\n\nAs the Mayor of the City of Moscow, Sobyanin signed a law on an experiment to introduce electronic voting in the city of Moscow. Organizer of the falsification of the voting results to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
     "5": [
       2,
       11,
-      13
+      13,
+      14
     ]
   },
   {
@@ -54904,7 +54987,9 @@
     "2": "05.06.2002",
     "3": "male",
     "4": "Son of Denis Sugrobov, lieutenant-general and former head of the Main Directorate for Economic Security and Anti-Corruption Activities of the Russian Interior Ministry, convicted and serving time for inciting FSS officers to take bribes and abuse of power. Financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Сугробова Анастасия Денисовна",
@@ -54912,7 +54997,9 @@
     "2": "21.06.1999",
     "3": "female",
     "4": "Daughter of Denis Sugrobov, lieutenant-general and former head of the Main Directorate for Economic Security and Anti-Corruption Activities of the Russian Interior Ministry, convicted and serving time for inciting FSS officers to take bribes and abuse of power. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Together with her mother Maria Sherstneva, owns luxury real estate properties worth more than 500 billion rubles. Some of the properties are registered in the name of sham nominal owners, including attorneys of the Sugrobov family.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Сугробова Оксана Александровна",
@@ -54920,7 +55007,9 @@
     "2": "01.07.1975",
     "3": "female",
     "4": "Sister of Denis Sugrobov, lieutenant-general and former head of the Main Directorate for Economic Security and Anti-Corruption Activities of the Russian Interior Ministry, convicted and serving time for inciting FSS officers to take bribes and abuse of power. Financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Судаков Юрий Дмитриевич",
@@ -55127,7 +55216,7 @@
     "1": "Surovikin Sergey Vladimirovich",
     "2": "11.10.1966",
     "3": "male",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander-in-Chief of the Navy. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\n\nCommands the Russian grouping of troops South (Yug) during the aggression against Ukraine.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander-in-Chief of the Navy. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nCommands the Russian grouping of troops South (Yug) during the military aggression against Ukraine.\nOn October 8, 2022, Surovikin was appointed commander of the joint grouping of Russian invasion forces in Ukraine.",
     "5": [
       13
     ]
@@ -55437,7 +55526,7 @@
     "1": "Sychevoi Andrey Ivanovich",
     "2": "16.05.1969",
     "3": "male",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 8th Combined Arms Army (Southern Military District). Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\n\nCommands the Russian groupIng of troops West (Zapad) during the aggression against Ukraine.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 8th Combined Arms Army (Southern Military District). Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nCommands the Russian groupIng of troops West (Zapad) during the aggression against Ukraine.",
     "5": [
       13
     ]
@@ -56501,7 +56590,9 @@
     "2": "25.11.1955",
     "3": "male",
     "4": "Chairman of the Commission of the Public Council under the Ministry of Defense of the Russian Federation on military construction and scientific research in the field of security; chairman of the board of trustees of the Military-Patriotic Park of Culture and Recreation of the Armed Forces of the Russian Federation. Involved in and financially benefitted from multiple corruption schemes, primarily in the construction business and government contracts, designed to provide corrupt sources of income to politicians and government officials.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Тимошенко Михаил",
@@ -56579,7 +56670,7 @@
     "1": "Timchenko Gennady Nikolaevich",
     "2": "09.11.1952",
     "3": "male",
-    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nOne of the most famous \"Putin's friends\". When Vladimir Putin became president, four of our country's five major oil companies sold their oil abroad not directly, but through the Swiss intermediary Gunvor controlled by Timchenko.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.\"",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nOne of the most famous \"Putin's friends\". When Vladimir Putin became president, four of our country's five major oil companies sold their oil abroad not directly, but through the Swiss intermediary Gunvor controlled by Timchenko.\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2
     ]
@@ -57167,24 +57258,15 @@
     ]
   },
   {
-    "0": "Толстой Петр Олегович",
-    "1": "Tolstoy Petr Olegovich",
-    "2": "20.06.1969",
-    "3": "male",
-    "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament), Deputy Chairman of the State Duma. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the Supreme Council and Secretary of the Moscow City Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
-    "5": [
-      5,
-      11
-    ]
-  },
-  {
     "0": "Толстой Пётр Олегович",
     "1": "Tolstoy Pyotr (Piotr) Olegovich",
     "2": "20.06.1969",
     "3": "male",
-    "4": "Russian propagandist: formerly host of the show \"Tolstoy.Sunday\" and several other shows on Channel One; Deputy Chairman of the State Duma",
+    "4": "Russian propagandist: formerly host of the show \"Tolstoy.Sunday\" and several other shows on Channel One; Deputy Chairman of the State Duma\n\nMember of the State Duma of the Russian Federation (lower house of the federal parliament), Deputy Chairman of the State Duma. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nMember of the Supreme Council and Secretary of the Moscow City Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      3
+      3,
+      5,
+      11
     ]
   },
   {
@@ -57263,7 +57345,9 @@
     "2": "",
     "3": "female",
     "4": "Wife of Sergey Toni, who is a son of the Deputy General Director of the state-owned Russian Railways (one of the world's largest transport companies) Oleg Toni; daughter of the former Azerbaijani Ambassador to the UK Rafael Ibrahimov. Toni received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Тони Олег Вильямсович",
@@ -57281,14 +57365,16 @@
     "2": "10.06.1988",
     "3": "male",
     "4": "Son of the Deputy General Director of the state-owned Russian Railways (one of the world's largest transport companies) Oleg Toni. Participated in and received financial benefit from corruption schemes designed to obtain illegal sources of income through family association with corrupt politicians.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Тонковидов Игорь Васильевич",
     "1": "Tonkovidov Igor Vasilyevich",
     "2": "1964",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC United Shipbuilding Corporation\n\nGeneral Director of OJSC Sovcomflot",
+    "4": "Member of the Board of Directors of JSC United Shipbuilding Corporation\nGeneral Director of OJSC Sovcomflot",
     "5": [
       10
     ]
@@ -57401,7 +57487,9 @@
     "2": "08.09.1950",
     "3": "male",
     "4": "Businessman, crime lord and an old friend of Putin. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Травкин Андрей Александрович",
@@ -57450,7 +57538,9 @@
     "2": "08.06.1986",
     "3": "male",
     "4": "Nephew of Sergey Tregub. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates. Director of Redensy Management, a Cypriot company that is the nominal owner of real estate properties worth over of $1 billion for the benefit of Alexey Miller and Marina Yentaltseva, including the famous Millerhof palace. Beneficiary of offshore companies that, through a chain of legal entities, control a number of companies that formerly belonged to Ziyad Manasir, namely OOO Ancord, Intek Group, and Legato, as well as 23 Gazprom subcontractor companies. Overall, together with his uncle Vadim Tregub, controls real estate and other assets worth over $3 billion for the benefit of Miller and other Gazprom executives and Putin's friends and relatives. Lives in Cyprus and Dubai.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Трегуб Сергей Вадимович",
@@ -57468,7 +57558,9 @@
     "2": "",
     "3": "male",
     "4": "Son of Sergey Tregub. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Nominal owner of 51% of the red deer farm in the Altai region used by Alexey Miller",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Трегулова Зельфира Исмаиловна",
@@ -58491,7 +58583,7 @@
     "1": "Usmanov Alisher Burkhanovich",
     "2": "09.09.1953",
     "3": "male",
-    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nParticipated in Dmitry Medvedev's corrupt scheme with property donations to his \"charitable foundations\", which allowed him to quickly and conveniently register real estate without revealing the real owner.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nParticipated in Dmitry Medvedev's corrupt scheme with property donations to his \"charitable foundations\", which allowed him to quickly and conveniently register real estate without revealing the real owner.\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2
     ]
@@ -58744,7 +58836,7 @@
     "1": "Fadeev V.V.",
     "2": "",
     "3": "male",
-    "4": "Senior Investigator of the Investigative Department for the city of Krasnogorsk, Main Investigative Directorate of the Investigative Committee of the Russian Federation for the Moscow Oblast. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia",
+    "4": "Senior Investigator of the Investigative Department for the city of Krasnogorsk, Main Investigative Directorate of the Investigative Committee of the Russian Federation for the Moscow Oblast. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia\n\nSenior Investigator of the Investigative Department for the city of Krasnogorsk, Main Investigative Directorate of the Investigative Committee of the Russian Federation for the Moscow Oblast. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia",
     "5": [
       1,
       9
@@ -58836,7 +58928,7 @@
     "1": "Fayzullin Irek Envarovich",
     "2": "08.12.1962",
     "3": "Male",
-    "4": "Minister of Construction and Housing and Communal Services of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of PJSC ROSSETI \n\nMember of the Board of Directors of PJSC Russian Railways (PAO RZhD)",
+    "4": "Minister of Construction and Housing and Communal Services of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of PJSC ROSSETI \nMember of the Board of Directors of PJSC Russian Railways (PAO RZhD)",
     "5": [
       7,
       10,
@@ -58940,7 +59032,7 @@
     "1": "Fatkhtdinov Fail Kamilovich",
     "2": "",
     "3": "Male",
-    "4": "Editor-in-Chief of the magazine \"Әllүki\" (owned by the Press and Mass Media Agency for the Republic of Bashkortostan)\n\nEditor-in-Chief of the magazine \"Tulpar\" (owned by the Press and Mass Media Agency for the Republic of Bashkortostan)",
+    "4": "Editor-in-Chief of the magazine \"Әllүki\" (owned by the Press and Mass Media Agency for the Republic of Bashkortostan)\nEditor-in-Chief of the magazine \"Tulpar\" (owned by the Press and Mass Media Agency for the Republic of Bashkortostan)",
     "5": [
       3
     ]
@@ -59522,7 +59614,9 @@
     "2": "",
     "3": "male",
     "4": "Husband of an employee of Sergei Tregub’s company Materhorn-Finance. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. General director of Alexander Smirnov’s company Summa-Plus. Owns 26% of Gazstroyprom together with Sergey Furin.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Филинов Андрей Николаевич",
@@ -59991,7 +60085,7 @@
     "1": "Friedrichson Nadana Alexandrovna",
     "2": "15.01.1987",
     "3": "female",
-    "4": "Russian propagandist: Host of talk show \"Process\" at Zvezda TV; author and host of the program \"Vneshnie Rubezhi\" (\"External Borders\") on internet radio MediaMetrics\n\nPropagandist, journalist, political commentator, host of a program on Radio Sputnik",
+    "4": "Russian propagandist: Host of talk show \"Process\" at Zvezda TV; author and host of the program \"Vneshnie Rubezhi\" (\"External Borders\") on internet radio MediaMetrics\nPropagandist, journalist, political commentator, host of a program on Radio Sputnik",
     "5": [
       3
     ]
@@ -60113,7 +60207,9 @@
     "2": "29.05.1972",
     "3": "male",
     "4": "Personal driver of Sergey Tregub and his family members. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Through a shell company, together with Sergey Filimonov, owns a 26% stake and is a blocking shareholder of Gazprom's largest subcontractor Gazstroyprom that was created in 2018-2019 by a merger of Ziyad Manasir's Stroygazconsulting, Arkady Rottenberg's Stroytransgaz and Gennady Timchenko’s Stroytransneftegaz.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Фурсенко Андрей Александрович",
@@ -60276,7 +60372,9 @@
     "2": "11.04.1985",
     "3": "male",
     "4": "Brother-in-law (brother of the second wife) of the head of the Republic of Chechnya Ramzan Kadyrov. Deputy Minister of Finance of the Republic of Chechnya. Participated in and benefitted from fraudulent business schemes designed to create illegal sources of income and career opportunities for corrupt Chechen politicians and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Хазуева Сацита Султановна",
@@ -60284,7 +60382,9 @@
     "2": "",
     "3": "female",
     "4": "Mother-in-law (mother of the second wife) of the head of the Republic of Chechnya Ramzan Kadyrov. Benefitted from fraudulent business schemes designed to create illegal sources of income and career opportunities for corrupt Chechen politicians and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Хазуева Фатима Шайхиевна",
@@ -60292,7 +60392,9 @@
     "2": "17.01.1991",
     "3": "female",
     "4": "Second wife of the head of the Republic of Chechnya Ramzan Kadyrov. Benefitted from fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians. Owns a palace in Grozny and multiple luxury properties in Moscow.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Хайбулаев Али Салахудинович",
@@ -60511,7 +60613,7 @@
     "1": "Kharitonin Viktor Vladimirovich",
     "2": "20.11.1972",
     "3": "male",
-    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
+    "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\n\nRussian oligarch. According to credible results of a public investigation, pharmaceutical companies belonging to Viktor Kharitonin are involved in corruption schemes organized by Deputy Prime Minister of the Russian Federation Tatyana Golikova and her stepson Vladimir Khristenko.",
     "5": [
       2
     ]
@@ -60554,6 +60656,16 @@
     "4": "A graduate of the law department of St. Petersburg State University. The mass media called her a student of Ilya Eliseev. She was the former director of the Mansurovo agro-complex, to which Medvedev's plot is registered.",
     "5": [
       2
+    ]
+  },
+  {
+    "0": "Харичев Александр Дмитриевич",
+    "1": "Kharichev Alexander Dmitrievich",
+    "2": "08.02.1966",
+    "3": "male",
+    "4": "Head of the Presidential Directorate for Supporting Activities of the State Council of the Russian Federation. In his position, Kharichev ensures the functioning of a state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      7
     ]
   },
   {
@@ -60691,7 +60803,7 @@
     "1": "Khasikov Batu Sergeyevich",
     "2": "28.06.1980",
     "3": "male",
-    "4": "Head of the Republic of Kalmykia. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\"\n\nSecretary of the Kalmykia Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\n\nSecretary of the Kalmykia Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Head of the Republic of Kalmykia. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\"\n\nSecretary of the Kalmykia Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\n\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
       8,
       11,
@@ -61355,6 +61467,16 @@
     ]
   },
   {
+    "0": "Христенко Владимир Викторович",
+    "1": "Khristenko Vladimir Viktorovich",
+    "2": "06.08.1981",
+    "3": "male",
+    "4": "Son of Viktor Khristenko and stepson of Tatyana Golikova. Russian entrepreneur. According to credible results of a public investigation, Vladimir Khristenko profits from his father Viktor Khristenko's and stepmother Tatyana Golikova's involvement in corruption schemes. Formal holder of part of the assets of his father and stepmother.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Христофорова Мария Николаевна",
     "1": "Khristoforova Mariia Nikolaevna",
     "2": "",
@@ -61431,7 +61553,9 @@
     "2": "05.06.1983",
     "3": "male",
     "4": "Son of Eduard Khudainatov. Benefits from assets obtained by his father through corruption schemes in the energy sector and his ties to the government.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Худайнатов Жан Юрьевич",
@@ -61439,7 +61563,9 @@
     "2": "",
     "3": "male",
     "4": "Brother of Eduard Khudainatov. Profits from assets obtained by his brother through corruption schemes in the energy sector and his ties to the government.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Худайнатов Эдуард Юрьевич",
@@ -61658,7 +61784,7 @@
     "1": "Tsekhomskiy Nikolay Viktorovich",
     "2": "21.03.1974",
     "3": "male",
-    "4": "Member of the Board of Directors of JSC RUSNANO\n\nMember of the Board of Directors of OJSC Rostelecom",
+    "4": "Member of the Board of Directors of JSC RUSNANO\nMember of the Board of Directors of OJSC Rostelecom",
     "5": [
       10
     ]
@@ -61688,7 +61814,7 @@
     "1": "Tsivileva (nee Putina; Loginova by first marriage) Anna Evgenyevna",
     "2": "09.05.1972",
     "3": "female",
-    "4": "Daughter of Vladimir Putin's cousin Yevgeny Putin; sister of Mikhail Putin, deputy CEO of Gazprom; wife of Sergey Tsivilev, Governor of Kemerovo Region. Participant and beneficiary of the formation of corrupt sources of income for Vladimir Putin and his family and closest associates. Together with her husband Sergey Tsivilev, owns 70% of mining company Kolmar LLC with total asset worth of ~ $2.4 billion. Kolmar has received subsidies of at least 11 billion rubles from the federal budget, a preferential government loan of 4 billion rubles, and prefenretial tax treatment. The Tsivilevs received the stake in Kolmar from its previous owner, oligarch and close friend of Putin Gennady Timchenko.",
+    "4": "Daughter of Vladimir Putin's cousin Yevgeny Putin; sister of Mikhail Putin, deputy CEO of Gazprom; wife of Sergey Tsivilev, Governor of Kemerovo Region. Participant and beneficiary of the formation of corrupt sources of income for Vladimir Putin and his family and closest associates. Together with her husband Sergey Tsivilev, owns 70% of mining company Kolmar LLC with total asset worth of ~ $2.4 billion. Kolmar has received subsidies of at least 11 billion rubles from the federal budget, a preferential government loan of 4 billion rubles, and prefenretial tax treatment. The Tsivilevs received the stake in Kolmar from its previous owner, oligarch and close friend of Putin Gennady Timchenko.\n\nWife of Sergey Tsivilev, Governor of Kemerovo Region. Participant and beneficiary of the formation of corrupt sources of income for Vladimir Putin and his family and closest associates.",
     "5": [
       2
     ]
@@ -61709,7 +61835,9 @@
     "2": "05.25.1969",
     "3": "Female",
     "4": "Business woman who built her business on her relationship with Viktor Zolotov, the current Director of the National Guard of Russia (Rosgvardiya) and a member of the Security Council of Russia, with whom she presumably has an out-of-wedlock son. Financially benefitted from corruption schemes designed to provide corrupt sources of income to oligarchs, politicians and government officials and their families. Owns multiple luxury properties in St Petersburg worth over 400 million rubles. Owns a 31% share in four migration centers that issue labor patents to migrants under a license from the Interior Ministry; in 2019, the revenue of these migration centers amounted to 3 billion rubles.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Цискаридзе Николай Максимович",
@@ -62092,7 +62220,7 @@
     "1": "Chalik Igor Petrovich",
     "2": "",
     "3": "Male",
-    "4": "Deputy Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC \"Sheremetyevo International Airport\". Deputy Minister of Transport of Russia\n\nMember of the Management Board of PJSC Aeroflot",
+    "4": "Deputy Minister of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC \"Sheremetyevo International Airport\". Deputy Minister of Transport of Russia\nMember of the Management Board of PJSC Aeroflot",
     "5": [
       7,
       10
@@ -62133,7 +62261,7 @@
     "1": "Charkin Yevgeny Igorevich",
     "2": "",
     "3": "male",
-    "4": "Information technologies director of PJSC Russian Railways (PAO RZhD)\n\nMember of the Board of Directors of JSC GLONASS",
+    "4": "Information technologies director of PJSC Russian Railways (PAO RZhD)\nMember of the Board of Directors of JSC GLONASS",
     "5": [
       10
     ]
@@ -62769,7 +62897,9 @@
     "2": "24.04.1967",
     "3": "male",
     "4": "Brother-in-law of the Head of the Chechen Republic Ramzan Kadyrov, husband of Ramzan Kadyrov's sister Zargan Kadyrova. Minister of Transport and Communications of Chechnya. Participant and beneficiary of fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians. Together with his wife Zargan Kadyrova, owns luxury real estate in Moscow.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Черячукин Виктор Владимирович",
@@ -62827,7 +62957,9 @@
     "2": "25.05.1952",
     "3": "male",
     "4": "Owner (together with other family members) and chairman of the board of directors of the Chuvash Van Plant (KAF). Chechenov is considered a major regional sponsor of the United Russia party. KAF is one of the largest manufacturers of special equipment (e.g., prison transport vehicles, military transport vehicles, mobile field kitchens, mobile staff vehicles, mobile repair workshops for military equipment, and mobile refrigerator morgues) for the law enforcement and security agencies of the Russian Federation. KAF's major clients include the Federal Guard Service, the Interior Ministry, the Federal Penitentiary Service, and the Defense Ministry. Therefore, Chechenov is involved in doing business in a sector of strategic significance to the Government of Russia and has obtained a financial benefit from the Government of Russia in connection with such business.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Чечина Наталья Валентиновна",
@@ -63249,7 +63381,7 @@
     "1": "Chupriyan Alexander Petrovich",
     "2": "23.03.1958",
     "3": "Male",
-    "4": "Until 25.05.2022 - Acting Minister of Civil Defense, Emergency Situations and the Elimination of the Consequences of Natural Disasters of the Russian Federation. Managed a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC GLONASS\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
+    "4": "Until 25.05.2022 - Acting Minister of Civil Defense, Emergency Situations and the Elimination of the Consequences of Natural Disasters of the Russian Federation. Managed a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC GLONASS\nMember of the Board of Directors of JSC TOURISM.RF Corporation\n\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       7,
       10,
@@ -63724,7 +63856,7 @@
     "1": "Shamalov Yury Nikolaevich",
     "2": "10.06.1970",
     "3": "male",
-    "4": "President of Gazfond and member of the Board of Directors of Gazprombank. Shamalov is therefore involved as a director or equivalent in the work of entities (Gazfond and JSC Gazprombank) in the financial sector - a sector of strategic significance to the Russian Government.\n\nDeputy Chairman of the Board of Directors of JSC Gazprombank\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "President of Gazfond and member of the Board of Directors of Gazprombank. Shamalov is therefore involved as a director or equivalent in the work of entities (Gazfond and JSC Gazprombank) in the financial sector - a sector of strategic significance to the Russian Government.\n\nDeputy Chairman of the Board of Directors of JSC Gazprombank. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2,
       10
@@ -63878,10 +64010,11 @@
     "1": "Shaposhnikov Alexey Valerievich",
     "2": "16.06.1973",
     "3": "male",
-    "4": "Chairman of the Moscow City Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\n\nChairman of the Moscow City Duma.",
+    "4": "Chairman of the Moscow City Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\n\nChairman of the Moscow City Duma.\n\nOrganizer of the falsification of the results of the remote electronic voting to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
     "5": [
       2,
-      4
+      4,
+      14
     ]
   },
   {
@@ -63982,7 +64115,7 @@
     "1": "Sharipov Rashid Ravelevich",
     "2": "20.02.1968",
     "3": "male",
-    "4": "Vice President of PJSC Transneft, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\n\nMember of the Board of Directors of PJSC Novorossiysk Commercial Sea Port (“NCSP”)",
+    "4": "Vice President of PJSC Transneft, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\nMember of the Board of Directors of PJSC Novorossiysk Commercial Sea Port (“NCSP”)",
     "5": [
       10
     ]
@@ -64022,7 +64155,7 @@
     "1": "Sharonov Andrey Vladimirovich",
     "2": "11.02.1964",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC ROSSETI \n\nMember of the Board of Directors of OJSC Sovcomflot",
+    "4": "Member of the Board of Directors of PJSC ROSSETI \nMember of the Board of Directors of OJSC Sovcomflot",
     "5": [
       10
     ]
@@ -64446,7 +64579,7 @@
     "1": "Shekin Mikhail Vasilievich",
     "2": "20.01.1958",
     "3": "male",
-    "4": "Colonel General.Head of the Operations Support Service of the Federal Security Service (FSB), the state body directly responsible for organizing Russia's aggression against Ukraine. According to a credible public investigation, he is involved in corruption on an especially large scale.",
+    "4": "Colonel General.Head of the Operations Support Service of the Federal Security Service (FSB), the state body directly responsible for organizing Russia's aggression against Ukraine. \n\nColonel General.Head of the Operations Support Service of the Federal Security Service (FSB). According to a credible public investigation, he is involved in corruption on an especially large scale.",
     "5": [
       2,
       7
@@ -64467,7 +64600,7 @@
     "1": "Shelomov Mikhail Lvovich",
     "2": "07.01.1968",
     "3": "male",
-    "4": "Cousin of Vladimir Putin. In 2002, at the personal request of Igor Sechin, the then head of Putin's deputy administration, Shelomov was hired by the state shipping company Sovcomflot owned by Acceptance. Acceptance also owns 8.4 percent of Bank Rossiya,which belongs to Putin's friends Kovalchuk, Shamalov and Timchenko, and 12.47 percent of Russia's largest insurance company, Sogaz.\n\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
+    "4": "Cousin of Vladimir Putin. In 2002, at the personal request of Igor Sechin, the then head of Putin's deputy administration, Shelomov was hired by the state shipping company Sovcomflot owned by Acceptance. Acceptance also owns 8.4 percent of Bank Rossiya,which belongs to Putin's friends Kovalchuk, Shamalov and Timchenko, and 12.47 percent of Russia's largest insurance company, Sogaz.\nInvolved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
       2
     ]
@@ -64518,7 +64651,9 @@
     "2": "26.05.1973",
     "3": "male",
     "4": "Head of the security department of Russian Railways. Former officer of Vympel, the special unit of the FSB. Got his position at Russian Railways as a protege of Putin's closest friends, the Rotenberg brothers. Involved in corruption schemes and business dealings with the Rotenberg clan: after his appointment, the Rotenbergs' construction business became the largest contractor of Russian Railways.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Шепелева Юлия Вячеславовна",
@@ -64576,7 +64711,9 @@
     "2": "",
     "3": "female",
     "4": "Wife of Denis Sugrobov, lieutenant-general and former head of the Main Directorate for Economic Security and Anti-Corruption Activities of the Russian Interior Ministry, convicted and serving time for inciting FSS officers to take bribes and abuse of power. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Together with her daughter Anastasia Sugrobova, owns luxury real estate properties worth more than 500 billion rubles. Some of the properties are registered in the name of sham nominal owners, including attorneys of the Sugrobov family.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Шершуков Александр Владимирович",
@@ -64655,7 +64792,9 @@
     "2": "",
     "3": "male",
     "4": "Brother of Pavel Krotov's wife Yana Shivkova. Together with Krotov, participates in and benefits from fraudulent business schemes designed to create illegal sources of income for corrupt Chechen politicians, including Ramzan Kadyrov and Adam Delimkhanov. Nominal owner of several business ventures across Russia for the benefit of Kadyrov and Delimkhanov.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Шилкин Григорий Владимирович",
@@ -64833,7 +64972,7 @@
     "1": "Shishkin Andrey Nikolaevich",
     "2": "13.03.1959",
     "3": "male",
-    "4": "Member of the Board of Directors of PJSC RusHydro\n\nMember of the Board of Directors of JSC United Shipbuilding Corporation",
+    "4": "Member of the Board of Directors of PJSC RusHydro\nMember of the Board of Directors of JSC United Shipbuilding Corporation",
     "5": [
       10
     ]
@@ -65515,7 +65654,7 @@
     "1": "Shulginov Nikolay Grigoryevich",
     "2": "18.05.1951",
     "3": "Male",
-    "4": "Energy Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of PJSC Gazprom\n\nMember of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\n\nMember of the Board of Directors of PJSC ROSSETI \n\n\"Member of the Board of Directors of PJSC RusHydro, \nMember of the collegial executive body of PJSC RusHydro, \nPerson acting as the sole executive body (President) of PJSC RusHydro\"",
+    "4": "Energy Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of PJSC Gazprom\nMember of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\nMember of the Board of Directors of PJSC ROSSETI \nMember of the Board of Directors of PJSC RusHydro, \nMember of the collegial executive body of PJSC RusHydro, \nPerson acting as the sole executive body (President) of PJSC RusHydro",
     "5": [
       7,
       10
@@ -65656,7 +65795,7 @@
     "1": "Shurgucheev Ochir Sandzhievich",
     "2": "07.06.1978",
     "3": "Male",
-    "4": "First Deputy Chairman of the Government of the Republic of Kalmykia - Minister of Finance of the Republic of Kalmykia. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nActing Chairman of the Government of the Republic of Kalmykia",
+    "4": "First Deputy Chairman of the Government of the Republic of Kalmykia - Minister of Finance of the Republic of Kalmykia. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nActing Chairman of the Government of the Republic of Kalmykia",
     "5": [
       4
     ]
@@ -66122,7 +66261,7 @@
     "1": "Ebzeev Boris Safarovich",
     "2": "25.02.1950",
     "3": "male",
-    "4": "member of the Central Election Commission of the Russian Federation. Member of the collegiate state body responsible for supporting the existing political regime in Russia through electoral fraud.\n\nA member of the Russian Central Election Committee. Election fraud. Corruption.",
+    "4": "Member of the Central Election Commission of the Russian Federation. Member of the collegiate state body responsible for supporting the existing political regime in Russia through electoral fraud.\n\nA member of the Russian Central Election Committee. Election fraud. Corruption.",
     "5": [
       2,
       14
@@ -66556,7 +66695,9 @@
     "2": "",
     "3": "male",
     "4": "Colonel General, Head of the Military Counterintelligence Department of the Federal Security Service of the Russian Federation",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Юрьева Александра Николаевна",
@@ -66564,7 +66705,9 @@
     "2": "16.08.1983",
     "3": "female",
     "4": "Daughter of Nikolay Yuriev, Head of the Military Counterintelligence Department of the Federal Security Service of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.",
-    "5": []
+    "5": [
+      2
+    ]
   },
   {
     "0": "Юсупов Альберт Рафаилович",
@@ -66792,7 +66935,7 @@
     "1": "Yakovenko Vadim Vladimirovich",
     "2": "02.01.1970",
     "3": "Male",
-    "4": "Head of the Federal Agency for State Property Management of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC \"Sheremetyevo International Airport\". Head of Federal Agency for State Property Management (Rosimiushchestvo)\n\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"\n\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
+    "4": "Head of the Federal Agency for State Property Management of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nMember of the Board of Directors of JSC \"Sheremetyevo International Airport\".\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
     "5": [
       7,
       10
@@ -67438,7 +67581,7 @@
     "1": "Keosayan Tigran Edmondovich",
     "2": "04.01.1966",
     "3": "male",
-    "4": "Russian propagandist. Host of propaganda-satirical program Mezhdunarodnaya Pilorama (“International Sawmill”) show on NTV in which he insults critics of Kremlin and foreign nations that oppose Vladimir Putin's agenda, thus increasing the antagonistic atmosphere within Russia. Husband of Margarita Simonyan. Along with his wife he has illegally acquired large sums of money from corruption and government contracts as Alexey Navalny's investigations have shown. He shot a propaganda-film on taxpayers' money about the Crimean Bridge (build after illegal annexation of the peninsula by Russian Federation). Supported the annexation, invasion of Donbass, and the recent escalation of the war in Ukraine. Called the war (\"special operation\") \"necessary\" because of \"Western actions\". Therefore, he is responsible for actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty, and independence of Ukraine, as well as stability and security in Ukraine.",
+    "4": "Russian propagandist. Host of propaganda-satirical program Mezhdunarodnaya Pilorama (“International Sawmill”) show on NTV in which he insults critics of Kremlin and foreign nations that oppose Vladimir Putin's agenda, thus increasing the antagonistic atmosphere within Russia.\n\nRussian propagandist. Host of propaganda-satirical program Mezhdunarodnaya Pilorama (“International Sawmill”) show on NTV. Husband of Margarita Simonyan. Along with his wife he has illegally acquired large sums of money from corruption and government contracts as Alexey Navalny's investigations have shown. He shot a propaganda-film on taxpayers' money about the Crimean Bridge (build after illegal annexation of the peninsula by Russian Federation). Supported the annexation, invasion of Donbass, and the recent escalation of the war in Ukraine. Called the war (\"special operation\") \"necessary\" because of \"Western actions\". Therefore, he is responsible for actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty, and independence of Ukraine, as well as stability and security in Ukraine.",
     "5": [
       2,
       3
