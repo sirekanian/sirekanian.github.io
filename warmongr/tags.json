@@ -5,7 +5,7 @@
     "shortName": "Organizers of Repressions",
     "ruName": "Организаторы политических репрессий",
     "ruShortName": "Организаторы репрессий",
-    "count": 914
+    "count": 883
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "shortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 884
+    "count": 721
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "shortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 757
+    "count": 697
   },
   {
     "id": 4,
@@ -29,47 +29,47 @@
     "shortName": "Local Officials",
     "ruName": "Ключевые региональные чиновники",
     "ruShortName": "Региональные чиновники",
-    "count": 740
+    "count": 691
   },
   {
     "id": 5,
-    "name": "Members of Parliament and Senate",
-    "shortName": "Parliament and Senate",
-    "ruName": "Депутаты и сенаторы",
-    "ruShortName": "Депутаты и сенаторы",
-    "count": 618
-  },
-  {
-    "id": 6,
     "name": "Warmongers",
     "shortName": "Warmongers",
     "ruName": "Разжигатели войны",
     "ruShortName": "Разжигатели войны",
-    "count": 561
+    "count": 506
   },
   {
-    "id": 7,
-    "name": "Senior Federal Officials",
-    "shortName": "Federal Officials",
-    "ruName": "Высшие федеральные чиновники",
-    "ruShortName": "Федеральные чиновники",
+    "id": 6,
+    "name": "Members of Parliament and Senate",
+    "shortName": "Parliament and Senate",
+    "ruName": "Депутаты и сенаторы",
+    "ruShortName": "Депутаты и сенаторы",
     "count": 487
   },
   {
-    "id": 8,
-    "name": "Putin’s Public Supporters",
-    "shortName": "Putin’s Supporters",
-    "ruName": "Публичные сторонники Путина",
-    "ruShortName": "Сторонники Путина",
-    "count": 468
-  },
-  {
-    "id": 9,
+    "id": 7,
     "name": "Key ‘siloviki’ (security forces) figures",
     "shortName": "Siloviki",
     "ruName": "Ключевые силовики",
     "ruShortName": "Cиловики",
-    "count": 459
+    "count": 446
+  },
+  {
+    "id": 8,
+    "name": "Senior Federal Officials",
+    "shortName": "Federal Officials",
+    "ruName": "Высшие федеральные чиновники",
+    "ruShortName": "Федеральные чиновники",
+    "count": 403
+  },
+  {
+    "id": 9,
+    "name": "Putin’s Public Supporters",
+    "shortName": "Putin’s Supporters",
+    "ruName": "Публичные сторонники Путина",
+    "ruShortName": "Сторонники Путина",
+    "count": 376
   },
   {
     "id": 10,
@@ -77,31 +77,31 @@
     "shortName": "Top Managers",
     "ruName": "Руководители госкомпаний",
     "ruShortName": "Руководители госкомпаний",
-    "count": 434
+    "count": 350
   },
   {
     "id": 11,
-    "name": "‘United Russia’ party Functionaries",
-    "shortName": "United Russia",
-    "ruName": "Функционеры «Единой России»",
-    "ruShortName": "Единая Россия",
-    "count": 313
-  },
-  {
-    "id": 12,
     "name": "Sellout opinion leaders",
     "shortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 232
+    "count": 174
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "War Arrangers",
     "shortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 199
+    "count": 170
+  },
+  {
+    "id": 13,
+    "name": "‘United Russia’ party Functionaries",
+    "shortName": "United Russia",
+    "ruName": "Функционеры «Единой России»",
+    "ruShortName": "Единая Россия",
+    "count": 116
   },
   {
     "id": 14,
@@ -109,22 +109,22 @@
     "shortName": "Election Fraud",
     "ruName": "Организаторы фальсификаций на выборах",
     "ruShortName": "Фальсификаторы выборов",
-    "count": 108
+    "count": 100
   },
   {
     "id": 15,
-    "name": "Region Heads",
-    "shortName": "Region Heads",
-    "ruName": "Главы регионов",
-    "ruShortName": "Главы регионов",
-    "count": 90
-  },
-  {
-    "id": 16,
     "name": "State Bankers",
     "shortName": "Bankers",
     "ruName": "Государственные банкиры",
     "ruShortName": "Банкиры",
-    "count": 51
+    "count": 50
+  },
+  {
+    "id": 16,
+    "name": "Region Heads",
+    "shortName": "Region Heads",
+    "ruName": "Главы регионов",
+    "ruShortName": "Главы регионов",
+    "count": 33
   }
 ]
