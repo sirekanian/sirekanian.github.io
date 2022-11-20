@@ -12,8 +12,8 @@
             },
             {
               "name": "Военнослужащие и пособники российской оккупации",
-              "number": 272,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_ZjLy8ML.pdf"
+              "number": 171,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_bVRDdFf.pdf"
             }
           ]
         },
@@ -22,13 +22,13 @@
           "lists": [
             {
               "name": "Сотрудники федеральных медиа",
-              "number": 373,
-              "file": "https://acf.international/acf-media/Federal_media_bi1wyMS.pdf"
+              "number": 374,
+              "file": "https://acf.international/acf-media/Federal_media_begvUS8.pdf"
             },
             {
               "name": "Главные редакторы и руководство региональных телеканалов",
-              "number": 147,
-              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels.pdf"
+              "number": 148,
+              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_fnCGcST.pdf"
             },
             {
               "name": "Региональная пресса",
@@ -43,12 +43,12 @@
             {
               "name": "Герои расследований",
               "number": 575,
-              "file": "https://acf.international/acf-media/Investigations_subjects_8HMfN8W.pdf"
+              "file": "https://acf.international/acf-media/Investigations_subjects_OhaZdFY.pdf"
             },
             {
               "name": "Герои региональных расследований",
-              "number": 272,
-              "file": "https://acf.international/acf-media/Regional_investigations_subjects_rIJJPBJ.pdf"
+              "number": 273,
+              "file": "https://acf.international/acf-media/Regional_investigations_subjects_rCdwo8f.pdf"
             },
             {
               "name": "Олигархи",
@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Сотрудники органов исполнительной власти и администрации президента",
-              "number": 487,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_bcPdseL.pdf"
+              "number": 490,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_k8SiOWf.pdf"
             }
           ]
         },
@@ -202,13 +202,13 @@
           "lists": [
             {
               "name": "Звезды и блогеры",
-              "number": 151,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_q30sS8k.pdf"
+              "number": 153,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_Yq0pNp8.pdf"
             },
             {
               "name": "Публичные сторонники Путина",
-              "number": 84,
-              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_Mc4OyME.pdf"
+              "number": 87,
+              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_slgPgAM.pdf"
             }
           ]
         },
@@ -267,13 +267,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 6706,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_gLalwtH.pdf"
+              "number": 6718,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_F9lBBRG.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 6706,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_9XShfcQ.csv"
+              "number": 6718,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_u8thd0N.csv"
             }
           ]
         },
@@ -349,6 +349,11 @@
               "name": "Изменения от 04.11.2022",
               "number": 16,
               "file": "https://acf.international/acf-media/Changes_from_04.11.2022.pdf"
+            },
+            {
+              "name": "Изменения от 18.11.2022",
+              "number": 14,
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8.pdf"
             }
           ]
         }

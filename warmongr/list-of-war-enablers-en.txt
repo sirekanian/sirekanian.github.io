@@ -12,8 +12,8 @@
             },
             {
               "name": "Military staff and accomplices of Russian occupation",
-              "number": 272,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_nEmqt8J.pdf"
+              "number": 171,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_WRI0aOZ.pdf"
             }
           ]
         },
@@ -22,13 +22,13 @@
           "lists": [
             {
               "name": "Federal media",
-              "number": 373,
+              "number": 374,
               "file": "https://acf.international/acf-media/Federal_media_6fsRa6B.pdf"
             },
             {
               "name": "Chief editors and management of regional TV channels",
-              "number": 147,
-              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_i2dC9AA.pdf"
+              "number": 148,
+              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_ZLRrlRg.pdf"
             },
             {
               "name": "Regional press",
@@ -43,12 +43,12 @@
             {
               "name": "Investigations subjects",
               "number": 575,
-              "file": "https://acf.international/acf-media/Investigations_subjects_Wvl0GNJ.pdf"
+              "file": "https://acf.international/acf-media/Investigations_subjects_0iH5iVk.pdf"
             },
             {
               "name": "Regional investigations subjects",
-              "number": 272,
-              "file": "https://acf.international/acf-media/Regional_investigations_subjects_Gkb98cf.pdf"
+              "number": 273,
+              "file": "https://acf.international/acf-media/Regional_investigations_subjects_QJccV77.pdf"
             },
             {
               "name": "Oligarchs",
@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Executive branch and presidential administration employees",
-              "number": 487,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_wrEQhiO.pdf"
+              "number": 490,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_aatHK26.pdf"
             }
           ]
         },
@@ -202,13 +202,13 @@
           "lists": [
             {
               "name": "Celebrities, influencers and bloggers",
-              "number": 151,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_PiuvxvT.pdf"
+              "number": 153,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_ecVpD8s.pdf"
             },
             {
               "name": "Public supporters of Putin",
-              "number": 84,
-              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_qd9xmQj.pdf"
+              "number": 87,
+              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_1bZurpB.pdf"
             }
           ]
         },
@@ -267,13 +267,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 6706,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_Hp3k08T.pdf"
+              "number": 6718,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_8uNdnz4.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 6706,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_oek9yXy.csv"
+              "number": 6718,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_4qUGLjw.csv"
             }
           ]
         },
@@ -349,6 +349,11 @@
               "name": "Changes from 04.11.2022",
               "number": 16,
               "file": "https://acf.international/acf-media/Changes_from_04.11.2022_refrV2Z.pdf"
+            },
+            {
+              "name": "Changes from 18.11.2022",
+              "number": 14,
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_lrDMHCj.pdf"
             }
           ]
         }

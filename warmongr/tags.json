@@ -13,7 +13,7 @@
     "shortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 721
+    "count": 722
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "shortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 697
+    "count": 699
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
     "shortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 403
+    "count": 406
   },
   {
     "id": 9,
@@ -85,7 +85,7 @@
     "shortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 174
+    "count": 179
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "shortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 170
+    "count": 171
   },
   {
     "id": 13,
