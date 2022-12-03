@@ -22,8 +22,8 @@
           "lists": [
             {
               "name": "Сотрудники федеральных медиа",
-              "number": 374,
-              "file": "https://acf.international/acf-media/Federal_media_begvUS8.pdf"
+              "number": 385,
+              "file": "https://acf.international/acf-media/Federal_media_m3G3f75.pdf"
             },
             {
               "name": "Главные редакторы и руководство региональных телеканалов",
@@ -147,8 +147,8 @@
           "lists": [
             {
               "name": "МВД",
-              "number": 85,
-              "file": "https://acf.international/acf-media/Ministry_of_Internal_Affairs.pdf"
+              "number": 95,
+              "file": "https://acf.international/acf-media/Ministry_of_Internal_Affairs_M9TAPnM.pdf"
             },
             {
               "name": "ФСБ",
@@ -162,13 +162,13 @@
             },
             {
               "name": "Следственный комитет",
-              "number": 97,
-              "file": "https://acf.international/acf-media/Investigative_Committee_of_Russia.pdf"
+              "number": 111,
+              "file": "https://acf.international/acf-media/Investigative_Committee_of_Russia_cHqEXeA.pdf"
             },
             {
               "name": "Прокуратура",
-              "number": 108,
-              "file": "https://acf.international/acf-media/Prosecutor_s_Office.pdf"
+              "number": 116,
+              "file": "https://acf.international/acf-media/Prosecutor_s_Office_vLSe2m2.pdf"
             }
           ]
         },
@@ -202,8 +202,8 @@
           "lists": [
             {
               "name": "Звезды и блогеры",
-              "number": 153,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_Yq0pNp8.pdf"
+              "number": 154,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_D8uIcyv.pdf"
             },
             {
               "name": "Публичные сторонники Путина",
@@ -222,8 +222,8 @@
             },
             {
               "name": "Деятели культуры",
-              "number": 166,
-              "file": "https://acf.international/acf-media/Artists_zVzOb6K.pdf"
+              "number": 167,
+              "file": "https://acf.international/acf-media/Artists_0oocqJZ.pdf"
             },
             {
               "name": "Ученые",
@@ -267,13 +267,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 6718,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_F9lBBRG.pdf"
+              "number": 6763,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_uFRDVAe.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 6718,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_u8thd0N.csv"
+              "number": 6763,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_ziAgpL3.csv"
             }
           ]
         },
@@ -354,6 +354,11 @@
               "name": "Изменения от 18.11.2022",
               "number": 14,
               "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8.pdf"
+            },
+            {
+              "name": "Изменения от 02.12.2022",
+              "number": 79,
+              "file": "https://acf.international/acf-media/Changes_from_02.12.2022.pdf"
             }
           ]
         }

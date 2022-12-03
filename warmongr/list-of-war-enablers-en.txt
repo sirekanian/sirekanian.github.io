@@ -22,8 +22,8 @@
           "lists": [
             {
               "name": "Federal media",
-              "number": 374,
-              "file": "https://acf.international/acf-media/Federal_media_6fsRa6B.pdf"
+              "number": 385,
+              "file": "https://acf.international/acf-media/Federal_media_LC5juJV.pdf"
             },
             {
               "name": "Chief editors and management of regional TV channels",
@@ -147,8 +147,8 @@
           "lists": [
             {
               "name": "Ministry of Internal Affairs",
-              "number": 85,
-              "file": "https://acf.international/acf-media/Ministry_of_Internal_Affairs_IDDnA7q.pdf"
+              "number": 95,
+              "file": "https://acf.international/acf-media/Ministry_of_Internal_Affairs_rAQuspX.pdf"
             },
             {
               "name": "Federal Security Services",
@@ -162,13 +162,13 @@
             },
             {
               "name": "Investigative Committee of Russia",
-              "number": 97,
-              "file": "https://acf.international/acf-media/Investigative_Committee_of_Russia_9rFmymn.pdf"
+              "number": 111,
+              "file": "https://acf.international/acf-media/Investigative_Committee_of_Russia_8xko1k4.pdf"
             },
             {
               "name": "Prosecutor’s Office",
-              "number": 108,
-              "file": "https://acf.international/acf-media/Prosecutor_s_Office_ZTNV956.pdf"
+              "number": 116,
+              "file": "https://acf.international/acf-media/Prosecutor_s_Office_Evuu4gR.pdf"
             }
           ]
         },
@@ -202,8 +202,8 @@
           "lists": [
             {
               "name": "Celebrities, influencers and bloggers",
-              "number": 153,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_ecVpD8s.pdf"
+              "number": 154,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_gUWupOM.pdf"
             },
             {
               "name": "Public supporters of Putin",
@@ -222,8 +222,8 @@
             },
             {
               "name": "Artists",
-              "number": 166,
-              "file": "https://acf.international/acf-media/Artists_9gqP8Qg.pdf"
+              "number": 167,
+              "file": "https://acf.international/acf-media/Artists_7ElThxz.pdf"
             },
             {
               "name": "Scholars",
@@ -267,13 +267,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 6718,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_8uNdnz4.pdf"
+              "number": 6763,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_9I8LWjY.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 6718,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_4qUGLjw.csv"
+              "number": 6763,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_lVN0Bw7.csv"
             }
           ]
         },
@@ -354,6 +354,11 @@
               "name": "Changes from 18.11.2022",
               "number": 14,
               "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_lrDMHCj.pdf"
+            },
+            {
+              "name": "Changes from 02.12.2022",
+              "number": 79,
+              "file": "https://acf.international/acf-media/Changes_from_02.12.2022_fstLj9M.pdf"
             }
           ]
         }
