@@ -2,8 +2,8 @@
 import json
 
 localization = dict()
-en_groups = json.load(open('list-of-war-enablers-en.txt'))['props']['pageProps']['villainsList']
-ru_groups = json.load(open('list-of-war-enablers-ru.txt'))['props']['pageProps']['villainsList']
+en_groups = json.load(open('list-of-war-enablers-primary.txt'))['props']['pageProps']['villainsList']
+ru_groups = json.load(open('list-of-war-enablers-secondary.txt'))['props']['pageProps']['villainsList']
 if len(en_groups) != len(ru_groups):
     raise Exception('group count not matches')
 group_count = len(en_groups)

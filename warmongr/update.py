@@ -26,7 +26,7 @@ class Normalizer:
     def __init__(self):
         self.groups = set()
         self.ungroups = dict()
-        for group in json.load(open('list-of-war-enablers-en.txt'))['props']['pageProps']['villainsList']:
+        for group in json.load(open('list-of-war-enablers-primary.txt'))['props']['pageProps']['villainsList']:
             if group['name'] not in {'Full sanctions list', 'List updates'}:
                 self.groups.add(group['name'])
                 for tag in group['lists']:
