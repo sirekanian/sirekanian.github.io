@@ -80,9 +80,6 @@ class Tag:
         return {
             'id': self.id,
             'name': self.name,
-            'shortName': '',
-            'ruName': '',
-            'ruShortName': '',
             'count': self.count,
         }
 

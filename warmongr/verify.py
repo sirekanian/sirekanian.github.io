@@ -28,10 +28,14 @@ class TagSet:
                     print(f'{y1}\t{y2}\t{x}')
 
 
-def main():
+def main(filename):
     tags1 = TagSet()
-    for group in json.load(open('list-of-war-enablers-primary.txt'))['props']['pageProps']['villainsList']:
+    j = json.load(open(filename))
+    lang = j['locale']
+    for group in j['props']['pageProps']['villainsList']:
         if group['name'] in {'Full sanctions list', 'List updates'}:
+            continue
+        if group['name'] in {'Полный санкционный список', 'Обновления списка'}:
             continue
         count = 0
         for doc in group['lists']:
@@ -39,8 +43,9 @@ def main():
         tags1.put(group['name'], count)
     tags2 = TagSet()
     for t in json.load(open('tags.json')):
-        tags2.put(t['name'], t['count'])
+        tags2.put(t[lang + 'Name'], t['count'])
     tags1.compare(tags2)
 
 
-main()
+main('list-of-war-enablers-primary.txt')
+main('list-of-war-enablers-secondary.txt')

@@ -2,32 +2,44 @@
 import json
 
 localization = dict()
-en_groups = json.load(open('list-of-war-enablers-primary.txt'))['props']['pageProps']['villainsList']
-ru_groups = json.load(open('list-of-war-enablers-secondary.txt'))['props']['pageProps']['villainsList']
-if len(en_groups) != len(ru_groups):
+json1 = json.load(open('list-of-war-enablers-primary.txt'))
+json2 = json.load(open('list-of-war-enablers-secondary.txt'))
+groups1 = json1['props']['pageProps']['villainsList']
+groups2 = json2['props']['pageProps']['villainsList']
+if len(groups1) != len(groups2):
     raise Exception('group count not matches')
-group_count = len(en_groups)
+group_count = len(groups1)
 for i in range(0, group_count):
-    localization[en_groups[i]['name']] = ru_groups[i]['name']
-    en_lists = en_groups[i]['lists']
-    ru_lists = ru_groups[i]['lists']
-    if len(en_lists) != len(ru_lists):
-        raise Exception('lists count not matches for ' + en_groups['name'])
-    lists_count = len(en_lists)
+    localization[groups1[i]['name']] = groups2[i]['name']
+    lists1 = groups1[i]['lists']
+    lists2 = groups2[i]['lists']
+    if len(lists1) != len(lists2):
+        raise Exception('lists count not matches for ' + groups1['name'])
+    lists_count = len(lists1)
     for j in range(0, lists_count):
-        localization[en_lists[j]['name']] = ru_lists[j]['name']
+        localization[lists1[j]['name']] = lists2[j]['name']
 
 short_names = json.load(open('shortened.json'))
 
 tags = json.load(open('tags.json'))
+localizedTags = list()
+lang1 = json1['locale']
+lang2 = json2['locale']
 for tag in tags:
-    tag['ruName'] = localization[tag['name']]
-    if tag['name'] not in short_names or not short_names[tag['name']]:
-        print('ERROR: Short name not found: ' + tag['name'])
+    name1 = tag['name']
+    name2 = localization[tag['name']]
+    if name1 not in short_names or not short_names[name1]:
+        print('ERROR: Short name not found: ' + name1)
         exit(1)
-    if tag['ruName'] not in short_names or not short_names[tag['ruName']]:
-        print('ERROR: Short name not found: ' + tag['ruName'])
+    if name2 not in short_names or not short_names[name2]:
+        print('ERROR: Short name not found: ' + name2)
         exit(1)
-    tag['shortName'] = short_names[tag['name']]
-    tag['ruShortName'] = short_names[tag['ruName']]
-json.dump(tags, open('tags.json', 'w'), ensure_ascii=False, indent=2)
+    localizedTags += [{
+        'id': tag['id'],
+        lang1 + 'Name': name1,
+        lang1 + 'ShortName': short_names[name1],
+        lang2 + 'Name': name2,
+        lang2 + 'ShortName': short_names[name2],
+        'count': tag['count'],
+    }]
+json.dump(localizedTags, open('tags.json', 'w'), ensure_ascii=False, indent=2)
