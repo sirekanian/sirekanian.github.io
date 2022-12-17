@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Сотрудники органов исполнительной власти и администрации президента",
-              "number": 490,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_k8SiOWf.pdf"
+              "number": 496,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_wwIfnG7.pdf"
             }
           ]
         },
@@ -87,8 +87,8 @@
             },
             {
               "name": "Совет Федерации",
-              "number": 170,
-              "file": "https://acf.international/acf-media/Federation_Council.pdf"
+              "number": 182,
+              "file": "https://acf.international/acf-media/Federation_Council_KIz9N2X.pdf"
             }
           ]
         },
@@ -152,13 +152,13 @@
             },
             {
               "name": "ФСБ",
-              "number": 79,
-              "file": "https://acf.international/acf-media/Federal_Security_Services.pdf"
+              "number": 88,
+              "file": "https://acf.international/acf-media/Federal_Security_Services_XzyeUNt.pdf"
             },
             {
               "name": "Росгвардия",
-              "number": 90,
-              "file": "https://acf.international/acf-media/National_Guard_of_Russia.pdf"
+              "number": 100,
+              "file": "https://acf.international/acf-media/National_Guard_of_Russia_OiUn2yY.pdf"
             },
             {
               "name": "Следственный комитет",
@@ -267,13 +267,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 6763,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_uFRDVAe.pdf"
+              "number": 6793,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_N29KFUA.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 6763,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_ziAgpL3.csv"
+              "number": 6793,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_WYtj6gh.csv"
             }
           ]
         },
@@ -359,6 +359,11 @@
               "name": "Изменения от 02.12.2022",
               "number": 79,
               "file": "https://acf.international/acf-media/Changes_from_02.12.2022.pdf"
+            },
+            {
+              "name": "Изменения от 16.12.2022",
+              "number": 83,
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_0wplchD.pdf"
             }
           ]
         }

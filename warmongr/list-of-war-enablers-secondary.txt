@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Executive branch and presidential administration employees",
-              "number": 490,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_aatHK26.pdf"
+              "number": 496,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_Sjc2S17.pdf"
             }
           ]
         },
@@ -87,8 +87,8 @@
             },
             {
               "name": "Federation Council",
-              "number": 170,
-              "file": "https://acf.international/acf-media/Federation_Council_wi1ZvNV.pdf"
+              "number": 182,
+              "file": "https://acf.international/acf-media/Federation_Council_GfKvwju.pdf"
             }
           ]
         },
@@ -152,13 +152,13 @@
             },
             {
               "name": "Federal Security Services",
-              "number": 79,
-              "file": "https://acf.international/acf-media/Federal_Security_Services_nbHmsW0.pdf"
+              "number": 88,
+              "file": "https://acf.international/acf-media/Federal_Security_Services_uJetYnf.pdf"
             },
             {
               "name": "National Guard of Russia",
-              "number": 90,
-              "file": "https://acf.international/acf-media/National_Guard_of_Russia_PvwToL2.pdf"
+              "number": 100,
+              "file": "https://acf.international/acf-media/National_Guard_of_Russia_ori61yw.pdf"
             },
             {
               "name": "Investigative Committee of Russia",
@@ -267,13 +267,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 6763,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_9I8LWjY.pdf"
+              "number": 6793,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_yjYd9Zz.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 6763,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_lVN0Bw7.csv"
+              "number": 6793,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_3I6Fyyx.csv"
             }
           ]
         },
@@ -359,6 +359,11 @@
               "name": "Changes from 02.12.2022",
               "number": 79,
               "file": "https://acf.international/acf-media/Changes_from_02.12.2022_fstLj9M.pdf"
+            },
+            {
+              "name": "Changes from 16.12.2022",
+              "number": 83,
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_hN3744X.pdf"
             }
           ]
         }
