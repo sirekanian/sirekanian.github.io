@@ -945,16 +945,6 @@
     ]
   },
   {
-    "0": "Аксенов Сергей Валерьевич",
-    "1": "Aksenov Sergey Valerievich",
-    "2": "1972-11-26",
-    "3": "M",
-    "4": "Member of the General Council, the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
-    "5": [
-      "“United Russia” party Functionaries"
-    ]
-  },
-  {
     "0": "Аксиев Д. Т.",
     "1": "Aksiev D. T.",
     "2": "",
@@ -982,6 +972,16 @@
     "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "Members of Parliament and Senate"
+    ]
+  },
+  {
+    "0": "Аксёнов Сергей Валерьевич",
+    "1": "Aksyonov Sergey Valerievich",
+    "2": "1972-11-26",
+    "3": "M",
+    "4": "Member of the Supreme Council, the Bureau of the Supreme Council and (until December 2022) the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "5": [
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -2382,21 +2382,21 @@
   {
     "0": "Антонов Владимир Николаевич",
     "1": "Antonov Vladimir Nikolaevich",
-    "2": "",
-    "3": "M",
-    "4": "Member of the Management Board of PJSC Aeroflot",
-    "5": [
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
-    "0": "Антонов Владимир Николаевич",
-    "1": "Antonov Vladimir Nikolaevich",
     "2": "1979-12-24",
     "3": "M",
     "4": "Deputy Chairman of the Government of the self-proclaimed Donetsk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
     "5": [
       "War Arrangers"
+    ]
+  },
+  {
+    "0": "Антонов Владимир Николаевич",
+    "1": "Antonov Vladimir Nikolaevich",
+    "2": "",
+    "3": "M",
+    "4": "Member of the Management Board of PJSC Aeroflot",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -2827,7 +2827,7 @@
     "1": "Artyukhov Andrey Viktorovich",
     "2": "1958-04-18",
     "3": "M",
-    "4": "Acting chairman of the Tyumen Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nSecretary of the Tyumen Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Former chairman of the Tyumen Oblast Duma (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nSecretary of the Tyumen regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
       "Key Local Government Officials",
       "“United Russia” party Functionaries"
@@ -7952,6 +7952,16 @@
     ]
   },
   {
+    "0": "Бузова Ольга Игоревна",
+    "1": "Buzova Olga Igorevna",
+    "2": "20.01.1986",
+    "3": "F",
+    "4": "Russian TV presenter, singer, blogger, theater, film and dubbing actress, designer. She took part in a pro-Russian propaganda campaign in the Russian-occupied territories of Ukraine.",
+    "5": [
+      "Sellout opinion leaders"
+    ]
+  },
+  {
     "0": "Буйнов Александр Николаевич",
     "1": "Buynov Alexander Nikolaevich",
     "2": "1950-03-24",
@@ -10546,9 +10556,8 @@
     "1": "Vorobyov Andrey Yurievich",
     "2": "1970-04-14",
     "3": "M",
-    "4": "Member of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
+    "4": "Governor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
     "5": [
-      "“United Russia” party Functionaries",
       "Region Heads",
       "Individuals involved in corruption"
     ]
@@ -10558,8 +10567,9 @@
     "1": "Vorobyov Andrey Yurievich",
     "2": "1970-04-14",
     "3": "M",
-    "4": "Governor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
+    "4": "Member of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
     "5": [
+      "“United Russia” party Functionaries",
       "Region Heads",
       "Individuals involved in corruption"
     ]
@@ -10569,9 +10579,10 @@
     "1": "Vorobyov Nikolai Yurievich",
     "2": "1975-08-15",
     "3": "M",
-    "4": "Chairman of the Tula Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Chairman of the Tula Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nMember of the General Council of the United Russia party, secretary of the Tula regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -18179,7 +18190,7 @@
     "1": "Eltsov Konstantin Yurievich",
     "2": "1965-02-11",
     "3": "M",
-    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Former member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nRelieved of his position no later than December 22, 2022.",
     "5": [
       "“United Russia” party Functionaries"
     ]
@@ -21285,6 +21296,16 @@
     ]
   },
   {
+    "0": "Иванов Александр Тимурович",
+    "1": "Ivanov Alexander Timurovich",
+    "2": "12.12.2003",
+    "3": "M",
+    "4": "Son of Deputy Minister of Defense of the Russian Federation Timur Ivanov. According to a credible public investigation, his father is involved in large-scale corruption in the Ministry of Defense of the Russian Federation and corruption schemes in construction in the Russian-occupied territories of Ukraine. He uses funds obtained through corruption, benefiting from his father's criminal activities in the Russian Ministry of Defense.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
     "0": "Иванов Александр Юрьевич",
     "1": "Ivanov Alexander Yuryevich",
     "2": "1967-09-23",
@@ -21634,9 +21655,20 @@
     "1": "Ivanov Timur Vadimovich",
     "2": "1975-08-15",
     "3": "M",
-    "4": "Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nAccording to credible data from a public investigation, Timur Ivanov is involved in large-scale corruption in the Ministry of Defense of the Russian Federation. He participates in corruption schemes during construction in the territories of Ukraine occupied by Russia.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Иванова (Маниович) Светлана Александровна",
+    "1": "Ivanova (Maniovich) Svetlana Alexandrovna",
+    "2": "19.09.1973",
+    "3": "F",
+    "4": "Wife of the Deputy Minister of Defense of the Russian Federation Timur Ivanov. According to credible public inquiry, her husband is involved in large-scale corruption in the Ministry of Defense of the Russian Federation and is involved in corruption schemes in construction in the Russian-occupied territories of Ukraine. They are currently in a fictitious divorce. She uses funds obtained through corruption, benefiting from her husband's criminal activities in the Russian Ministry of Defense.",
+    "5": [
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -22086,7 +22118,7 @@
     "1": "Ilezov Mikhail Bangirovich",
     "2": "1979-12-25",
     "3": "M",
-    "4": "Secretary of the Ingushetia Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Former secretary of the Ingushetia regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nRelieved of his position no later than December 22, 2022",
     "5": [
       "“United Russia” party Functionaries"
     ]
@@ -22472,6 +22504,16 @@
     "4": "Head of the Investigation Directorate of the Investigative Committee of the Russian Federation for the Komi Republic. Head of the federal state body responsible for criminal prosecution (on the territory under its jurisdiction) of citizens of the Russian Federation who oppose the Russian invasion of Ukraine and the current political regime in the Russia.",
     "5": [
       "Key ‘siloviki’ (security forces) figures"
+    ]
+  },
+  {
+    "0": "Исаев Михаил Александрович",
+    "1": "Isaev Mikhail Alexandrovich",
+    "2": "26.01.1974",
+    "3": "M",
+    "4": "Chairman of the Saratov Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "5": [
+      "Key Local Government Officials"
     ]
   },
   {
@@ -23882,7 +23924,7 @@
     "1": "Karagodin Vladimir Vladimirovich",
     "2": "1980-02-15",
     "3": "M",
-    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Former member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries"
     ]
@@ -24492,6 +24534,16 @@
     "5": [
       "Members of Parliament and Senate",
       "“United Russia” party Functionaries"
+    ]
+  },
+  {
+    "0": "Касьянова Елена Николаевна",
+    "1": "Kasyanova Elena Nikolaevna",
+    "2": "06.03.1960",
+    "3": "F",
+    "4": "Chairman of the Sakhalin Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "5": [
+      "Key Local Government Officials"
     ]
   },
   {
@@ -25454,16 +25506,6 @@
     ]
   },
   {
-    "0": "Киселев Владимир Николаевич",
-    "1": "Kiselev Vladimir Nikolaevich",
-    "2": "1958-08-03",
-    "3": "M",
-    "4": "Secretary of the Vladimir Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
-    "5": [
-      "“United Russia” party Functionaries"
-    ]
-  },
-  {
     "0": "Киселев Дмитрий Константинович",
     "1": "Kiselev Dmitry Konstantinovich",
     "2": "1954-04-26",
@@ -25529,9 +25571,10 @@
     "1": "Kiselev Vladimir Nikolaevich",
     "2": "1958-08-03",
     "3": "M",
-    "4": "Chairman of the Legislative Assembly of the Vladimir Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Chairman of the Legislative Assembly of the Vladimir Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nSecretary of the Vladimir regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -26584,6 +26627,16 @@
       "Top Management of State Owned Companies",
       "“United Russia” party Functionaries",
       "Senior Federal Officials"
+    ]
+  },
+  {
+    "0": "Козлов Александр Михайлович",
+    "1": "Kozlov Alexander Mikhailovich",
+    "2": "04.06.1984",
+    "3": "M",
+    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -33009,7 +33062,7 @@
     "1": "Lidin Valery Kuzmich",
     "2": "1955-05-29",
     "3": "M",
-    "4": "Chairman of the Legislative Assembly of the Penza Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Former chairman of the Legislative Assembly of the Penza Oblast (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Key Local Government Officials"
     ]
@@ -34654,9 +34707,10 @@
     "1": "Mazur Vladimir Vladimirovich",
     "2": "1966-06-19",
     "3": "M",
-    "4": "Acting Governor of the Tomsk Oblst since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Acting Governor of the Tomsk Oblast since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nSecretary of the Tomsk Oblast regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Region Heads"
+      "Region Heads",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -35187,6 +35241,16 @@
     ]
   },
   {
+    "0": "Малышев Артём Иванович",
+    "1": "Malyshev Artyom Ivanovich",
+    "2": "04.09.1985",
+    "3": "M",
+    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "“United Russia” party Functionaries"
+    ]
+  },
+  {
     "0": "Малышев Валерий Васильевич",
     "1": "Malyshev Valery Vasilievich",
     "2": "1952-12-18",
@@ -35506,6 +35570,26 @@
     "4": "Deputy Minister of Culture of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Senior Federal Officials"
+    ]
+  },
+  {
+    "0": "Маниович Александра Михайловна",
+    "1": "Maniovich Alexandra Mikhailovna",
+    "2": "31.03.1998",
+    "3": "F",
+    "4": "Daughter of the Deputy Minister of Defense of the Russian Federation Timur Ivanov. According to a credible public investigation, her father is involved in large-scale corruption in the Ministry of Defense of the Russian Federation and corruption schemes in construction in the Russian-occupied territories of Ukraine. She uses funds obtained through corruption, benefiting from his father's criminal activities in the Russian Ministry of Defense.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Маниович Михаил Михайлович",
+    "1": "Maniovich Mikhail Mikhailovich",
+    "2": "12.08.2003",
+    "3": "M",
+    "4": "Son of Deputy Minister of Defense of the Russian Federation Timur Ivanov. According to a credible public investigation, his father is involved in large-scale corruption in the Ministry of Defense of the Russian Federation and corruption schemes in construction in the Russian-occupied territories of Ukraine. He uses funds obtained through corruption, benefiting from his father's criminal activities in the Russian Ministry of Defense.",
+    "5": [
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -36370,7 +36454,7 @@
     "1": "Machnev Alexey Vasilievich",
     "2": "1959-05-14",
     "3": "M",
-    "4": "Chairman of the Parliament of the Republic of North Ossetia-Alania (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Former chairman of the Parliament of the Republic of North Ossetia-Alania (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Key Local Government Officials"
     ]
@@ -38928,23 +39012,14 @@
     ]
   },
   {
-    "0": "Музалевский Леонид Семенович",
-    "1": "Muzalevsky Leonid Semenovich",
-    "2": "1960-07-24",
-    "3": "M",
-    "4": "Member of the General Council and Secretary of the Oryol Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
-    "5": [
-      "“United Russia” party Functionaries"
-    ]
-  },
-  {
     "0": "Музалевский Леонид Семёнович",
     "1": "Muzalevsky Leonid Semyonovich",
     "2": "1960-07-24",
     "3": "M",
-    "4": "Chairman of the Oryol Regional Council of People's Deputies (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Chairman of the Oryol Regional Council of People's Deputies (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nMember of the General Council and Secretary of the Oryol regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -40402,22 +40477,13 @@
     ]
   },
   {
-    "0": "Нетесов Владимир Иванович",
-    "1": "Netesov Vladimir Ivanovich",
-    "2": "1970-03-07",
-    "3": "M",
-    "4": "Member of the General Council and Secretary of the Voronezh Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
-    "5": [
-      "“United Russia” party Functionaries"
-    ]
-  },
-  {
     "0": "Нетёсов Владимир Иванович",
     "1": "Netyosov Vladimir Ivanovich",
     "2": "1970-03-07",
     "3": "M",
-    "4": "Chairman of the Voronezh Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Member of the General Council and Secretary of the Voronezh regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nChairman of the Voronezh Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
+      "“United Russia” party Functionaries",
       "Key Local Government Officials"
     ]
   },
@@ -41283,9 +41349,10 @@
     "1": "Novikov Jan Valentinovich",
     "2": "1959-10-03",
     "3": "M",
-    "4": "Chairman of the Board, General Director of JSC Concern VKO \"Almaz-Antey\", Member of the Board of Directors of JSC Concern VKO \"Almaz-Antey\"",
+    "4": "Chairman of the Board and General Director of JSC Concern VKO \"Almaz-Antey\", Member of the Board of Directors of JSC Concern VKO \"Almaz-Antey\"\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -44332,6 +44399,16 @@
     ]
   },
   {
+    "0": "Печерский Григорий Борисович",
+    "1": "Pechersky Grigory Borisovich",
+    "2": "",
+    "3": "M",
+    "4": "According to credible data from a public investigation, Grigory Pechersky participates in corrupt real estate redevelopment schemes in Moscow, using the political connections of his business partner Konstantin Ernst to gain illegal preferences.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
     "0": "Пешков Александр Игоревич",
     "1": "Peshkov Alexander Igorevich",
     "2": "1972-10-13",
@@ -44628,22 +44705,22 @@
   {
     "0": "Пискарев Василий Иванович",
     "1": "Piskarev Vasily Ivanovich",
-    "2": "",
-    "3": "M",
-    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
-    "5": [
-      "Organizers of political repressions"
-    ]
-  },
-  {
-    "0": "Пискарев Василий Иванович",
-    "1": "Piskarev Vasily Ivanovich",
     "2": "1963-11-08",
     "3": "M",
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
       "Members of Parliament and Senate"
+    ]
+  },
+  {
+    "0": "Пискарев Василий Иванович",
+    "1": "Piskarev Vasily Ivanovich",
+    "2": "",
+    "3": "M",
+    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
+    "5": [
+      "Organizers of political repressions"
     ]
   },
   {
@@ -48182,6 +48259,16 @@
     ]
   },
   {
+    "0": "Ревякин Дмитрий Александрович",
+    "1": "Revyakin Dmitry Alexandrovich",
+    "2": "13.02.1964",
+    "3": "M",
+    "4": "Russian musician, poet, composer. Creator and leader of the Kalinov Most band. As part of Kalinov Most, he supported the Russian military and the actions of the Russian authorities during the aggression against Ukraine.",
+    "5": [
+      "Sellout opinion leaders"
+    ]
+  },
+  {
     "0": "Регнацкая Надежда Ефимовна",
     "1": "Regnatsky Nadezhda Efimovna",
     "2": "1945-05-07",
@@ -48844,7 +48931,7 @@
     "1": "Romanov Alexander Sergeevich",
     "2": "1953-01-18",
     "3": "M",
-    "4": "Chairman of the Saratov Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Former chairman of the Saratov Oblast Duma (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Key Local Government Officials"
     ]
@@ -50578,6 +50665,16 @@
     ]
   },
   {
+    "0": "Сайфитдинов Фуат Ганеевич",
+    "1": "Saifitdinov Fuat Ganeevich",
+    "2": "06.07.1950",
+    "3": "M",
+    "4": "Chairman of the Tyumen Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "5": [
+      "Key Local Government Officials"
+    ]
+  },
+  {
     "0": "Сакиев Эльбрус Борисович",
     "1": "Sakiev Elbrus Borisovich",
     "2": "",
@@ -51347,6 +51444,16 @@
     "4": "Head of the Directorate of the Ministry of Interior of Russia for the Kurgan Oblast, a federal state body that carries out political persecution in the territory under its jurisdiction against citizens and organizations that oppose Russia's aggressive war against Ukraine and are in opposition to the current political regime in Russia.",
     "5": [
       "Key ‘siloviki’ (security forces) figures"
+    ]
+  },
+  {
+    "0": "Свинцов Андрей Николаевич",
+    "1": "Svintsov Andrey Nikolaevich",
+    "2": "12.11.1978",
+    "3": "M",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "5": [
+      "Members of Parliament and Senate"
     ]
   },
   {
@@ -54083,9 +54190,10 @@
     "1": "Sokolov Alexander Valentinovich",
     "2": "1970-08-04",
     "3": "M",
-    "4": "Acting Governor of the Kirov Oblast since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Acting Governor of the Kirov Oblast since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nSecretary of the Kirov Oblast regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Region Heads"
+      "Region Heads",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -55916,6 +56024,16 @@
     "4": "Editor-in-Chief of the newspaper \"Khabar\" (owned by the Government and Parliament of the Republic of Khakassia)",
     "5": [
       "Propagandists"
+    ]
+  },
+  {
+    "0": "Супиков Вадим Николаевич",
+    "1": "Supikov Vadim Nikolaevich",
+    "2": "01.06.1961",
+    "3": "M",
+    "4": "Chairman of the Legislative Assembly of the Penza Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "5": [
+      "Key Local Government Officials"
     ]
   },
   {
@@ -57884,6 +58002,16 @@
     ]
   },
   {
+    "0": "Ткачёв Александр Николаевич",
+    "1": "Tkachev Alexander Nikolaevich",
+    "2": "23.12.1960",
+    "3": "M",
+    "4": "Russian entrepreneur, state and political figure. In the past, he served as the Minister of Agriculture of Russia and the Governor of the Krasnodar Krai. According to credible data from a journalistic investigation, the Agrocomplex company, owned by Alexander Tkachev, has seized over 1,500 square kilometers of land in the Donbas. Thus, Alexander Tkachev benefited from Russia's illegal aggression against Ukraine.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
     "0": "Ткачёв Антон Олегович",
     "1": "Tkachev Anton Olegovich",
     "2": "1994-03-31",
@@ -58716,7 +58844,7 @@
   },
   {
     "0": "Тукмачев Михаил Александрович",
-    "1": "Tukmachev Mikhail Alexandrovich",
+    "1": "Tukmachov Mikhail Alexandrovich",
     "2": "1973-04-16",
     "3": "M",
     "4": "Russian propagandist: Deputy General Director of REN TV",
@@ -58762,6 +58890,17 @@
     "4": "Editor-in-Chief of the newspaper \"Semerochka\" (owned by the government of Voronezh region)",
     "5": [
       "Propagandists"
+    ]
+  },
+  {
+    "0": "Тумгоев Магомет Умарович",
+    "1": "Tumgoev Magomet Umarovich",
+    "2": "14.08.1957",
+    "3": "M",
+    "4": "Secretary of the Ingushetia regional branch of the United Russia party since February 22, 2022.\nChairman of the People's Assembly of the Republic of Ingushetia (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "5": [
+      "“United Russia” party Functionaries",
+      "Key Local Government Officials"
     ]
   },
   {
@@ -58910,9 +59049,10 @@
     "1": "Tuskayev Taimuraz Ruslanovich",
     "2": "1966-08-22",
     "3": "M",
-    "4": "Rector of the Gorno-Arctic State Agrarian University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
+    "4": "Rector of the Gorsky State Agrarian University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.\nChairman of the Parliament of the Republic of North Ossetia-Alania (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Key Local Government Officials"
     ]
   },
   {
@@ -59123,6 +59263,16 @@
     "4": "Investigator of the 1st department of the 2nd department of the SC SU UMVD of Russia for the Kaliningrad region. Senior Lieutenant of Justice. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Удальцова Анастасия Олеговна",
+    "1": "Udaltsova Anastasia Olegovna",
+    "2": "02.09.1978",
+    "3": "M",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
+    "5": [
+      "Members of Parliament and Senate"
     ]
   },
   {
@@ -60023,6 +60173,16 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
       "Putin’s Public Supporters"
+    ]
+  },
+  {
+    "0": "Федоров Виктор Николаевич",
+    "1": "Fedorov Viktor Nikolaevich",
+    "2": "07.09.1958",
+    "3": "M",
+    "4": "Secretary of the Republic of Saha regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -60943,7 +61103,7 @@
     "1": "Frolov Dmitry Vladimirovich",
     "2": "1979-05-10",
     "3": "M",
-    "4": "Chairman of the Legislative Oblast of the Kurgan Region from the United Russia party, lobbyist for the interests of uranium mining companies\nChairman of the Kurgan Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Chairman of the Kurgan Oblast Duma (head of the regional parliament) from the United Russia party, lobbyist for the interests of uranium mining companies\nChairman of the Kurgan Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Individuals involved in corruption",
       "Key Local Government Officials"
@@ -61181,6 +61341,16 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
       "Putin’s Public Supporters"
+    ]
+  },
+  {
+    "0": "Хабриева Талия Ярулловна",
+    "1": "Khabrieva Taliya Yarullovna",
+    "2": "10.06.1958",
+    "3": "F",
+    "4": "Soviet and Russian legal scholar, specialist in constitutional law. Took an active part in the preparation of the amendments to the Russian Constitution in 2020, which extended the term of office of Vladimir Putin.",
+    "5": [
+      "Sellout opinion leaders"
     ]
   },
   {
@@ -63442,9 +63612,10 @@
     "1": "Cherkesov Leonid Ilyich",
     "2": "1966-08-13",
     "3": "M",
-    "4": "Chairman of the State Council of the Chuvash Republic (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Chairman of the State Council of the Chuvash Republic (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nSecretary of the Chuvash Republic Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -64270,11 +64441,21 @@
     "1": "Chupriyan Alexander Petrovich",
     "2": "1958-03-23",
     "3": "M",
-    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nUntil 25.05.2022 - Acting Minister of Civil Defense, Emergency Situations and the Elimination of the Consequences of Natural Disasters of the Russian Federation. Managed a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nMember of the Board of Directors of JSC GLONASS\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
+    "4": "Former member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nUntil 25.05.2022 - Acting Minister of Civil Defense, Emergency Situations and the Elimination of the Consequences of Natural Disasters of the Russian Federation. Managed a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nMember of the Board of Directors of JSC GLONASS\nMember of the Board of Directors of JSC TOURISM.RF Corporation",
     "5": [
       "“United Russia” party Functionaries",
       "Senior Federal Officials",
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Чупшева Светлана Витальевна",
+    "1": "Chupsheva Svetlana Vitalievna",
+    "2": "17.09.1979",
+    "3": "F",
+    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -68250,7 +68431,7 @@
     "1": "Yandiev Magamet Dzhabrailovich",
     "2": "1959-11-14",
     "3": "M",
-    "4": "Chairman of the People's Assembly of the Republic of Ingushetia (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Former chairman of the People's Assembly of the Republic of Ingushetia (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Key Local Government Officials"
     ]
