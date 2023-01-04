@@ -94,7 +94,10 @@ def main():
         row['1'] = capitalize(row['1'])
         row['5'] = tags.names_to_ids(row['5'])
     json.dump(data, open('data.json', 'w'), ensure_ascii=False, indent=2)
-    json.dump(tags.json(), open('tags.json', 'w'), ensure_ascii=False, indent=2)
+    if len(tags.json()) == 0:
+        raise Exception('empty tags, something went wrong')
+    else:
+        json.dump(tags.json(), open('tags.json', 'w'), ensure_ascii=False, indent=2)
 
 
 main()

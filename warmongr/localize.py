@@ -42,4 +42,7 @@ for tag in tags:
         lang2 + 'ShortName': short_names[name2],
         'count': tag['count'],
     }]
-json.dump(localizedTags, open('tags.json', 'w'), ensure_ascii=False, indent=2)
+if len(localizedTags) == 0:
+    raise Exception('empty localized tags, something went wrong')
+else:
+    json.dump(localizedTags, open('tags.json', 'w'), ensure_ascii=False, indent=2)
