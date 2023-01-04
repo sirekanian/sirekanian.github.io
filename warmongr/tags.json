@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "id": 1,
+    "enName": "Organizers of political repressions",
+    "enShortName": "Organizers of Repressions",
+    "ruName": "Организаторы политических репрессий",
+    "ruShortName": "Организаторы репрессий",
+    "count": 918
+  },
+  {
+    "id": 2,
+    "enName": "Individuals involved in corruption",
+    "enShortName": "Corrupt Officials",
+    "ruName": "Коррупционеры",
+    "ruShortName": "Коррупционеры",
+    "count": 892
+  },
+  {
+    "id": 3,
+    "enName": "Propagandists",
+    "enShortName": "Propagandists",
+    "ruName": "Пропагандисты",
+    "ruShortName": "Пропагандисты",
+    "count": 770
+  },
+  {
+    "id": 4,
+    "enName": "Key Local Government Officials",
+    "enShortName": "Local Officials",
+    "ruName": "Ключевые региональные чиновники",
+    "ruShortName": "Региональные чиновники",
+    "count": 743
+  },
+  {
+    "id": 5,
+    "enName": "Members of Parliament and Senate",
+    "enShortName": "Parliament and Senate",
+    "ruName": "Депутаты и сенаторы",
+    "ruShortName": "Депутаты и сенаторы",
+    "count": 632
+  },
+  {
+    "id": 6,
+    "enName": "Warmongers",
+    "enShortName": "Warmongers",
+    "ruName": "Разжигатели войны",
+    "ruShortName": "Разжигатели войны",
+    "count": 564
+  },
+  {
+    "id": 7,
+    "enName": "Key ‘siloviki’ (security forces) figures",
+    "enShortName": "Siloviki",
+    "ruName": "Ключевые силовики",
+    "ruShortName": "Cиловики",
+    "count": 509
+  },
+  {
+    "id": 8,
+    "enName": "Senior Federal Officials",
+    "enShortName": "Federal Officials",
+    "ruName": "Высшие федеральные чиновники",
+    "ruShortName": "Федеральные чиновники",
+    "count": 496
+  },
+  {
+    "id": 9,
+    "enName": "Putin’s Public Supporters",
+    "enShortName": "Putin’s Supporters",
+    "ruName": "Публичные сторонники Путина",
+    "ruShortName": "Сторонники Путина",
+    "count": 468
+  },
+  {
+    "id": 10,
+    "enName": "Top Management of State Owned Companies",
+    "enShortName": "Top Managers",
+    "ruName": "Руководители госкомпаний",
+    "ruShortName": "Руководители госкомпаний",
+    "count": 439
+  },
+  {
+    "id": 11,
+    "enName": "‘United Russia’ party Functionaries",
+    "enShortName": "United Russia",
+    "ruName": "Функционеры «Единой России»",
+    "ruShortName": "Единая Россия",
+    "count": 323
+  },
+  {
+    "id": 12,
+    "enName": "Sellout opinion leaders",
+    "enShortName": "Influencers",
+    "ruName": "Продажные лидеры общественного мнения",
+    "ruShortName": "Инфлюенсеры",
+    "count": 244
+  },
+  {
+    "id": 13,
+    "enName": "War Arrangers",
+    "enShortName": "War Arrangers",
+    "ruName": "Организаторы войны",
+    "ruShortName": "Организаторы войны",
+    "count": 201
+  },
+  {
+    "id": 14,
+    "enName": "Election fraud organizers",
+    "enShortName": "Election Fraud",
+    "ruName": "Организаторы фальсификаций на выборах",
+    "ruShortName": "Фальсификаторы выборов",
+    "count": 108
+  },
+  {
+    "id": 15,
+    "enName": "Region Heads",
+    "enShortName": "Region Heads",
+    "ruName": "Главы регионов",
+    "ruShortName": "Главы регионов",
+    "count": 91
+  },
+  {
+    "id": 16,
+    "enName": "State Bankers",
+    "enShortName": "Bankers",
+    "ruName": "Государственные банкиры",
+    "ruShortName": "Банкиры",
+    "count": 51
+  }
+]

@@ -3,372 +3,372 @@
     "pageProps": {
       "villainsList": [
         {
-          "name": "Организаторы войны",
+          "name": "War Arrangers",
           "lists": [
             {
-              "name": "Члены Совета Безопасности",
+              "name": "Security council members",
               "number": 30,
-              "file": "https://acf.international/acf-media/Security_council_members_8JxptTX.pdf"
+              "file": "https://acf.international/acf-media/Security_council_members_HMwZayE.pdf"
             },
             {
-              "name": "Военнослужащие и пособники российской оккупации",
+              "name": "Military staff and accomplices of Russian occupation",
               "number": 171,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_bVRDdFf.pdf"
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_WRI0aOZ.pdf"
             }
           ]
         },
         {
-          "name": "Пропагандисты",
+          "name": "Propagandists",
           "lists": [
             {
-              "name": "Сотрудники федеральных медиа",
+              "name": "Federal media",
               "number": 385,
-              "file": "https://acf.international/acf-media/Federal_media_m3G3f75.pdf"
+              "file": "https://acf.international/acf-media/Federal_media_LC5juJV.pdf"
             },
             {
-              "name": "Главные редакторы и руководство региональных телеканалов",
+              "name": "Chief editors and management of regional TV channels",
               "number": 148,
-              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_fnCGcST.pdf"
+              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_ZLRrlRg.pdf"
             },
             {
-              "name": "Региональная пресса",
+              "name": "Regional press",
               "number": 244,
-              "file": "https://acf.international/acf-media/Regional_press.pdf"
+              "file": "https://acf.international/acf-media/Regional_press_vBAyL5A.pdf"
             }
           ]
         },
         {
-          "name": "Коррупционеры",
+          "name": "Individuals involved in corruption",
           "lists": [
             {
-              "name": "Герои расследований",
+              "name": "Investigations subjects",
               "number": 583,
-              "file": "https://acf.international/acf-media/Investigations_subjects_02YhnSC.pdf"
+              "file": "https://acf.international/acf-media/Investigations_subjects_dgnsqPL.pdf"
             },
             {
-              "name": "Герои региональных расследований",
+              "name": "Regional investigations subjects",
               "number": 273,
-              "file": "https://acf.international/acf-media/Regional_investigations_subjects_zZ18IgP.pdf"
+              "file": "https://acf.international/acf-media/Regional_investigations_subjects_i2jZUER.pdf"
             },
             {
-              "name": "Олигархи",
+              "name": "Oligarchs",
               "number": 64,
-              "file": "https://acf.international/acf-media/Oligarchs_v0Vorbj.pdf"
+              "file": "https://acf.international/acf-media/Oligarchs_fbumF6e.pdf"
             }
           ]
         },
         {
-          "name": "Публичные сторонники Путина",
+          "name": "Putin’s Public Supporters",
           "lists": [
             {
-              "name": "Доверенные лица президента на выборах",
+              "name": "Presidential proxies in elections",
               "number": 468,
-              "file": "https://acf.international/acf-media/Presidential_proxies_in_elections_dDlOhCj.pdf"
+              "file": "https://acf.international/acf-media/Presidential_proxies_in_elections_ajx0r3S.pdf"
             }
           ]
         },
         {
-          "name": "Высшие федеральные чиновники",
+          "name": "Senior Federal Officials",
           "lists": [
             {
-              "name": "Сотрудники органов исполнительной власти и администрации президента",
+              "name": "Executive branch and presidential administration employees",
               "number": 496,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_9PPONvm.pdf"
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_b4TWtmh.pdf"
             }
           ]
         },
         {
-          "name": "Депутаты и сенаторы",
+          "name": "Members of Parliament and Senate",
           "lists": [
             {
-              "name": "Государственная Дума",
+              "name": "State Duma",
               "number": 450,
-              "file": "https://acf.international/acf-media/State_Duma_u3ajGiW.pdf"
+              "file": "https://acf.international/acf-media/State_Duma_WThVY1m.pdf"
             },
             {
-              "name": "Совет Федерации",
+              "name": "Federation Council",
               "number": 182,
-              "file": "https://acf.international/acf-media/Federation_Council_KIz9N2X.pdf"
+              "file": "https://acf.international/acf-media/Federation_Council_GfKvwju.pdf"
             }
           ]
         },
         {
-          "name": "Главы регионов",
+          "name": "Region Heads",
           "lists": [
             {
-              "name": "Губернаторы",
+              "name": "Governors",
               "number": 91,
-              "file": "https://acf.international/acf-media/Governors_ycB8nty.pdf"
+              "file": "https://acf.international/acf-media/Governors_zYGujil.pdf"
             }
           ]
         },
         {
-          "name": "Ключевые региональные чиновники",
+          "name": "Key Local Government Officials",
           "lists": [
             {
-              "name": "Вице-губернаторы",
+              "name": "Vice-Governors",
               "number": 652,
-              "file": "https://acf.international/acf-media/Vice-Governors_98sW9SA.pdf"
+              "file": "https://acf.international/acf-media/Vice-Governors_OuLmYOl.pdf"
             },
             {
-              "name": "Спикеры региональных Заксобраний",
+              "name": "Speakers of the regional legislative assemblies",
               "number": 91,
-              "file": "https://acf.international/acf-media/Speakers_of_the_regional_legislative_assemblies_y2V9peB.pdf"
+              "file": "https://acf.international/acf-media/Speakers_of_the_regional_legislative_assemblies_GtthuLE.pdf"
             }
           ]
         },
         {
-          "name": "Государственные банкиры",
+          "name": "State Bankers",
           "lists": [
             {
-              "name": "Сотрудники Центрального банка РФ",
+              "name": "Central Bank employees, board members",
               "number": 19,
-              "file": "https://acf.international/acf-media/Central_Bank_employees_board_members.pdf"
+              "file": "https://acf.international/acf-media/Central_Bank_employees_board_members_82meIE4.pdf"
             },
             {
-              "name": "Члены правления и руководители государственных фондов",
+              "name": "Heads of public funds",
               "number": 32,
-              "file": "https://acf.international/acf-media/Heads_of_public_funds.pdf"
+              "file": "https://acf.international/acf-media/Heads_of_public_funds_xOqboQW.pdf"
             }
           ]
         },
         {
-          "name": "Функционеры «Единой России»",
+          "name": "‘United Russia’ party Functionaries",
           "lists": [
             {
-              "name": "Руководители правящей партии в центре и регионах",
+              "name": "Federal and regional party leaders",
               "number": 323,
-              "file": "https://acf.international/acf-media/Federal_and_regional_party_leaders_Zga0D9p.pdf"
+              "file": "https://acf.international/acf-media/Federal_and_regional_party_leaders_CmSJfYz.pdf"
             }
           ]
         },
         {
-          "name": "Ключевые силовики",
+          "name": "Key ‘siloviki’ (security forces) figures",
           "lists": [
             {
-              "name": "МВД",
+              "name": "Ministry of Internal Affairs",
               "number": 95,
-              "file": "https://acf.international/acf-media/Ministry_of_Internal_Affairs_M9TAPnM.pdf"
+              "file": "https://acf.international/acf-media/Ministry_of_Internal_Affairs_rAQuspX.pdf"
             },
             {
-              "name": "ФСБ",
+              "name": "Federal Security Services",
               "number": 88,
-              "file": "https://acf.international/acf-media/Federal_Security_Services_XzyeUNt.pdf"
+              "file": "https://acf.international/acf-media/Federal_Security_Services_uJetYnf.pdf"
             },
             {
-              "name": "Росгвардия",
+              "name": "National Guard of Russia",
               "number": 100,
-              "file": "https://acf.international/acf-media/National_Guard_of_Russia_OiUn2yY.pdf"
+              "file": "https://acf.international/acf-media/National_Guard_of_Russia_ori61yw.pdf"
             },
             {
-              "name": "Следственный комитет",
+              "name": "Investigative Committee of Russia",
               "number": 111,
-              "file": "https://acf.international/acf-media/Investigative_Committee_of_Russia_cHqEXeA.pdf"
+              "file": "https://acf.international/acf-media/Investigative_Committee_of_Russia_8xko1k4.pdf"
             },
             {
-              "name": "Прокуратура",
+              "name": "Prosecutor’s Office",
               "number": 116,
-              "file": "https://acf.international/acf-media/Prosecutor_s_Office_vLSe2m2.pdf"
+              "file": "https://acf.international/acf-media/Prosecutor_s_Office_Evuu4gR.pdf"
             }
           ]
         },
         {
-          "name": "Организаторы политических репрессий",
+          "name": "Organizers of political repressions",
           "lists": [
             {
-              "name": "Судьи, прокуроры, следователи",
+              "name": "Judges, prosecutors, state investigators",
               "number": 848,
-              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_qXNZLcx.pdf"
+              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_sweRAab.pdf"
             },
             {
-              "name": "Организаторы цензуры в Интернете",
+              "name": "Internet censors",
               "number": 70,
-              "file": "https://acf.international/acf-media/Internet_censors_0PPpYcI.pdf"
+              "file": "https://acf.international/acf-media/Internet_censors_44m3Kd2.pdf"
             }
           ]
         },
         {
-          "name": "Организаторы фальсификаций на выборах",
+          "name": "Election fraud organizers",
           "lists": [
             {
-              "name": "Руководители ЦИК и местных избиркомов",
+              "name": "Heads of the Central Election Commission and local election commissions",
               "number": 108,
-              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_comm.pdf"
+              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_comm_Z7cICRQ.pdf"
             }
           ]
         },
         {
-          "name": "Продажные лидеры общественного мнения",
+          "name": "Sellout opinion leaders",
           "lists": [
             {
-              "name": "Звезды и блогеры",
+              "name": "Celebrities, influencers and bloggers",
               "number": 156,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_HI7Fdy1.pdf"
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_TNwJu38.pdf"
             },
             {
-              "name": "Публичные сторонники Путина",
+              "name": "Public supporters of Putin",
               "number": 88,
-              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_lG6GTVk.pdf"
+              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_XaqWMBI.pdf"
             }
           ]
         },
         {
-          "name": "Разжигатели войны",
+          "name": "Warmongers",
           "lists": [
             {
-              "name": "Деятели образования",
+              "name": "Educators",
               "number": 314,
-              "file": "https://acf.international/acf-media/Educators_bsDepat.pdf"
+              "file": "https://acf.international/acf-media/Educators_lYkiCnc.pdf"
             },
             {
-              "name": "Деятели культуры",
+              "name": "Artists",
               "number": 167,
-              "file": "https://acf.international/acf-media/Artists_0oocqJZ.pdf"
+              "file": "https://acf.international/acf-media/Artists_7ElThxz.pdf"
             },
             {
-              "name": "Ученые",
+              "name": "Scholars",
               "number": 23,
-              "file": "https://acf.international/acf-media/Scholars_wFMeuqo.pdf"
+              "file": "https://acf.international/acf-media/Scholars_qKpm8go.pdf"
             },
             {
-              "name": "Спортсмены",
+              "name": "Athletes",
               "number": 31,
-              "file": "https://acf.international/acf-media/Athletes_UHg9p8x.pdf"
+              "file": "https://acf.international/acf-media/Athletes_2wlvUwN.pdf"
             },
             {
-              "name": "Идеологи войны",
+              "name": "Ideologists of war",
               "number": 32,
-              "file": "https://acf.international/acf-media/Ideologists_of_war_Q5XyDh5.pdf"
+              "file": "https://acf.international/acf-media/Ideologists_of_war_SsgG3hy.pdf"
             }
           ]
         },
         {
-          "name": "Руководители госкомпаний",
+          "name": "Top Management of State Owned Companies",
           "lists": [
             {
-              "name": "Руководители и их замы, члены правлений и советов директоров",
+              "name": "Managers and their deputies, board members and boards of directors",
               "number": 438,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directors_EqNgMSO.pdf"
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directors_NUxWFa1.pdf"
             }
           ]
         },
         {
-          "name": "Списки для приоритетного введения санкций",
+          "name": "Lists for the priority sanctioning",
           "lists": [
             {
-              "name": "Топ - 200 коррупционеров и разжигателей войны (Великобритания)",
+              "name": "Top 200 bribetakers and warmongers (UK)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_0aao52q.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_7OEhWQX.pdf"
             }
           ]
         },
         {
-          "name": "Полный санкционный список",
+          "name": "Full sanctions list",
           "lists": [
             {
-              "name": "Виновники войны, pdf",
+              "name": "Contributors to the war, pdf",
               "number": 6810,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_MloGObo.pdf"
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_IdcppPP.pdf"
             },
             {
-              "name": "Виновники войны, csv",
+              "name": "Contributors to the war, csv",
               "number": 6810,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_2rWmdC9.csv"
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_QoALB9w.csv"
             }
           ]
         },
         {
-          "name": "Обновления списка",
+          "name": "List updates",
           "lists": [
             {
-              "name": "Изменения от 06.05.2022",
+              "name": "Changes from 06.05.2022",
               "number": 55,
-              "file": "https://acf.international/acf-media/List_updates_Changes_from_06.05.2022_1.pdf"
+              "file": "https://acf.international/acf-media/List_updates_Changes_from_06.05.2022_1_XK74g0U.pdf"
             },
             {
-              "name": "Изменения от 20.05.2022",
+              "name": "Changes from 20.05.2022",
               "number": 166,
-              "file": "https://acf.international/acf-media/List_updates_Changes_from_20.05.2022.pdf"
+              "file": "https://acf.international/acf-media/List_updates_Changes_from_20.05.2022_g9x6pPh.pdf"
             },
             {
-              "name": "Изменения от 03.06.2022",
+              "name": "Changes from 03.06.2022",
               "number": 47,
-              "file": "https://acf.international/acf-media/List_updates_Changes_from_03.06.2022_0pam0tz.pdf"
+              "file": "https://acf.international/acf-media/List_updates_Changes_from_03.06.2022_BFj0enZ.pdf"
             },
             {
-              "name": "Изменения от 17.06.2022",
+              "name": "Changes from 17.06.2022",
               "number": 62,
-              "file": "https://acf.international/acf-media/Changes_from_17.06.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_17.06.2022_pebXFn6.pdf"
             },
             {
-              "name": "Изменения от 01.07.2022",
+              "name": "Changes from 01.07.2022",
               "number": 113,
-              "file": "https://acf.international/acf-media/01.07.2022.pdf"
+              "file": "https://acf.international/acf-media/01.07.2022_elyXuds.pdf"
             },
             {
-              "name": "Изменения от 15.07.2022",
+              "name": "Changes from 15.07.2022",
               "number": 49,
-              "file": "https://acf.international/acf-media/Changes_from_15.07.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_15.07.2022_EJl77wA.pdf"
             },
             {
-              "name": "Изменения от 29.07.2022",
+              "name": "Changes from 29.07.2022",
               "number": 73,
-              "file": "https://acf.international/acf-media/Changes_from_29.07.2022_YjKGkFm.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_29.07.2022_dGKEIyU.pdf"
             },
             {
-              "name": "Изменения от 12.08.2022",
+              "name": "Changes from 12.08.2022",
               "number": 77,
-              "file": "https://acf.international/acf-media/Changes_from_12.08.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_12.08.2022_85s68zE.pdf"
             },
             {
-              "name": "Изменения от 26.08.2022",
+              "name": "Changes from 26.08.2022",
               "number": 129,
-              "file": "https://acf.international/acf-media/Changes_from_26.08.2022_3.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_26.08.2022_3_jrA7lTa.pdf"
             },
             {
-              "name": "Изменения от 09.09.2022",
+              "name": "Changes from 09.09.2022",
               "number": 63,
-              "file": "https://acf.international/acf-media/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B8_%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BA_6000_xlsx_09_09_2022.pdf"
+              "file": "https://acf.international/acf-media/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B8_%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BA_6000_xlsx_09_09_2022_I7F9jX5.pdf"
             },
             {
-              "name": "Изменения от 23.09.2022",
+              "name": "Changes from 23.09.2022",
               "number": 24,
-              "file": "https://acf.international/acf-media/Changes_from_23.09.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_23.09.2022_5td2yX3.pdf"
             },
             {
-              "name": "Изменения от 07.10.2022",
+              "name": "Changes from 07.10.2022",
               "number": 9,
-              "file": "https://acf.international/acf-media/Changes_from_07.10.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_07.10.2022_QSef8f9.pdf"
             },
             {
-              "name": "Изменения от 21.10.2022",
+              "name": "Changes from 21.10.2022",
               "number": 15,
-              "file": "https://acf.international/acf-media/Changes_from_21.10.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_21.10.2022_lMic2s1.pdf"
             },
             {
-              "name": "Изменения от 04.11.2022",
+              "name": "Changes from 04.11.2022",
               "number": 16,
-              "file": "https://acf.international/acf-media/Changes_from_04.11.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_04.11.2022_refrV2Z.pdf"
             },
             {
-              "name": "Изменения от 18.11.2022",
+              "name": "Changes from 18.11.2022",
               "number": 14,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8.pdf"
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_lrDMHCj.pdf"
             },
             {
-              "name": "Изменения от 02.12.2022",
+              "name": "Changes from 02.12.2022",
               "number": 79,
-              "file": "https://acf.international/acf-media/Changes_from_02.12.2022.pdf"
+              "file": "https://acf.international/acf-media/Changes_from_02.12.2022_fstLj9M.pdf"
             },
             {
-              "name": "Изменения от 16.12.2022",
+              "name": "Changes from 16.12.2022",
               "number": 83,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_0wplchD.pdf"
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_hN3744X.pdf"
             },
             {
-              "name": "Изменения от 30.12.2022",
+              "name": "Changes from 30.12.2022",
               "number": 41,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_30.12.2022.pdf"
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_30.12.2022_v4ZOOV9.pdf"
             }
           ]
         }
@@ -382,7 +382,7 @@
   "isFallback": false,
   "gsp": true,
   "customServer": true,
-  "locale": "ru",
+  "locale": "en",
   "locales": [
     "en",
     "ru"
