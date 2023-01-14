@@ -8,12 +8,12 @@
             {
               "name": "Security council members",
               "number": 30,
-              "file": "https://acf.international/acf-media/Security_council_members_HMwZayE.pdf"
+              "file": "https://acf.international/acf-media/Security_council_members_N8YTja9.pdf"
             },
             {
               "name": "Military staff and accomplices of Russian occupation",
-              "number": 171,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_WRI0aOZ.pdf"
+              "number": 176,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_dpFGUPG.pdf"
             }
           ]
         },
@@ -23,7 +23,7 @@
             {
               "name": "Federal media",
               "number": 385,
-              "file": "https://acf.international/acf-media/Federal_media_LC5juJV.pdf"
+              "file": "https://acf.international/acf-media/Federal_media_zxUvd24.pdf"
             },
             {
               "name": "Chief editors and management of regional TV channels",
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 583,
-              "file": "https://acf.international/acf-media/Investigations_subjects_dgnsqPL.pdf"
+              "number": 591,
+              "file": "https://acf.international/acf-media/Investigations_subjects_f8VFb6m.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -73,7 +73,7 @@
             {
               "name": "Executive branch and presidential administration employees",
               "number": 496,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_b4TWtmh.pdf"
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_3iROJgi.pdf"
             }
           ]
         },
@@ -97,8 +97,8 @@
           "lists": [
             {
               "name": "Governors",
-              "number": 91,
-              "file": "https://acf.international/acf-media/Governors_zYGujil.pdf"
+              "number": 89,
+              "file": "https://acf.international/acf-media/Governors_6lYjMDg.pdf"
             }
           ]
         },
@@ -108,7 +108,7 @@
             {
               "name": "Vice-Governors",
               "number": 652,
-              "file": "https://acf.international/acf-media/Vice-Governors_OuLmYOl.pdf"
+              "file": "https://acf.international/acf-media/Vice-Governors_yHSwXIq.pdf"
             },
             {
               "name": "Speakers of the regional legislative assemblies",
@@ -202,13 +202,13 @@
           "lists": [
             {
               "name": "Celebrities, influencers and bloggers",
-              "number": 156,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_TNwJu38.pdf"
+              "number": 157,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_TdrdpyA.pdf"
             },
             {
               "name": "Public supporters of Putin",
-              "number": 88,
-              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_XaqWMBI.pdf"
+              "number": 92,
+              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_ozoESLC.pdf"
             }
           ]
         },
@@ -247,8 +247,8 @@
           "lists": [
             {
               "name": "Managers and their deputies, board members and boards of directors",
-              "number": 438,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directors_NUxWFa1.pdf"
+              "number": 439,
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_srxhPev.pdf"
             }
           ]
         },
@@ -267,13 +267,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 6810,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_IdcppPP.pdf"
+              "number": 6823,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_zRLyanb.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 6810,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_QoALB9w.csv"
+              "number": 6823,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_Lvp70Gc.csv"
             }
           ]
         },
@@ -369,6 +369,11 @@
               "name": "Changes from 30.12.2022",
               "number": 41,
               "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_30.12.2022_v4ZOOV9.pdf"
+            },
+            {
+              "name": "Charges from 13.01.2023",
+              "number": 21,
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_13.01.2023_XaLEqFV.pdf"
             }
           ]
         }

@@ -976,22 +976,13 @@
   },
   {
     "0": "Аксёнов Сергей Валерьевич",
-    "1": "Aksyonov Sergey Valerievich",
-    "2": "1972-11-26",
-    "3": "M",
-    "4": "Member of the Supreme Council, the Bureau of the Supreme Council and (until December 2022) the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
-    "5": [
-      11
-    ]
-  },
-  {
-    "0": "Аксёнов Сергей Валерьевич",
     "1": "Aksyonov Sergey Valeryevich",
     "2": "1972-11-26",
     "3": "M",
-    "4": "Head of the Republic of Crimea. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Head of the Republic of Crimea. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nMember of the Supreme Council, the Bureau of the Supreme Council and (until December 2022) the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
-      15
+      11,
+      13
     ]
   },
   {
@@ -2059,6 +2050,16 @@
     ]
   },
   {
+    "0": "Андросов Кирилл Геннадьевич",
+    "1": "Androsov Kirill Gennadievich",
+    "2": "13.07.1972",
+    "3": "M",
+    "4": "Russian entrepreneur, investor, top manager. According to credible data from a journalistic investigation, as a confidant of German Gref, the President and Chairman of the Board of PJSC Sberbank of Russia, Kirill Androsov participates in corruption schemes created by Gref in order to acquire and conceal property of illegal origin.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Андрюшин Александр Александрович",
     "1": "Andriushin Aleksandr Aleksandrovich",
     "2": "1982-03-06",
@@ -2382,21 +2383,21 @@
   {
     "0": "Антонов Владимир Николаевич",
     "1": "Antonov Vladimir Nikolaevich",
-    "2": "1979-12-24",
-    "3": "M",
-    "4": "Deputy Chairman of the Government of the self-proclaimed Donetsk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
-    "5": [
-      13
-    ]
-  },
-  {
-    "0": "Антонов Владимир Николаевич",
-    "1": "Antonov Vladimir Nikolaevich",
     "2": "",
     "3": "M",
     "4": "Member of the Management Board of PJSC Aeroflot",
     "5": [
       10
+    ]
+  },
+  {
+    "0": "Антонов Владимир Николаевич",
+    "1": "Antonov Vladimir Nikolaevich",
+    "2": "1979-12-24",
+    "3": "M",
+    "4": "Deputy Chairman of the Government of the self-proclaimed Donetsk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "5": [
+      13
     ]
   },
   {
@@ -4072,6 +4073,16 @@
     ]
   },
   {
+    "0": "Балицкий Евгений Витальевич",
+    "1": "Balitsky Evgeny Vitalievich",
+    "2": "10.12.1969",
+    "3": "M",
+    "4": "Acting Governor of the Russian-occupied part of Zaporizhzhia Oblast. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "5": [
+      13
+    ]
+  },
+  {
     "0": "Балуев Александр Николаевич",
     "1": "Baluev Alexander Nikolaevich",
     "2": "1958-12-06",
@@ -5579,9 +5590,9 @@
   {
     "0": "Бердников Роман Борисович",
     "1": "Berdnikov Roman Borisovich",
-    "2": "1974-08-31",
+    "2": "31.08.1974",
     "3": "M",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 29th Combined Arms Army (Eastern Military District). Commander of the Western Military District since 03.10.2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 29th Combined Arms Army (Eastern Military District). Commander of the Western Military District from from September 28 to December 13, 2022. Held a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Headed large divisions of the Russian armed forces.",
     "5": [
       13
     ]
@@ -10556,17 +10567,6 @@
     "1": "Vorobyov Andrey Yurievich",
     "2": "1970-04-14",
     "3": "M",
-    "4": "Governor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
-    "5": [
-      2,
-      15
-    ]
-  },
-  {
-    "0": "Воробьёв Андрей Юрьевич",
-    "1": "Vorobyov Andrey Yurievich",
-    "2": "1970-04-14",
-    "3": "M",
     "4": "Member of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
     "5": [
       2,
@@ -12040,7 +12040,7 @@
     "1": "Gerasimov Valery Vasilievich",
     "2": "1955-09-08",
     "3": "M",
-    "4": "Head of the General Staff of the Armed Forces of the Russian Federation - First Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\nHead of the General Staff of the Armed Forces of the Russian Federation - First Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nSince January 11, 2023, concurrently with the position of Chief of the General Staff of Russia, he holds the position of Commander of the joint grouping of Russian invasion forces in Ukraine.",
     "5": [
       8,
       13
@@ -13802,6 +13802,17 @@
     ]
   },
   {
+    "0": "Горшенин Олег Владимирович",
+    "1": "Gorshenin Oleg Vladimirovich",
+    "2": "08.07.1978",
+    "3": "M",
+    "4": "Russian military official. Head of the National Defense Control Center of the Russian Federation. On December 20, 2022, Mikhail Gorshenin was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.\nRussian military official. Head of the National Defense Control Center of the Russian Federation. In his position, he participates in strengthening the combat capability of the Russian army during the invasion of Ukraine.",
+    "5": [
+      12,
+      13
+    ]
+  },
+  {
     "0": "Горшков Михаил Анатольевич",
     "1": "Gorshkov Mikhail Anatolievich",
     "2": "",
@@ -14080,6 +14091,37 @@
     "4": "Plenipotentiary Representative of the Republic of Bashkortostan under the President of the Russian Federation - Deputy Prime Minister of the Government of the Republic of Bashkortostan. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       4
+    ]
+  },
+  {
+    "0": "Греф Герман Оскарович",
+    "1": "Gref German Oskarovich",
+    "2": "08.02.1964",
+    "3": "M",
+    "4": "Russian statesman and banker. President and Chairman of the Board of PJSC Sberbank of Russia since November 28, 2007. According to credible data from a journalistic investigation, he is involved in corruption schemes and owns a network of offshore companies through figureheads designed to hide his property of illegal origin.\nPresident and Chairman of the Board of PJSC Sberbank of Russia. He heads the largest banking organization in Russia, which is of systemic importance for the country's financial sector. Sberbank of Russia actively supports the actions of the Russian authorities and receives state support.",
+    "5": [
+      2,
+      10
+    ]
+  },
+  {
+    "0": "Греф Олег Германович",
+    "1": "Gref Oleg Germanovich",
+    "2": "20.03.1982",
+    "3": "M",
+    "4": "The son of German Gref, a Russian statesman and banking figure, chairman of the board of PJSC Sberbank of Russia. Involved in his father's corruption schemes, which are aimed at acquiring and concealing property of illegal origin.",
+    "5": [
+      2
+    ]
+  },
+  {
+    "0": "Греф Оскар Евгеньевич",
+    "1": "Gref Oskar Evgenievich",
+    "2": "22.07.1994",
+    "3": "M",
+    "4": "The nephew of German Gref, a Russian statesman and banking figure, chairman of the board of PJSC Sberbank of Russia. Involved in his uncle's corruption schemes, which are aimed at acquiring and concealing property of illegal origin.",
+    "5": [
+      2
     ]
   },
   {
@@ -18157,9 +18199,9 @@
   {
     "0": "Елисеев Сергей Владимирович",
     "1": "Eliseev Sergey Vladimirovich",
-    "2": "1971-05-05",
+    "2": "05.05.1971",
     "3": "M",
-    "4": "Appointed by the pro-Russian authorities as the head of the government of the Kherson region\nFirst Deputy Chairman of the Government Kaliningrad Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Former Head of Government of the Kherson Oblast Military-Civilian Administration - the governing body of the Kherson Oblast under Russian occupation. Relieved of his position on November 25, 2022. Acting Head of the Kherson Oblast Military-Civilian Administration from August 4 to September 12, 2022.\nFirst Deputy Chairman of the Government of the Kaliningrad Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       4,
       15
@@ -20197,6 +20239,16 @@
     ]
   },
   {
+    "0": "Захаренко Александр Николаевич",
+    "1": "Zakharenko Alexander Nikolaevich",
+    "2": "03.03.1979",
+    "3": "M",
+    "4": "Department director at the State Corporation \"Roscosmos\". On December 20, 2022, Alexander Zakharenko was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.",
+    "5": [
+      12
+    ]
+  },
+  {
     "0": "Захарихин Сергей Борисович",
     "1": "Zakharikhin Sergey Borisovich",
     "2": "1962-05-13",
@@ -20377,6 +20429,17 @@
     "4": "Director, \"STATE TELEVISION AND RADIO BROADCASTING COMPANY \"LOTOS\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       3
+    ]
+  },
+  {
+    "0": "Звинчук Михаил Сергеевич",
+    "1": "Zvinchuk Mikhail Sergeevich",
+    "2": "19.07.1991",
+    "3": "M",
+    "4": "Russian propagandist and warmonger, creator of the Rybar telegram channel, which has over a million subscribers. Actively supports the Russian invasion of Ukraine.\nRussian propagandist and warmonger, creator of the Rybar telegram channel, which has over a million subscribers. On December 20, 2022, Mikhail Zvinchuk was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.",
+    "5": [
+      3,
+      12
     ]
   },
   {
@@ -25232,6 +25295,16 @@
     ]
   },
   {
+    "0": "Киндт Филипп",
+    "1": "Kindt Philip",
+    "2": "",
+    "3": "M",
+    "4": "Top manager, a citizen of Germany and Switzerland, a close acquaintance of the President and Chairman of the Board of Sberbank of Russia PJSC German Gref. According to credible data from a journalistic investigation, as a confidant Gref, Philip Kindt participates in corruption schemes created by him in order to acquire and conceal property of illegal origin.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Кипкеев Борис Геннадьевич",
     "1": "Kipkeyev (Kipkeev) Boris Gennadyevich (Gennadievich)",
     "2": "1969-02-07",
@@ -26992,6 +27065,16 @@
     ]
   },
   {
+    "0": "Колмаков Александр Петрович",
+    "1": "Kolmakov Alexander Petrovich",
+    "2": "31.07.1955",
+    "3": "M",
+    "4": "Chairman of the Volunteer Society for Cooperation with the Army, Aviation, and Navy of Russia (DOSAAF of Russia). On December 20, 2022, Alexander Kolmakov was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.",
+    "5": [
+      12
+    ]
+  },
+  {
     "0": "Колмакова Виктория Викторовна",
     "1": "Kolmakova Victoria Viktorovna",
     "2": "1969-03-28",
@@ -28297,6 +28380,16 @@
     "4": "Russian propagandist: editor-in-chief of Izvestiya newspaper",
     "5": [
       3
+    ]
+  },
+  {
+    "0": "Короткевич Евгения Сергеевна",
+    "1": "Korotkevich Evgenia Sergeevna",
+    "2": "09.07.1990",
+    "3": "F",
+    "4": "Russian actress and singer. Publicly supports the occupation of the territory of Ukraine by Russia, as well the actions of the Russian authorities during the aggressive war against Ukraine.",
+    "5": [
+      12
     ]
   },
   {
@@ -30595,6 +30688,16 @@
     ]
   },
   {
+    "0": "Кузовлёв Сергей Юрьевич",
+    "1": "Kuzovlyov Sergey Yurievich",
+    "2": "07.01.1967",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Western Military District since December 13, 2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      13
+    ]
+  },
+  {
     "0": "Кузьбожева Мария Вячеславовна",
     "1": "Kuzbozheva Maria Vyacheslavovna",
     "2": "1953-07-13",
@@ -32047,7 +32150,7 @@
     "1": "Lapin Alexander Pavlovich",
     "2": "01.01.1964",
     "3": "M",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Former commander of the Central Military District. Held a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Headed large divisions of the Russian armed forces.\nCommanded the Russian grouping of troops Center (Tsentr) during the aggression against Ukraine. Relieved of his duty on November 03, 2022.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Former commander of the Central Military District. Held a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Headed large divisions of the Russian armed forces.\nCommanded the Russian grouping of troops Center (Tsentr) during the aggression against Ukraine. Relieved of his duty on November 03, 2022.\nAppointed to the post of Chief of the Main Staff of the Ground Forces of the Russian Armed Forces on January 10, 2023.",
     "5": [
       13
     ]
@@ -34166,21 +34269,11 @@
     ]
   },
   {
-    "0": "Лурье Олег Анато́Льевич",
-    "1": "Lurie (Lurye) Oleg Anatolyevich (Anatolievich)",
-    "2": "1963-05-03",
-    "3": "M",
-    "4": "Russian propagandist: Journalist, one of the founders of \"Versiya\" newspaper; invited guest and expert on program of Vladimir Solovyov on Vesti FM radio and TV programs on Channel One, Rossiya-1, Rossiya-24, RenTV, NTV, TVC, Stars, Tsardgad",
-    "5": [
-      3
-    ]
-  },
-  {
     "0": "Лурье Олег Анатольевич",
     "1": "Lurie Oleg Anatolievich",
     "2": "1963-05-03",
     "3": "M",
-    "4": "Russian propagandist engaged in information support for the authoritarian regime of Vladimir Putin and the war in Ukraine.",
+    "4": "Russian propagandist: journalist, one of the founders of \"Versiya\" newspaper; invited guest and expert on program of Vladimir Solovyov on Vesti FM radio and TV programs on Channel One, Rossiya-1, Rossiya-24, RenTV, NTV, TVC, Stars, Tsardgad. Engaged in information support for the authoritarian regime of Vladimir Putin and the war in Ukraine.",
     "5": [
       3
     ]
@@ -41366,6 +41459,16 @@
     ]
   },
   {
+    "0": "Новицкий Евгений Григорьевич",
+    "1": "Novitsky Evgeny Grigorievich",
+    "2": "19.11.1957",
+    "3": "M",
+    "4": "Russian entrepreneur and top manager. According to credible data from a journalistic investigation, as a confidant of German Gref, the President and Chairman of the Board of PJSC Sberbank of Russia, Evgeny Novitsky participates in corruption schemes created by Gref in order to acquire and conceal property of illegal origin.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Новичков Николай Владимирович",
     "1": "Novichkov Nikolay Vladimirovich",
     "2": "1974-12-24",
@@ -44705,22 +44808,22 @@
   {
     "0": "Пискарев Василий Иванович",
     "1": "Piskarev Vasily Ivanovich",
+    "2": "",
+    "3": "M",
+    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
+    "5": [
+      1
+    ]
+  },
+  {
+    "0": "Пискарев Василий Иванович",
+    "1": "Piskarev Vasily Ivanovich",
     "2": "1963-11-08",
     "3": "M",
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       5,
       11
-    ]
-  },
-  {
-    "0": "Пискарев Василий Иванович",
-    "1": "Piskarev Vasily Ivanovich",
-    "2": "",
-    "3": "M",
-    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
-    "5": [
-      1
     ]
   },
   {
@@ -47859,7 +47962,7 @@
     "4": "Member of the General Council and Secretary of the Sevastopol Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nGovernor of Sevastopol. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       11,
-      15
+      13
     ]
   },
   {
@@ -54076,12 +54179,13 @@
     "1": "Sobyanin Sergey Semenovich",
     "2": "1958-06-21",
     "3": "M",
-    "4": "Mayor of Moscow, and the primary executor of Russian government policy in the capital, including vote rigging and facilitating criminal activity through corrupt municipal projects. Member of the Security Council which approved the full-scale invasion of Ukraine.\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\nAs the Mayor of the City of Moscow, Sobyanin signed a law on an experiment to introduce electronic voting in the city of Moscow. Organizer of the falsification of the voting results to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
+    "4": "Mayor of Moscow, and the primary executor of Russian government policy in the capital, including vote rigging and facilitating criminal activity through corrupt municipal projects. Member of the Security Council which approved the full-scale invasion of Ukraine.\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\nAs the Mayor of the City of Moscow, Sobyanin signed a law on an experiment to introduce electronic voting in the city of Moscow. Organizer of the falsification of the voting results to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.\nMayor of the City of Moscow. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       2,
       11,
       13,
-      14
+      14,
+      15
     ]
   },
   {
@@ -56111,7 +56215,7 @@
     "1": "Surovikin Sergey Vladimirovich",
     "2": "1966-10-11",
     "3": "M",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander-in-Chief of the Navy. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nCommands the Russian grouping of troops South (Yug) during the aggression against Ukraine.\nCommands the Russian grouping of troops South (Yug) during the military aggression against Ukraine.\nOn October 8, 2022, Surovikin was appointed commander of the joint grouping of Russian invasion forces in Ukraine.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Aerospace Forces. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nCommands the Russian grouping of troops South (Yug) during the aggression against Ukraine.\nCommands the Russian grouping of troops South (Yug) during the military aggression against Ukraine.\nCommander of the joint grouping of Russian invasion forces in Ukraine from October 8, 2022 to January 11, 2023.\nSince January 11, 2023 - Deputy Commander of the joint grouping of Russian invasion forces in Ukraine.",
     "5": [
       13
     ]
@@ -60807,6 +60911,16 @@
     ]
   },
   {
+    "0": "Фомин Александр Григорьевич",
+    "1": "Fomin Alexander Grigorievich",
+    "2": "03.09.1979",
+    "3": "M",
+    "4": "Founder of LLC Olimpstroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Фомин Александр Станиславович",
     "1": "Fomin Alexander Stanislavovich",
     "2": "",
@@ -61364,6 +61478,16 @@
     ]
   },
   {
+    "0": "Хавронин Дмитрий Александрович",
+    "1": "Khavronin Dmitry Alexandrovich",
+    "2": "30.11.1976",
+    "3": "M",
+    "4": "Founder of LLC Olimpstroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
+    "5": [
+      2
+    ]
+  },
+  {
     "0": "Хадиков Казбек Азаматович",
     "1": "Khadikov Kazbek Azamatovich",
     "2": "1984-01-12",
@@ -61867,6 +61991,16 @@
     "4": "Deputy Chairman of the Management Board of JSC Gazprombank",
     "5": [
       10
+    ]
+  },
+  {
+    "0": "Хачатурянц Ашот Рафаилович",
+    "1": "Khachaturyants Ashot Rafailovich",
+    "2": "25.05.1968",
+    "3": "M",
+    "4": "Russian top manager. According to credible data from a journalistic investigation, as a confidant of German Gref, the President and Chairman of the Board of PJSC Sberbank of Russia, Ashot Khachaturyants participates in corruption schemes created by Gref in order to acquire and conceal property of illegal origin.",
+    "5": [
+      2
     ]
   },
   {

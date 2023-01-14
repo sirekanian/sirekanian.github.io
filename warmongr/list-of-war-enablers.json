@@ -238,7 +238,8 @@
     "5": [
       "Individuals involved in corruption",
       "Senior Federal Officials",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -881,7 +882,8 @@
     "4": "Member of the Board of Directors of OJSC Russian Post\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -976,22 +978,13 @@
   },
   {
     "0": "Аксёнов Сергей Валерьевич",
-    "1": "Aksyonov Sergey Valerievich",
-    "2": "1972-11-26",
-    "3": "M",
-    "4": "Member of the Supreme Council, the Bureau of the Supreme Council and (until December 2022) the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
-    "5": [
-      "“United Russia” party Functionaries"
-    ]
-  },
-  {
-    "0": "Аксёнов Сергей Валерьевич",
     "1": "Aksyonov Sergey Valeryevich",
     "2": "1972-11-26",
     "3": "M",
-    "4": "Head of the Republic of Crimea. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Head of the Republic of Crimea. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nMember of the Supreme Council, the Bureau of the Supreme Council and (until December 2022) the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
-      "Region Heads"
+      "War Arrangers",
+      "“United Russia” party Functionaries"
     ]
   },
   {
@@ -1243,7 +1236,8 @@
     "3": "M",
     "4": "General Director of PJSC Aeroflot",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -1484,7 +1478,8 @@
     "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Kaliningrad Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -1574,7 +1569,8 @@
     "3": "M",
     "4": "Metallurgical magnate, one of the initiators of the construction of a church in place of a park in Yekaterinburg, which caused mass discontent, rallies and criminal cases\nRussian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -1735,7 +1731,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Regulation of the Alcohol Market of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -1995,7 +1992,8 @@
     "3": "F",
     "4": "Russian propagandist: TV presenter, anchor of information program Vremya (Time) on Channel One",
     "5": [
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -2056,6 +2054,16 @@
     "4": "Vice President of PJSC Transneft, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
     "5": [
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Андросов Кирилл Геннадьевич",
+    "1": "Androsov Kirill Gennadievich",
+    "2": "13.07.1972",
+    "3": "M",
+    "4": "Russian entrepreneur, investor, top manager. According to credible data from a journalistic investigation, as a confidant of German Gref, the President and Chairman of the Board of PJSC Sberbank of Russia, Kirill Androsov participates in corruption schemes created by Gref in order to acquire and conceal property of illegal origin.",
+    "5": [
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -2382,21 +2390,21 @@
   {
     "0": "Антонов Владимир Николаевич",
     "1": "Antonov Vladimir Nikolaevich",
-    "2": "1979-12-24",
-    "3": "M",
-    "4": "Deputy Chairman of the Government of the self-proclaimed Donetsk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
-    "5": [
-      "War Arrangers"
-    ]
-  },
-  {
-    "0": "Антонов Владимир Николаевич",
-    "1": "Antonov Vladimir Nikolaevich",
     "2": "",
     "3": "M",
     "4": "Member of the Management Board of PJSC Aeroflot",
     "5": [
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Антонов Владимир Николаевич",
+    "1": "Antonov Vladimir Nikolaevich",
+    "2": "1979-12-24",
+    "3": "M",
+    "4": "Deputy Chairman of the Government of the self-proclaimed Donetsk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -2716,7 +2724,8 @@
     "3": "M",
     "4": "Director of the Federal Bailiff Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -2809,7 +2818,8 @@
     "3": "M",
     "4": "Head of the Federal Archival Agency of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -2819,7 +2829,8 @@
     "3": "M",
     "4": "Head of the Federal Treasury of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -2973,7 +2984,8 @@
     "3": "M",
     "4": "Chairman of the People's Assembly of the Republic of Dagestan (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -3045,7 +3057,8 @@
     "3": "M",
     "4": "Russian statesman, lawyer, TV presenter, writer. Publicly supported Russia's aggression against Ukraine, actively disseminated information justifying waging a war of aggression",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -3618,7 +3631,8 @@
     "4": "Chairman of the Legislative Assembly of the Sverdlovsk Oblast from the United Russia party. Privatized state property at cut prices\nChairman of the Legislative Assembly of the Sverdlovsk Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Individuals involved in corruption",
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -4072,6 +4086,16 @@
     ]
   },
   {
+    "0": "Балицкий Евгений Витальевич",
+    "1": "Balitsky Evgeny Vitalievich",
+    "2": "10.12.1969",
+    "3": "M",
+    "4": "Acting Governor of the Russian-occupied part of Zaporizhzhia Oblast. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "5": [
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Балуев Александр Николаевич",
     "1": "Baluev Alexander Nikolaevich",
     "2": "1958-12-06",
@@ -4349,7 +4373,8 @@
     "3": "M",
     "4": "Head of the Federal Agency for Nationalities of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -4470,7 +4495,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Supervision of Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -4480,7 +4506,8 @@
     "3": "M",
     "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -4825,7 +4852,8 @@
     "3": "M",
     "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -5282,7 +5310,8 @@
     "4": "Chairman of the Board of Directors of PJSC Russian Railways (PAO RZhD)\nFirst Deputy Prime Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -5579,9 +5608,9 @@
   {
     "0": "Бердников Роман Борисович",
     "1": "Berdnikov Roman Borisovich",
-    "2": "1974-08-31",
+    "2": "31.08.1974",
     "3": "M",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 29th Combined Arms Army (Eastern Military District). Commander of the Western Military District since 03.10.2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the 29th Combined Arms Army (Eastern Military District). Commander of the Western Military District from from September 28 to December 13, 2022. Held a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Headed large divisions of the Russian armed forces.",
     "5": [
       "War Arrangers"
     ]
@@ -6015,7 +6044,8 @@
     "4": "Deputy Mayor of Moscow. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nSecond Deputy Mayor of Moscow on the issues of housing and utilities and landscaping. According to open sources, Birjukov's family owns apartments and offices worth a total of 4.3 billion rubles, cars worth a total of 176 million rubles and a summer residence worth 1 billion rubles.",
     "5": [
       "Key Local Government Officials",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -7113,7 +7143,8 @@
     "3": "M",
     "4": "Director General of the State Corporation \"Roscosmos\"\nMember of the Board of Directors of JSC Concern VKO \"Almaz-Antey\"\nMember of the Board of Directors of JSC Tactical Missiles Corporation (KRTV)\nChairman of the Board of Directors of JSC GLONASS",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -7747,7 +7778,8 @@
     "4": "Chairman of the Moscow Oblast Duma (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nMember of the General Council and Secretary of the Moscow Oblast Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
     "5": [
       "Key Local Government Officials",
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -7758,7 +7790,8 @@
     "4": "Member of the Supervisory Board of the Rostec Company\nAssistant to the President of the Russian Federation-Head of the State Law Department of the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -8221,7 +8254,8 @@
     "3": "M",
     "4": "Chairman of the Legislative Assembly of the Krasnodar Krai (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -8927,7 +8961,8 @@
     "3": "M",
     "4": "One of the richest people in Russia, known as the founder of the Troika Dialog investment company and one of the ideological inspirers of Skolkovo and other innovations. Vardanian paid Minnikhanov a total of $43.4 million as a bribe",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -8998,7 +9033,8 @@
     "4": "A banker and former Stasi employee who had worked with Putin back in Germany and then moved to St. Petersburg to head Dresdner Bank. The managing director (CEO) of Nord Stream AG, the company responsible for the construction and operation of the Nord Stream undersea gas pipeline from Russia to Germany. Warnig paid for Lyudmila Putina's medical treatment abroad, took care of the costs of the Putin family vacations and their organization - hotels were booked in his name.\nMember of the Board of Directors of PJSC Transneft\nMember of the Board of Directors of PJSC Rosneft Oil Company\nMember of the Supervisory Board of PJSC VTB Bank",
     "5": [
       "Individuals involved in corruption",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -9740,7 +9776,8 @@
       "Sellout opinion leaders",
       "Warmongers",
       "Putin’s Public Supporters",
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -10556,17 +10593,6 @@
     "1": "Vorobyov Andrey Yurievich",
     "2": "1970-04-14",
     "3": "M",
-    "4": "Governor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
-    "5": [
-      "Region Heads",
-      "Individuals involved in corruption"
-    ]
-  },
-  {
-    "0": "Воробьёв Андрей Юрьевич",
-    "1": "Vorobyov Andrey Yurievich",
-    "2": "1970-04-14",
-    "3": "M",
     "4": "Member of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Moscow Oblast. Manages a regional state body of the Russian Federation. Involved in corruption schemes using his official position.",
     "5": [
       "“United Russia” party Functionaries",
@@ -11045,7 +11071,8 @@
     "4": "Media manager, close to the Kremlin Life Publishing, Life.ru. One of the most influential people in the field complicit with instituting the propaganda and censorship that now permeates Russian media sphere. One of the main perpetrators of the Russian hybrid information war, especially in its early stages. According to Alexei Navalny's investigations, Mr Gabrelianov illegally increased his personal wealth through his connection to Russian government. Furthermore, Mr Gabrelianov was awarded the Order of Honor of Russia for \"high professionalism and objectivity in reporting on events in the Republic of Crimea.\" Therefore, he is responsible for actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty, and independence of Ukraine, as well as stability and security in Ukraine.\nRussian propagandist: Deputy General Director of the National Media Group; Chairman of the Board of Directors of Izvestia Newspaper; President of the Baltic Media Group; until 2018, CEO and Founder of News Media Holding; founder of Life.ru and Lifenews/Life TV channel; member of the Public Council under the Investigative Committee of the Russian Federation.",
     "5": [
       "Individuals involved in corruption",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -11278,7 +11305,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nSinger. Participated in a concert in support of the war with Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -12040,10 +12068,10 @@
     "1": "Gerasimov Valery Vasilievich",
     "2": "1955-09-08",
     "3": "M",
-    "4": "Head of the General Staff of the Armed Forces of the Russian Federation - First Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\nHead of the General Staff of the Armed Forces of the Russian Federation - First Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nSince January 11, 2023, concurrently with the position of Chief of the General Staff of Russia, he holds the position of Commander of the joint grouping of Russian invasion forces in Ukraine.",
     "5": [
-      "Senior Federal Officials",
-      "War Arrangers"
+      "War Arrangers",
+      "Senior Federal Officials"
     ]
   },
   {
@@ -12103,7 +12131,8 @@
     "3": "M",
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
-      "Putin’s Public Supporters"
+      "Putin’s Public Supporters",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -12698,7 +12727,8 @@
     "4": "Deputy General Director of JSC Bank DOM.RF, General Director of the public company \"Foundation for the Protection of the Rights of Citizens - Participants in Shared Construction\".\nFormer head of the Presidential Directorate for Social and Economic Cooperation with the CIS Member Countries, the Republic of Abkhazia, and the Republic of South Ossetia; general director of JSC Bank DOM.RF. DOM.RF is a financial agency in the housing sector, fully owned by the Federal Agency for State Property Management (Rosimushchestvo). Under Canada and US sanctions for his association with Putin. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns multiple luxury properties (some together with his wife Natalya Seraya) worth more than 2 billion rubles.",
     "5": [
       "Top Management of State Owned Companies",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -12748,7 +12778,8 @@
     "3": "M",
     "4": "Head of the Federal Agency for State Reserves of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -12829,7 +12860,8 @@
     "4": "Deputy Prime Minister of the Russian Federation.\nDeputy Prime Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Individuals involved in corruption",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -12989,7 +13021,8 @@
     "3": "F",
     "4": "Member and Deputy Chairman of the Management Board of PJSC Sberbank",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -13050,7 +13083,8 @@
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Rostov Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -13312,7 +13346,8 @@
     "4": "The deputy mayor of Moscow has worked for Sobyanin since his first days in office and is in charge of regional security and information policy.\nThe deputy mayor of Moscow has worked for Sobyanin since his first days in office and is in charge of regional security and information policy. In order to hide his assets, he used the pseudonym Ivan Ivanovich Fedorov.",
     "5": [
       "Key Local Government Officials",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -13555,7 +13590,8 @@
     "3": "M",
     "4": "Former CEO of Rosinvest OOO, co-owner of Vyborg Shipyard. Participated in the financing of Putin's palace. Corruption. Money laundering.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -13565,7 +13601,8 @@
     "3": "M",
     "4": "Official of the Ministry of Defense of the Russian Federation. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine.\nHead of the Main Directorate of Staff of the Ministry of Defense of the Russian Federation (until July 28, 2022).\nDeputy Minister of Defense - Head of the Main Military-Political Directorate (GVPU) of the Russian Armed Forces (since July 28, 2022).",
     "5": [
-      "War Arrangers"
+      "War Arrangers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -13802,6 +13839,17 @@
     ]
   },
   {
+    "0": "Горшенин Олег Владимирович",
+    "1": "Gorshenin Oleg Vladimirovich",
+    "2": "08.07.1978",
+    "3": "M",
+    "4": "Russian military official. Head of the National Defense Control Center of the Russian Federation. On December 20, 2022, Mikhail Gorshenin was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.\nRussian military official. Head of the National Defense Control Center of the Russian Federation. In his position, he participates in strengthening the combat capability of the Russian army during the invasion of Ukraine.",
+    "5": [
+      "Sellout opinion leaders",
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Горшков Михаил Анатольевич",
     "1": "Gorshkov Mikhail Anatolievich",
     "2": "",
@@ -13868,7 +13916,8 @@
     "3": "M",
     "4": "Director of the Federal Penitentiary Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -14080,6 +14129,37 @@
     "4": "Plenipotentiary Representative of the Republic of Bashkortostan under the President of the Russian Federation - Deputy Prime Minister of the Government of the Republic of Bashkortostan. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Греф Герман Оскарович",
+    "1": "Gref German Oskarovich",
+    "2": "08.02.1964",
+    "3": "M",
+    "4": "Russian statesman and banker. President and Chairman of the Board of PJSC Sberbank of Russia since November 28, 2007. According to credible data from a journalistic investigation, he is involved in corruption schemes and owns a network of offshore companies through figureheads designed to hide his property of illegal origin.\nPresident and Chairman of the Board of PJSC Sberbank of Russia. He heads the largest banking organization in Russia, which is of systemic importance for the country's financial sector. Sberbank of Russia actively supports the actions of the Russian authorities and receives state support.",
+    "5": [
+      "Individuals involved in corruption",
+      "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Греф Олег Германович",
+    "1": "Gref Oleg Germanovich",
+    "2": "20.03.1982",
+    "3": "M",
+    "4": "The son of German Gref, a Russian statesman and banking figure, chairman of the board of PJSC Sberbank of Russia. Involved in his father's corruption schemes, which are aimed at acquiring and concealing property of illegal origin.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Греф Оскар Евгеньевич",
+    "1": "Gref Oskar Evgenievich",
+    "2": "22.07.1994",
+    "3": "M",
+    "4": "The nephew of German Gref, a Russian statesman and banking figure, chairman of the board of PJSC Sberbank of Russia. Involved in his uncle's corruption schemes, which are aimed at acquiring and concealing property of illegal origin.",
+    "5": [
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -14825,7 +14905,8 @@
     "3": "M",
     "4": "Patriarch of Moscow and All Russia. Supported Russia's aggression against Ukraine and the actions of the Russian authorities",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -15431,7 +15512,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Veterinary and Phytosanitary Supervision of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -15683,7 +15765,8 @@
     "4": "Member of the United Russia party, head of the Chechen branch of the National Guard of Russia (Rosgvardia), Ramzan Kadyrov's deputy and closest associate (and possibly cousin). Delimkhanov was authorized by Kadyrov to control the Chechen diasporas around the world and use and develop their criminal and economic potential. Under US sanctions since 2014 for connections with organized criminal groups. On April 26, Vladimir Putin signed a decree awarding Delimkhanov with the title of Hero of Russia for \"courage and heroism shown during the special operation on the territories of the Donetsk People's Republic, the Luhansk People's Republic and Ukraine\". Two of Delimkhanov's brothers are generals: Alibek Delimkhanov is the first deputy commander of the North Caucasus District of the Russian National Guard, and Sharip Delimkhanov is the head of the National Guard department in the Chechen Republic.\nMember of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "Individuals involved in corruption",
-      "Members of Parliament and Senate"
+      "Members of Parliament and Senate",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -16378,7 +16461,8 @@
     "3": "M",
     "4": "Member of the Management Board of PJSC Aeroflot",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -16661,7 +16745,8 @@
     "5": [
       "Top Management of State Owned Companies",
       "Senior Federal Officials",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -17096,7 +17181,8 @@
     "3": "M",
     "4": "Head of the Federal Agency for Railway Transport of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -17267,7 +17353,8 @@
     "4": "Member of the Izborsk Club, which unites the ideologists of modern Russian authoritarianism and the war in Ukraine\nRussian propagandist: chauvinist politician, propagandist, Ukrainophobe, founder and leader of the International Eurasian Movement, one of the main ideologists of “imperial Russia,” one of the authors of the concept of the “Russian world” and the so-called “Novorossiya,” one of the key ideologists of the Kremlin’s foreign policy. Was the editor-in-chief of Tsargrad TV propaganda channel from 2016 to 2017 and member of the ultranationalist Izborsk Club",
     "5": [
       "Warmongers",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -17428,7 +17515,8 @@
     "3": "M",
     "4": "Actor. Participated in a concert in support of the war against Ukraine",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -17459,7 +17547,8 @@
     "4": "Former security guard of Vladimir Putin; former Deputy Minister of Defense of the Russian Federation; personal friend and business partner of Yevgeny Prigozhin. Involved in and financially benefitted from multiple corruption schemes, primarily in government contracts, designed to provide corrupt sources of income to politicians and government officials.\nGovernor of Tula Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Individuals involved in corruption",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -17759,7 +17848,8 @@
     "3": "M",
     "4": "Executive Director of Rostec State Corporation",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -17929,7 +18019,8 @@
     "3": "M",
     "4": "Head of the Federal Tax Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -18151,15 +18242,16 @@
     "4": "Member of the Board of Directors of JSC Gazprombank\nDeputy Chairman of the Management Board, JSC Gazprombank\nStudied with Dmitry Medvedev at the LSU Law School, they taught together and were business partners. Became Deputy Chairman of the Management Committee of JSC Gazprombank in the eraly 2000s. As Deputy Chairman of Gazprom's Management Board, provided loans in the total amount of 31 billion rubles to Medvedev's \"charitable foundation\". Manages the Cyprus offshore company Furcina Limited, under which Medvedev's yacht Fotinia is registered. Medvedev also owns his Italian vineyards through this offshore company.",
     "5": [
       "Top Management of State Owned Companies",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
     "0": "Елисеев Сергей Владимирович",
     "1": "Eliseev Sergey Vladimirovich",
-    "2": "1971-05-05",
+    "2": "05.05.1971",
     "3": "M",
-    "4": "Appointed by the pro-Russian authorities as the head of the government of the Kherson region\nFirst Deputy Chairman of the Government Kaliningrad Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Former Head of Government of the Kherson Oblast Military-Civilian Administration - the governing body of the Kherson Oblast under Russian occupation. Relieved of his position on November 25, 2022. Acting Head of the Kherson Oblast Military-Civilian Administration from August 4 to September 12, 2022.\nFirst Deputy Chairman of the Government of the Kaliningrad Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Region Heads",
       "Key Local Government Officials"
@@ -18223,7 +18315,8 @@
     "4": "Actively supports Vladimir Putin's policy, which threatens the territorial integrity, sovereignty and independence of Ukraine.\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
       "Warmongers",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -18343,7 +18436,8 @@
     "3": "F",
     "4": "The partner of Alexei Miller. Beneficiary of corruption schemes of PJSC Gazprom and its subsidiaries.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -20197,6 +20291,16 @@
     ]
   },
   {
+    "0": "Захаренко Александр Николаевич",
+    "1": "Zakharenko Alexander Nikolaevich",
+    "2": "03.03.1979",
+    "3": "M",
+    "4": "Department director at the State Corporation \"Roscosmos\". On December 20, 2022, Alexander Zakharenko was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.",
+    "5": [
+      "Sellout opinion leaders"
+    ]
+  },
+  {
     "0": "Захарихин Сергей Борисович",
     "1": "Zakharikhin Sergey Borisovich",
     "2": "1962-05-13",
@@ -20377,6 +20481,17 @@
     "4": "Director, \"STATE TELEVISION AND RADIO BROADCASTING COMPANY \"LOTOS\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
+    ]
+  },
+  {
+    "0": "Звинчук Михаил Сергеевич",
+    "1": "Zvinchuk Mikhail Sergeevich",
+    "2": "19.07.1991",
+    "3": "M",
+    "4": "Russian propagandist and warmonger, creator of the Rybar telegram channel, which has over a million subscribers. Actively supports the Russian invasion of Ukraine.\nRussian propagandist and warmonger, creator of the Rybar telegram channel, which has over a million subscribers. On December 20, 2022, Mikhail Zvinchuk was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.",
+    "5": [
+      "Propagandists",
+      "Sellout opinion leaders"
     ]
   },
   {
@@ -20790,7 +20905,8 @@
     "3": "M",
     "4": "V.V. Zolotov's son. According to Proekt Media, he owns a large estate in Barvikha valued at 700 million rubles in 2020. He should be designated, for being the spouse or adult child of Victor Zolotov, a person whose property or interests in property are blocked for being or having been a leader, official, senior executive officer, or member of the board of directors of the GoR.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -20850,7 +20966,8 @@
     "3": "M",
     "4": "Chairman of the Constitutional Court of the Russian Federation. As the head of the supreme body of constitutional oversight, he is responsible for the rejection of the main provisions of the Constitution, according to which Russia was a democratic federal legal state with a republican form of government, the formation of the authoritarian regime of Vladimir Putin and the derogation of the fundamental constitutional rights of citizens. Responsible for legitimizing the violation of the territorial integrity of Ukraine in 2014, as well as the 2020 coup d'état, formalized in the form of amendments to the Constitution.",
     "5": [
-      "Organizers of political repressions"
+      "Organizers of political repressions",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -20961,7 +21078,8 @@
     "4": "Special Representative of the Russian President for Interaction with the Gas Exporting Countries Forum; former Prime Minister of Russia; former Head of Russian Financial Intelligence. In the 1990s served as Vladimir Putin's deputy in the Foreign Relations Committee at St Petersburg City Hall. Father in law of the Industrial Director for Rostec State corporation, former Minister of Defense of the Russian Federation Anatoly Serdyukov. Close associate of the leader of the Tambov Organized Crime Group Gennadiy Petrov. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families.\nChairman of the Board of Directors of PJSC Gazprom",
     "5": [
       "Individuals involved in corruption",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -20991,7 +21109,8 @@
     "3": "M",
     "4": "Head of the Federal Intellectual Property Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -21231,7 +21350,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Labor and Employment of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -22300,7 +22420,8 @@
     "3": "M",
     "4": "Head of the Main Directorate for Countering Extremism of the Ministry of the Interior of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -22533,7 +22654,8 @@
     "3": "M",
     "4": "Deputy Chairman of the Bank of Russia. The Bank of Russia is the state body responsible for monetary policy and maintaining financial stability in order to continue Russia's military aggression against Ukraine.",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -22724,7 +22846,8 @@
     "4": "Chairman of the Legislative Assembly of the Rostov Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nMember of the general Council and Secretary of the Rostov Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials",
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -23451,7 +23574,8 @@
     "5": [
       "Top Management of State Owned Companies",
       "Putin’s Public Supporters",
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -23754,7 +23878,8 @@
     "5": [
       "Propagandists",
       "Sellout opinion leaders",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -23916,7 +24041,8 @@
     "3": "M",
     "4": "Soviet and Russian political scientist and economist, propagandist. Supported Russia's war against Ukraine.",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -24492,7 +24618,8 @@
     "3": "F",
     "4": "Russian entrepreneur, president of the InfoWatch group of companies. Actively promotes the creation of digital infrastructure for state control of the Russian segment of the Internet.",
     "5": [
-      "Organizers of political repressions"
+      "Organizers of political repressions",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -24502,7 +24629,8 @@
     "3": "M",
     "4": "One of the founders, main owner and head of JSC Kaspersky Lab. Actively promotes the creation of digital infrastructure for state control of the Russian segment of the Internet.",
     "5": [
-      "Organizers of political repressions"
+      "Organizers of political repressions",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -25138,7 +25266,8 @@
     "3": "M",
     "4": "Chairman of the Board of the Pension Fund of Russia",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -25232,6 +25361,16 @@
     ]
   },
   {
+    "0": "Киндт Филипп",
+    "1": "Kindt Philip",
+    "2": "",
+    "3": "M",
+    "4": "Top manager, a citizen of Germany and Switzerland, a close acquaintance of the President and Chairman of the Board of Sberbank of Russia PJSC German Gref. According to credible data from a journalistic investigation, as a confidant Gref, Philip Kindt participates in corruption schemes created by him in order to acquire and conceal property of illegal origin.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
     "0": "Кипкеев Борис Геннадьевич",
     "1": "Kipkeyev (Kipkeev) Boris Gennadyevich (Gennadievich)",
     "2": "1969-02-07",
@@ -25268,7 +25407,8 @@
     "3": "M",
     "4": "General Director and Chairman of the Management Board of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\" \nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -25351,7 +25491,8 @@
     "3": "M",
     "4": "Head of the Federal Agency for Water Resources of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -25412,7 +25553,8 @@
     "4": "Pop singer. Illegally occupied state-owned land\nPop singer. Actively supported Russian aggression against Ukraine",
     "5": [
       "Individuals involved in corruption",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -25656,7 +25798,8 @@
     "3": "M",
     "4": "Head of the Protocol of the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -25796,7 +25939,8 @@
     "3": "M",
     "4": "Notable figure in the Russian IT industry. Former adviser to the President of the Russian Federation on Internet development programs. Supporter of state censorship on the Russian Internet and isolation of the network. Active supporter of Vladimir Putin.",
     "5": [
-      "Organizers of political repressions"
+      "Organizers of political repressions",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -25927,7 +26071,8 @@
     "3": "M",
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -26202,7 +26347,8 @@
     "3": "M",
     "4": "Advisor to the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -26626,7 +26772,8 @@
       "Individuals involved in corruption",
       "Top Management of State Owned Companies",
       "“United Russia” party Functionaries",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -26838,7 +26985,8 @@
     "3": "M",
     "4": "Rector of the Ural Federal University named after the First President of Russia B.N.Yeltsin. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -26868,7 +27016,8 @@
     "3": "M",
     "4": "Putin's childhood friend: they grew up in the same village, went to discos together, and were family friends. A part of the share of Gunvor was registered to him. He acts as Putin's wallet.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -26992,6 +27141,16 @@
     ]
   },
   {
+    "0": "Колмаков Александр Петрович",
+    "1": "Kolmakov Alexander Petrovich",
+    "2": "31.07.1955",
+    "3": "M",
+    "4": "Chairman of the Volunteer Society for Cooperation with the Army, Aviation, and Navy of Russia (DOSAAF of Russia). On December 20, 2022, Alexander Kolmakov was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.",
+    "5": [
+      "Sellout opinion leaders"
+    ]
+  },
+  {
     "0": "Колмакова Виктория Викторовна",
     "1": "Kolmakova Victoria Viktorovna",
     "2": "1969-03-28",
@@ -27040,7 +27199,8 @@
     "3": "F",
     "4": "Daughter of Vladimir Kolokoltsev, Russian Minister of Internal Affairs, and a permanent member of Security Council of Russia, sanctioned by the U.S. in April 2018. As a TV-anchor of state-owned Rossiya-24, she is responsible for actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine, as well as stability and security in Ukraine. And furthermore, she should be designated, for being the spouse or adult child of Mr Kolokoltsev, a person whose property or interests in property are blocked for being or having been a leader, official, senior executive officer, or member of the board of directors of the GoR.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -27111,7 +27271,8 @@
     "4": "Head of the Directorate of Affairs of the President of the Russian Federation.\nHead of the Directorate of Affairs of the President of the Russian Federation Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Individuals involved in corruption",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -27533,7 +27694,8 @@
     "3": "M",
     "4": "Governor of Krasnodar Krai. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -27644,7 +27806,8 @@
     "3": "M",
     "4": "Plenipotentiary of the President of the Russian Federation in the Constitutional Court. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -27654,7 +27817,8 @@
     "3": "M",
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
-      "Putin’s Public Supporters"
+      "Putin’s Public Supporters",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -28085,7 +28249,8 @@
     "3": "M",
     "4": "Rector of Far Eastern Federal University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -28297,6 +28462,16 @@
     "4": "Russian propagandist: editor-in-chief of Izvestiya newspaper",
     "5": [
       "Propagandists"
+    ]
+  },
+  {
+    "0": "Короткевич Евгения Сергеевна",
+    "1": "Korotkevich Evgenia Sergeevna",
+    "2": "09.07.1990",
+    "3": "F",
+    "4": "Russian actress and singer. Publicly supports the occupation of the territory of Ukraine by Russia, as well the actions of the Russian authorities during the aggressive war against Ukraine.",
+    "5": [
+      "Sellout opinion leaders"
     ]
   },
   {
@@ -28925,7 +29100,8 @@
     "3": "M",
     "4": "Minister of Labor and Social Protection of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -29017,7 +29193,8 @@
     "3": "M",
     "4": "Director of the Federal Security Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -29078,7 +29255,8 @@
     "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nMinister of Education of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -29562,7 +29740,8 @@
     "3": "F",
     "4": "Putin's mistress. At the moment, shareholder of the Rossiya Bank. Has Putin's illegitimate daughter Yelizaveta.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -29744,7 +29923,8 @@
     "3": "M",
     "4": "Rector of St. Petersburg State University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -30137,7 +30317,8 @@
     "3": "M",
     "4": "Chairman of the Accounts Chamber of the Russian Federation.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -30592,6 +30773,16 @@
     "5": [
       "Individuals involved in corruption",
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Кузовлёв Сергей Юрьевич",
+    "1": "Kuzovlyov Sergey Yurievich",
+    "2": "07.01.1967",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Western Military District since December 13, 2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -31785,7 +31976,8 @@
     "3": "M",
     "4": "Former Head of the Federal Agency of Sea and River Transport of the Russian Federation. Managed a state body of the Russian Federation, which supported or implemented actions or policies that undermined or threatened the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -31868,7 +32060,8 @@
     "3": "M",
     "4": "Chairman of the Legislative Assembly of the Chelyabinsk Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -32047,7 +32240,7 @@
     "1": "Lapin Alexander Pavlovich",
     "2": "01.01.1964",
     "3": "M",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Former commander of the Central Military District. Held a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Headed large divisions of the Russian armed forces.\nCommanded the Russian grouping of troops Center (Tsentr) during the aggression against Ukraine. Relieved of his duty on November 03, 2022.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Former commander of the Central Military District. Held a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Headed large divisions of the Russian armed forces.\nCommanded the Russian grouping of troops Center (Tsentr) during the aggression against Ukraine. Relieved of his duty on November 03, 2022.\nAppointed to the post of Chief of the Main Staff of the Ground Forces of the Russian Armed Forces on January 10, 2023.",
     "5": [
       "War Arrangers"
     ]
@@ -32310,7 +32503,8 @@
     "4": "Public figure. With public support for the Russian authorities, he contributed to the formation of the authoritarian regime of Vladimir Putin.\nRussian propagandist: designer, businessman, blogger, video blogger; host of program \"Besit\" (\"What I hate\") on RT streaming service",
     "5": [
       "Sellout opinion leaders",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -32350,7 +32544,8 @@
     "3": "M",
     "4": "Chairman of the Supreme Court of the Russian Federation. Responsible for organizing politically motivated judgments in the Supreme Court and lower courts.",
     "5": [
-      "Organizers of political repressions"
+      "Organizers of political repressions",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -32593,7 +32788,8 @@
     "5": [
       "Individuals involved in corruption",
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -32633,7 +32829,8 @@
     "3": "F",
     "4": "Advisor to the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -33096,7 +33293,8 @@
     "5": [
       "Top Management of State Owned Companies",
       "Key Local Government Officials",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -33186,7 +33384,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Supervision of Communications, Information Technologies and Mass Communications of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -33359,7 +33558,8 @@
     "3": "M",
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -34166,21 +34366,11 @@
     ]
   },
   {
-    "0": "Лурье Олег Анато́Льевич",
-    "1": "Lurie (Lurye) Oleg Anatolyevich (Anatolievich)",
-    "2": "1963-05-03",
-    "3": "M",
-    "4": "Russian propagandist: Journalist, one of the founders of \"Versiya\" newspaper; invited guest and expert on program of Vladimir Solovyov on Vesti FM radio and TV programs on Channel One, Rossiya-1, Rossiya-24, RenTV, NTV, TVC, Stars, Tsardgad",
-    "5": [
-      "Propagandists"
-    ]
-  },
-  {
     "0": "Лурье Олег Анатольевич",
     "1": "Lurie Oleg Anatolievich",
     "2": "1963-05-03",
     "3": "M",
-    "4": "Russian propagandist engaged in information support for the authoritarian regime of Vladimir Putin and the war in Ukraine.",
+    "4": "Russian propagandist: journalist, one of the founders of \"Versiya\" newspaper; invited guest and expert on program of Vladimir Solovyov on Vesti FM radio and TV programs on Channel One, Rossiya-1, Rossiya-24, RenTV, NTV, TVC, Stars, Tsardgad. Engaged in information support for the authoritarian regime of Vladimir Putin and the war in Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -34407,7 +34597,8 @@
     "3": "F",
     "4": "Minister of Culture of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -34608,7 +34799,8 @@
     "3": "M",
     "4": "Deputy Head of the Administration of the President of the Russian Federation. Manages the Presidential Administration of the Russian Federation, which organizes and implements actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -35207,7 +35399,8 @@
     "4": "Acting Governor of the Ryazan Region since May 2022. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nHead of the Federal State Statistics Service of the Russian Federation until May 2022. Acting Governor of the Ryazan Region since May 2022. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Region Heads",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -35529,7 +35722,8 @@
     "3": "M",
     "4": "Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -35610,7 +35804,8 @@
     "4": "Member of the Board of Directors of PJSC Gazprom, Chairman of the Supervisory Board of Rostec\nMinister of Industry and Trade of the Russian Federation. Deputy Prime Minister of the Russian Federation since July 12, 2022. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -36325,7 +36520,8 @@
     "3": "M",
     "4": "Minister of Sports of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -36376,7 +36572,8 @@
     "3": "M",
     "4": "Billionaire oligarch, founder and President of JSC Ural Mining and Metallurgical Company. Placed 19th in the 2021 Forbes ranking of the richest businessmen in Russia with a fortune of $ 9.7 billion. Closely linked to Russian organized crime, including close connections with the leader of the Tambov organized crime group Gennadiy Petrov and the Izmailovo organized crime group that controlled the coal and aluminum enterprises. Was involved in and financially benefitted from corruption schemes and money laundering operations designed to provide corrupt sources of income to oligarchs, politicians and government officials and their families. Companies whose main shareholders are Iskander Makhmudov and Andrey Bokarev - Transmashholding, Metrowagonmash, Oktyabrsky Electric Railway Car Repair Plant, Roslokomotiv - received government contracts wirth a total of 130.7 billion rubles from Russian Railways and the Moscow Metro awarded to them in violation of anti-corruption regulations.\nRussian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -36488,7 +36685,8 @@
     "5": [
       "Putin’s Public Supporters",
       "“United Russia” party Functionaries",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -36673,7 +36871,8 @@
     "5": [
       "“United Russia” party Functionaries",
       "Individuals involved in corruption",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -36784,7 +36983,8 @@
     "4": "Member of the General Council and Secretary of the Dagestan Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nHead of the Republic of Dagestan. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -37119,7 +37319,8 @@
     "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nSecretary of the Moscow City Regional Branch of the United Russia Party. Deputy Chairman of the Moscow City Duma.",
     "5": [
       "“United Russia” party Functionaries",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -37311,7 +37512,8 @@
     "4": "Head of the Safe Internet League and concurrently a member of the Russian Public Chamber. Responsible for organizing censorship in the Russian segment of the Internet. Actively supports Russian military aggression against Ukraine\nDaughter of Elena Mizulina. Head of the Safe Internet League and concurrently a member of the Russian Public Chamber.",
     "5": [
       "Organizers of political repressions",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -37548,7 +37750,8 @@
     "5": [
       "“United Russia” party Functionaries",
       "Region Heads",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -37568,7 +37771,8 @@
     "3": "M",
     "4": "Plenipotentiary of the President of the Russian Federation in the State Duma. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -37628,7 +37832,8 @@
     "3": "M",
     "4": "Assistant to the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -38102,7 +38307,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -39008,7 +39214,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Supervision of Education and Science of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -39059,7 +39266,8 @@
     "3": "M",
     "4": "Plenipotentiary of the President of the Russian Federation in the Federation Council. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -39151,7 +39359,8 @@
     "5": [
       "Individuals involved in corruption",
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -39201,7 +39410,8 @@
     "3": "M",
     "4": "Member of the Board of Directors of JSC ZARUBEZHNEFT",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -39332,7 +39542,8 @@
     "4": "Chairman of the State Council of the Republic of Tatarstan (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nMember of the Supreme Council of the United Russia party, secretary of the Tatarstan regional branch of the United Russia party:. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials",
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -39453,7 +39664,8 @@
     "4": "Head of the Central Bank of Russia.\nChairman of the Bank of Russia, member of the Board of Directors of the Bank of Russia. The Bank of Russia is the state body responsible for monetary policy and maintaining financial stability in order to continue Russia's military aggression against Ukraine.",
     "5": [
       "Individuals involved in corruption",
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -40383,7 +40595,8 @@
     "3": "M",
     "4": "Head of the Federal Air Transport Agency of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -41150,7 +41363,8 @@
     "3": "M",
     "4": "Billionaire property developer. Chairman of Kievskaya Square, the largest Russian commercial estate holding. Involved in political corruption at the highest level.\nRussian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -41181,7 +41395,8 @@
     "4": "Member of the Board of Directors of PJSC Transneft\nMember of the Board of Directors of PJSC Gazprom\nMember of the Board of Directors of PJSC ROSSETI \nMember of the Board of Directors of PJSC Rosneft Oil Company\nDeputy Prime Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -41291,7 +41506,8 @@
     "3": "M",
     "4": "Head of the Federal Road Agency of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -41363,6 +41579,16 @@
     "4": "Deputy Chairman of the Government Tver Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Новицкий Евгений Григорьевич",
+    "1": "Novitsky Evgeny Grigorievich",
+    "2": "19.11.1957",
+    "3": "M",
+    "4": "Russian entrepreneur and top manager. According to credible data from a journalistic investigation, as a confidant of German Gref, the President and Chairman of the Board of PJSC Sberbank of Russia, Evgeny Novitsky participates in corruption schemes created by Gref in order to acquire and conceal property of illegal origin.",
+    "5": [
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -42567,7 +42793,8 @@
     "4": "Member of the Supervisory Board of the Rostec Company\nDeputy Head of the Administration of the President of the Russian Federation. Manages the Presidential Administration of the Russian Federation, which organizes and implements actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -42649,7 +42876,8 @@
     "5": [
       "Warmongers",
       "Sellout opinion leaders",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -42942,7 +43170,8 @@
     "5": [
       "Individuals involved in corruption",
       "Organizers of political repressions",
-      "Election fraud organizers"
+      "Election fraud organizers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -44023,7 +44252,8 @@
     "3": "M",
     "4": "Head of the Federal Agency for Subsoil Use of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -44659,7 +44889,8 @@
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nRussian propagandist: Deputy General Director of Channel One; director of the department of social and journalistic programs on Channel One",
     "5": [
       "“United Russia” party Functionaries",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -44705,22 +44936,22 @@
   {
     "0": "Пискарев Василий Иванович",
     "1": "Piskarev Vasily Ivanovich",
+    "2": "",
+    "3": "M",
+    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
+    "5": [
+      "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Пискарев Василий Иванович",
+    "1": "Piskarev Vasily Ivanovich",
     "2": "1963-11-08",
     "3": "M",
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
       "Members of Parliament and Senate"
-    ]
-  },
-  {
-    "0": "Пискарев Василий Иванович",
-    "1": "Piskarev Vasily Ivanovich",
-    "2": "",
-    "3": "M",
-    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
-    "5": [
-      "Organizers of political repressions"
     ]
   },
   {
@@ -44941,7 +45172,8 @@
     "3": "M",
     "4": "Deputy Director of the Federal Service of the National Guard of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -45157,7 +45389,8 @@
     "4": "Chairman of the Board of the Eurasian Development Bank; until 2020 - General Director of Russian Post, the national postal operator of Russia; former Deputy Minister of Economic Development of the Russian Federation. Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. Owns luxury real estate worth ~1 billion rubles.\nChairman of the Board of the Eurasian Development Bank; until 2020 - General Director of Russian Post, the national postal operator of Russia; former Deputy Minister of Economic Development of the Russian Federation.",
     "5": [
       "Individuals involved in corruption",
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -45488,7 +45721,8 @@
     "3": "M",
     "4": "Acting Chairman of the Social Insurance Fund of the Russian Federation",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -45619,7 +45853,8 @@
     "4": "Member of the Board of Directors of JSC United Shipbuilding Corporation\nEx-Governor of Saint Petersburg. Putin's inner circle",
     "5": [
       "Top Management of State Owned Companies",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46090,7 +46325,8 @@
     "3": "F",
     "4": "Public figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46152,7 +46388,8 @@
     "5": [
       "Organizers of political repressions",
       "Individuals involved in corruption",
-      "Key ‘siloviki’ (security forces) figures"
+      "Key ‘siloviki’ (security forces) figures",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46295,7 +46532,8 @@
     "3": "F",
     "4": "Head of the Federal Service for Consumer Protection of Consumer Rights and Human Welfare of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46396,7 +46634,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46476,7 +46715,8 @@
     "3": "M",
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46616,7 +46856,8 @@
     "3": "F",
     "4": "Propagandist. Manager of propaganda media projects",
     "5": [
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46769,7 +47010,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -46801,7 +47043,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nHead of the Federal Agency for the Commonwealth of Independent States, Compatriots living abroad and international humanitarian cooperation of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Putin’s Public Supporters",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -47808,7 +48051,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Natural Management of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -47859,7 +48103,7 @@
     "4": "Member of the General Council and Secretary of the Sevastopol Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nGovernor of Sevastopol. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "War Arrangers"
     ]
   },
   {
@@ -47931,7 +48175,8 @@
     "3": "F",
     "4": "Head of the Federal Agency for Youth Affairs of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -48003,7 +48248,8 @@
     "4": "Deputy mayor of Moscow in the Moscow government for social development since September 19, 2018.\nDeputy Mayor of Moscow. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Individuals involved in corruption",
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -48104,7 +48350,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nSinger. Participated in a concert in support of the war against Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -48427,7 +48674,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -49527,7 +49775,8 @@
     "3": "M",
     "4": "Rector of the Siberian Federal University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -49828,7 +50077,8 @@
     "4": "Former deputy of the State Duma. Has a firm and real estate in France. Tax resident in France.\nRussian propagandist: Internet and media producer, founder of several pro-government online media, including Days.Ru, Vzglyad.Ru, Russia.ru",
     "5": [
       "Individuals involved in corruption",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -50175,7 +50425,8 @@
     "5": [
       "Individuals involved in corruption",
       "“United Russia” party Functionaries",
-      "Members of Parliament and Senate"
+      "Members of Parliament and Senate",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -50580,7 +50831,8 @@
     "5": [
       "Putin’s Public Supporters",
       "“United Russia” party Functionaries",
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -50901,7 +51153,8 @@
     "3": "F",
     "4": "Head of the Federal Service for Healthcare Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -51757,7 +52010,8 @@
     "3": "M",
     "4": "Director of the Federal Service for Technical and Export Control of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -52188,7 +52442,8 @@
     "4": "Deputy Mayor of Moscow. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nFirst Deputy Mayor of Moscow Sergei Sobyanin. Sergunina, as head of the Moscow property complex, sold the capital property to her sister's husband.",
     "5": [
       "Key Local Government Officials",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -52676,7 +52931,8 @@
       "Top Management of State Owned Companies",
       "Senior Federal Officials",
       "War Arrangers",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -53214,7 +53470,8 @@
     "3": "M",
     "4": "Chairman of the Board of Directors, Member of the Collegial Executive Body (Management Board) of PJSC Transneft\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -53234,7 +53491,8 @@
     "3": "F",
     "4": "Head of the Federal Medical and Biological Agency of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -53384,7 +53642,8 @@
     "3": "F",
     "4": "First Deputy Chairman of the Bank of Russia, member of the Board of Directors of the Bank of Russia. The Bank of Russia is the state body responsible for monetary policy and maintaining financial stability in order to continue Russia's military aggression against Ukraine.",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -53486,7 +53745,8 @@
     "3": "M",
     "4": "Head of the Federal Accreditation Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -53516,7 +53776,8 @@
     "3": "M",
     "4": "Head of the Federal Service for State Registration, Cadastre and Cartography of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -54076,12 +54337,13 @@
     "1": "Sobyanin Sergey Semenovich",
     "2": "1958-06-21",
     "3": "M",
-    "4": "Mayor of Moscow, and the primary executor of Russian government policy in the capital, including vote rigging and facilitating criminal activity through corrupt municipal projects. Member of the Security Council which approved the full-scale invasion of Ukraine.\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\nAs the Mayor of the City of Moscow, Sobyanin signed a law on an experiment to introduce electronic voting in the city of Moscow. Organizer of the falsification of the voting results to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
+    "4": "Mayor of Moscow, and the primary executor of Russian government policy in the capital, including vote rigging and facilitating criminal activity through corrupt municipal projects. Member of the Security Council which approved the full-scale invasion of Ukraine.\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.\nAs the Mayor of the City of Moscow, Sobyanin signed a law on an experiment to introduce electronic voting in the city of Moscow. Organizer of the falsification of the voting results to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.\nMayor of the City of Moscow. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Individuals involved in corruption",
       "“United Russia” party Functionaries",
       "War Arrangers",
-      "Election fraud organizers"
+      "Election fraud organizers",
+      "Region Heads"
     ]
   },
   {
@@ -54111,7 +54373,8 @@
     "3": "M",
     "4": "Head of the Federal Forestry Agency of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -56111,7 +56374,7 @@
     "1": "Surovikin Sergey Vladimirovich",
     "2": "1966-10-11",
     "3": "M",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander-in-Chief of the Navy. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nCommands the Russian grouping of troops South (Yug) during the aggression against Ukraine.\nCommands the Russian grouping of troops South (Yug) during the military aggression against Ukraine.\nOn October 8, 2022, Surovikin was appointed commander of the joint grouping of Russian invasion forces in Ukraine.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Aerospace Forces. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.\nCommands the Russian grouping of troops South (Yug) during the aggression against Ukraine.\nCommands the Russian grouping of troops South (Yug) during the military aggression against Ukraine.\nCommander of the joint grouping of Russian invasion forces in Ukraine from October 8, 2022 to January 11, 2023.\nSince January 11, 2023 - Deputy Commander of the joint grouping of Russian invasion forces in Ukraine.",
     "5": [
       "War Arrangers"
     ]
@@ -57017,7 +57280,8 @@
     "3": "M",
     "4": "Rector of Kazan (Volga Region) Federal University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -57334,7 +57598,8 @@
     "5": [
       "Individuals involved in corruption",
       "“United Russia” party Functionaries",
-      "Members of Parliament and Senate"
+      "Members of Parliament and Senate",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -57637,7 +57902,8 @@
     "3": "M",
     "4": "From 2011 to 2018, he formally owned and operated Putin's vineyards. Just a year after his Abrau-Durso became the owner of Azure Berry, Vladimir Putin appointed Boris Titov as business ombudsman by decree.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -57777,7 +58043,8 @@
     "3": "M",
     "4": "Head of the State Feldyger Service of the Russian Federation of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -58139,7 +58406,8 @@
     "3": "M",
     "4": "Chairman of the State Assembly - Kurultai of the Republic of Bashkortostan (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Key Local Government Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -58199,7 +58467,8 @@
     "3": "M",
     "4": "Advisor to the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -58321,7 +58590,8 @@
     "3": "M",
     "4": "Member of the Board of Directors of JSC United Shipbuilding Corporation\nGeneral Director of OJSC Sovcomflot",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -58535,7 +58805,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Ecological, Technological and Nuclear Supervision of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -58869,7 +59140,8 @@
     "3": "M",
     "4": "First Deputy Chairman of the Bank of Russia, member of the Board of Directors of the Bank of Russia. The Bank of Russia is the state body responsible for monetary policy and maintaining financial stability in order to continue Russia's military aggression against Ukraine.",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -59292,7 +59564,8 @@
     "3": "M",
     "4": "From 2008 to 2020, he was married to Natalia Stenina, the full sister of Mikhail Mishustin. In 2009-2010, he bought six apartments in New York.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -59775,7 +60048,8 @@
     "3": "M",
     "4": "Assistant to the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -59828,7 +60102,8 @@
     "4": "Russian propagandist. Imitates public support for the political regime of Vladimir Putin.\nAdvisor to the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Propagandists",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -59910,7 +60185,8 @@
     "5": [
       "Top Management of State Owned Companies",
       "“United Russia” party Functionaries",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -59942,7 +60218,8 @@
     "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nMinister of Science and Higher Education of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -60152,7 +60429,8 @@
     "3": "M",
     "4": "Russian propagandist: political scientist and sociologist; General Director of the All-Russian Center for the Study of Public Opinion (VCIOM); host of the show \"Voina i Mir\" (\"War and Piece\") on Komsomolskaya Pravda radio; member of the Public Council under the Ministry of Defense; Advisor to the First Deputy Chief of Staff of the Presidential Executive Office; Chief Editor of the Monitoring Journal",
     "5": [
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -60807,6 +61085,16 @@
     ]
   },
   {
+    "0": "Фомин Александр Григорьевич",
+    "1": "Fomin Alexander Grigorievich",
+    "2": "03.09.1979",
+    "3": "M",
+    "4": "Founder of LLC Olimpstroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
     "0": "Фомин Александр Станиславович",
     "1": "Fomin Alexander Stanislavovich",
     "2": "",
@@ -61364,6 +61652,16 @@
     ]
   },
   {
+    "0": "Хавронин Дмитрий Александрович",
+    "1": "Khavronin Dmitry Alexandrovich",
+    "2": "30.11.1976",
+    "3": "M",
+    "4": "Founder of LLC Olimpstroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
     "0": "Хадиков Казбек Азаматович",
     "1": "Khadikov Kazbek Azamatovich",
     "2": "1984-01-12",
@@ -61870,6 +62168,16 @@
     ]
   },
   {
+    "0": "Хачатурянц Ашот Рафаилович",
+    "1": "Khachaturyants Ashot Rafailovich",
+    "2": "25.05.1968",
+    "3": "M",
+    "4": "Russian top manager. According to credible data from a journalistic investigation, as a confidant of German Gref, the President and Chairman of the Board of PJSC Sberbank of Russia, Ashot Khachaturyants participates in corruption schemes created by Gref in order to acquire and conceal property of illegal origin.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
     "0": "Хащенко Антон Валерьевич",
     "1": "Khashchenko Anton Valerievich (Valeryevich)",
     "2": "1982-05-07",
@@ -62040,7 +62348,8 @@
     "3": "M",
     "4": "Former Deputy Prime Minister of the Russian Federation. Dollar millionaire.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -62492,7 +62801,8 @@
     "3": "M",
     "4": "Husband of Golikova Tatiana Alexeyevna who is a Deputy Prime Minister of the Russian Federation. He was chairman of the board of the Eurasian Economic Commission from 1 February 2012 to 1 February 2016 and the First Deputy Prime Minister of Russia from 31 May 1999 to 10 January 2000 and Minister of Industry from 9 March 2004 to 31 January 2012.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -62603,7 +62913,8 @@
     "3": "M",
     "4": "Russian businessman, former CEO of PJSC Rosneft, close friend and business associate of Igor Sechin. Participated in the formation of corrupt sources of income for Vladimir Putin and his closest associates. Believed to be Putin's and Sechin's \"wallet\". Through a network of offshore companies designed to conceal the ultimate beneficiaries and thus circumvent the Western sanctions, Khudainatov became the straw owner of Kerimov's yacht Amadea and Putin's yacht Shecherezade worth more than $1 billion. On June 3, 2022, Khudainatov was sanctioned by the EU due to his involvement in economic sectors providing a substantial source of revenue to the Government of the Russian Federation, benefitting from the Government of the Russian Federation, and close association with other sanctioned individuals, including Putin and Sechin.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -62935,7 +63246,8 @@
     "3": "M",
     "4": "Senior Vice President of PJSC Rostelecom and former high-ranking government official.",
     "5": [
-      "Top Management of State Owned Companies"
+      "Top Management of State Owned Companies",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -63189,7 +63501,8 @@
     "3": "M",
     "4": "Son of Chaika Yuri Yakovlevich who is a Former Prosecutor General. Laundering, fraud, corruption.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -63372,7 +63685,8 @@
     "3": "M",
     "4": "Minister of Development of the Far East and the Arctic of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -63887,7 +64201,8 @@
     "3": "F",
     "4": "Chairman of the Federal Compulsory Medical Insurance Fund of Russia",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -64131,7 +64446,8 @@
     "4": "Member of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Members of Parliament and Senate"
+      "Members of Parliament and Senate",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -64181,7 +64497,8 @@
     "3": "M",
     "4": "First Deputy Chairman of the Bank of Russia, member of the Board of Directors of the Bank of Russia. The Bank of Russia is the state body responsible for monetary policy and maintaining financial stability in order to continue Russia's military aggression against Ukraine.",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -64221,7 +64538,8 @@
     "3": "M",
     "4": "Head of the Federal Financial Monitoring Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -64232,7 +64550,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -64677,7 +64996,8 @@
     "5": [
       "Top Management of State Owned Companies",
       "Organizers of political repressions",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -64848,7 +65168,8 @@
     "3": "M",
     "4": "Head of the Federal Agency for Technical Regulation and Metrology of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -65084,7 +65405,8 @@
     "5": [
       "Individuals involved in corruption",
       "Key Local Government Officials",
-      "Election fraud organizers"
+      "Election fraud organizers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -65267,7 +65589,8 @@
     "3": "M",
     "4": "Head of the Federal Antimonopoly Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -65329,7 +65652,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nPublic figure. Expressed public support for the actions of the Russian army in Ukraine",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -65581,7 +65905,8 @@
     "3": "F",
     "4": "Rector of Southern Federal University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -65864,7 +66189,8 @@
     "4": "Member of the Board of Directors of JSC United Shipbuilding Corporation\nHead of the Federal Fisheries Agency of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -66256,7 +66582,8 @@
     "4": "Member of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES), Member of the Supervisory Board of Rostec Company\nFormer Putin's aide on personnel issues. Received an expensive preferential apartment in Moscow.",
     "5": [
       "Top Management of State Owned Companies",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -66379,7 +66706,8 @@
     "4": "Signed the statement of the Federation of Independent Trade Unions of Russia in support of the war in Ukraine\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
       "Sellout opinion leaders",
-      "Putin’s Public Supporters"
+      "Putin’s Public Supporters",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -66788,7 +67116,8 @@
     "4": "Member of the Board of Directors of PJSC Gazprom\nMember of the Board of Directors of JSC System Operator of the Unified Energy System (SO UES)\nMember of the Board of Directors of PJSC ROSSETI \nMember of the Board of Directors of PJSC RusHydro, \nMember of the collegial executive body of PJSC RusHydro, \nPerson acting as the sole executive body (President) of PJSC RusHydro\nEnergy Minister of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -66818,7 +67147,8 @@
     "3": "M",
     "4": "Head of the Federal Service for Hydrometeorology and Environmental Monitoring of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -67374,7 +67704,8 @@
       "Organizers of political repressions",
       "Propagandists",
       "Senior Federal Officials",
-      "War Arrangers"
+      "War Arrangers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -67597,7 +67928,8 @@
     "3": "F",
     "4": "First Deputy Chairman of the Bank of Russia, member of the Board of Directors of the Bank of Russia. The Bank of Russia is the state body responsible for monetary policy and maintaining financial stability in order to continue Russia's military aggression against Ukraine.",
     "5": [
-      "State Bankers"
+      "State Bankers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -67907,7 +68239,8 @@
     "3": "M",
     "4": "Corrupt ties with Dmitry Medvedev (Deputy Chairman of the Russian Security Council and former President of Russia)",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -68089,7 +68422,8 @@
     "4": "Member of the Board of Directors of JSC \"Sheremetyevo International Airport\".\nMember of the Board of Directors of PJSC \"Novorossiysk Commercial Sea Port (“NCSP”)\"\nMember of the Board of Directors of JSC TOURISM.RF Corporation\nHead of the Federal Agency for State Property Management of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top Management of State Owned Companies",
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
