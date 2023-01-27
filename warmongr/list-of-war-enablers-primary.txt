@@ -386,7 +386,6 @@
   "buildId": "R_CSRjIXgL_qsRoOK8MMQ",
   "isFallback": false,
   "gsp": true,
-  "customServer": true,
   "locale": "en",
   "locales": [
     "en",
