@@ -2390,21 +2390,21 @@
   {
     "0": "Антонов Владимир Николаевич",
     "1": "Antonov Vladimir Nikolaevich",
-    "2": "",
-    "3": "M",
-    "4": "Member of the Management Board of PJSC Aeroflot",
-    "5": [
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
-    "0": "Антонов Владимир Николаевич",
-    "1": "Antonov Vladimir Nikolaevich",
     "2": "1979-12-24",
     "3": "M",
     "4": "Deputy Chairman of the Government of the self-proclaimed Donetsk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
     "5": [
       "War Arrangers"
+    ]
+  },
+  {
+    "0": "Антонов Владимир Николаевич",
+    "1": "Antonov Vladimir Nikolaevich",
+    "2": "",
+    "3": "M",
+    "4": "Member of the Management Board of PJSC Aeroflot",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -4915,7 +4915,8 @@
     "5": [
       "Region Heads",
       "Individuals involved in corruption",
-      "War Arrangers"
+      "War Arrangers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -6720,7 +6721,8 @@
     "3": "M",
     "4": "Billionaire oligarch, co-owner and Chairman of the Board of Directors of JSC Transmashholding and JSC Kuzbassrazrezugol Management Company, member of the Board of Directors of JSC Ural Mining and Metallurgical Company and JSC Altai-Koks. Closely linked to Russian organized crime, including close connections with the leader of the Tambov organized crime synducate Gennadiy Petrov and the Izmailovo organized crime group that controlled the coal and aluminum enterprises. Was involved in and financially benefitted from corruption schemes and money laundering operations designed to provide corrupt sources of income to oligarchs, politicians and government officials and their families. Companies whose main shareholders are Iskander Makhmudov and Andrey Bokarev - Transmashholding, Metrowagonmash, Oktyabrsky Electric Railway Car Repair Plant, Roslokomotiv - received government contracts worth a total of 130.7 billion rubles from Russian Railways and the Moscow Metro awarded to them in violation of anti-corruption regulations.\nRussian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -7566,6 +7568,16 @@
     ]
   },
   {
+    "0": "Бочкарёва Наталья Владимировна",
+    "1": "Bochkarova Natal'ya Vladimirovna",
+    "2": "25.07.1980",
+    "3": "F",
+    "4": "Russian theater and film actress, singer, TV presenter. Supported the actions of the Russian authorities during the aggression against Ukraine and the occupation of part of its territory.",
+    "5": [
+      "Sellout opinion leaders"
+    ]
+  },
+  {
     "0": "Бояков Эдуард Владиславович",
     "1": "Boyakov Eduard Vladislavovich",
     "2": "1964-06-16",
@@ -8033,7 +8045,8 @@
     "4": "Head of the Federal Customs Service of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nAs a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian government, which threatens the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Senior Federal Officials",
-      "War Arrangers"
+      "War Arrangers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -8135,6 +8148,16 @@
     "4": "Judge of the Central District Court of Tver. Obstructed freedom of peaceful assembly",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Булычёв Богдан Юрьевич",
+    "1": "Bulychev Bogdan Yurievich",
+    "2": "12.07.1984",
+    "3": "M",
+    "4": "Professional Russian traveler, researcher and video blogger. Actively supported the actions of the Russian authorities during the invasion of Ukraine, personally assisted the Russian military in the occupied territories.",
+    "5": [
+      "Sellout opinion leaders"
     ]
   },
   {
@@ -9512,7 +9535,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -12813,6 +12837,16 @@
     ]
   },
   {
+    "0": "Гогунский Виталий Евгеньевич",
+    "1": "Gogunsky Vitaly Evgenievich",
+    "2": "14.07.1978",
+    "3": "M",
+    "4": "Russian actor and TV presenter. Actively supported the actions of the Russian authorities and the Russian army during the aggression against Ukraine.",
+    "5": [
+      "Sellout opinion leaders"
+    ]
+  },
+  {
     "0": "Гозиас (Кроткова) Александра",
     "1": "Gozias (Krotkova) Alexandra",
     "2": "1990-06-02",
@@ -13291,21 +13325,21 @@
   {
     "0": "Гончаров Николай Александрович",
     "1": "Goncharov Nikolai Alexandrovich",
-    "2": "1979-07-04",
-    "3": "M",
-    "4": "Chairman of the Electoral Commission of the Chukotka Autonomous Okrug. Head of the state body responsible for supporting the existing political regime in Russia through electoral fraud.",
-    "5": [
-      "Election fraud organizers"
-    ]
-  },
-  {
-    "0": "Гончаров Николай Александрович",
-    "1": "Goncharov Nikolai Alexandrovich",
     "2": "1984-01-13",
     "3": "M",
     "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "Members of Parliament and Senate"
+    ]
+  },
+  {
+    "0": "Гончаров Николай Александрович",
+    "1": "Goncharov Nikolai Alexandrovich",
+    "2": "1979-07-04",
+    "3": "M",
+    "4": "Chairman of the Electoral Commission of the Chukotka Autonomous Okrug. Head of the state body responsible for supporting the existing political regime in Russia through electoral fraud.",
+    "5": [
+      "Election fraud organizers"
     ]
   },
   {
@@ -15028,7 +15062,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -15232,7 +15267,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -17145,6 +17181,16 @@
     ]
   },
   {
+    "0": "Дронов Ярослав Ю́рьевич",
+    "1": "Dronov Yaroslav Yurievich",
+    "2": "22.11.1991",
+    "3": "M",
+    "4": "Russian pop singer, performing under the alias \"Shaman\". Actively supported the actions of the Russian authorities during the aggression against Ukraine.",
+    "5": [
+      "Sellout opinion leaders"
+    ]
+  },
+  {
     "0": "Дронова Александра Викторовна",
     "1": "Dronova Alexandra Viktorovna",
     "2": "1975-10-11",
@@ -17859,7 +17905,8 @@
     "3": "M",
     "4": "Evtushenkov is or has been involved in obtaining a benefit fromor supporting the Government of Russia by virtue of his ownership of OJSC JSFC Sistema, a conglomerate which has business interests in the Russian energy and information, communications and digital technologies sectors, which are sectors of strategic significance to the Government of Russia\nRussian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -20572,7 +20619,8 @@
     "3": "M",
     "4": "Son-in-law of Vladimir Putin, husband of Putin's daughter Yekaterina Tikhonova. Benefits materially from close ties to Vladimir Putin, using funds derived from corruption.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -24198,7 +24246,7 @@
   {
     "0": "Караулов Игорь Александрович",
     "1": "Karaulov Igor Alexandrovich",
-    "2": "1956-02-11",
+    "2": "1966-02-11",
     "3": "M",
     "4": "Poet, translator and publicist. Participant of the musical-patriotic marathon “Zа Россию” (For Russia). Said the following:\n “Want to publish a book? Kindly put a Z on the cover. If not, we will consider it subversive literature.”",
     "5": [
@@ -30780,7 +30828,7 @@
     "1": "Kuzovlyov Sergey Yurievich",
     "2": "07.01.1967",
     "3": "M",
-    "4": "Official of the Ministry of Defense of the Russian Federation. Commander of the Western Military District since December 13, 2022. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Former Commander of the Western Military District from December 13, 2022 to January 23, 2023. Commander of the Southern Military District since January 23, 2023. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
     "5": [
       "War Arrangers"
     ]
@@ -30983,7 +31031,8 @@
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Sverdlovsk Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -33081,7 +33130,8 @@
     "4": "Member of the Izborsk Club, which unites the ideologists of modern Russian authoritarianism and the war in Ukraine\nRussian propagandist: TV presenter and political commentator on Channel One; author and host of the program \"Odnako\" on Channel One; publisher and co-owner (along with Channel One) of weekly magazine \"Odnako,\"; Press secretary and vice president of Rosneft",
     "5": [
       "Warmongers",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -33415,7 +33465,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -35116,7 +35167,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -38379,7 +38431,8 @@
     "4": "Trusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.\nSecretary of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Putin’s Public Supporters",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -38389,7 +38442,8 @@
     "3": "M",
     "4": "Contributed money to the authorized capital of Dmitry Medvedev's \"charitable foundations\".\nRussian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -38712,7 +38766,8 @@
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nGovernor of Tyumen Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -41001,6 +41056,16 @@
     "4": "Prosecutor. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia.",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Никифоров Евгений Валерьевич",
+    "1": "Nikiforov Evgeny Valerievich",
+    "2": "01.01.1970",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Appointed Commander of the Western Military District on January 23, 2023. Commander of a grouping of Russian troops during the invasion of Ukraine.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -43626,7 +43691,8 @@
     "5": [
       "Senior Federal Officials",
       "Top Management of State Owned Companies",
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -44818,7 +44884,8 @@
     "4": "Publicly supported the aggressive war against Ukraine and the actions of Vladimir Putin's regime\nTrusted representative of presidential candidate Vladimir Putin. Trusted representatives ensured the re-election of Vladimir Putin, who has pursued an aggressive policy against Ukraine since 2014, in the non-competitive presidential election on March 18, 2018.",
     "5": [
       "Sellout opinion leaders",
-      "Putin’s Public Supporters"
+      "Putin’s Public Supporters",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -44936,22 +45003,22 @@
   {
     "0": "Пискарев Василий Иванович",
     "1": "Piskarev Vasily Ivanovich",
-    "2": "",
-    "3": "M",
-    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
-    "5": [
-      "Organizers of political repressions"
-    ]
-  },
-  {
-    "0": "Пискарев Василий Иванович",
-    "1": "Piskarev Vasily Ivanovich",
     "2": "1963-11-08",
     "3": "M",
     "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nMember of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
       "Members of Parliament and Senate"
+    ]
+  },
+  {
+    "0": "Пискарев Василий Иванович",
+    "1": "Piskarev Vasily Ivanovich",
+    "2": "",
+    "3": "M",
+    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
+    "5": [
+      "Organizers of political repressions"
     ]
   },
   {
@@ -46705,7 +46772,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.\nThe owner and president of Interros, one of the largest management companies in Russia (owns stakes in Norilsk Nickel, Rosa Khutor and Petrovaks Farm).",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -48726,7 +48794,8 @@
     "3": "M",
     "4": "Deputy Chairman of the Moscow City Electoral Commission. Adopted the Decision on remote electronic voting in the city of Moscow on September 19, 2021. Opposed the cancellation of the results of electronic voting, stating that all votes had been counted correctly. Performer of falsification of voting results at the elections to the State Duma of the Russian Federation in the city of Moscow in 2021. As a result of the falsification of the results of the remote electronic voting, the overall voting results in all constituencies were reversed, which led to the victory of pro-government candidates, who were losing according to the results of voting in ordinary polling stations.",
     "5": [
-      "Election fraud organizers"
+      "Election fraud organizers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -51744,11 +51813,12 @@
     "1": "Sviridenko Oleg Mikhailovich",
     "2": "1962-07-29",
     "3": "M",
-    "4": "As a public servant, Sviridenko must declare his income and real estate holdings. In order to avoid declaring a mansion on the French Riviera worth more than 700 thousand euro, and multiple luxury properties in Russia, he enacted a fraudulent \"divorce\" scheme so that all of the properties were registered in the name his \"former\" wife Natalya Poluychik.\nFrom 2014 to 2020 - Deputy Chairman of the Supreme Court of the Russian Federation. As a member of the Presidium of the Supreme Court of the Russian Federation, upheld the verdict against Oleg and Alexei Navalny in the Yves Rocher case, despite the ECtHR ruling that this verdict was unjust.\nCurrently serves as Deputy Minister of Justice of the Russian Federation; his responsibilities include, in particular, enforcement of the foreign agent law that requires anyone who receives \"support\" from outside of Russia or is under \"influence\" from outside of Russia to register and declare themselves as foreign agents. The law was specifically designed and is being used to constrain independent NGOs and suppress the opposition and free media.\nDeputy Minister of Justice of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "As a public servant, Sviridenko must declare his income and real estate holdings. In order to avoid declaring a mansion on the French Riviera worth more than 700 thousand euro, and multiple luxury properties in Russia, he enacted a fraudulent \"divorce\" scheme so that all of the properties were registered in the name his \"former\" wife Natalya Poluychik.\nDeputy Minister of Justice of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nFrom 2014 to 2020 - Deputy Chairman of the Supreme Court of the Russian Federation. As a member of the Presidium of the Supreme Court of the Russian Federation, upheld the verdict against Oleg and Alexei Navalny in the Yves Rocher case, despite the ECtHR ruling that this verdict was unjust.\nCurrently serves as Deputy Minister of Justice of the Russian Federation; his responsibilities include, in particular, enforcement of the foreign agent law that requires anyone who receives \"support\" from outside of Russia or is under \"influence\" from outside of Russia to register and declare themselves as foreign agents. The law was specifically designed and is being used to constrain independent NGOs and suppress the opposition and free media.",
     "5": [
       "Individuals involved in corruption",
+      "Senior Federal Officials",
       "Organizers of political repressions",
-      "Senior Federal Officials"
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -52718,7 +52788,8 @@
     "3": "M",
     "4": "Actor, special representative of the Russian Foreign Ministry for humanitarian relations between Russia and the United States (since 2018). Supported the actions of the Russian authorities in the occupied Ukrainian territories.",
     "5": [
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -52992,7 +53063,8 @@
     "3": "M",
     "4": "Businessman. Organizes mass public events among employees in support of the President of the Russian Federation Vladimir Putin and his policies, which include waging a war of aggression against Ukraine.",
     "5": [
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -55379,7 +55451,8 @@
     "4": "Member of the Izborsk Club, which unites the ideologists of modern Russian authoritarianism and the war in Ukraine\nRussian propagandist: writer, journalist, political activist; Commercial Director of Channel One (St. Petersburg); founder and leader of the Party of Patriots of the Great Fatherland",
     "5": [
       "Warmongers",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -57343,7 +57416,8 @@
     "5": [
       "Individuals involved in corruption",
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -59030,7 +59104,8 @@
       "Individuals involved in corruption",
       "“United Russia” party Functionaries",
       "Senior Federal Officials",
-      "War Arrangers"
+      "War Arrangers",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -61081,7 +61156,8 @@
     "3": "M",
     "4": "Deputy Minister of Defense of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -61089,7 +61165,7 @@
     "1": "Fomin Alexander Grigorievich",
     "2": "03.09.1979",
     "3": "M",
-    "4": "Founder of LLC Olimpstroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
+    "4": "Founder of LLC Olympcitystroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
     "5": [
       "Individuals involved in corruption"
     ]
@@ -61494,7 +61570,8 @@
     "3": "M",
     "4": "Assistant to the President of the Russian Federation. Assists in organizing and implementing actions and policies that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Senior Federal Officials"
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -61551,21 +61628,21 @@
   {
     "0": "Хабаров Александр Владимирович",
     "1": "Khabarov Alexander Vladimirovich",
-    "2": "1972-07-28",
-    "3": "M",
-    "4": "Russian propagandist: London bureau chief and own correspondent for VGTRK; London correspondent of Vesti and Vesti Nedeli programs on Russia 1 and Russia 24 TV channels",
-    "5": [
-      "Propagandists"
-    ]
-  },
-  {
-    "0": "Хабаров Александр Владимирович",
-    "1": "Khabarov Alexander Vladimirovich",
     "2": "1960-06-16",
     "3": "M",
     "4": "Deputy Director of the Federal Service of Punishment of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Senior Federal Officials"
+    ]
+  },
+  {
+    "0": "Хабаров Александр Владимирович",
+    "1": "Khabarov Alexander Vladimirovich",
+    "2": "1972-07-28",
+    "3": "M",
+    "4": "Russian propagandist: London bureau chief and own correspondent for VGTRK; London correspondent of Vesti and Vesti Nedeli programs on Russia 1 and Russia 24 TV channels",
+    "5": [
+      "Propagandists"
     ]
   },
   {
@@ -61608,7 +61685,8 @@
     "5": [
       "Individuals involved in corruption",
       "“United Russia” party Functionaries",
-      "Region Heads"
+      "Region Heads",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -61656,7 +61734,7 @@
     "1": "Khavronin Dmitry Alexandrovich",
     "2": "30.11.1976",
     "3": "M",
-    "4": "Founder of LLC Olimpstroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
+    "4": "Founder of LLC Olympcitystroy, a major contractor of the Ministry of Defense of Russia. According to credible data from a public investigation, he was involved in corruption schemes involving the Deputy Minister of Defense of Russia, Timur Ivanov.",
     "5": [
       "Individuals involved in corruption"
     ]
@@ -62616,21 +62694,21 @@
   {
     "0": "Хорохордин Олег Леонидович",
     "1": "Khorokhordin Oleg Leonidovich",
-    "2": "",
-    "3": "M",
-    "4": "Member of the Board of Directors of JSC GLONASS",
-    "5": [
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
-    "0": "Хорохордин Олег Леонидович",
-    "1": "Khorokhordin Oleg Leonidovich",
     "2": "1972-04-03",
     "3": "M",
     "4": "Head of the Altai Republic. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Region Heads"
+    ]
+  },
+  {
+    "0": "Хорохордин Олег Леонидович",
+    "1": "Khorokhordin Oleg Leonidovich",
+    "2": "",
+    "3": "M",
+    "4": "Member of the Board of Directors of JSC GLONASS",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -65067,7 +65145,8 @@
     "3": "M",
     "4": "Russian oligarch. Amid the war, he remains involved in the system of Russian political corruption, in which capital is an instrument for acquiring political influence, and political influence is a condition for preserving capital, at the highest level.",
     "5": [
-      "Individuals involved in corruption"
+      "Individuals involved in corruption",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -65805,7 +65884,8 @@
     "4": "Member of the Izborsk Club, which unites the ideologists of modern Russian authoritarianism and the war in Ukraine\nRussian propagandist: chief editor of the Internet portal Orthodoxy.Ru; Bishop of the Russian Orthodox Church, Metropolitan of Pskov and Porkhov; member of the Supreme Church Council of the Russian Orthodox Church of the Moscow Patriarchate; member of the public council under the Committee on Culture of the State Duma; confessor to Vladimir Putin",
     "5": [
       "Warmongers",
-      "Propagandists"
+      "Propagandists",
+      "Top bribetakers and warmongers"
     ]
   },
   {

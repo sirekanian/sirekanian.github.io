@@ -12,8 +12,8 @@
             },
             {
               "name": "Военнослужащие и пособники российской оккупации",
-              "number": 176,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_qE7dGh4.pdf"
+              "number": 177,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_TerLM5H.pdf"
             }
           ]
         },
@@ -202,8 +202,8 @@
           "lists": [
             {
               "name": "Звезды и блогеры",
-              "number": 157,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_ak81rR2.pdf"
+              "number": 161,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_r9ePYOm.pdf"
             },
             {
               "name": "Публичные сторонники Путина",
@@ -259,6 +259,11 @@
               "name": "Топ - 200 коррупционеров и разжигателей войны (Великобритания)",
               "number": 200,
               "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_0aao52q.pdf"
+            },
+            {
+              "name": "Топ-200 главных разжигателей войны для Европейского союза",
+              "number": 200,
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU.pdf"
             }
           ]
         },
@@ -267,13 +272,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 6823,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_2ukcVMr.pdf"
+              "number": 6828,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_g4zTE3z.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 6823,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_w2StsP7.csv"
+              "number": 6828,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_nPzJepN.csv"
             }
           ]
         },
@@ -374,6 +379,11 @@
               "name": "Изменения от 13.01.2023",
               "number": 21,
               "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_13.01.2023_cbXyNQH.pdf"
+            },
+            {
+              "name": "Изменения от 27.01.2023",
+              "number": 6,
+              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_27.01.2023.pdf"
             }
           ]
         }
