@@ -396,6 +396,7 @@
   "buildId": "641y_WYJA_ShIIkSsJp6x",
   "isFallback": false,
   "gsp": true,
+  "customServer": true,
   "locale": "ru",
   "locales": [
     "en",
