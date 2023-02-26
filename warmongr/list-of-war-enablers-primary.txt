@@ -12,8 +12,8 @@
             },
             {
               "name": "Military staff and accomplices of Russian occupation",
-              "number": 177,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_75TLURN.pdf"
+              "number": 196,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_lWzygRF.pdf"
             }
           ]
         },
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 591,
-              "file": "https://acf.international/acf-media/Investigations_subjects_f8VFb6m.pdf"
+              "number": 598,
+              "file": "https://acf.international/acf-media/Investigations_subjects_K1PPm58.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -52,8 +52,8 @@
             },
             {
               "name": "Oligarchs",
-              "number": 64,
-              "file": "https://acf.international/acf-media/Oligarchs_fbumF6e.pdf"
+              "number": 65,
+              "file": "https://acf.international/acf-media/Oligarchs_sMpo0BI.pdf"
             }
           ]
         },
@@ -73,7 +73,7 @@
             {
               "name": "Executive branch and presidential administration employees",
               "number": 496,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_3iROJgi.pdf"
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_fRrK9Aa.pdf"
             }
           ]
         },
@@ -107,8 +107,8 @@
           "lists": [
             {
               "name": "Vice-Governors",
-              "number": 652,
-              "file": "https://acf.international/acf-media/Vice-Governors_yHSwXIq.pdf"
+              "number": 799,
+              "file": "https://acf.international/acf-media/Vice-Governors_X6r62M4.pdf"
             },
             {
               "name": "Speakers of the regional legislative assemblies",
@@ -122,13 +122,13 @@
           "lists": [
             {
               "name": "Central Bank employees, board members",
-              "number": 19,
-              "file": "https://acf.international/acf-media/Central_Bank_employees_board_members_82meIE4.pdf"
+              "number": 33,
+              "file": "https://acf.international/acf-media/Central_Bank_employees_board_members_kKnVjr2.pdf"
             },
             {
               "name": "Heads of public funds",
-              "number": 32,
-              "file": "https://acf.international/acf-media/Heads_of_public_funds_xOqboQW.pdf"
+              "number": 41,
+              "file": "https://acf.international/acf-media/Heads_of_public_funds_BcrWIGE.pdf"
             }
           ]
         },
@@ -192,8 +192,8 @@
           "lists": [
             {
               "name": "Heads of the Central Election Commission and local election commissions",
-              "number": 108,
-              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_comm_Z7cICRQ.pdf"
+              "number": 113,
+              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_comm_ODf5JLu.pdf"
             }
           ]
         },
@@ -203,7 +203,7 @@
             {
               "name": "Celebrities, influencers and bloggers",
               "number": 161,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_2Nq0blN.pdf"
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_BIpSyDN.pdf"
             },
             {
               "name": "Public supporters of Putin",
@@ -247,8 +247,8 @@
           "lists": [
             {
               "name": "Managers and their deputies, board members and boards of directors",
-              "number": 439,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_srxhPev.pdf"
+              "number": 454,
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_us8ECai.pdf"
             }
           ]
         },
@@ -263,7 +263,12 @@
             {
               "name": "Top 200 bribetakers and warmongers (EU)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_plA77wA.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_mN3rHmH.pdf"
+            },
+            {
+              "name": "War Financers",
+              "number": 183,
+              "file": "https://acf.international/acf-media/War_Financers_INpr6G4.pdf"
             }
           ]
         },
@@ -272,13 +277,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 6828,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_HSIfR88.pdf"
+              "number": 7032,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_lKAd5b9.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 6828,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_U9AB8Sn.csv"
+              "number": 7032,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_L9hTWwA.csv"
             }
           ]
         },
@@ -384,6 +389,16 @@
               "name": "Changes from 27.01.2023",
               "number": 6,
               "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_27.01.2023_PPG4CgO.pdf"
+            },
+            {
+              "name": "Changes from 10.02.2023",
+              "number": 217,
+              "file": "https://acf.international/acf-media/Changes_from_10.02.2023_w05O2Rd.pdf"
+            },
+            {
+              "name": "Changes from 24.02.2023",
+              "number": 111,
+              "file": "https://acf.international/acf-media/Changes_from_24.02.2023_lBWmYL0.pdf"
             }
           ]
         }
