@@ -1,16 +1,5 @@
 [
   {
-    "0": "Cоколова Ирина Васильевна",
-    "1": "Sokolova Irina Vasilievna",
-    "2": "20.08.1951",
-    "3": "F",
-    "4": "Deputy Chairman of the Federal Compulsory Medical Insurance Fund\nFinanced Russia's aggressive war against Ukraine or managed finances in the interests of the Putin's regime or in order to maintain its stability by virtue of their position.",
-    "5": [
-      "State Bankers",
-      "Top bribetakers and warmongers"
-    ]
-  },
-  {
     "0": "Абазалиева Лариса Хасанбиевна",
     "1": "Abazalieva Larisa Khasanbievna",
     "2": "1967-08-23",
@@ -15902,16 +15891,6 @@
     ]
   },
   {
-    "0": "Дeмин Александр Викторович",
-    "1": "Demin Alexander Viktorovich",
-    "2": "1977-07-01",
-    "3": "M",
-    "4": "Deputy Head of the Federal Service for Ecological, Technological and Atomic Supervision of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
-    "5": [
-      "Senior Federal Officials"
-    ]
-  },
-  {
     "0": "Даваа Кан-Оол Тимурович",
     "1": "Davaa Kan-Ool Timurovich",
     "2": "1963-01-07",
@@ -16611,6 +16590,16 @@
     "4": "Judge of the Basmanny District Court of Moscow. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Демин Александр Викторович",
+    "1": "Demin Alexander Viktorovich",
+    "2": "1977-07-01",
+    "3": "M",
+    "4": "Deputy Head of the Federal Service for Ecological, Technological and Atomic Supervision of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -56477,6 +56466,17 @@
   {
     "0": "Соколова Ирина Васильевна",
     "1": "Sokolova Irina Vasilievna",
+    "2": "20.08.1951",
+    "3": "F",
+    "4": "Deputy Chairman of the Federal Compulsory Medical Insurance Fund\nFinanced Russia's aggressive war against Ukraine or managed finances in the interests of the Putin's regime or in order to maintain its stability by virtue of their position.",
+    "5": [
+      "State Bankers",
+      "Top bribetakers and warmongers"
+    ]
+  },
+  {
+    "0": "Соколова Ирина Васильевна",
+    "1": "Sokolova Irina Vasilievna",
     "2": "",
     "3": "F",
     "4": "Deputy Chairman of the Federal Compulsory Medical Insurance Fund of Russia",
@@ -63708,7 +63708,7 @@
     ]
   },
   {
-    "0": "Хазуев Aсламбек Шайхиевич",
+    "0": "Хазуев Асламбек Шайхиевич",
     "1": "Khazuev Aslambek Shaikhievich",
     "2": "1985-04-11",
     "3": "M",
