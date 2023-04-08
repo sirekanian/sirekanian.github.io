@@ -423,7 +423,7 @@
   },
   "page": "/list-of-war-enablers",
   "query": {},
-  "buildId": "Q0xhE9VdSNAKftCmZAiCI",
+  "buildId": "171fj42Mit_U444aO33xg",
   "isFallback": false,
   "gsp": true,
   "customServer": true,
