@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 618,
-              "file": "https://acf.international/acf-media/Investigations_subjects_YUKSJjA.pdf"
+              "number": 613,
+              "file": "https://acf.international/acf-media/Investigations_subjects_LVL5XOE.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -177,8 +177,8 @@
           "lists": [
             {
               "name": "Judges, prosecutors, state investigators",
-              "number": 848,
-              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_sweRAab.pdf"
+              "number": 852,
+              "file": "https://acf.international/acf-media/Organizers_of_political_repressions_ie3wJZI.pdf"
             },
             {
               "name": "Internet censors",
@@ -202,13 +202,13 @@
           "lists": [
             {
               "name": "Celebrities, influencers and bloggers",
-              "number": 163,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_phzziJ3.pdf"
+              "number": 162,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_brjWzCF.pdf"
             },
             {
               "name": "Public supporters of Putin",
-              "number": 92,
-              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_ozoESLC.pdf"
+              "number": 93,
+              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_SajIFQO.pdf"
             }
           ]
         },
@@ -247,8 +247,8 @@
           "lists": [
             {
               "name": "Managers and their deputies, board members and boards of directors",
-              "number": 456,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_2y3PzKg.pdf"
+              "number": 469,
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_amHrEbF.pdf"
             }
           ]
         },
@@ -263,7 +263,7 @@
             {
               "name": "Top 200 bribetakers and warmongers (EU)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_HqNwAaj.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_GBpqjZC.pdf"
             },
             {
               "name": "War Financers",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7068,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_jC1lTWX.pdf"
+              "number": 7079,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_DzFxRx8.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7050,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_5cLa5AX.csv"
+              "number": 7079,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_NrOhglU.csv"
             }
           ]
         },
@@ -414,6 +414,11 @@
               "name": "Changes from 31.03.2023",
               "number": 28,
               "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_31.03.2023_h0aeAd5.pdf"
+            },
+            {
+              "name": "Changes from 14.04.2023",
+              "number": 22,
+              "file": "https://acf.international/acf-media/Changes_from_14.04.2023_FMBnQJ8.pdf"
             }
           ]
         }

@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "enName": "Organizers of political repressions",
-    "enShortName": "Organizers of Repressions",
-    "ruName": "Организаторы политических репрессий",
-    "ruShortName": "Организаторы репрессий",
-    "count": 918
-  },
-  {
-    "id": 2,
     "enName": "Individuals involved in corruption",
     "enShortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 916
+    "count": 929
+  },
+  {
+    "id": 2,
+    "enName": "Organizers of political repressions",
+    "enShortName": "Organizers of Repressions",
+    "ruName": "Организаторы политических репрессий",
+    "ruShortName": "Организаторы репрессий",
+    "count": 922
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 772
+    "count": 771
   },
   {
     "id": 5,
@@ -65,19 +65,19 @@
   },
   {
     "id": 9,
+    "enName": "Top Management of State Owned Companies",
+    "enShortName": "Top Managers",
+    "ruName": "Руководители госкомпаний",
+    "ruShortName": "Руководители госкомпаний",
+    "count": 470
+  },
+  {
+    "id": 10,
     "enName": "Putin’s Public Supporters",
     "enShortName": "Putin’s Supporters",
     "ruName": "Публичные сторонники Путина",
     "ruShortName": "Сторонники Путина",
     "count": 468
-  },
-  {
-    "id": 10,
-    "enName": "Top Management of State Owned Companies",
-    "enShortName": "Top Managers",
-    "ruName": "Руководители госкомпаний",
-    "ruShortName": "Руководители госкомпаний",
-    "count": 456
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "enShortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 254
+    "count": 255
   },
   {
     "id": 13,
@@ -109,7 +109,7 @@
     "enShortName": "Election Fraud",
     "ruName": "Организаторы фальсификаций на выборах",
     "ruShortName": "Фальсификаторы выборов",
-    "count": 113
+    "count": 112
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "enShortName": "Region Heads",
     "ruName": "Главы регионов",
     "ruShortName": "Главы регионов",
-    "count": 89
+    "count": 92
   },
   {
     "id": 16,
