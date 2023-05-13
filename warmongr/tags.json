@@ -5,7 +5,7 @@
     "enShortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 929
+    "count": 931
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "enShortName": "Local Officials",
     "ruName": "Ключевые региональные чиновники",
     "ruShortName": "Региональные чиновники",
-    "count": 890
+    "count": 891
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
     "enShortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 501
+    "count": 504
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "enShortName": "Top Managers",
     "ruName": "Руководители госкомпаний",
     "ruShortName": "Руководители госкомпаний",
-    "count": 483
+    "count": 501
   },
   {
     "id": 10,
@@ -101,7 +101,7 @@
     "enShortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 236
+    "count": 237
   },
   {
     "id": 14,
