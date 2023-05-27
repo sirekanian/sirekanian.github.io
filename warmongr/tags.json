@@ -5,7 +5,7 @@
     "enShortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 931
+    "count": 934
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 771
+    "count": 770
   },
   {
     "id": 5,
@@ -49,11 +49,11 @@
   },
   {
     "id": 7,
-    "enName": "Key ‘siloviki’ (security forces) figures",
-    "enShortName": "Siloviki",
-    "ruName": "Ключевые силовики",
-    "ruShortName": "Cиловики",
-    "count": 513
+    "enName": "Top Management of State Owned Companies",
+    "enShortName": "Top Managers",
+    "ruName": "Руководители госкомпаний",
+    "ruShortName": "Руководители госкомпаний",
+    "count": 538
   },
   {
     "id": 8,
@@ -61,15 +61,15 @@
     "enShortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 504
+    "count": 526
   },
   {
     "id": 9,
-    "enName": "Top Management of State Owned Companies",
-    "enShortName": "Top Managers",
-    "ruName": "Руководители госкомпаний",
-    "ruShortName": "Руководители госкомпаний",
-    "count": 501
+    "enName": "Key ‘siloviki’ (security forces) figures",
+    "enShortName": "Siloviki",
+    "ruName": "Ключевые силовики",
+    "ruShortName": "Cиловики",
+    "count": 513
   },
   {
     "id": 10,

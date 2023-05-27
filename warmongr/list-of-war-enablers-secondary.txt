@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Герои расследований",
-              "number": 615,
-              "file": "https://acf.international/acf-media/Investigations_subjects_5NDOhas.pdf"
+              "number": 618,
+              "file": "https://acf.international/acf-media/Investigations_subjects_W82ZUZS.pdf"
             },
             {
               "name": "Герои региональных расследований",
@@ -247,8 +247,8 @@
           "lists": [
             {
               "name": "Руководители и их замы, члены правлений и советов директоров",
-              "number": 500,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_cTMMnQW.pdf"
+              "number": 537,
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_Jj5aWZ2.pdf"
             }
           ]
         },
@@ -258,12 +258,12 @@
             {
               "name": "Топ - 200 коррупционеров и разжигателей войны (Великобритания)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_GXwvpKL.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_Wt2QYvY.pdf"
             },
             {
               "name": "Топ-200 главных разжигателей войны для Европейского союза",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_ch9EWOx.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_Yw8QDrc.pdf"
             },
             {
               "name": "Финансисты войны",
@@ -273,7 +273,7 @@
             {
               "name": "Топ-200 главных разжигателей войны для США",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_kmpyAMC.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_1Y8WaKN.pdf"
             }
           ]
         },
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7108,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_k5DIKp4.pdf"
+              "number": 7162,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_LPZCFbk.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7108,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_z4zW7hL.csv"
+              "number": 7162,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_WhZTETD.csv"
             }
           ]
         },
@@ -429,6 +429,11 @@
               "name": "Изменения от 12.05.2023",
               "number": 39,
               "file": "https://acf.international/acf-media/Changes_from_12.05.2023.pdf"
+            },
+            {
+              "name": "Изменения от 26.05.2023",
+              "number": 95,
+              "file": "https://acf.international/acf-media/Changes_from_26.05.2023.pdf"
             }
           ]
         }
