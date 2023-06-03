@@ -443,7 +443,7 @@
   },
   "page": "/list-of-war-enablers",
   "query": {},
-  "buildId": "8BVoixlTS7yMyTUGwmNDK",
+  "buildId": "NpHaGOda3gEjW_6ggp26g",
   "isFallback": false,
   "gsp": true,
   "customServer": true,
