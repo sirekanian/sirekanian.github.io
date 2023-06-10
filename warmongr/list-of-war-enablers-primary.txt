@@ -177,8 +177,8 @@
           "lists": [
             {
               "name": "Judges, prosecutors, state investigators",
-              "number": 853,
-              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_CppQVIb.pdf"
+              "number": 852,
+              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_daFjsCM.pdf"
             },
             {
               "name": "Internet censors",
@@ -247,8 +247,8 @@
           "lists": [
             {
               "name": "Managers and their deputies, board members and boards of directors",
-              "number": 537,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_dLGuwgG.pdf"
+              "number": 610,
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_NmsiwwT.pdf"
             }
           ]
         },
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7162,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_9OXohYK.pdf"
+              "number": 7220,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_WSxxWVS.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7162,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_nNEB5Gn.csv"
+              "number": 7220,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_rFWtgfo.csv"
             }
           ]
         },
@@ -434,6 +434,11 @@
               "name": "Changes from 26.05.2022",
               "number": 95,
               "file": "https://acf.international/acf-media/Changes_from_26.05.2023_58sv1Et.pdf"
+            },
+            {
+              "name": "Changes from 09.06.2023",
+              "number": 117,
+              "file": "https://acf.international/acf-media/Changes_from_09.06.2023_lgutIqp.pdf"
             }
           ]
         }

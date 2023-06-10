@@ -13,7 +13,7 @@
     "enShortName": "Organizers of Repressions",
     "ruName": "Организаторы политических репрессий",
     "ruShortName": "Организаторы репрессий",
-    "count": 923
+    "count": 922
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 770
+    "count": 769
   },
   {
     "id": 5,
@@ -37,23 +37,23 @@
     "enShortName": "Parliament and Senate",
     "ruName": "Депутаты и сенаторы",
     "ruShortName": "Депутаты и сенаторы",
-    "count": 634
+    "count": 633
   },
   {
     "id": 6,
+    "enName": "Top Management of State Owned Companies",
+    "enShortName": "Top Managers",
+    "ruName": "Руководители госкомпаний",
+    "ruShortName": "Руководители госкомпаний",
+    "count": 611
+  },
+  {
+    "id": 7,
     "enName": "Warmongers",
     "enShortName": "Warmongers",
     "ruName": "Разжигатели войны",
     "ruShortName": "Разжигатели войны",
     "count": 564
-  },
-  {
-    "id": 7,
-    "enName": "Top Management of State Owned Companies",
-    "enShortName": "Top Managers",
-    "ruName": "Руководители госкомпаний",
-    "ruShortName": "Руководители госкомпаний",
-    "count": 538
   },
   {
     "id": 8,
