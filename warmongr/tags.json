@@ -5,7 +5,7 @@
     "enShortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 934
+    "count": 940
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "enShortName": "Organizers of Repressions",
     "ruName": "Организаторы политических репрессий",
     "ruShortName": "Организаторы репрессий",
-    "count": 922
+    "count": 920
   },
   {
     "id": 3,
@@ -29,23 +29,23 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 769
+    "count": 790
   },
   {
     "id": 5,
+    "enName": "Top Management of State Owned Companies",
+    "enShortName": "Top Managers",
+    "ruName": "Руководители госкомпаний",
+    "ruShortName": "Руководители госкомпаний",
+    "count": 636
+  },
+  {
+    "id": 6,
     "enName": "Members of Parliament and Senate",
     "enShortName": "Parliament and Senate",
     "ruName": "Депутаты и сенаторы",
     "ruShortName": "Депутаты и сенаторы",
     "count": 633
-  },
-  {
-    "id": 6,
-    "enName": "Top Management of State Owned Companies",
-    "enShortName": "Top Managers",
-    "ruName": "Руководители госкомпаний",
-    "ruShortName": "Руководители госкомпаний",
-    "count": 611
   },
   {
     "id": 7,

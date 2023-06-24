@@ -22,8 +22,8 @@
           "lists": [
             {
               "name": "Сотрудники федеральных медиа",
-              "number": 386,
-              "file": "https://acf.international/acf-media/Federal_media_wEzgXOm.pdf"
+              "number": 405,
+              "file": "https://acf.international/acf-media/Federal_media_oyVhmax.pdf"
             },
             {
               "name": "Главные редакторы и руководство региональных телеканалов",
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Герои расследований",
-              "number": 618,
-              "file": "https://acf.international/acf-media/Investigations_subjects_W82ZUZS.pdf"
+              "number": 624,
+              "file": "https://acf.international/acf-media/Investigations_subjects_uL7GTjl.pdf"
             },
             {
               "name": "Герои региональных расследований",
@@ -177,8 +177,8 @@
           "lists": [
             {
               "name": "Судьи, прокуроры, следователи",
-              "number": 852,
-              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_tBX60Hu.pdf"
+              "number": 850,
+              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_MOP6iHe.pdf"
             },
             {
               "name": "Организаторы цензуры в Интернете",
@@ -247,8 +247,8 @@
           "lists": [
             {
               "name": "Руководители и их замы, члены правлений и советов директоров",
-              "number": 610,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_LcDMSJx.pdf"
+              "number": 635,
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_4LNELxe.pdf"
             }
           ]
         },
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7220,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_8Fv26bM.pdf"
+              "number": 7260,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_gmKrr5c.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7220,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_FEL14Cb.csv"
+              "number": 7260,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_tOWcRS5.csv"
             }
           ]
         },
@@ -439,6 +439,11 @@
               "name": "Изменения от 09.06.2023",
               "number": 117,
               "file": "https://acf.international/acf-media/Changes_from_09.06.2023.pdf"
+            },
+            {
+              "name": "Изменения от 23.06.2023",
+              "number": 229,
+              "file": "https://acf.international/acf-media/Changes_from_23.06.2023.pdf"
             }
           ]
         }
@@ -448,7 +453,7 @@
   },
   "page": "/list-of-war-enablers",
   "query": {},
-  "buildId": "j-2elmJwjKSNK6hGQ9pL5",
+  "buildId": "PI37vRfFIipDrK60zrKHv",
   "isFallback": false,
   "gsp": true,
   "customServer": true,

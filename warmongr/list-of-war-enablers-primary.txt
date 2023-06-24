@@ -22,8 +22,8 @@
           "lists": [
             {
               "name": "Federal media",
-              "number": 386,
-              "file": "https://acf.international/acf-media/Federal_media_ckc57W9.pdf"
+              "number": 405,
+              "file": "https://acf.international/acf-media/Federal_media_yIYqkV7.pdf"
             },
             {
               "name": "Chief editors and management of regional TV channels",
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 618,
-              "file": "https://acf.international/acf-media/Investigations_subjects_DK0nsAm.pdf"
+              "number": 624,
+              "file": "https://acf.international/acf-media/Investigations_subjects_fmo1HU2.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -177,8 +177,8 @@
           "lists": [
             {
               "name": "Judges, prosecutors, state investigators",
-              "number": 852,
-              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_daFjsCM.pdf"
+              "number": 850,
+              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_hOTb2i7.pdf"
             },
             {
               "name": "Internet censors",
@@ -247,8 +247,8 @@
           "lists": [
             {
               "name": "Managers and their deputies, board members and boards of directors",
-              "number": 610,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_NmsiwwT.pdf"
+              "number": 635,
+              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_hOR4oPo.pdf"
             }
           ]
         },
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7220,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_WSxxWVS.pdf"
+              "number": 7260,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_kFoppUu.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7220,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_rFWtgfo.csv"
+              "number": 7260,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_gipH8qr.csv"
             }
           ]
         },
@@ -439,6 +439,11 @@
               "name": "Changes from 09.06.2023",
               "number": 117,
               "file": "https://acf.international/acf-media/Changes_from_09.06.2023_lgutIqp.pdf"
+            },
+            {
+              "name": "Changes from 23.06.2023",
+              "number": 229,
+              "file": "https://acf.international/acf-media/Changes_from_23.06.2023_1oxJxGR.pdf"
             }
           ]
         }
@@ -448,7 +453,7 @@
   },
   "page": "/list-of-war-enablers",
   "query": {},
-  "buildId": "j-2elmJwjKSNK6hGQ9pL5",
+  "buildId": "PI37vRfFIipDrK60zrKHv",
   "isFallback": false,
   "gsp": true,
   "customServer": true,
