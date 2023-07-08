@@ -12,8 +12,8 @@
             },
             {
               "name": "Военнослужащие и пособники российской оккупации",
-              "number": 206,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_E9IsXA8.pdf"
+              "number": 207,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_2Ysod36.pdf"
             }
           ]
         },
@@ -27,8 +27,8 @@
             },
             {
               "name": "Главные редакторы и руководство региональных телеканалов",
-              "number": 149,
-              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_FE8sdvl.pdf"
+              "number": 158,
+              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_7JsP3pA.pdf"
             },
             {
               "name": "Региональная пресса",
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Герои расследований",
-              "number": 624,
-              "file": "https://acf.international/acf-media/Investigations_subjects_uL7GTjl.pdf"
+              "number": 629,
+              "file": "https://acf.international/acf-media/Investigations_subjects_juaIppM.pdf"
             },
             {
               "name": "Герои региональных расследований",
@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Сотрудники органов исполнительной власти и администрации президента",
-              "number": 504,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_bOrmkjx.pdf"
+              "number": 542,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_o0K0a0R.pdf"
             }
           ]
         },
@@ -167,8 +167,8 @@
             },
             {
               "name": "Прокуратура",
-              "number": 120,
-              "file": "https://acf.international/acf-media/Prosecutors_Office.pdf"
+              "number": 119,
+              "file": "https://acf.international/acf-media/Prosecutors_Office_d2k2J51.pdf"
             }
           ]
         },
@@ -207,8 +207,8 @@
             },
             {
               "name": "Публичные сторонники Путина",
-              "number": 93,
-              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_JvTibVF.pdf"
+              "number": 92,
+              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_qTVqSmn.pdf"
             }
           ]
         },
@@ -263,7 +263,7 @@
             {
               "name": "Топ-200 главных разжигателей войны для Европейского союза",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_Yw8QDrc.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_ODESlPP.pdf"
             },
             {
               "name": "Финансисты войны",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7260,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_gmKrr5c.pdf"
+              "number": 7290,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf__VyMG01F.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7260,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_tOWcRS5.csv"
+              "number": 7290,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_iucY59s.csv"
             }
           ]
         },
@@ -444,6 +444,11 @@
               "name": "Изменения от 23.06.2023",
               "number": 229,
               "file": "https://acf.international/acf-media/Changes_from_23.06.2023.pdf"
+            },
+            {
+              "name": "Изменения от 07.07.2023",
+              "number": 63,
+              "file": "https://acf.international/acf-media/Changes_from_07.07.2023.pdf"
             }
           ]
         }

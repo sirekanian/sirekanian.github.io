@@ -2527,6 +2527,16 @@
     ]
   },
   {
+    "0": "Анкуд Наталья Рашидовна",
+    "1": "Ankud Natalya Rashidovna",
+    "2": "",
+    "3": "F",
+    "4": "Director of Yugoria State TV and Radio Broadcasting Company. Head of a state-controlled propaganda media outlet supporting Russia's aggression against Ukraine.",
+    "5": [
+      "Propagandists"
+    ]
+  },
+  {
     "0": "Анненкова Елена Анатольевна",
     "1": "Annenkova Elena Anatolievna",
     "2": "1978-03-28",
@@ -2700,21 +2710,21 @@
   {
     "0": "Антонов Владимир Николаевич",
     "1": "Antonov Vladimir Nikolaevich",
-    "2": "",
-    "3": "M",
-    "4": "Member of the Management Board of PJSC Aeroflot",
-    "5": [
-      "Top Management of State Owned Companies"
-    ]
-  },
-  {
-    "0": "Антонов Владимир Николаевич",
-    "1": "Antonov Vladimir Nikolaevich",
     "2": "1979-12-24",
     "3": "M",
     "4": "Deputy Chairman of the Government of the self-proclaimed Donetsk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
     "5": [
       "War Arrangers"
+    ]
+  },
+  {
+    "0": "Антонов Владимир Николаевич",
+    "1": "Antonov Vladimir Nikolaevich",
+    "2": "",
+    "3": "M",
+    "4": "Member of the Management Board of PJSC Aeroflot",
+    "5": [
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -4127,6 +4137,16 @@
     "4": "Deputy Chairman of the Government of the Republic of Mari El. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Бадмаев Дмитрий Игоревич",
+    "1": "Badmaev Dmitry Igorevich",
+    "2": "02.04.1979",
+    "3": "M",
+    "4": "Director, of Buryatia State TV and Radio Broadcasting Company. Head of a state-controlled propaganda media outlet that supports Russian aggression against Ukraine.",
+    "5": [
+      "Propagandists"
     ]
   },
   {
@@ -6569,6 +6589,16 @@
     "4": "Judge of the Kirovsky District Court of Ufa. Involved in the arrest of Navalny's supporter Lilia Chanysheva in a fabricated \"extremism case\"",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Биленкина Инна Петровна",
+    "1": "Bilenkina Inna Petrovna",
+    "2": "27.07.1963",
+    "3": "F",
+    "4": "Head of the Directorate for Scientific and Educational Policy of the Presidential Administration of the Russian Federation. Heads the structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -9840,7 +9870,7 @@
     "1": "Varfolomeev Alexander Georgievich",
     "2": "1965-06-04",
     "3": "M",
-    "4": "Member of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.\nDirector, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"BURYATIA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Member of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.\nFormer director of Buryatia State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Members of Parliament and Senate",
       "Propagandists"
@@ -13123,9 +13153,9 @@
   {
     "0": "Гербер Олег Викторович",
     "1": "Gerber Oleg Viktorovych",
-    "2": "",
+    "2": "22.10.1982",
     "3": "M",
-    "4": "CEO, OJSC \"REGIONAL TELEVISION\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "General Director of OJSC Regional Televison. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -13375,9 +13405,9 @@
   {
     "0": "Гималтдинов Фирдус Салихович",
     "1": "Gimaltdinov Firdus Salikhovich",
-    "2": "",
+    "2": "18.04.1980",
     "3": "M",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"TATARSTAN\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Tatarstan State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -13800,9 +13830,9 @@
   {
     "0": "Говорщенко Олег Николаевич",
     "1": "Govorschenko Oleg Nikolaevych",
-    "2": "",
+    "2": "31.08.1969",
     "3": "M",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"ALTAI\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Altai State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -13985,7 +14015,7 @@
     "1": "Golovashkina Natalia Vyacheslavovna",
     "2": "",
     "3": "F",
-    "4": "General Director, LIMITED LIABILITY COMPANY \"TV RADIO COMPANY \"NIKA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former General Director of Nika TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -14974,10 +15004,10 @@
     "1": "Gorshenin Oleg Vladimirovich",
     "2": "08.07.1978",
     "3": "M",
-    "4": "Russian military official. Head of the National Defense Control Center of the Russian Federation. In his position, he participates in strengthening the combat capability of the Russian army during the invasion of Ukraine.\nRussian military official. Head of the National Defense Control Center of the Russian Federation. On December 20, 2022, Mikhail Gorshenin was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.",
+    "4": "Russian military official. Head of the National Defense Control Center of the Russian Federation. On December 20, 2022, Mikhail Gorshenin was included by Vladimir Putin in the working group to ensure the interaction of public authorities and organizations on issues of mobilization training and mobilization. By facilitating mobilization, he assists the Russian aggression against Ukraine.\nRussian military official. Head of the National Defense Control Center of the Russian Federation. In his position, he participates in strengthening the combat capability of the Russian army during the invasion of Ukraine.",
     "5": [
-      "War Arrangers",
-      "Sellout opinion leaders"
+      "Sellout opinion leaders",
+      "War Arrangers"
     ]
   },
   {
@@ -18312,9 +18342,9 @@
   {
     "0": "Дрейлих Виктор Валерьевич",
     "1": "Dreilikh Viktor Valerievich",
-    "2": "",
+    "2": "11.01.1961",
     "3": "M",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"OKA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Oka State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -20410,9 +20440,9 @@
   {
     "0": "Жданова Лариса Вячеславовна",
     "1": "Zhdanova Larisa Viacheslavovna",
-    "2": "",
+    "2": "03.01.1963",
     "3": "F",
-    "4": "Director, \"STATE TELEVISION AND RADIO BROADCASTING COMPANY \"KARELIA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Karelia State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -21583,7 +21613,7 @@
     "1": "Zarafutdinov Rustam Rishatovich",
     "2": "",
     "3": "M",
-    "4": "Director, STATE UNITARY ENTERPRISE TV AND RADIO BROADCASTING COMPANY \"BASHKORTOSTAN\" OF THE REPUBLIC OF BASHKORTOSTAN. Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Bashkortostan TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -21954,9 +21984,9 @@
   {
     "0": "Зверева Стелла Борисовна",
     "1": "Zvereva Stella Borisovna",
-    "2": "",
+    "2": "10.09.1966",
     "3": "F",
-    "4": "Director, \"STATE TELEVISION AND RADIO BROADCASTING COMPANY \"LOTOS\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Lotos State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -22057,9 +22087,9 @@
   {
     "0": "Зеленый Назарий Михайлович",
     "1": "Zeleny Nazary Mikhailovich",
-    "2": "",
+    "2": "23.11.1971",
     "3": "M",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"NIZHNY NOVGOROD\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Nizhny Novgorod State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -24004,9 +24034,9 @@
   {
     "0": "Ильина Наталья Геннадьевна",
     "1": "Ilina Natalia Gennadevna",
-    "2": "",
+    "2": "02.08.1971",
     "3": "F",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"KALININGRAD\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Kaliningrad State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -24163,6 +24193,16 @@
     "4": "Director of the newspaper \"Kugarnia\" (owned by the Government of the Mari El Republic)",
     "5": [
       "Propagandists"
+    ]
+  },
+  {
+    "0": "Инкин Сергей Юрьевич",
+    "1": "Inkin Sergey Yurievich",
+    "2": "06.03.1972",
+    "3": "M",
+    "4": "Business partner of Evgeny Prigozhin, a Russian businessman who, on behalf of Vladimir Putin and with the money of the Russian state, created the Wagner Private Military Company, which took an active part in Russian aggression against Ukraine, in military conflicts in Africa and Syria. Evgeny Prigozhin also persecuted Russian opposition politicians and journalists for many years on behalf of and at the expense of the Putin regime and led disinformation campaigns in Russia and abroad.\n\nSergei Inkin's companies make purchases from Evgeny Prigozhin's companies, which are under international sanctions. Thus, Sergey Inkin violates the restrictive measures and helps Yevgeny Prigozhin extract profits.",
+    "5": [
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -24809,6 +24849,16 @@
     ]
   },
   {
+    "0": "Казаков Андрей Анатольевич",
+    "1": "Kazakov Andrey Anatolyevich",
+    "2": "",
+    "3": "M",
+    "4": "Head of the Office of the President of the Russian Federation (structural subdivision of the Presidential Administration of the Russian Federation). Heads the structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
+    ]
+  },
+  {
     "0": "Казаков Виктор Алексеевич",
     "1": "Kazakov Viktor Alekseevich",
     "2": "1949-04-04",
@@ -25080,11 +25130,11 @@
     ]
   },
   {
-    "0": "Каклюгин Алексей Валерьев",
+    "0": "Каклюгин Алексей Валерьевич",
     "1": "Kaklyugin Alexey Valerievich",
     "2": "",
     "3": "M",
-    "4": "General Director, JOINT STOCK COMPANY \"TELEKANAL 360\", Moscow region. Involved in Russian propaganda of the war against Ukraine.",
+    "4": "General Director of JSC 360 TV Channel. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -25420,16 +25470,6 @@
     "2": "",
     "3": "M",
     "4": "Acting General Director,REGIONAL STATE BUDGETARY INSTITUTION \"PUBLIC TELEVISION OF PRIMORYE\". Involved in Russian propaganda of the war against Ukraine.",
-    "5": [
-      "Propagandists"
-    ]
-  },
-  {
-    "0": "Каманина Галина Анатольевна",
-    "1": "Kamanina Galina Anatolyevna",
-    "2": "",
-    "3": "F",
-    "4": "Director, \"STATE TELEVISION AND RADIO BROADCASTING COMPANY \"CHITA\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -26271,9 +26311,9 @@
   {
     "0": "Карушкина Яна Анатольевна",
     "1": "Karushkina Iana Anatolevna",
-    "2": "",
+    "2": "13.12.1983",
     "3": "F",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"YAROSLAVIA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Yaroslavia State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -27201,7 +27241,7 @@
     "1": "Kireeva Tatyana Vladimirovna",
     "2": "",
     "3": "F",
-    "4": "Director, REGIONAL STATE AUTONOMOUS INSTITUTION \"Director,ATE OF REGIONAL TV PROGRAMS\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former Director of Regional Autonomous State Institution \"Directorate of Regional TV Programs\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -27644,6 +27684,16 @@
     "2": "1972-09-20",
     "3": "M",
     "4": "Russian propagandist: Director of the Directorate of Information Programs, Deputy General Director, member of the Board of Directors of Channel One; TV presenter; Member of the Council for the Prizes of the Government of the Russian Federation in the field of mass media",
+    "5": [
+      "Propagandists"
+    ]
+  },
+  {
+    "0": "Клеймёнов Максим Анатольевич",
+    "1": "Kleymenov Maxim Anatolievich",
+    "2": "",
+    "3": "M",
+    "4": "Director of LLC Tverskoi Prospect TV and Radio Company. Head of a state-controlled propaganda media outlet that supports Russian aggression against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -28765,6 +28815,16 @@
     "4": "Deputy Chairman of the Government of Krasnoyarsk Krai . Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Козырь Екатерина Александровна",
+    "1": "Kozyr Ekaterina Alexandrovna",
+    "2": "18.12.1980",
+    "3": "F",
+    "4": "General Director of Nika TV and Radio Broadcasting Company. Head of a state-controlled propaganda media outlet that supports Russian aggression against Ukraine.",
+    "5": [
+      "Propagandists"
     ]
   },
   {
@@ -29933,9 +29993,9 @@
   {
     "0": "Кончева Татьяна Анатольевна",
     "1": "Koncheva Tatyana Anatolyevna",
-    "2": "",
+    "2": "06.04.1976",
     "3": "F",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY GORNY ALTAI. Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Gorny Altai State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -31080,6 +31140,16 @@
     "4": "Judge of the Lefortovsky District Court of Moscow. She extended the arrest of Ukrainian director Oleg Sentsov and Ukrainian activist Alexander Kolchenko. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia, in particular, sentenced Alexei Navalny to 9 years in a strict regime colony on a fabricated case of fraud and contempt of court.",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Котова Наталья Михайловна",
+    "1": "Kotova Natalya Mikhailovna",
+    "2": "",
+    "3": "F",
+    "4": "Director of Regional Autonomous State Institution \"Directorate of Regional TV Programs\". Head of a state-controlled propaganda media outlet that supports Russian aggression against Ukraine.",
+    "5": [
+      "Propagandists"
     ]
   },
   {
@@ -32235,6 +32305,16 @@
     ]
   },
   {
+    "0": "Крылова Елена Леонидовна",
+    "1": "Krylova Elena Leonidovna",
+    "2": "22.09.1971",
+    "3": "F",
+    "4": "Director of Samara State TV and Radio Broadcasting Company. Head of a state-controlled propaganda media outlet that supports Russian aggression against Ukraine.",
+    "5": [
+      "Propagandists"
+    ]
+  },
+  {
     "0": "Крымова Лариса Львовна",
     "1": "Krymova Larisa Lvovna",
     "2": "",
@@ -32708,7 +32788,7 @@
     "1": "Kuznetsov Dmitry Vyacheslavovych",
     "2": "",
     "3": "M",
-    "4": "CEO AUTONOMOUS INSTITUTION OF THE REPUBLIC OF KHAKASIA \"INFORMATION TELEVISION CENTER \"KHAKASIA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former General Director of Khakasia Informational Televison Center. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -33371,6 +33451,16 @@
     ]
   },
   {
+    "0": "Куликова Анна Александровна",
+    "1": "Kulikova Anna Alexandrovna",
+    "2": "06.12.1979",
+    "3": "F",
+    "4": "Head of the Protocol Directorate of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
+    ]
+  },
+  {
     "0": "Куликовских Нина Германовна",
     "1": "Kulikovskikh Nina Germanovna",
     "2": "1961-02-05",
@@ -33498,6 +33588,16 @@
     "2": "",
     "3": "M",
     "4": "Editor-in-Chief of the magazine \"Agidel\" (owned by the Press and Mass Media Agency for the Republic of Bashkortostan)",
+    "5": [
+      "Propagandists"
+    ]
+  },
+  {
+    "0": "Кунгуров Игорь Геннадьевич",
+    "1": "Kungurov Igor Gennadievich",
+    "2": "01.01.1972",
+    "3": "M",
+    "4": "Director of Chita State TV and Radio Broadcasting Company. Head of a state-controlled propaganda media outlet that supports Russian aggression against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -33946,6 +34046,16 @@
     ]
   },
   {
+    "0": "Кутьина Дарья Игоревна",
+    "1": "Kutina Daria Igorevna",
+    "2": "",
+    "3": "F",
+    "4": "Director of LLC Astrakhan Regional TV Channel. Head of a state-controlled propaganda media outlet that supports Russian aggression against Ukraine.",
+    "5": [
+      "Propagandists"
+    ]
+  },
+  {
     "0": "Куулар Тимур Борисович",
     "1": "Kuular Timur Borisovich",
     "2": "1971-08-20",
@@ -33980,7 +34090,7 @@
     "1": "Kutsevalov Konstantin Aleksandrovich",
     "2": "",
     "3": "M",
-    "4": "STATE AUTONOMOUS INSTITUTION OF THE REPUBLIC OF TYVA \"PUBLISHING HOUSE \"TYVAMEDIAGROUP\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former Director of TyvaMediaGroup Publishing House. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -35328,9 +35438,9 @@
   {
     "0": "Леонтьев Илья Юрьевич",
     "1": "Leontiev Ilya Yurievich",
-    "2": "",
+    "2": "10.02.1978",
     "3": "M",
-    "4": "Director of LIMITED LIABILITY COMPANY \"VESHCHATEL\". Founder of channel Saratov 24. Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of LLC Veshchatel. Founder of Saratov 24 TV channel. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -35340,12 +35450,12 @@
     "1": "Leontyev (Leontiev) Mikhail Vladimirovich",
     "2": "1958-10-12",
     "3": "M",
-    "4": "Advisor to the President of PJSC Rosneft Igor Sechin in the rank of Vice President of PJSC Rosneft for PR\nRussian propagandist: TV presenter and political commentator on Channel One; author and host of the program \"Odnako\" on Channel One; publisher and co-owner (along with Channel One) of weekly magazine \"Odnako,\"; Press secretary and vice president of Rosneft\nMember of the Izborsk Club, which unites the ideologists of modern Russian authoritarianism and the war in Ukraine",
+    "4": "Russian propagandist: TV presenter and political commentator on Channel One; author and host of the program \"Odnako\" on Channel One; publisher and co-owner (along with Channel One) of weekly magazine \"Odnako,\"; Press secretary and vice president of Rosneft\nMember of the Izborsk Club, which unites the ideologists of modern Russian authoritarianism and the war in Ukraine\n\n\nAdvisor to the President of PJSC Rosneft Igor Sechin in the rank of Vice President of PJSC Rosneft for PR",
     "5": [
-      "Top bribetakers and warmongers",
-      "Top Management of State Owned Companies",
       "Propagandists",
-      "Warmongers"
+      "Warmongers",
+      "Top bribetakers and warmongers",
+      "Top Management of State Owned Companies"
     ]
   },
   {
@@ -36171,6 +36281,16 @@
     "4": "Senior Investigator of the Second Investigation Department of the First Directorate for the Investigation of Particularly Important Cases (on crimes against the person and public safety) of the Main Investigative Directorate of the Investigative Committee of the Russian Federation for Moscow. Involved in the fabrication of the “FBK case”",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Локаткина Татьяна Александровна",
+    "1": "Lokatkina Tatyana Alexandrovna",
+    "2": "24.06.1974",
+    "3": "F",
+    "4": "Head of the Directorate for Ensuring the Constitutional Rights of Citizens of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -38881,6 +39001,16 @@
     ]
   },
   {
+    "0": "Маслов Игорь Венидиктович",
+    "1": "Maslov Igor Venidiktovich",
+    "2": "18.10.1960",
+    "3": "M",
+    "4": "Head of the Directorate for Interregional and Cultural Relations with Foreign Countries of the Presidential Administration of the Russian Federation. Heads the structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
+    ]
+  },
+  {
     "0": "Маслова (Мухомор) Светлана Борисовна",
     "1": "Maslova (Mukhomor) Svetlana Borisovna",
     "2": "1967-07-12",
@@ -38989,6 +39119,16 @@
     "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.",
     "5": [
       "Members of Parliament and Senate"
+    ]
+  },
+  {
+    "0": "Матвеева Татьяна Владимировна",
+    "1": "Matveeva Tatiana Vladimirovna",
+    "2": "04.01.1976",
+    "3": "F",
+    "4": "Head of the Directorate for the Development of Information and Communication Technologies and Communications Infrastructure of the Presidential Administration of the Russian Federation. Heads the structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -40973,6 +41113,16 @@
     "4": "Actively supported Russia's aggression against Ukraine. Assisted the occupation administration on the territory of the Zaporizhzhia Oblast of Ukraine in the integration of this territory into Russia.",
     "5": [
       "War Arrangers"
+    ]
+  },
+  {
+    "0": "Михайловский Михаил Геннадьевич",
+    "1": "Mikhailovsky Mikhail Gennadievich",
+    "2": "27.06.1961",
+    "3": "M",
+    "4": "Head of the Directorate for Work with Appeals of Citizens and Organizations of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -43090,6 +43240,17 @@
     ]
   },
   {
+    "0": "Неверов Игорь Святославович",
+    "1": "Neverov Igor Svyatoslavovich",
+    "2": "20.06.1956",
+    "3": "M",
+    "4": "Head of the Foreign Policy Directorate of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
+    ]
+  },
+  {
     "0": "Неверов Руслан Шавкятевич",
     "1": "Neverov Ruslan Shavkyatevich",
     "2": "",
@@ -44497,10 +44658,10 @@
   },
   {
     "0": "Новиков Сергей Геннадьевич",
-    "1": "Novikov Sergey Gennadievich",
+    "1": "Novikov Sergey Gennadyevich",
     "2": "06.11.1977",
     "3": "M",
-    "4": "Head of the Presidential Directorate for Public Projects of the Russian Federation. As a member of the Coordinating Committee of the Presidential Fund for Cultural Initiatives, he participates in the financing of propaganda for the war against Ukraine through allocation of grants from the federal budget for propaganda projects.",
+    "4": "Head of the Department of Public Projects of the Presidential Administration of the Russian Federation. Heads the structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
     "5": [
       "Senior Federal Officials"
     ]
@@ -45259,9 +45420,9 @@
   {
     "0": "Оленев Евгений Валерьевич",
     "1": "Olenev Evgenii Valerevich",
-    "2": "",
+    "2": "05.07.1970",
     "3": "M",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"VLADIVOSTOK\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Vladivostok State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -45781,6 +45942,16 @@
     "4": "Former Deputy Governor of the Pskov Oblast for housing and communal services, construction and road facilities, tariffs and energy. Managed a regional state body of the Russian Federation that supported or implemented actions or policies that undermined or threatened the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Осипов Владимир Борисович",
+    "1": "Osipov Vladimir Borisovich",
+    "2": "21.05.1950",
+    "3": "M",
+    "4": "Head of the Directorate for State Awards of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -50391,9 +50562,9 @@
     "1": "Prigozhin Evgeny Viktorovich",
     "2": "01.06.1961",
     "3": "M",
-    "4": "Russian businessman who benefits from his close ties to the Russian authorities. Involved in organizing propaganda campaigns in the interests of the Russian authorities and formation of mercenary units fighting on the side of Russia in Ukraine, Syria and Africa.",
+    "4": "Russian businessman. Was involved in organization of propaganda campaigns in the interests of the Russian authorities and formation of mercenary units (Wagner PMC) fighting on the side of Russia in Ukraine, Syria and Africa.",
     "5": [
-      "Sellout opinion leaders"
+      "War Arrangers"
     ]
   },
   {
@@ -50406,6 +50577,46 @@
       "Top bribetakers and warmongers",
       "Sellout opinion leaders",
       "Putin’s Public Supporters"
+    ]
+  },
+  {
+    "0": "Пригожин Павел Евгеньевич",
+    "1": "Prigozhin Pavel Evgenievich",
+    "2": "8.06.1998",
+    "3": "M",
+    "4": "Son of Yevgeny Prigozhin, a Russian businessman who created the Wagner PMC on behalf of Vladimir Putin and using the money from the Russian state. Wagner PMC took an active part in the Russian invasion of Ukraine, as well as military conflicts in Africa and Syria. Yevgeny Prigozhin also persecuted Russian opposition politicians and journalists for many years on behalf of and at the expense of the Putin regime and led misinformation campaigns in Russia and abroad.\n\nAccording to a noteworthy public investigation, Pavel Prigozhin is the nominal owner of his father's assets, participating in the circumvention of sanctions imposed against Yevgeny Prigozhin and the concealment of his illegally obtained wealth.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Пригожина Вероника Евгеньевна",
+    "1": "Prigozhina Veronika Evgenievna",
+    "2": "19.03.2005",
+    "3": "F",
+    "4": "Daughter of Yevgeny Prigozhin, a Russian businessman who created the Wagner PMC on behalf of Vladimir Putin and using the money from the Russian state. Wagner PMC took an active part in the Russian invasion of Ukraine, as well as military conflicts in Africa and Syria. Yevgeny Prigozhin also persecuted Russian opposition politicians and journalists for many years on behalf of and at the expense of the Putin regime and led misinformation campaigns in Russia and abroad.\n\nAccording to a noteworthy public investigation, Veronika Prigozhina is the nominal owner of her father's assets, participating in the circumvention of the sanctions imposed against Yevgeny Prigozhin and the concealment of his illegally obtained wealth.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Пригожина Екатерина Сергеевна",
+    "1": "Prigozhina Ekaterina Sergeevna",
+    "2": "01.03.1999",
+    "3": "F",
+    "4": "Wife of Yevgeny Prigozhin's son. Yevgeny Prigozhin is a Russian businessman who created the Wagner PMC on behalf of Vladimir Putin and using the money from the Russian state. Wagner PMC took an active part in the Russian invasion of Ukraine, as well as military conflicts in Africa and Syria. Yevgeny Prigozhin also persecuted Russian opposition politicians and journalists for many years on behalf of and at the expense of the Putin regime and led misinformation campaigns in Russia and abroad.\n\nAccording to a noteworthy public investigation, Yevgeny Prigozhin's son (Ekaterina Prigozhina's husband) is the nominal owner of his father's assets, participating in the circumvention of sanctions imposed against Yevgeny Prigozhin and the concealment of his illegally obtained wealth. Ekaterina Prigozhina benefits from the illegal actions of her husband and his father and is a nominal co-owner of Yevgeny Prigozhin's property.",
+    "5": [
+      "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Пригожина Полина Евгеньевна",
+    "1": "Prigozhina Polina Evgenievna",
+    "2": "15.08.1992",
+    "3": "F",
+    "4": "The daughter of Yevgeny Prigozhin, a Russian businessman who, on behalf of Vladimir Putin and with the money of the Russian state, created the Private Military Company \"Wagner\", which took an active part in Russian aggression against Ukraine, in military conflicts in Africa and Syria. Evgeny Prigozhin also persecuted Russian opposition politicians and journalists for many years on behalf of and at the expense of the Putin regime and led disinformation campaigns in Russia and abroad.\n\nAccording to the noteworthy public investigation, Polina Prigozhina is the nominal owner of her father's assets, participating in the circumvention of the sanctions imposed against Yevgeny Prigozhin and the concealment of illegally obtained wealth.",
+    "5": [
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -51488,7 +51699,7 @@
     "1": "Radchenko Angelina Sergeevna",
     "2": "",
     "3": "F",
-    "4": "CEO, LIMITED LIABILITY COMPANY \"ASTRAKHAN REGIONAL CHANNEL\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former General Director of LLC Astrakhan Regional TV Channel. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -51816,9 +52027,9 @@
   {
     "0": "Расулова Элеонора Арифовна",
     "1": "Rasulova Eleonora Arifovna",
-    "2": "",
+    "2": "18.07.1979",
     "3": "F",
-    "4": "Manager, OJSC \"REGIONAL TELEVISION\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Manager of OJSC Regional Televison. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -53949,7 +54160,7 @@
     "1": "Sabitov Rifat Abdulvagapovich",
     "2": "1956-04-30",
     "3": "M",
-    "4": "Russian propagandist: deputy director general and director of regional programming of VGTRK; Chairman of the Commission of the Civic Chamber of Russia for the Development of Mass Media and Mass Communications\nDirector of the State Television and Radio Broadcasting Company \"Samara\". Involved in Russian propaganda of the war against Ukraine.\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
+    "4": "Russian propagandist: deputy director general and director of regional programming of VGTRK; Chairman of the Commission of the Civic Chamber of Russia for the Development of Mass Media and Mass Communications\nFormer Director of the State Television and Radio Broadcasting Company \"Samara\". Involved in Russian propaganda of the war against Ukraine.\nMember of the Council of the Civic Chamber of Russia - a collegiate public body that imitates public support for the actions of the Russian authorities.",
     "5": [
       "Propagandists",
       "Sellout opinion leaders"
@@ -55108,6 +55319,16 @@
     "5": [
       "Key Local Government Officials",
       "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Сат Надежда Викторовна",
+    "1": "Sat Nadezhda Viktorovna",
+    "2": "",
+    "3": "F",
+    "4": "Director of TyvaMediaGroup Publishing House. Head of a state-controlled propaganda media outlet that supports Russia's aggression against Ukraine.",
+    "5": [
+      "Propagandists"
     ]
   },
   {
@@ -56807,6 +57028,16 @@
     ]
   },
   {
+    "0": "Симоненко Владимир Александрович",
+    "1": "Simonenko Vladimir Alexandrovich",
+    "2": "19.09.1975",
+    "3": "M",
+    "4": "Head of the Expert DIrectorate of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
+    ]
+  },
+  {
     "0": "Симоненко Николай Кириллович",
     "1": "Simonenko Nikolai Kirillovich",
     "2": "1905-05-12",
@@ -57771,6 +58002,16 @@
     "4": "Former fighter of Vympel, a special forces unit of the FSB. Involved in corruption schemes of PJSC Gazprom and its subsidiaries. Together with Sergey Tregub, controls real estate company Vladenie-V, which is the registered owner and manager of multiple luxury real estate properties for the benefit of Alexey Miller, Marina Yentaltseva, Putin's nephew Mikhail Shelomov and Deputy Head of Gazprom’s Management Committee Yury Gorokh. Participated in corrupt schemes to plunder Yukos assets.",
     "5": [
       "Individuals involved in corruption"
+    ]
+  },
+  {
+    "0": "Смирнов Александр Юрьевич",
+    "1": "Smirnov Alexander Yurievich",
+    "2": "29.02.1972",
+    "3": "M",
+    "4": "Head of the Directorate for Public Relations and Communications of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -58739,7 +58980,7 @@
     "1": "Solodov Vladimir Viktorovich",
     "2": "1982-07-26",
     "3": "M",
-    "4": ". Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Governor of Kamchatka Krai of the Russian Federation. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Region Heads"
     ]
@@ -60300,11 +60541,11 @@
     ]
   },
   {
-    "0": "Сутягина Тамара Емельянова",
-    "1": "Sutyagina Tamara Emelyanova",
-    "2": "",
+    "0": "Сутягина Тамара Емельяновна",
+    "1": "Sutyagina Tamara Emelyanovna",
+    "2": "14.05.1945",
     "3": "F",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"YUGORIA\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former Director of Yugoria State TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -61009,7 +61250,7 @@
     "1": "Tarasova Ekaterina Viktorovna",
     "2": "",
     "3": "F",
-    "4": "Acting General Director, LIMITED LIABILITY COMPANY TV COMPANY \"ALTERNATIVE IRKUTSK TELEVISION STUDIO\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former General Director of LLC Irkutsk Alternative Televison Studio. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -62125,9 +62366,9 @@
   {
     "0": "Ткачев Михаил Владимирович",
     "1": "Tkachev Mikhail Vladimirovich",
-    "2": "",
+    "2": "26.09.1974",
     "3": "M",
-    "4": "Director, STATE TELEVISION AND RADIO BROADCASTING COMPANY \"STAVROPOLYE\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Director of Stavropolye TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -62723,6 +62964,17 @@
     "4": "Head of the Presidential Department for Civil Service, Personnel and Combating Corruption of the Administration of the President of the Russian Federation.",
     "5": [
       "Senior Federal Officials"
+    ]
+  },
+  {
+    "0": "Травников Максим Александрович",
+    "1": "Travnikov Maxim Alexandrovich",
+    "2": "01.07.1974",
+    "3": "M",
+    "4": "Head of the Directorate for Civil Service, Personnel and Combating Corruprtion of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -64825,7 +65077,7 @@
     "1": "Fedotova Svetlana Mikhailovna",
     "2": "",
     "3": "F",
-    "4": "Director of the Regional State Autonomous Institution ЭAgentstvo informatsionnykh kommunikatsiyЭ (\"Information Communications Agency\"), which is the largest media holding in the Novgorod Oblast",
+    "4": "Director of the Regional State Autonomous Institution Information Communications Agency, which is the largest media holding in the Novgorod Oblast",
     "5": [
       "Propagandists"
     ]
@@ -64940,6 +65192,17 @@
     "5": [
       "Members of Parliament and Senate",
       "“United Russia” party Functionaries"
+    ]
+  },
+  {
+    "0": "Филатов Алексей Евгеньевич",
+    "1": "Filatov Alexey Evgenievich",
+    "2": "12.02.1983",
+    "3": "M",
+    "4": "Head of the Directorate for Border Cooperation of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials",
+      "Top bribetakers and warmongers"
     ]
   },
   {
@@ -65281,16 +65544,6 @@
     "4": "Director (editor-in-chief), MUNICIPAL AUTONOMOUS INSTITUTION OF THE CITY DISTRICT OF THE ARKHANGELSK REGION \"KOTLAS\" \"INFORMATION COMPANY\" (Administration of the Arkhangelsk region). Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
-    ]
-  },
-  {
-    "0": "Фомин Андрей Валерьевич",
-    "1": "Fomin Andrey Valerievich",
-    "2": "1965-08-04",
-    "3": "M",
-    "4": "Prosecutor of the Chuvash Republic - Chuvashia. Head of the federal state body that provides legal protection for the Russian political regime and refused to protect the rule of law in the context of the invasion of Russian troops in Ukraine.",
-    "5": [
-      "Key ‘siloviki’ (security forces) figures"
     ]
   },
   {
@@ -65719,6 +65972,16 @@
     "4": "First Deputy Chairman of the government Republic of Ingushetia. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Фёдоров Антон Юрьевич",
+    "1": "Fedorov Anton Yurievich",
+    "2": "16.09.1961",
+    "3": "M",
+    "4": "Head of the Directorate for Information and Documentation Support of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
     ]
   },
   {
@@ -67656,6 +67919,16 @@
     ]
   },
   {
+    "0": "Цыбулин Андрей Михайлович",
+    "1": "Tsybulin Andrey Mikhailovich",
+    "2": "24.07.1965",
+    "3": "M",
+    "4": "Head of the Press Service and Information Directorate of the Administration of the President of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Senior Federal Officials"
+    ]
+  },
+  {
     "0": "Цыбульский Александр Витальевич",
     "1": "Tsybulsky Alexander Vitalyevich",
     "2": "1979-07-15",
@@ -67820,7 +68093,7 @@
     ]
   },
   {
-    "0": "Чайка Артем Юрьевич",
+    "0": "Чайка Артём Юрьевич",
     "1": "Chaika Artem Yuryevich",
     "2": "1975-09-25",
     "3": "M",
@@ -68567,6 +68840,16 @@
     "2": "",
     "3": "F",
     "4": "Editor-in-Chief of the newspaper \"Lipetskaia gazeta\" (owned by the government of the Lipetsk region)",
+    "5": [
+      "Propagandists"
+    ]
+  },
+  {
+    "0": "Чернявская Оксана Валерьевна",
+    "1": "Chernyavskaya Oksana Valerievna",
+    "2": "",
+    "3": "F",
+    "4": "General Director of LLC Irkutsk Alternative Television Studio. Head of a state-controlled propaganda outlet supporting Russia's aggression against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -70897,6 +71180,16 @@
     "4": "Member of the Board of Directors of PJSC RusHydro\nMember of the Board of Directors of JSC United Shipbuilding Corporation",
     "5": [
       "Top Management of State Owned Companies"
+    ]
+  },
+  {
+    "0": "Шишкин Борис Андреевич",
+    "1": "Shishkin Boris Andreevich",
+    "2": "21.10.1985",
+    "3": "M",
+    "4": "Director of Khakasia Informational Televison Center. Head of the state-controlled propaganda media outlet that supports Russia's aggression against Ukraine.",
+    "5": [
+      "Propagandists"
     ]
   },
   {
@@ -73364,7 +73657,7 @@
     "1": "Yalysheva Nail Khaydyarovna",
     "2": "",
     "3": "F",
-    "4": "CEO, LIMITED LIABILITY COMPANY TV AND RADIO COMPANY \"TVERSKOI PROSPECT\". Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Former General Director of Tverskoi Prospect TV and Radio Broadcasting Company. Involved in Russian propaganda of the war against Ukraine.",
     "5": [
       "Propagandists"
     ]
@@ -73497,6 +73790,17 @@
     "3": "F",
     "4": "Former Deputy Minister of Culture of the Russian Federation. Managed a state body of the Russian Federation, which supported or implemented actions or policies that undermined or threatened the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
+      "Senior Federal Officials"
+    ]
+  },
+  {
+    "0": "Ярин Андрей Вениаминович",
+    "1": "Yarin Andrey Veniaminovich",
+    "2": "13.02.1970",
+    "3": "M",
+    "4": "Head of the Internal Policy Directorate of the Presidential Administration of the Russian Federation. Manages a structural subdivision of the state body responsible for the development and implementation of Russia's aggressive policy during the invasion of Ukraine",
+    "5": [
+      "Top bribetakers and warmongers",
       "Senior Federal Officials"
     ]
   },

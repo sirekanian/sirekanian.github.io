@@ -5,7 +5,7 @@
     "enShortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 940
+    "count": 945
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 790
+    "count": 800
   },
   {
     "id": 5,
@@ -61,7 +61,7 @@
     "enShortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 526
+    "count": 542
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "enShortName": "Siloviki",
     "ruName": "Ключевые силовики",
     "ruShortName": "Cиловики",
-    "count": 513
+    "count": 512
   },
   {
     "id": 10,
@@ -93,7 +93,7 @@
     "enShortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 255
+    "count": 254
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "enShortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 237
+    "count": 238
   },
   {
     "id": 14,
