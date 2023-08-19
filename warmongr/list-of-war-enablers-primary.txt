@@ -12,8 +12,8 @@
             },
             {
               "name": "Military staff and accomplices of Russian occupation",
-              "number": 209,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_dtFEA8L.pdf"
+              "number": 211,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_miRSxWJ.pdf"
             }
           ]
         },
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 636,
-              "file": "https://acf.international/acf-media/Investigations_subjects_a0w27t6.pdf"
+              "number": 641,
+              "file": "https://acf.international/acf-media/Investigations_subjects_nJOhvVT.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -122,8 +122,8 @@
           "lists": [
             {
               "name": "Central Bank employees, board members",
-              "number": 33,
-              "file": "https://acf.international/acf-media/Central_Bank_employees_board_members_kKnVjr2.pdf"
+              "number": 36,
+              "file": "https://acf.international/acf-media/Central_Bank_employees_board_members_7HFnkIt.pdf"
             },
             {
               "name": "Heads of public funds",
@@ -192,8 +192,8 @@
           "lists": [
             {
               "name": "Heads of the Central Election Commission and local election commissions",
-              "number": 113,
-              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_commissions_EbgtTE3.pdf"
+              "number": 118,
+              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_commissions_J6zPqJG.pdf"
             }
           ]
         },
@@ -258,22 +258,22 @@
             {
               "name": "Top 200 bribetakers and warmongers (UK)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_i73sVbw.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_lzkqtg3.pdf"
             },
             {
               "name": "Top 200 bribetakers and warmongers (EU)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_s6pX7dK.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_IL5Ow4R.pdf"
             },
             {
               "name": "War Financers",
-              "number": 188,
-              "file": "https://acf.international/acf-media/War_Financers_rGBsTUw.pdf"
+              "number": 189,
+              "file": "https://acf.international/acf-media/War_Financers_6X5jVvo.pdf"
             },
             {
               "name": "Top 200 bribetakers and warmongers (US)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_J6FAVM6.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_tuODqW8.pdf"
             }
           ]
         },
@@ -282,8 +282,8 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7353,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_04Pkr1D.pdf"
+              "number": 7365,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_4NVTFtj.pdf"
             },
             {
               "name": "Contributors to the war, csv",
@@ -459,6 +459,11 @@
               "name": "Changes from 04.08.2023",
               "number": 17,
               "file": "https://acf.international/acf-media/Changes_from_04.08.2023_Y1ru6dt.pdf"
+            },
+            {
+              "name": "Changes from 18.08.2023",
+              "number": 27,
+              "file": "https://acf.international/acf-media/Changes_from_18.08.2023_PmGo52n.pdf"
             }
           ]
         }
