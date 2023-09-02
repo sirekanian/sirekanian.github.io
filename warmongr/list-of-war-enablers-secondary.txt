@@ -22,8 +22,8 @@
           "lists": [
             {
               "name": "Сотрудники федеральных медиа",
-              "number": 405,
-              "file": "https://acf.international/acf-media/Federal_media_oyVhmax.pdf"
+              "number": 404,
+              "file": "https://acf.international/acf-media/Federal_media_yAgpd6P.pdf"
             },
             {
               "name": "Главные редакторы и руководство региональных телеканалов",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7365,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_2TdMcR5.pdf"
+              "number": 7363,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_IS9VISK.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7353,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_hBA8rNu.csv"
+              "number": 7363,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_LNDoC2s.csv"
             }
           ]
         },
@@ -464,6 +464,11 @@
               "name": "Изменения от 18.08.2023",
               "number": 27,
               "file": "https://acf.international/acf-media/Changes_from_18.08.2023.pdf"
+            },
+            {
+              "name": "Изменения от 01.09.2023",
+              "number": 80,
+              "file": "https://acf.international/acf-media/Changes_from_01.09.2023.pdf"
             }
           ]
         }

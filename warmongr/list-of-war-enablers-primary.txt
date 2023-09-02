@@ -22,8 +22,8 @@
           "lists": [
             {
               "name": "Federal media",
-              "number": 405,
-              "file": "https://acf.international/acf-media/Federal_media_yIYqkV7.pdf"
+              "number": 404,
+              "file": "https://acf.international/acf-media/Federal_media_bnbGj38.pdf"
             },
             {
               "name": "Chief editors and management of regional TV channels",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7365,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_4NVTFtj.pdf"
+              "number": 7363,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_cZegi5T.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7353,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_XzDAcEN.csv"
+              "number": 7363,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_yR3J5GM.csv"
             }
           ]
         },
@@ -464,6 +464,11 @@
               "name": "Changes from 18.08.2023",
               "number": 27,
               "file": "https://acf.international/acf-media/Changes_from_18.08.2023_PmGo52n.pdf"
+            },
+            {
+              "name": "Changes from 01.09.2023",
+              "number": 80,
+              "file": "https://acf.international/acf-media/Changes_from_01.09.2023_4Lioc5g.pdf"
             }
           ]
         }
