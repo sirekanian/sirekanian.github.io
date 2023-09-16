@@ -12,8 +12,8 @@
             },
             {
               "name": "Military staff and accomplices of Russian occupation",
-              "number": 211,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_miRSxWJ.pdf"
+              "number": 235,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_ozmLLgy.pdf"
             }
           ]
         },
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 641,
-              "file": "https://acf.international/acf-media/Investigations_subjects_nJOhvVT.pdf"
+              "number": 642,
+              "file": "https://acf.international/acf-media/Investigations_subjects_4wDn7i2.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -202,8 +202,8 @@
           "lists": [
             {
               "name": "Celebrities, influencers and bloggers",
-              "number": 162,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_JL2ALqZ.pdf"
+              "number": 165,
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_BFtGupD.pdf"
             },
             {
               "name": "Public supporters of Putin",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7363,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_cZegi5T.pdf"
+              "number": 7390,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_S5WWMiN.csv"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7363,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_yR3J5GM.csv"
+              "number": 7390,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_YDUTOwf.csv"
             }
           ]
         },
@@ -469,6 +469,11 @@
               "name": "Changes from 01.09.2023",
               "number": 80,
               "file": "https://acf.international/acf-media/Changes_from_01.09.2023_4Lioc5g.pdf"
+            },
+            {
+              "name": "Changes from 15.09.2023",
+              "number": 70,
+              "file": "https://acf.international/acf-media/Changes_from_15.09.2023_e6cunSi.pdf"
             }
           ]
         }

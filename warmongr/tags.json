@@ -5,7 +5,7 @@
     "enShortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 951
+    "count": 957
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 851
+    "count": 850
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "enShortName": "Parliament and Senate",
     "ruName": "Депутаты и сенаторы",
     "ruShortName": "Депутаты и сенаторы",
-    "count": 633
+    "count": 634
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "enShortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 541
+    "count": 540
   },
   {
     "id": 9,
@@ -89,19 +89,19 @@
   },
   {
     "id": 12,
-    "enName": "Sellout opinion leaders",
-    "enShortName": "Influencers",
-    "ruName": "Продажные лидеры общественного мнения",
-    "ruShortName": "Инфлюенсеры",
-    "count": 254
-  },
-  {
-    "id": 13,
     "enName": "War Arrangers",
     "enShortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 240
+    "count": 266
+  },
+  {
+    "id": 13,
+    "enName": "Sellout opinion leaders",
+    "enShortName": "Influencers",
+    "ruName": "Продажные лидеры общественного мнения",
+    "ruShortName": "Инфлюенсеры",
+    "count": 257
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "enShortName": "Election Fraud",
     "ruName": "Организаторы фальсификаций на выборах",
     "ruShortName": "Фальсификаторы выборов",
-    "count": 112
+    "count": 119
   },
   {
     "id": 15,
@@ -125,6 +125,6 @@
     "enShortName": "Bankers",
     "ruName": "Государственные банкиры",
     "ruShortName": "Банкиры",
-    "count": 74
+    "count": 77
   }
 ]
