@@ -283,7 +283,7 @@
             {
               "name": "Виновники войны, pdf",
               "number": 7390,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_KjgjXfG.pdf"
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_FCZwTvO.pdf"
             },
             {
               "name": "Виновники войны, csv",
