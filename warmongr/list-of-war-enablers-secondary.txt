@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Сотрудники органов исполнительной власти и администрации президента",
-              "number": 541,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_WTr5u4r.pdf"
+              "number": 570,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_dQIIno5.pdf"
             }
           ]
         },
@@ -87,8 +87,8 @@
             },
             {
               "name": "Совет Федерации",
-              "number": 186,
-              "file": "https://acf.international/acf-media/Federation_Council_SrX1fZr.pdf"
+              "number": 188,
+              "file": "https://acf.international/acf-media/Federation_Council_pVdcK07.pdf"
             }
           ]
         },
@@ -258,17 +258,17 @@
             {
               "name": "Топ - 200 коррупционеров и разжигателей войны (Великобритания)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_IXRQsiN.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_0LPohUx.pdf"
             },
             {
               "name": "Топ-200 главных разжигателей войны для Европейского союза",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_sybzLSd.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_gG5CJG3.pdf"
             },
             {
               "name": "Финансисты войны",
-              "number": 189,
-              "file": "https://acf.international/acf-media/War_Financers_d5YSdGb.pdf"
+              "number": 186,
+              "file": "https://acf.international/acf-media/War_Financers_QiTIuUQ.pdf"
             },
             {
               "name": "Топ-200 главных разжигателей войны для США",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7390,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_FCZwTvO.pdf"
+              "number": 7417,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_fV2UCpN.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7390,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_8umGHy6.csv"
+              "number": 7417,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_2ejWenW.csv"
             }
           ]
         },
@@ -474,6 +474,11 @@
               "name": "Изменения от 15.09.2023",
               "number": 70,
               "file": "https://acf.international/acf-media/Changes_from_15.09.2023.pdf"
+            },
+            {
+              "name": "Изменения от 29.09.2023",
+              "number": 89,
+              "file": "https://acf.international/acf-media/Changes_from_29.09.2023.pdf"
             }
           ]
         }

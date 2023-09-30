@@ -72,8 +72,8 @@
           "lists": [
             {
               "name": "Executive branch and presidential administration employees",
-              "number": 541,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_63WwdgE.pdf"
+              "number": 570,
+              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_qVjc6W3.pdf"
             }
           ]
         },
@@ -87,8 +87,8 @@
             },
             {
               "name": "Federation Council",
-              "number": 186,
-              "file": "https://acf.international/acf-media/Federation_Council_5L4Qld0.pdf"
+              "number": 188,
+              "file": "https://acf.international/acf-media/Federation_Council_WQ8kNQS.pdf"
             }
           ]
         },
@@ -258,17 +258,17 @@
             {
               "name": "Top 200 bribetakers and warmongers (UK)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_lzkqtg3.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_wFNCY8A.pdf"
             },
             {
               "name": "Top 200 bribetakers and warmongers (EU)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_IL5Ow4R.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_kHhPJZu.pdf"
             },
             {
               "name": "War Financers",
-              "number": 189,
-              "file": "https://acf.international/acf-media/War_Financers_6X5jVvo.pdf"
+              "number": 186,
+              "file": "https://acf.international/acf-media/War_Financers_EkMQFTk.pdf"
             },
             {
               "name": "Top 200 bribetakers and warmongers (US)",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7390,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_4GeBapV.pdf"
+              "number": 7417,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_5qUxYV7.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7390,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_YDUTOwf.csv"
+              "number": 7417,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_mKt70VL.csv"
             }
           ]
         },
@@ -474,6 +474,11 @@
               "name": "Changes from 15.09.2023",
               "number": 70,
               "file": "https://acf.international/acf-media/Changes_from_15.09.2023_e6cunSi.pdf"
+            },
+            {
+              "name": "Changes from 29.09.2023",
+              "number": 89,
+              "file": "https://acf.international/acf-media/Changes_from_29.09.2023_mRGcMxq.pdf"
             }
           ]
         }

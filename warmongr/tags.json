@@ -45,10 +45,18 @@
     "enShortName": "Parliament and Senate",
     "ruName": "Депутаты и сенаторы",
     "ruShortName": "Депутаты и сенаторы",
-    "count": 634
+    "count": 635
   },
   {
     "id": 7,
+    "enName": "Senior Federal Officials",
+    "enShortName": "Federal Officials",
+    "ruName": "Высшие федеральные чиновники",
+    "ruShortName": "Федеральные чиновники",
+    "count": 570
+  },
+  {
+    "id": 8,
     "enName": "Warmongers",
     "enShortName": "Warmongers",
     "ruName": "Разжигатели войны",
@@ -56,20 +64,12 @@
     "count": 565
   },
   {
-    "id": 8,
-    "enName": "Senior Federal Officials",
-    "enShortName": "Federal Officials",
-    "ruName": "Высшие федеральные чиновники",
-    "ruShortName": "Федеральные чиновники",
-    "count": 540
-  },
-  {
     "id": 9,
     "enName": "Key ‘siloviki’ (security forces) figures",
     "enShortName": "Siloviki",
     "ruName": "Ключевые силовики",
     "ruShortName": "Cиловики",
-    "count": 512
+    "count": 511
   },
   {
     "id": 10,
@@ -93,7 +93,7 @@
     "enShortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 266
+    "count": 267
   },
   {
     "id": 13,
