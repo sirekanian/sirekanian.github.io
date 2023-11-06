@@ -13,7 +13,7 @@
     "enShortName": "Organizers of Repressions",
     "ruName": "Организаторы политических репрессий",
     "ruShortName": "Организаторы репрессий",
-    "count": 920
+    "count": 898
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "enShortName": "Local Officials",
     "ruName": "Ключевые региональные чиновники",
     "ruShortName": "Региональные чиновники",
-    "count": 891
+    "count": 822
   },
   {
     "id": 4,
@@ -29,39 +29,39 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 850
+    "count": 767
   },
   {
     "id": 5,
-    "enName": "Top Management of State Owned Companies",
-    "enShortName": "Top Managers",
-    "ruName": "Руководители госкомпаний",
-    "ruShortName": "Руководители госкомпаний",
-    "count": 641
-  },
-  {
-    "id": 6,
     "enName": "Members of Parliament and Senate",
     "enShortName": "Parliament and Senate",
     "ruName": "Депутаты и сенаторы",
     "ruShortName": "Депутаты и сенаторы",
-    "count": 635
+    "count": 620
+  },
+  {
+    "id": 6,
+    "enName": "Top Management of State Owned Companies",
+    "enShortName": "Top Managers",
+    "ruName": "Руководители госкомпаний",
+    "ruShortName": "Руководители госкомпаний",
+    "count": 608
   },
   {
     "id": 7,
-    "enName": "Senior Federal Officials",
-    "enShortName": "Federal Officials",
-    "ruName": "Высшие федеральные чиновники",
-    "ruShortName": "Федеральные чиновники",
-    "count": 570
-  },
-  {
-    "id": 8,
     "enName": "Warmongers",
     "enShortName": "Warmongers",
     "ruName": "Разжигатели войны",
     "ruShortName": "Разжигатели войны",
-    "count": 565
+    "count": 546
+  },
+  {
+    "id": 8,
+    "enName": "Senior Federal Officials",
+    "enShortName": "Federal Officials",
+    "ruName": "Высшие федеральные чиновники",
+    "ruShortName": "Федеральные чиновники",
+    "count": 528
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "enShortName": "Siloviki",
     "ruName": "Ключевые силовики",
     "ruShortName": "Cиловики",
-    "count": 511
+    "count": 471
   },
   {
     "id": 10,
@@ -81,19 +81,19 @@
   },
   {
     "id": 11,
+    "enName": "Low priority",
+    "enShortName": "Low priority",
+    "ruName": "Низкий приоритет",
+    "ruShortName": "Низкий приоритет",
+    "count": 441
+  },
+  {
+    "id": 12,
     "enName": "‘United Russia’ party Functionaries",
     "enShortName": "United Russia",
     "ruName": "Функционеры «Единой России»",
     "ruShortName": "Единая Россия",
-    "count": 323
-  },
-  {
-    "id": 12,
-    "enName": "War Arrangers",
-    "enShortName": "War Arrangers",
-    "ruName": "Организаторы войны",
-    "ruShortName": "Организаторы войны",
-    "count": 267
+    "count": 321
   },
   {
     "id": 13,
@@ -105,26 +105,34 @@
   },
   {
     "id": 14,
+    "enName": "War Arrangers",
+    "enShortName": "War Arrangers",
+    "ruName": "Организаторы войны",
+    "ruShortName": "Организаторы войны",
+    "count": 241
+  },
+  {
+    "id": 15,
     "enName": "Election fraud organizers",
     "enShortName": "Election Fraud",
     "ruName": "Организаторы фальсификаций на выборах",
     "ruShortName": "Фальсификаторы выборов",
-    "count": 119
+    "count": 112
   },
   {
-    "id": 15,
+    "id": 16,
     "enName": "Region Heads",
     "enShortName": "Region Heads",
     "ruName": "Главы регионов",
     "ruShortName": "Главы регионов",
-    "count": 93
+    "count": 91
   },
   {
-    "id": 16,
+    "id": 17,
     "enName": "State Bankers",
     "enShortName": "Bankers",
     "ruName": "Государственные банкиры",
     "ruShortName": "Банкиры",
-    "count": 77
+    "count": 49
   }
 ]

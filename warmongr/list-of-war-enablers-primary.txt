@@ -158,7 +158,7 @@
             {
               "name": "National Guard of Russia",
               "number": 90,
-              "file": "https://acf.international/acf-media/National_Guard_of_Russia_EeMTjAA.pdf"
+              "file": "https://acf.international/acf-media/National_Guard_of_Russia_n7agqHe.pdf"
             },
             {
               "name": "Investigative Committee of Russia",
@@ -167,8 +167,8 @@
             },
             {
               "name": "Prosecutor’s Office",
-              "number": 112,
-              "file": "https://acf.international/acf-media/Prosecutor_s_Office_gnz0rL9.pdf"
+              "number": 111,
+              "file": "https://acf.international/acf-media/Prosecutor_s_Office_D8Q8Vnb.pdf"
             }
           ]
         },
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7444,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_aix7w5z.pdf"
+              "number": 7472,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_9X8cnOa.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7417,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_mKt70VL.csv"
+              "number": 7472,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_flwwO6b.csv"
             }
           ]
         },
@@ -484,6 +484,11 @@
               "name": "Changes from 13.10.2023",
               "number": 74,
               "file": "https://acf.international/acf-media/Changes_from_13.10.2023_ag4PvKa.pdf"
+            },
+            {
+              "name": "Changes from 27.10.2023",
+              "number": 71,
+              "file": "https://acf.international/acf-media/Changes_from_27.10.2023_DAkX6W4.pdf"
             }
           ]
         },
@@ -497,8 +502,8 @@
             },
             {
               "name": "Retired regime collaborators",
-              "number": 344,
-              "file": "https://acf.international/acf-media/Retired_regime_collaborators_92P796d.pdf"
+              "number": 372,
+              "file": "https://acf.international/acf-media/Retired_regime_collaborators_fDj7ryY.pdf"
             }
           ]
         }
