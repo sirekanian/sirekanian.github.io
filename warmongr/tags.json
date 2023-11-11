@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 767
+    "count": 768
   },
   {
     "id": 5,
@@ -61,23 +61,23 @@
     "enShortName": "Federal Officials",
     "ruName": "Высшие федеральные чиновники",
     "ruShortName": "Федеральные чиновники",
-    "count": 528
+    "count": 527
   },
   {
     "id": 9,
-    "enName": "Key ‘siloviki’ (security forces) figures",
-    "enShortName": "Siloviki",
-    "ruName": "Ключевые силовики",
-    "ruShortName": "Cиловики",
-    "count": 471
-  },
-  {
-    "id": 10,
     "enName": "Putin’s Public Supporters",
     "enShortName": "Putin’s Supporters",
     "ruName": "Публичные сторонники Путина",
     "ruShortName": "Сторонники Путина",
-    "count": 468
+    "count": 469
+  },
+  {
+    "id": 10,
+    "enName": "Key ‘siloviki’ (security forces) figures",
+    "enShortName": "Siloviki",
+    "ruName": "Ключевые силовики",
+    "ruShortName": "Cиловики",
+    "count": 467
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "enShortName": "Low priority",
     "ruName": "Низкий приоритет",
     "ruShortName": "Низкий приоритет",
-    "count": 441
+    "count": 464
   },
   {
     "id": 12,
@@ -101,7 +101,7 @@
     "enShortName": "Influencers",
     "ruName": "Продажные лидеры общественного мнения",
     "ruShortName": "Инфлюенсеры",
-    "count": 257
+    "count": 282
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "enShortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 241
+    "count": 250
   },
   {
     "id": 15,
