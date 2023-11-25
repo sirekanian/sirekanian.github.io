@@ -12,8 +12,8 @@
             },
             {
               "name": "Военнослужащие и пособники российской оккупации",
-              "number": 220,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_uSNM6YJ.pdf"
+              "number": 234,
+              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_kIgWsUg.pdf"
             }
           ]
         },
@@ -97,8 +97,8 @@
           "lists": [
             {
               "name": "Губернаторы",
-              "number": 91,
-              "file": "https://acf.international/acf-media/Governors_EeSRMsf.pdf"
+              "number": 95,
+              "file": "https://acf.international/acf-media/Governors_4UWwAnd.pdf"
             }
           ]
         },
@@ -112,8 +112,8 @@
             },
             {
               "name": "Спикеры региональных Заксобраний",
-              "number": 85,
-              "file": "https://acf.international/acf-media/Speakers_of_the_regional_legislative_assemblies_i1ZLsOn.pdf"
+              "number": 88,
+              "file": "https://acf.international/acf-media/Speakers_of_the_regional_legislative_assemblies_w4RPsUV.pdf"
             }
           ]
         },
@@ -258,12 +258,12 @@
             {
               "name": "Топ - 200 коррупционеров и разжигателей войны (Великобритания)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_PVRmKQT.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_IBqLkTC.pdf"
             },
             {
               "name": "Топ-200 главных разжигателей войны для Европейского союза",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_bSgO7CR.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_ULPfenT.pdf"
             },
             {
               "name": "Финансисты войны",
@@ -273,7 +273,7 @@
             {
               "name": "Топ-200 главных разжигателей войны для США",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_HyE00zC.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_iCJP20v.pdf"
             }
           ]
         },
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7500,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_KniP7Qd.pdf"
+              "number": 7519,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7472,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_9DzA8lr.csv"
+              "number": 7519,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_11.49.16.csv"
             }
           ]
         },
@@ -494,6 +494,11 @@
               "name": "Изменения от 10.11.2023",
               "number": 91,
               "file": "https://acf.international/acf-media/Changes_from_10.11.2023.pdf"
+            },
+            {
+              "name": "Изменения от 24.11.2023",
+              "number": 45,
+              "file": "https://acf.international/acf-media/Changes_from_24.11.2023.pdf"
             }
           ]
         },
@@ -507,8 +512,8 @@
             },
             {
               "name": "Отставные пособники режима",
-              "number": 395,
-              "file": "https://acf.international/acf-media/Retired_regime_collaborators_eJ7pomE.pdf"
+              "number": 398,
+              "file": "https://acf.international/acf-media/Retired_regime_collaborators_6cBSJOj.pdf"
             }
           ]
         }

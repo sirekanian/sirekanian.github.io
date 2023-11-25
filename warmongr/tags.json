@@ -5,7 +5,7 @@
     "enShortName": "Corrupt Officials",
     "ruName": "Коррупционеры",
     "ruShortName": "Коррупционеры",
-    "count": 957
+    "count": 959
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "enShortName": "Local Officials",
     "ruName": "Ключевые региональные чиновники",
     "ruShortName": "Региональные чиновники",
-    "count": 822
+    "count": 824
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 768
+    "count": 769
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "enShortName": "Parliament and Senate",
     "ruName": "Депутаты и сенаторы",
     "ruShortName": "Депутаты и сенаторы",
-    "count": 620
+    "count": 622
   },
   {
     "id": 6,
@@ -85,7 +85,7 @@
     "enShortName": "Low priority",
     "ruName": "Низкий приоритет",
     "ruShortName": "Низкий приоритет",
-    "count": 464
+    "count": 467
   },
   {
     "id": 12,
@@ -109,7 +109,7 @@
     "enShortName": "War Arrangers",
     "ruName": "Организаторы войны",
     "ruShortName": "Организаторы войны",
-    "count": 250
+    "count": 264
   },
   {
     "id": 15,
@@ -125,7 +125,7 @@
     "enShortName": "Region Heads",
     "ruName": "Главы регионов",
     "ruShortName": "Главы регионов",
-    "count": 91
+    "count": 94
   },
   {
     "id": 17,

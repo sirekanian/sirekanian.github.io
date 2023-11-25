@@ -481,9 +481,9 @@
     "1": "Averov Dmitry Lvovich",
     "2": "1974-06-03",
     "3": "M",
-    "4": "Chairman of the Lipetsk Regional Council of Deputies (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Member of the State Duma of the Russian Federation. This state body is responsible for political and legal support of the aggressive war against Ukraine.\n\nFormer chairman of the Lipetsk Regional Council of Deputies (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Members of Parliament and Senate"
     ]
   },
   {
@@ -1206,10 +1206,11 @@
     "1": "Aksyonov Sergey Valeryevich",
     "2": "1972-11-26",
     "3": "M",
-    "4": "Member of the Supreme Council, the Bureau of the Supreme Council and (until December 2022) the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nHead of the Republic of Crimea. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Head of the Republic of Crimea (under Russian occupation). Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.\nMember of the Supreme Council, the Bureau of the Supreme Council and (until December 2022) the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nHead of the Republic of Crimea (under Russian occupation). Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermines or threatens the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
+      "War Arrangers",
       "“United Russia” party Functionaries",
-      "War Arrangers"
+      "Region Heads"
     ]
   },
   {
@@ -2212,6 +2213,16 @@
     "4": "Head of the Department of the Federal Security Service of Russia for the Perm Krai, a federal state body that carries out political persecution in the territory under its jurisdiction against citizens and organizations that oppose Russia's aggressive war against Ukraine and are in opposition to the current political regime in Russia.",
     "5": [
       "Key ‘siloviki’ (security forces) figures"
+    ]
+  },
+  {
+    "0": "Анашкин Геннадий Владимирович",
+    "1": "Anashkin Gennady Vladimirovich",
+    "2": "17.12.1968",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, commander of the 8th Guards Combined Arms Army of the Southern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -3238,9 +3249,10 @@
     "1": "Artemov Alexander Vasilievich",
     "2": "1963-04-20",
     "3": "M",
-    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Member of the General Council of the United Russia party. United Russia forms and implements Vladimir Putin's aggressive policy against territorial integrity, sovereignty and independence of Ukraine.\nChairman of the Legislative Assembly of the Omsk Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Key Local Government Officials"
     ]
   },
   {
@@ -3815,6 +3827,16 @@
     "4": "Director and Editor-in-Chief of the magazine \"Galmagiedesh\" (owned by the Agency of Information and Press of the Republic of Dagestan)",
     "5": [
       "Propagandists"
+    ]
+  },
+  {
+    "0": "Ахмедов Сухраб Султанович",
+    "1": "Akhmedov Sukhrab Sultanovich",
+    "2": "23.12.1974",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military commander, guard major general, commander of the 20th combined arms army of the Western Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -4659,9 +4681,10 @@
     "1": "Balitsky Evgeny Vitalievich",
     "2": "10.12.1969",
     "3": "M",
-    "4": "Acting Governor of the Russian-occupied part of Zaporizhzhia Oblast. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "4": "Governor of the Russian-occupied part of Zaporizhzhia Oblast. Assists Russian aggression against Ukraine and the occupation of part of Ukrainian territory.\nGovernor of the Russian-occupied part of Zaporizhzhia Oblast (under the Russian occupation). Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermines or threatens the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "War Arrangers"
+      "War Arrangers",
+      "Region Heads"
     ]
   },
   {
@@ -7619,6 +7642,16 @@
     ]
   },
   {
+    "0": "Болгарев Петр Николаевич",
+    "1": "Bolgarev Petr Nikolaevich",
+    "2": "20.01.1977",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, major general, commander of the 5th combined arms army of the Eastern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Болдин Сергей Владимирович",
     "1": "Boldin Sergey Vladimirovich",
     "2": "1983-06-23",
@@ -10049,16 +10082,6 @@
     ]
   },
   {
-    "0": "Варнавский Владимир Алексеевич",
-    "1": "Varnavsky Vladimir Alekseevich",
-    "2": "1947-03-20",
-    "3": "M",
-    "4": "Chairman of the Legislative Assembly of the Omsk Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
-    "5": [
-      "Key Local Government Officials"
-    ]
-  },
-  {
     "0": "Варниг Маттиас Артур",
     "1": "Warnig Matthias Artur",
     "2": "1955-07-26",
@@ -12013,6 +12036,16 @@
     ]
   },
   {
+    "0": "Воронова Анна Игоревна",
+    "1": "Voronova Anna Igorevna",
+    "2": "",
+    "3": "F",
+    "4": "Acting General Director of the joint stock company \"Regional Television\" (Chelyabinsk oblast)",
+    "5": [
+      "Propagandists"
+    ]
+  },
+  {
     "0": "Вороновский Анатолий Владимирович",
     "1": "Voronovsky Anatoly Vladimirovich",
     "2": "1966-12-28",
@@ -12261,6 +12294,16 @@
     "5": [
       "War Arrangers",
       "Election fraud organizers"
+    ]
+  },
+  {
+    "0": "Вышинский Андрей Павлович",
+    "1": "Vyshinsky Andrey Pavlovich",
+    "2": "25.06.1967",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, lieutenant general, commander of the 15th Army of the Special Purpose Aerospace Forces of the Western Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -13450,6 +13493,16 @@
     ]
   },
   {
+    "0": "Герасимов Виталий Петрович",
+    "1": "Gerasimov Vitaly Petrovich",
+    "2": "09.07.1977",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, lieutenant general, commander of the 36th combined arms army of the Eastern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Герасимов Денис Александрович",
     "1": "Gerasimov Denis Alexandrovich",
     "2": "20.12.1975",
@@ -13494,8 +13547,9 @@
     "1": "Gerber Oleg Viktorovych",
     "2": "22.10.1982",
     "3": "M",
-    "4": "General Director of OJSC Regional Televison. Involved in Russian propaganda of the war against Ukraine.",
+    "4": "Chairman of the Legislative Assembly of the Chelyabinsk Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\n\nFormer General Director of the joint stock company \"Regional Television\". Involved in Russian propaganda of the war against Ukraine.",
     "5": [
+      "Top bribetakers and warmongers",
       "Propagandists"
     ]
   },
@@ -16584,6 +16638,16 @@
     "4": "Senior Investigator of the Sukhininsky Interdistrict Investigation Department of the Investigative Department of the Investigative Committee of the Russian Federation for the Kaluga Oblast. Responsible for the criminal prosecution of citizens of the Russian Federation who oppose the current political regime in Russia",
     "5": [
       "Organizers of political repressions"
+    ]
+  },
+  {
+    "0": "Гуров Вячеслав Николаевич",
+    "1": "Gurov Vyacheslav Nikolaevich",
+    "2": "04.08.1971",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, guard major general, commander of the 2nd Guards Combined Arms Army of the Central Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -19676,9 +19740,9 @@
     "1": "Yevstifeev Alexander Alexandrovich",
     "2": "1958-05-14",
     "3": "M",
-    "4": "Head of the Republic of Mari El. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "According to credible public investigations, Alexander Evstifeev is involved in illegal enrichment schemes.\n\nFormer head of the Republic of Mari El. Managed a regional state body of the Russian Federation, which supported or implemented actions or policies that undermined or threatened the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Region Heads"
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -19941,10 +20005,10 @@
     "1": "Egorov Maxim Borisovich",
     "2": "1977-05-23",
     "3": "M",
-    "4": "Head of Administration of Tambov Oblast (acting). Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nSecretary of the Tambov Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"",
+    "4": "Secretary of the Tambov Regional Branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\"\nHead of Administration of Tambov Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Region Heads",
-      "“United Russia” party Functionaries"
+      "“United Russia” party Functionaries",
+      "Region Heads"
     ]
   },
   {
@@ -20221,6 +20285,17 @@
       "Top bribetakers and warmongers",
       "Sellout opinion leaders",
       "Warmongers"
+    ]
+  },
+  {
+    "0": "Емельяненко Виктор Андреевич",
+    "1": "Emelyanenko Viktor Andreevich",
+    "2": "11.10.1953",
+    "3": "M",
+    "4": "Chairman of the Legislative Assembly of the Zaporizhzhia region (head of the regional parliament) during the Russian occupation. Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nChairman of the Legislative Assembly of the Zaporizhzhia region during the Russian occupation",
+    "5": [
+      "Key Local Government Officials",
+      "War Arrangers"
     ]
   },
   {
@@ -20626,6 +20701,16 @@
     ]
   },
   {
+    "0": "Ершов Владислав Николаевич",
+    "1": "Ershov Vladislav Nikolaevich",
+    "2": "08.09.1975",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, lieutenant general, commander of the 6th Combined Arms Army of the Western Military District since February 2019. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Ершов Максим Олегович",
     "1": "Ershov Maxim Olegovich",
     "2": "1964-07-20",
@@ -20952,9 +21037,9 @@
     "1": "Zhvachkin Sergey Anatolyevich",
     "2": "1957-01-20",
     "3": "M",
-    "4": "Governor of Tomsk Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Reclassified from the category: Governors.\nFormer governor of Tomsk Oblast. Managed a regional state body of the Russian Federation, which supported or implemented actions or policies that undermined or threatened the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Region Heads"
+      "Low priority"
     ]
   },
   {
@@ -21216,6 +21301,17 @@
     "4": "Rector of the Far Eastern State Medical University. Signed an open letter of university rectors expressing support for the decision of the President of Russia to launch a military operation against Ukraine.",
     "5": [
       "Warmongers"
+    ]
+  },
+  {
+    "0": "Жога Артем Владимирович",
+    "1": "Zhoga Artem Vladimirovich",
+    "2": "18.01.1975",
+    "3": "M",
+    "4": "Chairman of the People's Council of the so-called Donetsk People's Republic\nChairman of the People's Council of the so-called Donetsk People's Republic (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "5": [
+      "War Arrangers",
+      "Key Local Government Officials"
     ]
   },
   {
@@ -21928,9 +22024,8 @@
     "1": "Zaitsev Yury Viktorovich",
     "2": "1970-12-16",
     "3": "M",
-    "4": "Chairman of the Government of the Republic of Kalmykia until May 2022. Acting Head of the Republic of Mari El since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nHead of the Republic of Mari El since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Head of the Republic of Mari El. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nFormer chairman of the Government of the Republic of Kalmykia until May 2022. Head of the Republic of Mari El since May 2022.",
     "5": [
-      "Key Local Government Officials",
       "Region Heads"
     ]
   },
@@ -24200,6 +24295,16 @@
     ]
   },
   {
+    "0": "Игнатенко Александр Николаевич",
+    "1": "Ignatenko Alexander Nikolaevich",
+    "2": "15.08.1969",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, major general, commander of the 29th combined arms army of the Eastern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Игнатенко Виталий Никитич",
     "1": "Ignatenko Vitaly (Vitaliy) Nikitich",
     "2": "1941-04-19",
@@ -25322,10 +25427,11 @@
     "1": "Kadyrov Ramzan Akhmatovich",
     "2": "1976-10-05",
     "3": "M",
-    "4": "Head of the Chechen Republic. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Member of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nHead of the Chechen Republic. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nAccording to credible public investigation data, Ramzan Kadyrov is the organizer of large-scale corruption schemes in which he involved his numerous relatives.",
     "5": [
+      "“United Russia” party Functionaries",
       "Region Heads",
-      "“United Russia” party Functionaries"
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -29291,9 +29397,9 @@
     "1": "Kozachko Anatoly Vasilievich",
     "2": "1949-06-04",
     "3": "M",
-    "4": "Chairman of the People's Khural (Parliament) of the Republic of Kalmykia (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Reclassified from the category: Speakers of the regional legislative assemblies.\nFormer chairman of the People's Khural (Parliament) of the Republic of Kalmykia (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Low priority"
     ]
   },
   {
@@ -30770,9 +30876,9 @@
     "1": "Kopin Roman Valentinovich",
     "2": "1974-03-05",
     "3": "M",
-    "4": "Governor of Chukotka Autonomous Okrug. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Reclassified from the category: Governors.\nFormer governor of Chukotka Autonomous Okrug. Managed a regional state body of the Russian Federation, which supported or implemented actions or policies that undermined or threatened the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Region Heads"
+      "Low priority"
     ]
   },
   {
@@ -33623,10 +33729,9 @@
     "1": "Kuznetsov Vladislav Garievich",
     "2": "1969-03-18",
     "3": "M",
-    "4": "Acting Governor of Chukotka Autonomous Okrug. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermines or threatenes the territorial integrity, sovereignty and independence of Ukraine.\nFormer First Deputy Chairman of the Council of Ministers of the self-proclaimed Luhansk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "4": "Governor of Chukotka Autonomous Okrug. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermines or threatenes the territorial integrity, sovereignty and independence of Ukraine.\n\nFormer First Deputy Chairman of the Council of Ministers of the self-proclaimed Luhansk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
     "5": [
-      "Region Heads",
-      "War Arrangers"
+      "Region Heads"
     ]
   },
   {
@@ -35250,9 +35355,8 @@
     "1": "Lazarev Alexander Vladimirovich",
     "2": "1974-07-25",
     "3": "M",
-    "4": "Chairman of the Legislative Assembly of the Chelyabinsk Oblast (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Deputy Governor of the Chelyabinsk Region of the Chelyabinsk Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nFormer chairman of the Legislative Assembly of the Chelyabinsk Oblast (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Top bribetakers and warmongers",
       "Key Local Government Officials"
     ]
   },
@@ -37817,11 +37921,11 @@
   {
     "0": "Лутовинов Александр Ильич",
     "1": "Lutovinov Alexander Ilyich",
-    "2": "1957-03-02",
+    "2": "1957.03.02",
     "3": "M",
-    "4": "Chairman of the Assembly of Deputies of the Nenets Autonomous Okrug (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Member of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.\n\nFormer chairman of the Assembly of Deputies of the Nenets Autonomous Okrug (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Members of Parliament and Senate"
     ]
   },
   {
@@ -38119,6 +38223,16 @@
     "4": "Deputy Manager of the President of the Russian Federation. Manages a state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Senior Federal Officials"
+    ]
+  },
+  {
+    "0": "Лямин Денис Игоревич",
+    "1": "Lyamin Denis Igorevich",
+    "2": "19.05.1979",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, lieutenant general, commander of the 58th combined arms army of the Southern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -38702,6 +38816,16 @@
     "4": "Deputy Governor of Kostroma Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Маковецкий Олег Владимирович",
+    "1": "Makovetsky Oleg Vladimirovich",
+    "2": "06.10.1966",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, lieutenant general of the Russian Aerospace Forces, commander of the 6th Leningrad Red Banner Army of the Air Force and Air Defense of the Western Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
     ]
   },
   {
@@ -41641,12 +41765,12 @@
     "1": "Minnikhanov Rustam Nurgaliyevich",
     "2": "1957-03-01",
     "3": "M",
-    "4": "President of the Republic of Tatarstan. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nWas involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. The widow of his late son Irek, Antonia Guishard, owns real estate and businesses in Switzerland; his sister-in-law Venera Gafarova owns real estate in France and Malta (and has Maltese citizenship)",
+    "4": "Was involved in and financially benefitted from corruption schemes designed to provide corrupt sources of income to politicians and government officials and their families. The widow of his late son Irek, Antonia Guishard, owns real estate and businesses in Switzerland; his sister-in-law Venera Gafarova owns real estate in France and Malta (and has Maltese citizenship)\nMember of the Supreme Council and the Bureau of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nHead of the Republic of Tatarstan. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Top bribetakers and warmongers",
-      "Individuals involved in corruption",
+      "“United Russia” party Functionaries",
       "Region Heads",
-      "“United Russia” party Functionaries"
+      "Individuals involved in corruption"
     ]
   },
   {
@@ -41834,6 +41958,17 @@
     ]
   },
   {
+    "0": "Мирошниченко Денис Николаевич",
+    "1": "Miroshnichenko Denis Nikolaevich",
+    "2": "08.12.1987",
+    "3": "M",
+    "4": "Chairman of the People's Council of the so-called Luhansk People's Republic (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nChairman of the People's Council of the so-called Luhansk People's Republic",
+    "5": [
+      "Key Local Government Officials",
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Мирошниченко Евгений Николаевич",
     "1": "Miroshnichenko Evgeniy Nikolaevich",
     "2": "1980-12-09",
@@ -41991,6 +42126,16 @@
     "4": "People's artist of Russia, RSFSR State Prize winner, Sergei Bondarchuk Gold Medalist. Winner of the Gold Medal named after S.F. Bondarchuk \"For outstanding contribution to cinema\", professor of the All-Russian State Institute of Cinematography. Signed an open letter of cultural figures expressing \"support for the decision of the President of Russia to launch a military operation to denazify Ukraine and protect the republics of Donbass\".",
     "5": [
       "Warmongers"
+    ]
+  },
+  {
+    "0": "Михайлов Артем Васильевич",
+    "1": "Mikhailov Artem Vasilievich",
+    "2": "03.10.1975",
+    "3": "M",
+    "4": "Chairman of the People's Khural (Parliament) of the Republic of Kalmykia (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "5": [
+      "Key Local Government Officials"
     ]
   },
   {
@@ -46214,6 +46359,16 @@
     ]
   },
   {
+    "0": "Нырков Сергей Семенович",
+    "1": "Nyrkov Sergey Semenovich",
+    "2": "24.01.1971",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, major general, commander of the 35th combined arms army of the Eastern Military District. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Обвинцев Алексей Анатольевич",
     "1": "Obvintsev Aleksey Anatolievich",
     "2": "1964-10-16",
@@ -47404,6 +47559,16 @@
     ]
   },
   {
+    "0": "Отрощенко Александр Иванович",
+    "1": "Otroshchenko Alexander Ivanovich",
+    "2": "21.03.1962",
+    "3": "M",
+    "4": "Official of the Ministry of Defense of the Russian Federation. Russian military leader, lieutenant general, commander of the 45th Army of the Air Force and Air Defense of the Northern Fleet. Holds a senior position in the federal state body responsible for the military actions of the Russian armed forces against Ukraine. Heads large divisions of the Russian armed forces.",
+    "5": [
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Офицеров Андрей Сергеевич",
     "1": "Ofitserov Andrey Sergeevich",
     "2": "1977-11-28",
@@ -48200,9 +48365,10 @@
     "1": "Pasechnik Leonid Ivanovich",
     "2": "1970-03-15",
     "3": "M",
-    "4": "Head of the self-proclaimed Luhansk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "4": "Head of the so-called Luhansk People's Republic. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.\nHead of the so-called Luhansk People's Republic. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermines or threatens the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "War Arrangers"
+      "War Arrangers",
+      "Region Heads"
     ]
   },
   {
@@ -49740,22 +49906,22 @@
   {
     "0": "Пискарев Василий Иванович",
     "1": "Piskarev Vasily Ivanovich",
-    "2": "",
-    "3": "M",
-    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
-    "5": [
-      "Organizers of political repressions"
-    ]
-  },
-  {
-    "0": "Пискарев Василий Иванович",
-    "1": "Piskarev Vasily Ivanovich",
     "2": "1963-11-08",
     "3": "M",
     "4": "Member of the State Duma of the Russian Federation (lower house of the federal parliament). This state body is responsible for political and legal support of the aggressive war against Ukraine.\nMember of the Supreme Council of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "Members of Parliament and Senate",
       "“United Russia” party Functionaries"
+    ]
+  },
+  {
+    "0": "Пискарев Василий Иванович",
+    "1": "Piskarev Vasily Ivanovich",
+    "2": "",
+    "3": "M",
+    "4": "First Deputy Chairman of the Investigative Committee of the Russian Federation. Involved in the fabrication of the “Kirovles case” against Alexei Navalny and Pyotr Ofitserov",
+    "5": [
+      "Organizers of political repressions"
     ]
   },
   {
@@ -52942,9 +53108,10 @@
     "1": "Pushilin Denis Vladimirovich",
     "2": "09.09.1981",
     "3": "M",
-    "4": "Head of the Donetsk People's Republic and Supreme Commander of the Armed Forces of the DPR. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "4": "Head of the Donetsk People's Republic and former Supreme Commander of the Armed Forces of the DPR. Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.\nHead of the so-called Donetsk People's Republic. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermines or threatens the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "War Arrangers"
+      "War Arrangers",
+      "Region Heads"
     ]
   },
   {
@@ -56353,9 +56520,10 @@
     "1": "Saldo Vladimir Vasilievich",
     "2": "12.06.1956",
     "3": "M",
-    "4": "Acting Governor of the Kherson Oblast. Manages a state body of the pro-Russian occupation administration that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Governor of the Kherson Oblast (under Russian occupation).\nGovernor of the Kherson Oblast (under Russian occupation). Manages a state body of the pro-Russian occupation administration that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "War Arrangers"
+      "War Arrangers",
+      "Region Heads"
     ]
   },
   {
@@ -58091,6 +58259,16 @@
     "2": "16.11.1975",
     "3": "M",
     "4": "First Deputy Governor of the Kemerovo Oblast (Kuzbass). Chairman of the Government of the Kemerovo Oblast (Kuzbass). Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Сериков Владимир Витальевич",
+    "1": "Serikov Vladimir Vitalievich",
+    "2": "06.01.1995",
+    "3": "M",
+    "4": "Chairman of the Lipetsk Regional Council of Deputies (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Key Local Government Officials"
     ]
@@ -60110,7 +60288,7 @@
     "1": "Sokolov Alexander Valentinovich",
     "2": "1970-08-04",
     "3": "M",
-    "4": "Secretary of the Kirov Oblast regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nActing Governor of the Kirov Oblast since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Secretary of the Kirov Oblast regional branch of the United Russia party. United Russia forms and implements Vladimir Putin's policy of aggression against territorial integrity, sovereignty and independence of Ukraine.\nGovernor of the Kirov Oblast since May 2022. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
       "“United Russia” party Functionaries",
       "Region Heads"
@@ -64472,6 +64650,17 @@
     ]
   },
   {
+    "0": "Томилина Татьяна Юрьевна",
+    "1": "Tomilina Tatyana Yurievna",
+    "2": "18.04.1966",
+    "3": "F",
+    "4": "Chairman of the Kherson Regional Duma (head of the regional parliament) during the Russian occupation. Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\nChairman of the Kherson Regional Duma during the Russian occupation.",
+    "5": [
+      "Key Local Government Officials",
+      "War Arrangers"
+    ]
+  },
+  {
     "0": "Тонева Ирина Ильинична",
     "1": "Toneva Irina Ilyinichna",
     "2": "27.06.1977",
@@ -67113,9 +67302,9 @@
     "1": "Filimonov Georgy Yuryevich",
     "2": "1905-06-02",
     "3": "M",
-    "4": "Deputy Chairman of the Government Moscow Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "4": "Governor of Vologda Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermines or threatens the territorial integrity, sovereignty and independence of Ukraine.\n\nFormer Deputy Chairman of the Government Moscow Oblast. Managed a regional state body of the Russian Federation that supported or implemented actions or policies that undermined or threatened the territorial integrity, sovereignty and independence of Ukraine.",
     "5": [
-      "Key Local Government Officials"
+      "Region Heads"
     ]
   },
   {
@@ -69125,9 +69314,9 @@
     "1": "Khokhlova Olga Nikolaevna",
     "2": "1957-11-18",
     "3": "F",
-    "4": "Reclassified from the category: Federation Council\nMember of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.",
+    "4": "Chairman of the Legislative Assembly of the Vladimir region (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.\n\nFormer member of the Federation Council of the Federal Assembly of the Russian Federation (upper house of the federal parliament). This state body is responsible for the political and legal support of the aggressive war against Ukraine, which included issuing permission for the use of Russian military forces outside the territory of Russia.",
     "5": [
-      "Low priority"
+      "Key Local Government Officials"
     ]
   },
   {
@@ -69156,10 +69345,9 @@
     "1": "Khotsenko Vitaly Pavlovich",
     "2": "1986-03-16",
     "3": "M",
-    "4": "Acting Governor of Omsk Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\nFormer Chairman of the Government of the self-proclaimed Donetsk People's Republic (since 06/08/2022). Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
+    "4": "Governor of Omsk Oblast. Manages a regional state body of the Russian Federation, which supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.\n\nFormer Chairman of the Government of the self-proclaimed Donetsk People's Republic (since 06/08/2022). Assisted Russian aggression against Ukraine and the occupation of part of Ukrainian territory.",
     "5": [
-      "Region Heads",
-      "War Arrangers"
+      "Region Heads"
     ]
   },
   {
@@ -71473,6 +71661,16 @@
     "2": "1970-12-18",
     "3": "M",
     "4": "Deputy Governor of Kursk Oblast. Manages a regional state body of the Russian Federation that supports or implements actions or policies that undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.",
+    "5": [
+      "Key Local Government Officials"
+    ]
+  },
+  {
+    "0": "Чурсанов Александр Павлович",
+    "1": "Chursanov Alexander Pavlovich",
+    "2": "19.11.1982",
+    "3": "M",
+    "4": "Chairman of the Assembly of Deputies of the Nenets Autonomous Okrug (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
       "Key Local Government Officials"
     ]
@@ -73841,9 +74039,9 @@
     "1": "Shtygashev Vladimir Nikolaevich",
     "2": "1939-10-18",
     "3": "M",
-    "4": "Chairman of the Supreme Council of the Republic of Khakassia (head of the regional parliament). Actively supports Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
+    "4": "Reclassified from the category: Speakers of the regional legislative assemblies.\nFormer chairman of the Supreme Council of the Republic of Khakassia (head of the regional parliament). Actively supported Russia's aggressive war against Ukraine and the Russian authoritarian political regime.",
     "5": [
-      "Key Local Government Officials"
+      "Low priority"
     ]
   },
   {
