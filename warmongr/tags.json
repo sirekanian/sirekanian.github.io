@@ -21,7 +21,7 @@
     "enShortName": "Local Officials",
     "ruName": "Ключевые региональные чиновники",
     "ruShortName": "Региональные чиновники",
-    "count": 841
+    "count": 834
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "enShortName": "Propagandists",
     "ruName": "Пропагандисты",
     "ruShortName": "Пропагандисты",
-    "count": 768
+    "count": 767
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "enShortName": "Top Managers",
     "ruName": "Руководители госкомпаний",
     "ruShortName": "Руководители госкомпаний",
-    "count": 604
+    "count": 601
   },
   {
     "id": 7,
@@ -57,19 +57,19 @@
   },
   {
     "id": 8,
-    "enName": "Senior Federal Officials",
-    "enShortName": "Federal Officials",
-    "ruName": "Высшие федеральные чиновники",
-    "ruShortName": "Федеральные чиновники",
-    "count": 522
-  },
-  {
-    "id": 9,
     "enName": "Low priority",
     "enShortName": "Low priority",
     "ruName": "Низкий приоритет",
     "ruShortName": "Низкий приоритет",
-    "count": 510
+    "count": 533
+  },
+  {
+    "id": 9,
+    "enName": "Senior Federal Officials",
+    "enShortName": "Federal Officials",
+    "ruName": "Высшие федеральные чиновники",
+    "ruShortName": "Федеральные чиновники",
+    "count": 520
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "enShortName": "Siloviki",
     "ruName": "Ключевые силовики",
     "ruShortName": "Cиловики",
-    "count": 465
+    "count": 464
   },
   {
     "id": 12,

@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 662,
-              "file": "https://acf.international/acf-media/Investigations_subjects_MB12lgF.pdf"
+              "number": 645,
+              "file": "https://acf.international/acf-media/Investigations_subjects_IgtroQJ.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -107,8 +107,8 @@
           "lists": [
             {
               "name": "Vice-Governors",
-              "number": 753,
-              "file": "https://acf.international/acf-media/Vice-Governors_WqglqOW.pdf"
+              "number": 747,
+              "file": "https://acf.international/acf-media/Vice-Governors_6Drziz2.pdf"
             },
             {
               "name": "Speakers of the regional legislative assemblies",
@@ -263,7 +263,7 @@
             {
               "name": "Top 200 bribetakers and warmongers (EU)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_moZMGmb.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_jJGqslf.pdf"
             },
             {
               "name": "War Financers",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7561,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_idXIz2Q.pdf"
+              "number": 7582,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_3tXI5M3.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7561,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_GI1CMql.csv"
+              "number": 7582,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_kBUqUcV.csv"
             }
           ]
         },
@@ -504,6 +504,11 @@
               "name": "Changes from 15.12.2023",
               "number": 143,
               "file": "https://acf.international/acf-media/Changes_from_15.12.2023_uJ1AhWB.pdf"
+            },
+            {
+              "name": "Changes from 29.12.2023",
+              "number": 82,
+              "file": "https://acf.international/acf-media/Changes_from_29.12.2023_NKbISUz.pdf"
             }
           ]
         },
@@ -517,8 +522,8 @@
             },
             {
               "name": "Retired regime collaborators",
-              "number": 441,
-              "file": "https://acf.international/acf-media/Retired_regime_collaborators_bQnPuCK.pdf"
+              "number": 464,
+              "file": "https://acf.international/acf-media/Retired_regime_collaborators_WAUWggj.pdf"
             }
           ]
         }

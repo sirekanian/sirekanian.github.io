@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Герои расследований",
-              "number": 662,
-              "file": "https://acf.international/acf-media/Investigations_subjects_YVrYY2z.pdf"
+              "number": 645,
+              "file": "https://acf.international/acf-media/Investigations_subjects_0n88i2A.pdf"
             },
             {
               "name": "Герои региональных расследований",
@@ -107,8 +107,8 @@
           "lists": [
             {
               "name": "Вице-губернаторы",
-              "number": 753,
-              "file": "https://acf.international/acf-media/Vice-Governors_AYlreEW.pdf"
+              "number": 747,
+              "file": "https://acf.international/acf-media/Vice-Governors_e6LFvDL.pdf"
             },
             {
               "name": "Спикеры региональных Заксобраний",
@@ -263,7 +263,7 @@
             {
               "name": "Топ-200 главных разжигателей войны для Европейского союза",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_hvysVa7.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_rRxq8Z5.pdf"
             },
             {
               "name": "Финансисты войны",
@@ -282,13 +282,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7561,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_d2hpoDP.pdf"
+              "number": 7582,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_UAbZ4Ek.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7561,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_lKes2H0.csv"
+              "number": 7582,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_76VJ6sb.csv"
             }
           ]
         },
@@ -504,6 +504,11 @@
               "name": "Изменения от 15.12.2023",
               "number": 143,
               "file": "https://acf.international/acf-media/Changes_from_15.12.2023.pdf"
+            },
+            {
+              "name": "Изменения от 29.12.2023",
+              "number": 82,
+              "file": "https://acf.international/acf-media/Changes_from_29.12.2023.pdf"
             }
           ]
         },
@@ -517,8 +522,8 @@
             },
             {
               "name": "Отставные пособники режима",
-              "number": 441,
-              "file": "https://acf.international/acf-media/Retired_regime_collaborators_wZMObnI.pdf"
+              "number": 464,
+              "file": "https://acf.international/acf-media/Retired_regime_collaborators_IDLKf8E.pdf"
             }
           ]
         }
